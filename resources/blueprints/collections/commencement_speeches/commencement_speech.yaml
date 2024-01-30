@@ -46,6 +46,17 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
+          -
+            handle: taggable_field
+            field:
+              placeholder: 'Type and press ↩ Enter'
+              type: taggable
+              display: 'Taggable Field'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
   sidebar:
     display: Sidebar
     sections:
