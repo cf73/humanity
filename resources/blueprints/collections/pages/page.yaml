@@ -129,6 +129,62 @@ tabs:
                             hide_display: false
                             validate:
                               - required
+                    interstitial_text:
+                      display: 'Interstitial Text'
+                      instructions: null
+                      icon: text-formatting-image-bottom
+                      fields:
+                        -
+                          handle: interstitial_text
+                          field:
+                            buttons:
+                              - bold
+                              - italic
+                              - unorderedlist
+                              - orderedlist
+                              - removeformat
+                              - anchor
+                            smart_typography: true
+                            save_html: false
+                            inline: false
+                            toolbar_mode: fixed
+                            reading_time: false
+                            word_count: true
+                            fullscreen: false
+                            allow_source: true
+                            enable_input_rules: true
+                            enable_paste_rules: true
+                            remove_empty_nodes: false
+                            character_limit: 1000
+                            antlers: false
+                            link_noopener: false
+                            link_noreferrer: false
+                            target_blank: false
+                            always_show_set_button: false
+                            collapse: false
+                            previews: true
+                            type: bard
+                            display: 'Interstitial Text'
+                            listable: hidden
+                            instructions_position: above
+                            visibility: visible
+                            replicator_preview: true
+                            hide_display: false
+                    movie:
+                      display: Movie
+                      instructions: null
+                      icon: social-youtube
+                      fields:
+                        -
+                          handle: movie
+                          field:
+                            type: video
+                            display: Movie
+                            listable: hidden
+                            instructions_position: above
+                            visibility: visible
+                            replicator_preview: true
+                            hide_display: false
               type: replicator
               display: 'Section builder'
               listable: hidden
