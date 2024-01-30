@@ -1,0 +1,172 @@
+title: Page
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              required: true
+              validate:
+                - required
+          -
+            handle: section_builder
+            field:
+              collapse: false
+              previews: true
+              fullscreen: true
+              sets:
+                new_set_group:
+                  display: 'New Set Group'
+                  instructions: null
+                  icon: null
+                  sets:
+                    article:
+                      display: Article
+                      instructions: null
+                      icon: text-formatting-initial-letter
+                      fields:
+                        -
+                          handle: article
+                          field:
+                            max_items: 2
+                            mode: select
+                            create: false
+                            collections:
+                              - in_the_news
+                            type: entries
+                            display: Article
+                            listable: hidden
+                            instructions_position: above
+                            visibility: visible
+                            replicator_preview: true
+                            hide_display: false
+                    book:
+                      display: Book
+                      instructions: null
+                      icon: content-book-open
+                      fields:
+                        -
+                          handle: book
+                          field:
+                            max_items: 1
+                            mode: select
+                            create: false
+                            collections:
+                              - books
+                            type: entries
+                            display: Book
+                            listable: hidden
+                            instructions_position: above
+                            visibility: visible
+                            replicator_preview: true
+                            hide_display: false
+                    commencement_speech:
+                      display: 'Commencement Speech'
+                      instructions: null
+                      icon: share-mega-phone
+                      fields:
+                        -
+                          handle: commencement_speech
+                          field:
+                            max_items: 1
+                            mode: select
+                            create: false
+                            collections:
+                              - commencement_speeches
+                            type: entries
+                            display: 'Commencement Speech'
+                            listable: hidden
+                            instructions_position: above
+                            visibility: visible
+                            replicator_preview: true
+                            hide_display: false
+                    quotation:
+                      display: Quotation
+                      instructions: null
+                      icon: text-formatting-quotation
+                      fields:
+                        -
+                          handle: quotation
+                          field:
+                            max_items: 1
+                            mode: select
+                            create: true
+                            type: entries
+                            display: Quotation
+                            listable: hidden
+                            instructions_position: above
+                            visibility: visible
+                            replicator_preview: true
+                            hide_display: false
+                            collections:
+                              - quotations
+                    inspiring_image:
+                      display: 'Inspiring Image'
+                      instructions: null
+                      icon: media-image-picture-orientation
+                      fields:
+                        -
+                          handle: inspiring_image
+                          field:
+                            max_files: 2
+                            min_files: 1
+                            mode: list
+                            container: assets
+                            restrict: false
+                            allow_uploads: true
+                            show_filename: true
+                            show_set_alt: true
+                            type: assets
+                            display: 'Inspiring Image'
+                            listable: hidden
+                            instructions_position: above
+                            visibility: visible
+                            replicator_preview: true
+                            hide_display: false
+                            validate:
+                              - required
+              type: replicator
+              display: 'Section builder'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: template
+            field:
+              type: template
+              display: Template
+              localizable: true
+          -
+            handle: author
+            field:
+              type: users
+              display: Author
+              default: current
+              localizable: true
+              max_items: 1
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
+          -
+            handle: parent
+            field:
+              type: entries
+              collections:
+                - pages
+              max_items: 1
+              listable: false
+              localizable: true

@@ -1,4 +1,4 @@
-title: 'In the news'
+title: Articles
 tabs:
   main:
     display: Main
@@ -35,7 +35,7 @@ tabs:
           -
             handle: challenges
             field:
-              mode: default
+              mode: select
               create: true
               taxonomies:
                 - challenges
