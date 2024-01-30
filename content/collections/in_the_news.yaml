@@ -1,0 +1,7 @@
+title: 'In the news'
+taxonomies:
+  - challenges
+revisions: false
+date_behavior:
+  past: public
+  future: private

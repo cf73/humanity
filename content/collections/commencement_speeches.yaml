@@ -1,0 +1,7 @@
+title: 'Commencement Speeches'
+taxonomies:
+  - challenges
+revisions: false
+date_behavior:
+  past: public
+  future: private

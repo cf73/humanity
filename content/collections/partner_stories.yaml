@@ -1,0 +1,7 @@
+title: 'Partner Stories'
+taxonomies:
+  - challenges
+revisions: false
+date_behavior:
+  past: public
+  future: private

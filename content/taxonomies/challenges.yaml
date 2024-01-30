@@ -1,0 +1,9 @@
+title: Challenges
+preview_targets:
+  -
+    label: Term
+    url: '{permalink}'
+    refresh: true
+template: challenges.index
+term_template: challenges.show
+layout: layout
