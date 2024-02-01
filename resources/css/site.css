@@ -3,3 +3,39 @@
 @import "tailwindcss/utilities";
 
 /* This is all you. */
+
+@font-face {
+    font-family: 'RaporThin';
+    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Thin.woff2') format('woff2'),
+         url('/public/assets/fonts/RAPORWOFF/Rapor-Thin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'RaporRegular';
+    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Regular.woff2') format('woff2'),
+         url('/public/assets/fonts/RAPORWOFF/Rapor-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+h1 {
+    font-size: 7rem;
+    line-height: 6rem;
+    font-family: 'RaporThin', sans-serif;
+}
+h2 {
+    font-family: 'RaporThin', sans-serif;
+    font-size: 3rem;
+    line-height: 3rem;
+}
+h3 {
+
+}
+p {
+    font-family: 'RaporRegular', sans-serif;
+    margin-bottom: 1rem;
+}
