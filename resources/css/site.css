@@ -20,8 +20,19 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'RaporBold';
+    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Bold.woff2') format('woff2'),
+         url('/public/assets/fonts/RAPORWOFF/Rapor-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
-
+body {
+    font-family: 'RaporRegular', sans-serif;
+    margin-bottom: 1rem;
+}
 h1 {
     font-size: 7rem;
     line-height: 6rem;
@@ -33,7 +44,9 @@ h2 {
     line-height: 3rem;
 }
 h3 {
-
+    font-family: 'RaporBold', sans-serif;
+    font-size: 2rem;
+    line-height: 2rem;
 }
 p {
     font-family: 'RaporRegular', sans-serif;

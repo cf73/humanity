@@ -5,7 +5,7 @@ title: Voltaire
 quotation: 'It is forbidden to kill; therefore all murderers are punished unless they kill in large numbers and to the sound of trumpets.'
 attribution: Voltaire
 challenges:
-  - 'challenges::ending-war'
+  - 'challenges::endingwar'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1706593547

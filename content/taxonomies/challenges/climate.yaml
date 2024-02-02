@@ -1,0 +1,25 @@
+title: Climate
+author: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1706837495
+blueprint: challenge
+main_image: climatechange.mp4
+intro_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Humankind continues to reshape the surface of the planet — so often at the expense of our future.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'People worldwide are worried about climate change (59% are very or extremely worried and 84% are at least moderately worried). More than 50% report feeling sad, anxious, angry, powerless, helpless, and guilty. And more than 45% say their feelings about climate change negatively affect their daily life and functioning.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'What can we do?'

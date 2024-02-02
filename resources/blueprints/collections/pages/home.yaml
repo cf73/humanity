@@ -45,6 +45,25 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
+          -
+            handle: featured
+            field:
+              max_items: 4
+              mode: typeahead
+              create: false
+              collections:
+                - in_the_news
+                - books
+                - commencement_speeches
+                - partner_stories
+                - partner_initiatives
+              type: entries
+              display: Featured
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
   sidebar:
     display: Sidebar
     sections:
