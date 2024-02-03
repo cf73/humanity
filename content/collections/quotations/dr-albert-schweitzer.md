@@ -8,7 +8,7 @@ quotation: |-
   So let us dedicate ourselves like Einstein did when he said, ‘I am not only a pacifist but a militant pacifist. I am willing to fight for peace. Nothing will end war unless the people themselves refuse to go to war.’
 attribution: 'Dr. Albert Schweitzer'
 challenges:
-  - 'challenges::endingwar'
+  - 'challenges::war'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1706593520
