@@ -1,0 +1,45 @@
+<div class="container mx-auto space-y-8">
+    <h1>{{title}}</h1>
+    <h3>{{intro}}</h3>
+</div>
+
+<section id="campaigns" class="py-16">
+    <div class="container mx-auto space-y-8">
+        <h3>Latest Campaigns</h3>
+        <div class="swiper campaignsSwiper">
+            <div class="swiper-wrapper">
+                {{collection:partner_initiatives}}
+                    {{if no_results}}
+                        <p class="light">No campaigns here ... yet!</p>
+                    {{else}}
+                        <div class="swiper-slide" style="height: auto !important;">
+                            {{partial:card}}
+                        </div>
+                    {{/if}}
+                {{/collection:partner_initiatives}}
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </div>
+</section>
+
+<section id="partnerLogos" class="py-16">
+    <div class="container mx-auto space-y-8">
+        <h3>Our partners</h3>
+        <div class="grid grid-cols-4 gap-4">
+            {{taxonomy:partners}}
+                <div class="h-64 bg-cover bg-no-repeat bg-center" style="background-image: url({{logo}});">
+                </div>
+            {{/taxonomy:partners}}
+        </div>
+    </div>
+</section>
+
+<section id="partnerStories">
+    <div class="container mx-auto space-y-8">
+        <h3>Featured Partner Stories</h3>
+
+    </div>
+</section>

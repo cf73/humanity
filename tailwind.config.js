@@ -9,6 +9,10 @@ export default {
     ],
 
     theme: {
+        fontFamily: {
+            'sans': ['RaporRegular', 'sans-serif'],
+            'serif': ['BaskervilleRegular', 'serif'],
+        },
         extend: {},
     },
 

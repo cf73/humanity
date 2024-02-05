@@ -5,6 +5,13 @@
 /* This is all you. */
 
 @font-face {
+    font-family: 'BaskervilleRegular';
+    src: url('/public/assets/fonts/Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
     font-family: 'RaporThin';
     src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Thin.woff2') format('woff2'),
          url('/public/assets/fonts/RAPORWOFF/Rapor-Thin.woff') format('woff');
@@ -49,6 +56,15 @@ h3 {
     line-height: 2rem;
 }
 p {
-    font-family: 'RaporRegular', sans-serif;
+    margin-bottom: 1rem;
+}
+button {
+    background-color: black;
+    color: white;
+    border-radius: .5rem;
+    display: inline-block;
+    width: auto;
+    padding: .5rem 1rem;
+    align-self: flex-start;
     margin-bottom: 1rem;
 }

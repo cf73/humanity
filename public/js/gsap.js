@@ -18,3 +18,17 @@ tl.from('header',{
     duration: 3.5, opacity: 0,
 },
 );
+
+//pin and unpin the donateBanner
+gsap.to("#donateBanner", {
+    scrollTrigger: {
+      trigger: "#donate",
+      start: "bottom bottom",
+      end: "top top",
+      pin: true,
+      pinSpacing: false,
+      scrub: true
+    }
+  });
+  
+  

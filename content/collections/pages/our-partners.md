@@ -1,8 +1,15 @@
 ---
-id: 55b98d71-27c8-4ca3-a81e-544938d53477
-blueprint: page
+id: ae48bce9-8395-40a6-8fe2-1542b9e41817
+blueprint: simple_page
 title: 'Our Partners'
-author: 0800036e-1638-4d6e-822a-26aefe2f9e99
+template: partners
+intro:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'We partner with powerful organizations making change happen all over the world. Below are some that we’d love you to support. Please take a moment to see what they’re doing, and share this page with a friend.'
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1706590899
+updated_at: 1707170358
 ---
