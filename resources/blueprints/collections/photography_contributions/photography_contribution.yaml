@@ -13,6 +13,32 @@ tabs:
               validate:
                 - required
           -
+            handle: photographer_name
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Photographer Name'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: photographer_website
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Photographer Website'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
             handle: image
             field:
               max_files: 1
