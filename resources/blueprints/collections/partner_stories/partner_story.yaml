@@ -13,25 +13,109 @@ tabs:
               validate:
                 - required
           -
-            handle: content
+            handle: date
             field:
-              type: markdown
-              display: Content
-              localizable: true
+              mode: single
+              inline: false
+              full_width: false
+              columns: 1
+              rows: 1
+              time_enabled: false
+              time_seconds_enabled: false
+              type: date
+              display: Date
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
           -
-            handle: author
+            handle: description
             field:
-              type: users
-              display: Author
-              default: current
-              localizable: true
-              max_items: 1
+              buttons:
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - removeformat
+              smart_typography: false
+              save_html: false
+              inline: false
+              toolbar_mode: fixed
+              reading_time: false
+              word_count: false
+              fullscreen: true
+              allow_source: true
+              enable_input_rules: true
+              enable_paste_rules: true
+              remove_empty_nodes: false
+              antlers: false
+              link_noopener: false
+              link_noreferrer: false
+              target_blank: false
+              always_show_set_button: false
+              collapse: false
+              previews: true
+              type: bard
+              display: Description
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
           -
-            handle: template
+            handle: link
             field:
-              type: template
-              display: Template
-              localizable: true
+              antlers: false
+              type: textarea
+              display: Link
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: image
+            field:
+              max_files: 1
+              mode: list
+              container: assets
+              restrict: false
+              allow_uploads: true
+              show_filename: true
+              show_set_alt: true
+              type: assets
+              display: Image
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: challenges
+            field:
+              mode: default
+              create: true
+              taxonomies:
+                - challenges
+              type: terms
+              display: Challenges
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
           -
             handle: partner
             field:
@@ -47,25 +131,6 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
-          -
-            handle: challenges
-            field:
-              mode: default
-              create: true
-              taxonomies:
-                - challenges
-              type: terms
-              display: Challenges
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
-  sidebar:
-    display: Sidebar
-    sections:
-      -
-        fields:
           -
             handle: slug
             field:
