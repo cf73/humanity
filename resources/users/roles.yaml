@@ -2,9 +2,6 @@ editor:
   title: Editor
   permissions:
     - 'access cp'
-    - 'view pages entries'
-    - 'edit pages entries'
-    - 'edit other authors pages entries'
     - 'view partner_stories entries'
     - 'edit partner_stories entries'
     - 'create partner_stories entries'
