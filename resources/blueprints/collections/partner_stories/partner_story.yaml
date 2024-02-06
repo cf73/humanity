@@ -105,7 +105,7 @@ tabs:
           -
             handle: challenges
             field:
-              mode: default
+              mode: select
               create: true
               taxonomies:
                 - challenges
@@ -120,7 +120,7 @@ tabs:
             handle: partner
             field:
               max_items: 1
-              mode: default
+              mode: select
               create: true
               taxonomies:
                 - partners
