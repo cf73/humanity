@@ -108,6 +108,8 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
+              taxonomies:
+                - challenges
           -
             handle: slug
             field:
