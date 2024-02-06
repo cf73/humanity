@@ -13,25 +13,89 @@ tabs:
               validate:
                 - required
           -
-            handle: content
+            handle: location
             field:
-              type: markdown
-              display: Content
-              localizable: true
+              antlers: false
+              type: textarea
+              display: Location
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
           -
-            handle: author
+            handle: date
             field:
-              type: users
-              display: Author
-              default: current
-              localizable: true
-              max_items: 1
+              mode: single
+              inline: false
+              full_width: false
+              columns: 1
+              rows: 1
+              time_enabled: false
+              time_seconds_enabled: false
+              type: date
+              display: Date
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
           -
-            handle: template
+            handle: description
             field:
-              type: template
-              display: Template
-              localizable: true
+              buttons:
+                - bold
+                - italic
+                - removeformat
+              smart_typography: false
+              save_html: false
+              inline: false
+              toolbar_mode: fixed
+              reading_time: false
+              word_count: false
+              fullscreen: true
+              allow_source: true
+              enable_input_rules: true
+              enable_paste_rules: true
+              remove_empty_nodes: false
+              antlers: false
+              link_noopener: false
+              link_noreferrer: false
+              target_blank: false
+              always_show_set_button: false
+              collapse: false
+              previews: true
+              type: bard
+              display: Description
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: url
+            field:
+              antlers: false
+              type: textarea
+              display: URL
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
           -
             handle: challenges
             field:
@@ -46,22 +110,6 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
-          -
-            handle: taggable_field
-            field:
-              placeholder: 'Type and press ↩ Enter'
-              type: taggable
-              display: 'Taggable Field'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
-  sidebar:
-    display: Sidebar
-    sections:
-      -
-        fields:
           -
             handle: slug
             field:
