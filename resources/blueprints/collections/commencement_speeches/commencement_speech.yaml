@@ -99,7 +99,7 @@ tabs:
           -
             handle: challenges
             field:
-              mode: default
+              mode: select
               create: true
               taxonomies:
                 - challenges
