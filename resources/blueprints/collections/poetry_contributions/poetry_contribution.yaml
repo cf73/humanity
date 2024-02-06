@@ -13,13 +13,38 @@ tabs:
               validate:
                 - required
           -
+            handle: poets_name
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: "Poet's Name"
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: poets_website
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: "Poet's Website"
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
             handle: content
             field:
               buttons:
                 - bold
                 - italic
                 - removeformat
-                - anchor
               smart_typography: false
               save_html: false
               inline: false
@@ -39,7 +64,7 @@ tabs:
               collapse: false
               previews: true
               type: bard
-              display: Content
+              display: Poem
               listable: hidden
               instructions_position: above
               visibility: visible
@@ -47,6 +72,30 @@ tabs:
               hide_display: false
               validate:
                 - required
+          -
+            handle: image
+            field:
+              max_files: 1
+              mode: list
+              container: assets
+              restrict: false
+              allow_uploads: true
+              show_filename: true
+              show_set_alt: true
+              type: assets
+              display: Image
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
           -
             handle: challenges
             field:
@@ -59,11 +108,6 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
-  sidebar:
-    display: Sidebar
-    sections:
-      -
-        fields:
           -
             handle: slug
             field:
