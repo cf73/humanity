@@ -84,12 +84,6 @@ tabs:
       -
         fields:
           -
-            handle: slug
-            field:
-              type: slug
-              localizable: true
-              validate: 'max:200'
-          -
             handle: challenges
             field:
               mode: select
@@ -105,3 +99,9 @@ tabs:
               hide_display: false
               validate:
                 - required
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
