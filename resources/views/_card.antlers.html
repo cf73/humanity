@@ -1,5 +1,5 @@
-<div class="flex flex-col bg-white p-5 rounded h-full">
-    <div class="w-full h-80 mb-8 bg-contain bg-no-repeat bg-center flex p-2 items-end" style="background-image: url({{image}});">
+<div class="flex flex-col bg-white rounded h-full overflow-hidden pb-2">
+    <div class="w-full h-80 mb-8 bg-contain bg-no-repeat bg-center bg-gray-100 flex p-2 items-end" style="background-image: url({{image}});">
         <div class="flex flex-row flex-wrap">
             {{challenges}}
                 {{partial:tag label="{{title}}"}}
@@ -7,6 +7,8 @@
             {{partial:tag label="{{collection:title | upper}}"}}
         </div>
     </div>
-    <h3 class="mb-4">{{title}}</h3>
-    <div class="font-serif leading-6 text-base">{{description}}</div>
+    <div class="py-0 px-14 ">
+        <h3 class="mb-4">{{title}}</h3>
+        <div class="font-serif leading-6 text-base">{{description}}</div>
+    </div>
 </div>
