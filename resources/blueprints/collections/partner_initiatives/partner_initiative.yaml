@@ -93,3 +93,20 @@ tabs:
               type: slug
               localizable: true
               validate: 'max:200'
+          -
+            handle: partner
+            field:
+              max_items: 1
+              mode: select
+              create: true
+              taxonomies:
+                - partners
+              type: terms
+              display: Partner
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
