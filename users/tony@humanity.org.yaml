@@ -4,3 +4,7 @@ roles:
 super: false
 id: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 password_hash: $2y$10$u5/T7rowgeYKGKqDVci1JuxL0yV2fCQ.1T.2xTonRKItxlGPWo9Vy
+preferences:
+  collections:
+    quotations:
+      after_save: create_another
