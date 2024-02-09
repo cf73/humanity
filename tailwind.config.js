@@ -12,12 +12,15 @@ export default {
         fontFamily: {
             'sans': ['RaporRegular', 'sans-serif'],
             'serif': ['BaskervilleRegular', 'serif'],
+            'thin': ['RaporThin', 'sans-serif'],
+            'bold': ['RaporBold', 'sans-serif'],
         },
         extend: {
             colors: {
                 'highlighter': '#F6F971',
                 'khaki': '#AEC769',
                 'softblack': '#373737',
+                'forest': '#06977D',
             },
         },
     },
