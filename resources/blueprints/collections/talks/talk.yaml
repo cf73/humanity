@@ -13,6 +13,34 @@ tabs:
               validate:
                 - required
           -
+            handle: speaker
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Speaker
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: location_or_event
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Location or Event'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
             handle: description
             field:
               buttons:
