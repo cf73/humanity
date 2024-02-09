@@ -49,6 +49,16 @@ description:
     type: paragraph
     content:
       -
+        type: hardBreak
+challenges:
+  - war
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1707513388
+content:
+  -
+    type: paragraph
+    content:
+      -
         type: text
         text: 'As you will see below, they are classified into three broad categories: nonviolent protest and persuasion, noncooperation (social, economic and political), and nonviolent intervention. A description and historical examples of each can be found in volume two of '
       -
@@ -102,13 +112,4 @@ description:
       -
         type: text
         text: '!'
-  -
-    type: paragraph
-    content:
-      -
-        type: hardBreak
-challenges:
-  - war
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707511859
 ---
