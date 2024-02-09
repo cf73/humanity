@@ -1,0 +1,5 @@
+title: 'Miscellaneous for now'
+revisions: false
+date_behavior:
+  past: public
+  future: private
