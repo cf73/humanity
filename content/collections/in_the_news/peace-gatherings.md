@@ -21,6 +21,11 @@ description:
       -
         type: text
         text: ' how your neighborhood can help to end war – with contagious peace.'
+challenges:
+  - war
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1707514042
+content:
   -
     type: paragraph
     content:
@@ -1189,10 +1194,4 @@ description:
       -
         type: text
         text: ﻿
-      -
-        type: hardBreak
-challenges:
-  - war
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707485435
 ---
