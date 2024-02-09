@@ -80,8 +80,20 @@ description:
       -
         type: text
         text: 'Thank you for your kindness and generosity.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '---------'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Humanity Initiative is a 501(c)(3). Your donations are fully tax-deductible in the United States.'
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707484056
+updated_at: 1707484272
 ---
