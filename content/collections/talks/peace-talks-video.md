@@ -1,7 +1,7 @@
 ---
 id: 12d25b96-227c-4eb6-9b38-f298b55533be
 blueprint: talk
-title: 'Peace Talks video'
+title: 'Peace Talks video   (also dialogue at Yale)'
 speaker: dialogue
 location_or_event: 'Yale University'
 description:
@@ -51,5 +51,5 @@ image: unknown-1707518797.jpeg
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707518811
+updated_at: 1707518874
 ---
