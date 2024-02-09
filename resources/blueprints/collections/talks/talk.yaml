@@ -89,3 +89,19 @@ tabs:
               type: slug
               localizable: true
               validate: 'max:200'
+          -
+            handle: challenges
+            field:
+              mode: select
+              create: true
+              taxonomies:
+                - challenges
+              type: terms
+              display: Challenges
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
