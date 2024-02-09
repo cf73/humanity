@@ -57,6 +57,9 @@ tabs:
                 - commencement_speeches
                 - partner_stories
                 - partner_initiatives
+                - talks
+                - photography_contributions
+                - poetry_contributions
               type: entries
               display: Featured
               listable: hidden
