@@ -24,11 +24,11 @@ description:
     content:
       -
         type: text
-        text: 'Democracy now, in all its variations and unpredictability...'
+        text: 'Democracy 2024, in all its worldwide variations and unpredictability...'
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707597877
+updated_at: 1707598255
 content:
   -
     type: paragraph
