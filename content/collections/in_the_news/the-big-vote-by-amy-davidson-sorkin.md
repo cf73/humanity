@@ -19,10 +19,16 @@ description:
               target: null
               title: null
         text: 'https://www.newyorker.com/magazine/2024/01/15/the-biggest-election-year-in-history'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Democracy now, in all its variations and unpredictability...'
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707597783
+updated_at: 1707597877
 content:
   -
     type: paragraph
