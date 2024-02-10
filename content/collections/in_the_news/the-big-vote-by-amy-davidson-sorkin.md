@@ -1,0 +1,41 @@
+---
+id: 237d2365-a6de-41ee-8687-58f80dad4586
+blueprint: in_the_news
+title: 'The Big Vote, by Amy Davidson Sorkin'
+image: robinson-projection.jpg
+url: 'https://www.newyorker.com/magazine/2024/01/15/the-biggest-election-year-in-history'
+description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.newyorker.com/magazine/2024/01/15/the-biggest-election-year-in-history'
+              rel: null
+              target: null
+              title: null
+        text: 'https://www.newyorker.com/magazine/2024/01/15/the-biggest-election-year-in-history'
+challenges:
+  - democracy
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1707597783
+content:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.newyorker.com/magazine/2024/01/15/the-biggest-election-year-in-history'
+              rel: null
+              target: null
+              title: null
+        text: 'https://www.newyorker.com/magazine/2024/01/15/the-biggest-election-year-in-history'
+---
