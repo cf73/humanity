@@ -1,10 +1,8 @@
 ---
 id: c53fa4c5-dd91-4357-982f-dffd2296d749
 blueprint: commencement_speech
-title: 'Jim Carrey       Jim Carrey is an actor and comedian of tremendous range and intellect.'
-location: |-
-  Maharishi University of Management, Fairfield, Iowa
-  Jim Carrey is an actor and comedian of tremendous range and intellect, a man who turns himself inside out for his audiences, who embraces the opportunity of being entirely yourself while profoundly honoring the needs of others. True to his reputation as a comedian, Carrey keeps the audience laughing while simultaneously delivering a story of seeing his father fail through fear, a reflection on his uncertainty of identity, and a spiritual message of faith.
+title: 'Jim Carrey'
+location: 'Maharishi University of Management, Fairfield, Iowa'
 date: '2014-05-30'
 description:
   -
@@ -12,9 +10,13 @@ description:
     content:
       -
         type: text
-        text: 'https://www.youtube.com/watch?v=V80-gPkpH6M&t=1s'
-  -
-    type: paragraph
+        text: 'Jim Carrey is an actor and comedian of tremendous range and intellect, a man who turns himself inside out for his audiences, who embraces the opportunity of being entirely yourself while profoundly honoring the needs of others. True to his reputation as a comedian, Carrey keeps the audience laughing while simultaneously delivering a story of seeing his father fail through fear, a reflection on his uncertainty of identity, and a spiritual message of faith.'
+url: 'https://www.youtube.com/watch?v=V80-gPkpH6M&t=1s'
+challenges:
+  - democracy
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1707549408
+transcript:
   -
     type: paragraph
     content:
@@ -453,9 +455,4 @@ description:
       -
         type: text
         text: "Thank you. Jai Guru Dev. I’m so honored. Thank\_you."
-url: 'https://www.youtube.com/watch?v=V80-gPkpH6M&t=1s'
-challenges:
-  - democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707531850
 ---
