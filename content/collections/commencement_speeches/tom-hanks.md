@@ -36,14 +36,10 @@ description:
         text: 'at Harvard University on May 25 of last year:'
   -
     type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
     content:
       -
         type: text
-        text: '(This is the text of Hanks’s speech)'
+        text: 'This is the text of Hanks’s speech: https://www.harvard.edu/media-relations/2023/05/25/tom-hanks-commencement-speech/'
   -
     type: paragraph
     content:
@@ -53,5 +49,5 @@ url: 'https://www.youtube.com/watch?v=dkPo5nfEk1w&t=1s'
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707529287
+updated_at: 1707529468
 ---
