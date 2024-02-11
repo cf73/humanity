@@ -10,7 +10,7 @@ quotation: |-
 attribution: 'Albert Schweitzer, Nobel Peace Prize award speech 1953'
 image: unknown.jpeg
 challenges:
-  - war
+  - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707516917
 ---

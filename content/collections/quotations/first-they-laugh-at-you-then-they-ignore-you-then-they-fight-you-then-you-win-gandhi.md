@@ -6,7 +6,7 @@ quotation: '“First they laugh at you. Then they ignore you. Then they fight yo
 attribution: Gandhi
 image: r.6cd87990f57f486d0ed8b0013344e03c.jpeg
 challenges:
-  - war
+  - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707516681
 ---

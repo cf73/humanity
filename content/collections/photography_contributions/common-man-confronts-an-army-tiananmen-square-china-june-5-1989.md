@@ -24,7 +24,7 @@ description:
         type: text
         text: 'Tiananmen Square, China, June 5, 1989'
 challenges:
-  - war
+  - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707482629
 ---

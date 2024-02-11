@@ -16,7 +16,7 @@ description:
 link: 'https://www.youtube.com/watch?v=kiXWfLJ5T64&list=PL8ReA7KZF1Mg48CKRoh-UpHoIC0IdyzGa'
 image: image-1707483578.jpeg
 challenges:
-  - war
+  - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707483620
 ---

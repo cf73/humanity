@@ -6,7 +6,7 @@ quotation: '"Teach this triple truth to all: a generous heart, kind speech, and 
 attribution: 'Gautama Buddha'
 image: image-1707483801.jpeg
 challenges:
-  - war
+  - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707483880
 ---

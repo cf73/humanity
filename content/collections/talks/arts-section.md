@@ -148,7 +148,7 @@ description:
 link: 'https://www.jimmynelson.com'
 image: image-1707485762.jpeg
 challenges:
-  - war
+  - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707485922
 ---

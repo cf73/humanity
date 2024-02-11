@@ -14,7 +14,7 @@ description:
 link: 'https://youtu.be/PS3-lyqCl80'
 image: oip.vur8pfzyzh8lo_yac2vlvghafz.jpeg
 challenges:
-  - war
+  - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707513478
 ---
