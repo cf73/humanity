@@ -93,7 +93,7 @@ description:
         type: text
         text: 'The Humanity Initiative is a 501(c)(3). Your donations are fully tax-deductible in the United States.'
 challenges:
-  - climate
+  - climate-action
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707509848
 ---

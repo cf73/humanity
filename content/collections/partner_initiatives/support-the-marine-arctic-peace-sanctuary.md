@@ -11,7 +11,7 @@ description:
         text: 'MAPS protects the Arctic Ocean, an ecosystem that acts as our planet’s life support system. In so doing, it safeguards our homes, food and water supplies, global immunity, economic balance, social stability, and world peace.'
 image: MAPS.png
 challenges:
-  - climate
+  - climate-action
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1706836512
 ---

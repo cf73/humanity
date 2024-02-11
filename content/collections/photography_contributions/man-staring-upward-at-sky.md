@@ -13,7 +13,7 @@ description:
         type: text
         text: 'man staring upward, good home page shot..'
 challenges:
-  - climate
+  - climate-action
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707512676
 ---
