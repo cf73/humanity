@@ -185,6 +185,26 @@ tabs:
                             visibility: visible
                             replicator_preview: true
                             hide_display: false
+                    talks:
+                      display: Talks
+                      instructions: null
+                      icon: user-avatar
+                      fields:
+                        -
+                          handle: talks
+                          field:
+                            max_items: 1
+                            mode: select
+                            create: true
+                            collections:
+                              - talks
+                            type: entries
+                            display: Talks
+                            listable: hidden
+                            instructions_position: above
+                            visibility: visible
+                            replicator_preview: true
+                            hide_display: false
               type: replicator
               display: 'Section builder'
               listable: hidden
