@@ -1,13 +1,13 @@
 title: War
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1706989927
+updated_at: 1707618049
 blueprint: challenge
-main_image: stars.mp4
+main_image: r.6cd87990f57f486d0ed8b0013344e03c.jpeg
 intro_text:
   -
     type: paragraph
     content:
       -
         type: text
-        text: kk
+        text: 'Intro text for this challenge.'
