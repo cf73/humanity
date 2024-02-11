@@ -6,7 +6,7 @@ poets_name: 'Alfred Lord Tennyson'
 poets_website: www.poetryfoundation.org/poets/alfred-tennyson
 image: image-1707446038.jpeg
 challenges:
-  - democracy
+  - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707446049
 content:

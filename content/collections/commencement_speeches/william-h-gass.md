@@ -279,7 +279,7 @@ transcript:
         type: text
         text: "© 1979, 1984, and 1985 by William\_Gass"
 challenges:
-  - democracy
+  - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707602636
 ---

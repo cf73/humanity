@@ -317,7 +317,7 @@ transcript:
         type: text
         text: "As is a tale, so is life: not how long it is, but how good it is, is what\_matters.I wish you all very good lives. Thank you very\_much."
 challenges:
-  - democracy
+  - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707600834
 ---

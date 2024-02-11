@@ -47,7 +47,7 @@ description:
         type: hardBreak
 url: 'https://www.youtube.com/watch?v=dkPo5nfEk1w&t=1s'
 challenges:
-  - democracy
+  - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707529468
 ---

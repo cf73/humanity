@@ -298,7 +298,7 @@ description:
         text: "I look for the hour when that supreme Beauty, which ravished the souls of those eastern men, and chiefly of those Hebrews, and through their lips spoke oracles to all time, shall speak in the West also. The Hebrew and Greek Scriptures contain immortal sentences, that have been bread of life to millions. But they have no epical integrity; are fragmentary; are not shown in their order to the\_intellect. I look for the new Teacher, that shall follow so far those shining laws, that he shall see them come full circle; shall see their rounding complete grace; shall see the world to be the mirror of the soul; shall see the identity of the law of gravitation with purity of heart; and shall show that the Ought, that Duty, is one thing with Science, with Beauty,"
 url: 'https://humanity.org/wp-content/uploads/2023/06/Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg'
 challenges:
-  - democracy
+  - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707530710
 ---

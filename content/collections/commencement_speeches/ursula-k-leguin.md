@@ -13,7 +13,7 @@ description:
         text: '[need to add description here]'
 url: 'https://s3.amazonaws.com/walrus-assets/img/20180126132252/WEB_LeGuin_Art.jpg'
 challenges:
-  - democracy
+  - preserving-democracy
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1707549479
 transcript:

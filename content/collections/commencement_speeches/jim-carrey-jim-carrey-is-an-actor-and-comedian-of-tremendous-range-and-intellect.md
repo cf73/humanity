@@ -13,7 +13,7 @@ description:
         text: 'Jim Carrey is an actor and comedian of tremendous range and intellect, a man who turns himself inside out for his audiences, who embraces the opportunity of being entirely yourself while profoundly honoring the needs of others. True to his reputation as a comedian, Carrey keeps the audience laughing while simultaneously delivering a story of seeing his father fail through fear, a reflection on his uncertainty of identity, and a spiritual message of faith.'
 url: 'https://www.youtube.com/watch?v=V80-gPkpH6M&t=1s'
 challenges:
-  - democracy
+  - preserving-democracy
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1707549408
 transcript:
