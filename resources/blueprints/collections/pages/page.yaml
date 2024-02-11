@@ -212,6 +212,7 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
+              max_sets: 3
   sidebar:
     display: Sidebar
     sections:
