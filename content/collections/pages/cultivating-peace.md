@@ -5,7 +5,7 @@ title: 'Cultivating Peace'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1707620823
+updated_at: 1707620841
 section_builder:
   -
     id: lsgtt24w
@@ -16,5 +16,10 @@ section_builder:
     id: lsgttcyk
     quotation: a50e90bb-af76-4603-9246-65b888b22e71
     type: quotation
+    enabled: true
+  -
+    id: lsgxcpqs
+    inspiring_image: image-1707481915.jpeg
+    type: inspiring_image
     enabled: true
 ---
