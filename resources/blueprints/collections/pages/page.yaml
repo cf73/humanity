@@ -112,7 +112,7 @@ tabs:
                         -
                           handle: inspiring_image
                           field:
-                            max_files: 2
+                            max_files: 1
                             min_files: 1
                             mode: list
                             container: assets
