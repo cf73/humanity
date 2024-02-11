@@ -1,0 +1,47 @@
+<!-- <div id="hero-area" class="w-full h-screen flex items-center relative justify-center bg-black">
+    <video id="earth" src="{{main_image}}" autoplay muted loop style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 66vh;
+    object-fit: cover;
+    z-index: 0;"></video>
+    <div class="flex flex-col items-center space-y-16 relative z-10 w-full text-center">
+        <h1 id="itstime" class="absolute text-white w-2/3">{{title}}</h1>
+    </div>
+</div> -->
+
+<div class="container mx-auto">
+    <section class="space-y-32 mb-64">
+        {{ section_builder }}
+    
+      {{ if type == "talks" }}
+    
+        <div>
+            <a href="{{talks:link}}"><img src="{{talks:image}}" alt="{{talks:title}}" width="70%"></a>
+            <h2>{{talks:title}}</h2>
+            {{talks:description}}
+        </div>
+    
+      {{ elseif type == "quotation" }}
+    
+        <div>
+            <h1>{{ quotation:quotation }}</h1>
+            <p>— {{ quotation:attribution }}</p>
+        </div>
+    
+      {{ elseif type == "image" }}
+    
+        <figure>
+          <img src="{{ photo }}" alt="{{ caption }}" />
+          <figcaption>{{ caption }}</figcaption>
+        </figure>
+    
+      {{ /if }}
+    
+    {{ /section_builder }}
+    </section>
+</div>
+
+{{partial:donate}}

@@ -55,11 +55,11 @@
             
 
 <section id="challenges">
-    {{taxonomy:challenges}}
-        <li><a href="{{url}}">
-            <h1>{{title}}</h1>
-        </a></li>
-    {{/taxonomy:challenges}}
+    {{nav from="challenges"}}
+    <a href="{{url}}">
+        <li>{{title}}</li>
+    </a>
+    {{/nav}}
 </section>
 
 <section id="trending" class="bg-green-50 py-8">
