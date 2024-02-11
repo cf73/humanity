@@ -1,13 +1,13 @@
 <section class="text-white">
     <div id="donateBanner" class="flex flex-col bg-yellow-500 py-8 mb-8 sticky top-0">
         <div class="container mx-auto">
-            <h2>{{collection:partner_initiatives as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives</h2>
+            <h2>{{collection:partner_initiatives as="entries" challenges:contains="{slug}"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives</h2>
             <h3>Please support them directly, or all of them via a single donation here.</h3>
             <span>How does this work?</span>
         </div>
     </div>
     <div class="container mx-auto px-48">
-        {{collection:partner_initiatives}}
+        {{collection:partner_initiatives challenges:contains="{slug}"}}
             <div id="partner-initiative" class="flex flex-row h-72 mb-8 rounded overflow-hidden bg-white text-slate-500">
                 <div id="partner-image" class="w-1/4 bg-gray-300 h-full bg-cover bg-no-repeat bg-center" style="background-image: url({{image}});">
         

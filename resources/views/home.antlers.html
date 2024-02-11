@@ -12,9 +12,7 @@
         <h1 id="itstime" class="absolute text-white w-2/3">It's time to rescue our humanity</h1>
     </div>
     <div class="flex flex-row space-x-8 text-white z-50 absolute bottom-40">
-        <span>36 Initiatives</span>
-        <span>236 Members</span>
-        <span>Just one world</span>
+        <span>{{collection:partner_initiatives as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives driving action for one world.</span>
     </div>
 </div>
 
