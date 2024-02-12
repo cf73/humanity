@@ -21,6 +21,7 @@ export default {
                 'khaki': '#AEC769',
                 'softblack': '#373737',
                 'forest': '#06977D',
+                'earth': '#a08b8b',
             },
         },
     },

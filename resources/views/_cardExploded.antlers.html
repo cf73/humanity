@@ -1,0 +1,13 @@
+<div class="flex flex-row items-center bg-white drop-shadow rounded h-[80vh] p-16 pr-0 h-full space-x-16 overflow-hidden">
+    <div id="text" class="w-1/2">
+        <h3 class="mb-4 text-earth">{{title}}</h3>
+        <div class="font-serif leading-normal text-2xl">{{description}}</div>
+        <div class="flex flex-row flex-wrap">
+            {{challenges}}
+                {{partial:tag label="{{title}}"}}
+            {{/challenges}}
+            {{partial:tag label="{{collection:title | upper}}"}}
+        </div>
+    </div>
+    <div id="image" class="w-1/2 h-full bg-contain bg-no-repeat bg-center" style="background-image: url({{image}});"></div>
+</div>

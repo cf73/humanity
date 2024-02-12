@@ -18,6 +18,10 @@ tl.from('header',{
     duration: 3.5, opacity: 0,
 },
 );
+tl.from('#initiatives',{
+    duration: 3.5, opacity: 0,
+},
+);
 
 //pin and unpin the donateBanner
 gsap.to("#donateBanner", {
