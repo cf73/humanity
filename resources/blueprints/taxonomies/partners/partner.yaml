@@ -31,6 +31,18 @@ tabs:
               hide_display: false
               validate:
                 - required
+          -
+            handle: website
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Website
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
   sidebar:
     display: Sidebar
     sections:
