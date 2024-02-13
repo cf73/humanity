@@ -1,7 +1,7 @@
 ---
 id: 61653f39-a1f2-4949-9a50-e72537bfc211
 blueprint: partner_initiative
-title: 'Swaadna Al Souriya'
+title: 'Support children affected by Syrian conflict'
 description:
   -
     type: paragraph
@@ -14,6 +14,6 @@ challenges:
   - preserving-democracy
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707844196
+updated_at: 1707848895
 partner: peace-direct
 ---
