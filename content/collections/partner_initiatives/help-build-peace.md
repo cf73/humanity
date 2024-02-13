@@ -1,14 +1,20 @@
 ---
 id: 3388fadf-72c5-4c67-9bd2-d7549c0f42ea
 blueprint: partner_initiative
-title: 'Help adversaries act on common intincts'
+title: 'Help adversaries understand each other.'
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: www.sfcg.org/get-involved/
+        text: 'www.sfcg.org/get-involved/    '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Search for Common Ground: Building peace, transforming societies, and using innovative tools to end violent conflict around the world.'
   -
     type: paragraph
     content:
@@ -26,5 +32,5 @@ challenges:
   - cultivating-peace
 partner: search-for-common-ground
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707850269
+updated_at: 1707850407
 ---
