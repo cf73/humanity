@@ -1,7 +1,7 @@
 ---
 id: 61653f39-a1f2-4949-9a50-e72537bfc211
 blueprint: partner_initiative
-title: 'SWAADNA AL SOURIYA'
+title: 'Swaadna Al Souriya'
 description:
   -
     type: paragraph
@@ -13,6 +13,7 @@ image: swaadna-logo-837x1024.png
 challenges:
   - preserving-democracy
   - cultivating-peace
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1707155400
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1707844196
+partner: peace-direct
 ---
