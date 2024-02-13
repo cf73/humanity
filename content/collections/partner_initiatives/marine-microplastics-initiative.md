@@ -1,7 +1,7 @@
 ---
 id: dfae34a8-30a5-4e7c-89d7-a33917e780d8
 blueprint: partner_initiative
-title: 'Marine Microplastics Initiative'
+title: 'Join the Marine Microplastics Initiative'
 description:
   -
     type: paragraph
@@ -22,6 +22,6 @@ image: microplastics.jpg
 challenges:
   - climate-action
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707843322
+updated_at: 1707848932
 partner: woods-hole-oceanographic-institution
 ---
