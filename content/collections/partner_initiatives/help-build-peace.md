@@ -1,36 +1,30 @@
 ---
 id: 3388fadf-72c5-4c67-9bd2-d7549c0f42ea
 blueprint: partner_initiative
-title: 'Help adversaries understand each other.'
+title: 'SHE WINS'
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'www.sfcg.org/get-involved/    '
+        text: 'A five-year effort, together with the State Department and Kroc Institute, to build truly equitable partnerships with women peacebuilders.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Search for Common Ground: Building peace, transforming societies, and using innovative tools to end violent conflict around the world.'
+        text: 'Policy initiatives that exclude half of the population are likely to fail. Yet this is often how peace works, with women barred from key discussions and decisions. At UN-brokered negotiations, just 23 percent of participants are women—even though negotiations that involve women are 35 percent more likely to last through 15 years.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Whether it’s supporting our global campaigns, learning about our methods, or partnering with us, we want you to get involved. We’re trying to build a new world, creating constructive solutions to today’s conflicts. Help us build it.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Help end violent conflict. Conflict is inevitable, but violence is not. We invest in lasting peace by helping adversaries understand their differences and act on their common interests.'
-image: sitelogo-1707849471.svg
+        text: 'The challenge is not just a seat at the table. Despite stereotypes and scarce resources, women-led organizations are often the vanguard of peace, with trust built through steady work. Yet even supportive donors can exclude women from key strategy decisions. Globally, we know that gender equality ties to lower rates of infant mortality and higher GDPs. What would truly equitable partnerships look like, with women-led groups treated as full partners, not just end-of-the-line implementers?'
+image: she-wins-banner.jpg
 challenges:
   - cultivating-peace
-partner: search-for-common-ground
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707850407
+partner: care-international
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1707949427
 ---
