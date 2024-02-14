@@ -1,7 +1,7 @@
 ---
 id: 3c9aefca-a9fe-4455-86b6-0585897d6854
 blueprint: commencement_speech
-title: 'Ms. Gloria Steinem'
+title: '*** Ms. Gloria Steinem'
 location: 'Tufts University, Medford, Massachusetts USA'
 date: '1987-05-17'
 url: 'https://humanity.org/wp-content/uploads/2022/12/gloria-steinem.jpg'
@@ -633,5 +633,5 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707602221
+updated_at: 1707920430
 ---

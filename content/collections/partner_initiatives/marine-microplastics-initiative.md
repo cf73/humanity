@@ -1,14 +1,14 @@
 ---
 id: dfae34a8-30a5-4e7c-89d7-a33917e780d8
 blueprint: partner_initiative
-title: 'Marine Microplastics Initiative'
+title: 'Join the Marine Microplastics Initiative'
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Microplastics—tiny plastic fragments less than five millimeters in size—are ubiquitous in the global ocean. In fact,\_"
+        text: "Microplastics  —  tiny plastic fragments less than five millimeters in size  —  are ubiquitous in the global ocean. In fact,\_"
       -
         type: text
         marks:
@@ -21,7 +21,7 @@ description:
 image: microplastics.jpg
 challenges:
   - climate-action
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1707441107
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1707848932
 partner: woods-hole-oceanographic-institution
 ---
