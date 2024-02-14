@@ -1,7 +1,7 @@
 ---
 id: 3bf463d5-6e92-4bf8-abe9-bc1148c3a4e1
 blueprint: partner_initiative
-title: 'Support the Marine Arctic Peace Sanctuary'
+title: '*** Support the Marine Arctic Peace Sanctuary'
 description:
   -
     type: paragraph
@@ -13,6 +13,6 @@ image: MAPS.png
 challenges:
   - climate-action
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707844831
+updated_at: 1707920929
 partner: parvati-foundation
 ---
