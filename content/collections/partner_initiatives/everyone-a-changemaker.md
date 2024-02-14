@@ -10,20 +10,6 @@ description:
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'https://www.ashoka.org/en-us/engage-1'
-              rel: null
-              target: null
-              title: null
-        text: 'https://www.ashoka.org/en-us/engage-1'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
             type: bold
         text: 'CHAMPION THE SOLUTIONS THAT ARE TRANSFORMING THE WORLD.'
   -
@@ -38,10 +24,10 @@ description:
       -
         type: text
         text: 'Donate to Ashoka today and become a part of the “everyone a changemaker” movement!'
-image: logo-1.svg
+image: nigeria.png
 challenges:
   - cultivating-peace
 partner: ashoka-https-www-ashoka-org-en-us
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707920911
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1707947752
 ---
