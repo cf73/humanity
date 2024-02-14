@@ -1,7 +1,7 @@
 ---
 id: bf8addbc-a116-452b-bf93-9e4270f8de95
 blueprint: book
-title: 'Guns, Germs and Steel'
+title: '*** Guns, Germs and Steel'
 author: 'Jared Diamond'
 image: image-1707921450.png
 description:
@@ -37,5 +37,5 @@ description:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707921480
+updated_at: 1707921502
 ---
