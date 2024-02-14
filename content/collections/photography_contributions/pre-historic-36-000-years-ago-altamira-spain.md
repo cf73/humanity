@@ -1,7 +1,7 @@
 ---
 id: 06bf2b18-99f3-40be-925c-a937ca7786fc
 blueprint: photography_contribution
-title: 'Pre-historic cave painting from 36,000 years ago. Altamira, Spain'
+title: '*** Pre-historic cave painting from 36,000 years ago. Altamira, Spain'
 photographer_name: 'Pre-historic cave painting from 36,000 years ago. Altamira, Spain'
 photographer_website: 'Pre-historic cave painting from 36,000 years ago. Altamira, Spain'
 image: image-1707482504.jpeg
@@ -26,5 +26,5 @@ description:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707872941
+updated_at: 1707874228
 ---
