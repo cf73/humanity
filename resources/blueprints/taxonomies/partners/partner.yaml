@@ -46,7 +46,7 @@ tabs:
           -
             handle: description
             field:
-              character_limit: '500'
+              character_limit: '1000'
               antlers: false
               type: textarea
               display: Description
