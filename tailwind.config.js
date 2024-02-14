@@ -18,7 +18,7 @@ export default {
         },
         extend: {
             colors: {
-                'highlighter': '#F6F971',
+                'highlighter': '#ffffa0',
                 'khaki': '#AEC769',
                 'softblack': '#373737',
                 'forest': '#06977D',
