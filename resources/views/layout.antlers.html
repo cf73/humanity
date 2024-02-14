@@ -11,10 +11,14 @@
 
          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap" rel="stylesheet">
+
          {{ vite src="resources/js/site.js|resources/css/site.css" }}
     </head>
     <body class="bg-gray-100">
-        <header class="container mx-auto relative top-4 z-50 text-white">
+        <header class="container mx-auto relative top-4 z-50 text-white opacity-0">
             <a href="/"><img src="/assets/humanity-logo.png" width="205.5px" alt="Humanity Logo"></a>
         </header>
         {{ template_content }}
@@ -27,41 +31,8 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.4/ScrollTrigger.min.js"></script>
         <script src="js/gsap.js"></script>
 
-        <!-- Swiper JS -->
-        <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
-
-        <!-- Initialize Swiper -->
-        <script>
-        var swiper = new Swiper(".featuredSwiper", {
-            navigation: {
-                nextEl: ".swiper-button-next",
-                prevEl: ".swiper-button-prev",
-            },
-            grabCursor: true,
-            pagination: {
-            el: ".swiper-pagination",
-            clickable: true,
-            },
-            breakpoints: {
-            540: {
-            slidesPerView: 1,
-            spaceBetween: 30,
-            },
-            768: {
-            slidesPerView: 2,
-            spaceBetween: 30,
-            },
-            992: {
-            slidesPerView: 2.5,
-            spaceBetween: 30,
-            },
-            1200: {
-            slidesPerView: 2.5,
-            spaceBetween: 30,
-            },
-        },
-        });
-        </script>
+        
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
 
         <!-- Initialize Swiper -->
         <script>

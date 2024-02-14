@@ -66,6 +66,7 @@ tabs:
               hide_display: false
               validate:
                 - required
+              instructions: "NOTE: this is NOT the Partner's logo. It should be something related to the impact of the initiative, e.g. photographic depiction of the real-world."
   sidebar:
     display: Sidebar
     sections:
@@ -98,7 +99,7 @@ tabs:
             field:
               max_items: 1
               mode: select
-              create: true
+              create: false
               taxonomies:
                 - partners
               type: terms

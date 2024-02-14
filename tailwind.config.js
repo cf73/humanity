@@ -14,13 +14,15 @@ export default {
             'serif': ['BaskervilleRegular', 'serif'],
             'thin': ['RaporThin', 'sans-serif'],
             'bold': ['RaporBold', 'sans-serif'],
+            'extrabold': ['RaporExtraBold', 'sans-serif'],
         },
         extend: {
             colors: {
-                'highlighter': '#F6F971',
+                'highlighter': '#ffffa0',
                 'khaki': '#AEC769',
                 'softblack': '#373737',
                 'forest': '#06977D',
+                'earth': '#a08b8b',
             },
         },
     },

@@ -1,0 +1,18 @@
+<div class="flex flex-row items-center bg-white drop-shadow-2xl rounded h-[80vh] px-16 pr-0 h-full space-x-16 overflow-hidden">
+    <div id="text" class="w-1/2 py-16 space-y-16 bg-white">
+        <div class="flex flex-row flex-wrap">
+            {{challenges}}
+                {{partial:tag label="{{title}}"}}
+            {{/challenges}}
+            {{partial:tag label="{{collection:title | upper}}"}}
+        </div> 
+        <div class="space-y-4">
+            
+            <div class="mb-4 text-softblack tracking-normal text-7xl font-bold">{{title}}</div>
+            <div class="font-serif text-softblack leading-normal">{{description}}</div>
+            
+            <button>Learn more</button>
+        </div>
+    </div>
+    <div id="image" class="w-1/2 h-full bg-contain bg-no-repeat bg-center" style="background-image: url({{image}});"></div>
+</div>

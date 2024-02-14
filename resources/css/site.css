@@ -35,10 +35,25 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'RaporExtraBold';
+    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-ExtraBold.woff2') format('woff2'),
+         url('/public/assets/fonts/RAPORWOFF/Rapor-ExtraBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.shadows-into-light-regular {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
 
 body {
     font-family: 'RaporRegular', sans-serif;
     margin-bottom: 1rem;
+    overflow-x: hidden;
 }
 h1 {
     font-size: 7rem;
@@ -67,4 +82,35 @@ button {
     padding: .5rem 1rem;
     align-self: flex-start;
     margin-bottom: 1rem;
+}
+swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+
+  swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+.swiper {
+    overflow: visible;
+}
+.swiper-slide {
+    opacity: .5;
+    scale: .95;
+}
+.swiper-slide-active {
+    opacity: 1;
+    scale: 1;
 }
