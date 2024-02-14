@@ -1,7 +1,7 @@
 ---
 id: b4176ab7-67b2-40c2-b5e0-37c995d46176
 blueprint: commencement_speech
-title: 'Toni Morrison,  "Be Your Own Story"'
+title: '*** Toni Morrison,  "Be Your Own Story"'
 location: 'Wellesley College, Wellesley, Massachusetts USA'
 date: '2004-05-28'
 url: 'http://www.c-spanvideo.org/program/182148-1'
@@ -117,5 +117,12 @@ challenges:
   - cultivating-peace
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707600977
+updated_at: 1707919798
+description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Toni Morrison'
 ---
