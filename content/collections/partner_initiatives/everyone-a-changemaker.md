@@ -1,7 +1,7 @@
 ---
 id: 8e78665e-26d1-400e-8f6f-2391b9bfec84
 blueprint: partner_initiative
-title: 'Join "Everyone a Changemaker"'
+title: '*** Join "Everyone a Changemaker"'
 description:
   -
     type: paragraph
@@ -43,5 +43,5 @@ challenges:
   - cultivating-peace
 partner: ashoka-https-www-ashoka-org-en-us
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707848733
+updated_at: 1707920911
 ---
