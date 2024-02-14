@@ -13,6 +13,6 @@ image: MAPS.png
 challenges:
   - climate-action
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1707948933
-partner: care-international
+updated_at: 1707948942
+partner: parvati-foundation
 ---
