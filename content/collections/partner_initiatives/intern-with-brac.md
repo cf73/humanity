@@ -16,33 +16,47 @@ description:
         marks:
           -
             type: bold
-        text: 'Danish Refugee Council'
+        text: BRAC
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Danish Refugee Council (DRC) is one of the largest NGOs in the world working with displaced people. They are also one of the top NGOs to work for if you want to work helping people who have been forced to flee their homes due to conflict, disasters or persecution.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Within the NGO sector, DRC is considered one of the best NGOs to get a job with. They are known for their innovative programmes as well as the scale of their response. With '
+        text: 'BRAC – originally known as the Bangladesh Rural Advancement Committee, is the largest NGO is the world. It is also one of the best to work for. With enormous projects in Bangladesh, as well as programmes in '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://drc.ngo/our-work/what-we-do/core-sectors/'
+              href: 'http://www.brac.net/where-we-work'
               rel: 'noreferrer noopener'
               target: _blank
               title: null
-        text: projects
+        text: countries
       -
         type: text
-        text: ' focusing on protection, education, economic recovery, peacebuilding, camp coordination and shelter, DRC is one of the leading NGOs in the world. They are also known as one of the highest paying NGOs – another reason why they are one of the best to work for.'
+        text: ' such as Afghanistan, Liberia, Myanmar, and Rwanda, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.wikipedia.org/wiki/BRAC_(organisation)'
+              rel: 'noreferrer noopener'
+              target: _blank
+              title: null
+        text: BRAC
+      -
+        type: text
+        text: ' focuses on empowering communities to improve their lives. BRAC is known for its innovative approach to development work and the lasting impact it has had in Bangladesh and around the world.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Focusing on programmes including social enterprise, rural development, education, and water and sanitation, BRAC is especially good to work for if you are interested in these areas. Their long history, and proven ability to produce sustainable results, means BRAC is highly regarding in the NGO sector. This is another reason why it is one of the best NGOs to work for.'
   -
     type: paragraph
     content:
@@ -57,10 +71,21 @@ description:
     content:
       -
         type: text
-        text: 'If you are looking to get a job with the Danish Refugee Council, consider developing an expertise in refugee and migration issues. DRC also often recruits for positions of project coordinator, as well as technical roles related to protection, shelter and camp coordination and camp management.'
-  -
-    type: paragraph
-    content:
+        text: 'With nearly 100,000 employees worldwide, there are literally thousands of jobs at BRAC. If you are interested in working for the NGO, a background in social development, microfinance or women’s empowerment would be an asset. However, those experienced working in '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://humanitariancareers.com/ngo-finance-jobs/'
+              rel: null
+              target: null
+              title: null
+        text: 'NGO finance'
+      -
+        type: text
+        text: ', logistics, human resources, and administration are also extensively recruited for in an NGO as large as BRAC.'
       -
         type: text
         marks:
@@ -202,5 +227,5 @@ challenges:
   - climate-action
 partner: bangladesh-rural-advancement-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707935354
+updated_at: 1707935394
 ---
