@@ -1,7 +1,7 @@
-<div class="flex flex-row items-center bg-white drop-shadow rounded h-[80vh] p-16 pr-0 h-full space-x-16 overflow-hidden">
-    <div id="text" class="w-1/2">
-        <h3 class="mb-4 text-earth">{{title}}</h3>
-        <div class="font-serif leading-normal text-2xl">{{description}}</div>
+<div class="flex flex-row items-center  drop-shadow-2xl rounded h-[80vh] px-16 pr-0 h-full space-x-16 overflow-hidden">
+    <div id="text" class="w-1/2 py-16 bg-white">
+        <div class="mb-4 text-earth text-7xl font-bold">{{title}}</div>
+        <div class="font-serif leading-normal">{{description}}</div>
         <div class="flex flex-row flex-wrap">
             {{challenges}}
                 {{partial:tag label="{{title}}"}}
@@ -9,5 +9,5 @@
             {{partial:tag label="{{collection:title | upper}}"}}
         </div>
     </div>
-    <div id="image" class="w-1/2 h-full bg-contain bg-no-repeat bg-center" style="background-image: url({{image}});"></div>
+    <div id="image" class="w-1/2 h-full bg-contain bg-no-repeat bg-center" style="background-image: url({{image}}); backdrop-filter: blur(10px); background-color: rgba(0, 0, 0, 0.417);"></div>
 </div>

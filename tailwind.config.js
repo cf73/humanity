@@ -14,6 +14,7 @@ export default {
             'serif': ['BaskervilleRegular', 'serif'],
             'thin': ['RaporThin', 'sans-serif'],
             'bold': ['RaporBold', 'sans-serif'],
+            'extrabold': ['RaporExtraBold', 'sans-serif'],
         },
         extend: {
             colors: {

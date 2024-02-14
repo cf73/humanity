@@ -1,4 +1,4 @@
-<div id="hero-area" class="w-full h-full absolute flex items-center justify-center top-0 bg-black">
+<div id="hero-area" class="w-full h-full fixed flex flex-col items-center justify-center top-0 bg-black opacity-0">
     <!-- <video id="earth" src="/assets/earth.mp4" autoplay muted loop style="
     position: absolute;
     top: 0;
@@ -8,18 +8,20 @@
     object-fit: cover;
     z-index: 0;"></video> -->
     <div id="earth" style="background-image: url('{{hero_images | random}}');"
-    class="bg-no-repeat bg-center bg-cover h-screen w-full absolute top-0 left-0"
+    class="bg-no-repeat bg-center bg-cover h-screen w-full absolute top-0 left-0 opacity-1"
     ></div>
-    <div class="flex flex-col items-center space-y-16 relative z-10 w-full text-center">
-        <h2 id="counting" class="absolute text-white">2024 and counting.</h2>
-        <h1 id="itstime" class="absolute text-white w-2/3">It's time to rescue our humanity</h1>
+    <div id="herotext" class="flex flex-col items-center space-y-16 relative z-10 w-full text-center">
+        <h2 id="counting" class="absolute text-white opacity-0">2024 and counting.</h2>
+        <h1 id="itstime" class="absolute text-white w-2/3 opacity-0">It's time to rescue our humanity</h1>
     </div>
-    <div id="initiatives" class="flex flex-row space-x-8 text-white z-50 absolute bottom-40">
-        <span>{{collection:partner_initiatives as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives driving action for one world.</span>
+    <div id="initiatives" class="flex flex-col items-center text-white z-50 w-full text-center text-6xl text-bold opacity-0">
+        {{collection:partner_initiatives as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives driving action for one world
     </div>
 </div>
 
-<section id="intro" class="relative mt-[100vh] pt-8 pb-16 w-5/12 mx-auto text-center text-softblack leading-7 text-xl">
+<div id="invisibleScrollController" class="h-[200vh] w-full"></div>
+
+<section id="intro" class="relative mt-[100vh] pt-8 pb-16 w-5/12 mx-auto text-center text-white leading-7 text-xl">
     {{intro}}
 </section>
 

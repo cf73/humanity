@@ -35,6 +35,14 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'RaporExtraBold';
+    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-ExtraBold.woff2') format('woff2'),
+         url('/public/assets/fonts/RAPORWOFF/Rapor-ExtraBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
 body {
     font-family: 'RaporRegular', sans-serif;

@@ -1,38 +1,73 @@
 //introduce the hero text
 var tl = gsap.timeline({});
 
-tl.from('#earth',{
-    duration: 10, opacity: 0,
+gsap.to('#hero-area',{
+    duration: 5, opacity: 1,
 });
-tl.from('#counting',{
-    duration: 5, opacity: 0,
-},
-    "-=6.5"
-);
-tl.from('#itstime',{
-    duration: 3.5, opacity: 0,
-},
-    "-=3.5"
-);
-tl.from('header',{
-    duration: 3.5, opacity: 0,
+tl.to('#counting',{
+    duration: 5, delay: 2, opacity: 1,
 },
 );
-tl.from('#initiatives',{
-    duration: 3.5, opacity: 0,
+gsap.to('#itstime',{
+    duration: 5, opacity: 1,
 },
+    "-=2.75"
 );
+// tl.from('header',{
+//     duration: 3.5, opacity: 0,
+// },
+// );
+// tl.from('#initiatives',{
+//     duration: 3.5, opacity: 0,
+// },
+// );
 
-//pin and unpin the donateBanner
-gsap.to("#donateBanner", {
+//fade out the hero text on scroll
+gsap.to('#herotext', {
     scrollTrigger: {
-      trigger: "#donate",
-      start: "bottom bottom",
-      end: "top top",
-      pin: true,
-      pinSpacing: false,
-      scrub: true
-    }
-  });
+    trigger: "#invisibleScrollController",
+    start: "top top",
+    end: "bottom top",
+    toggleActions: "restart none reverse reset",
+    scrub: false,
+    // markers: true,
+    },
+    opacity: 0
+});
+gsap.to('#earth', {
+    scrollTrigger: {
+    trigger: "#invisibleScrollController",
+    start: "top top",
+    end: "bottom top",
+    toggleActions: "restart none reverse reset",
+    scrub: false,
+    // markers: true,
+    },
+    opacity: 0.3
+});
+gsap.to('#initiatives', {
+    scrollTrigger: {
+    trigger: "#invisibleScrollController",
+    start: "top -90%",
+    end: "bottom -90%",
+    toggleActions: "restart reset reverse reset",
+    scrub: false,
+    // markers: true,
+    },
+    opacity: 1
+});
+
+
+// //pin and unpin the donateBanner
+// gsap.to("#donateBanner", {
+//     scrollTrigger: {
+//       trigger: "#donate",
+//       start: "bottom bottom",
+//       end: "top top",
+//       pin: true,
+//       pinSpacing: false,
+//       scrub: true
+//     }
+//   });
   
   
