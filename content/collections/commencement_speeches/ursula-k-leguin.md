@@ -1,7 +1,7 @@
 ---
 id: b63d419a-4073-4e24-9a1e-59ea5ecd489d
 blueprint: commencement_speech
-title: 'Ursula K LeGuin'
+title: '*** Ursula K LeGuin'
 location: 'Mills College, Oakland, California USA'
 date: '1983-05-18'
 description:
@@ -14,8 +14,8 @@ description:
 url: 'https://s3.amazonaws.com/walrus-assets/img/20180126132252/WEB_LeGuin_Art.jpg'
 challenges:
   - preserving-democracy
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1707549479
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1707920212
 transcript:
   -
     type: paragraph
