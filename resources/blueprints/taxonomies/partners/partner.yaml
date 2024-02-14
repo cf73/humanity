@@ -43,6 +43,20 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
+          -
+            handle: description
+            field:
+              character_limit: '500'
+              antlers: false
+              type: textarea
+              display: Description
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
   sidebar:
     display: Sidebar
     sections:
