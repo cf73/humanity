@@ -340,6 +340,23 @@ description:
           -
             type: link
             attrs:
+              href: 'https://testing123.art/cp/collections/books/entries/2a9737ad-cc75-4889-889c-69f345ea0063'
+              rel: null
+              target: null
+              title: null
+        text: 'Taking Care of the Earth Hardcover – 1996'
+      -
+        type: text
+        text: '  Laurence Pringle'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
               href: 'https://www.goodreads.com/book/show/57137213-earth-will-survive'
               rel: null
               target: null
@@ -743,5 +760,5 @@ description:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708028297
+updated_at: 1708028663
 ---
