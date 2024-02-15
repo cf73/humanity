@@ -145,7 +145,38 @@ description:
         marks:
           -
             type: bold
-        text: 'Here are our initial choices, beginning with how to discover news you can trust:'
+        text: 'Here are our initial choices:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'The Earthshot Prize     '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://earthshotprize.org/get-involved/'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: 'https://earthshotprize.org/get-involved/'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Next, how to discover news you can trust:'
   -
     type: paragraph
     content:
@@ -669,5 +700,5 @@ description:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707485630
+updated_at: 1708002514
 ---
