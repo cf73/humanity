@@ -41,9 +41,20 @@ description:
         type: hardBreak
       -
         type: text
+        text: '       '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: ' '
+      -
+        type: text
         marks:
           -
             type: bold
+          -
+            type: italic
         text: 'Opening the hearts of children'
   -
     type: paragraph
@@ -139,7 +150,17 @@ description:
         text: 'In fact, we are looking for young volunteers, anywhere in the world, who would like to take on the challenge of finding the best books, in any language, and helping develop this section into a place to discover new friends from across the planet. Please write us at peace@humanity.org if interested.'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: '        '
       -
         type: text
         marks:
@@ -154,7 +175,15 @@ description:
         marks:
           -
             type: bold
-        text: 'The Earthshot Prize     '
+          -
+            type: italic
+        text: 'The Earthshot Prize'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '     '
       -
         type: text
         marks:
@@ -170,13 +199,15 @@ description:
         text: 'https://earthshotprize.org/get-involved/'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Next, how to discover news you can trust:'
+        text: '        Next, how to discover news you can trust:'
   -
     type: paragraph
     content:
@@ -291,13 +322,15 @@ description:
         text: '“Impassioned, thorough, and brilliant: describes the struggle for truth that keeps the world from descending into chaos (Harvard Book Store).”'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Or the effect humans are having on the planet:'
+        text: '        Or the effect humans are having on the planet:'
   -
     type: paragraph
     content:
@@ -382,13 +415,15 @@ description:
         text: 'by Stacy McAnulty'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Or how YOU hold the key to the future:'
+        text: '        Or how YOU hold the key to the future:'
   -
     type: paragraph
     content:
@@ -439,13 +474,15 @@ description:
         text: 'by Traci Sorell'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Or about how to get along with other Earthlings:'
+        text: '        Or about how to get along with other Earthlings:'
   -
     type: paragraph
     content:
@@ -476,13 +513,15 @@ description:
         text: 'by Erin Bow'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Or amazing stories:'
+        text: '        Or amazing stories:'
   -
     type: paragraph
     content:
@@ -559,13 +598,15 @@ description:
         text: 'by Kwame Alexander and Kadir Nelson'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: Or…
+        text: '        Or…'
   -
     type: paragraph
     content:
@@ -634,10 +675,12 @@ description:
         text: 'China / by Jimmy Nelson'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
-        text: 'P. S. '
+        text: '       P. S. '
       -
         type: text
         marks:
@@ -700,5 +743,5 @@ description:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708002514
+updated_at: 1708027977
 ---
