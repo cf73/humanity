@@ -47,11 +47,13 @@
     </div>
 </section> -->
 
-{{partial:donorcluster thischallenge="climate-action"}}
-
-{{partial:donorcluster thischallenge="preserving-democracy"}}
-
-{{partial:donorcluster thischallenge="cultivating-peace"}}
+<section id="challenges" class="relative z-50 text-white">
+    {{nav from="challenges"}}
+    
+        {{partial:donorcluster thischallenge="{{slug}}"}}
+ 
+    {{/nav}}
+</section>
 
 <section id="featured" class="">
     <div class="container mx-auto space-y-8">
@@ -79,15 +81,6 @@
     <div class="font-bold text-center uppercase tracking-wider">
         &mdash; Greta Thunberg
     </div>
-</section>
-            
-
-<section id="challenges">
-    {{nav from="challenges"}}
-    <a href="{{url}}">
-        <li>{{title}}</li>
-    </a>
-    {{/nav}}
 </section>
 
 <section id="trending" class="bg-green-50 py-8">

@@ -48,13 +48,24 @@ gsap.to('#earth', {
 gsap.to('#initiatives', {
     scrollTrigger: {
     trigger: "#invisibleScrollController",
-    start: "top -90%",
-    end: "bottom -90%",
+    start: "top -40%",
+    end: "bottom -50%",
     toggleActions: "restart reset reverse reset",
     scrub: false,
     // markers: true,
     },
     opacity: 1
+});
+gsap.to('#initiatives', {
+    scrollTrigger: {
+    trigger: "#invisibleScrollController",
+    start: "bottom -10%",
+    end: "bottom -20%",
+    toggleActions: "restart reset reverse reset",
+    scrub: false,
+    // markers: true,
+    },
+    opacity: 0
 });
 
 
