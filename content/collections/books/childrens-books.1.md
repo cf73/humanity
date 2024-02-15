@@ -508,6 +508,18 @@ description:
         marks:
           -
             type: bold
+        text: "Why the World Isn't Fair    "
+      -
+        type: text
+        text: 'by  Yuval Noah Harari  2024'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
           -
             type: italic
         text: 'I Have the Right'
@@ -760,5 +772,5 @@ description:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708028758
+updated_at: 1708029226
 ---
