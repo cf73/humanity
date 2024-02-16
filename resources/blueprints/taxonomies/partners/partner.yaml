@@ -32,6 +32,16 @@ tabs:
               validate:
                 - required
           -
+            handle: charity_navigator_rating
+            field:
+              type: integer
+              display: 'Charity Navigator Rating'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
             handle: website
             field:
               input_type: text
