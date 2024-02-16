@@ -15,7 +15,8 @@
         <h1 id="itstime" class="absolute text-white w-2/3 opacity-0">It's time to rescue our humanity</h1>
     </div>
     <div id="initiatives" class="flex flex-col items-center text-white z-50 w-full text-center text-6xl text-bold opacity-0">
-        {{collection:partner_initiatives as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives driving action for one world
+        {{intro}}
+        <!-- {{collection:partner_initiatives as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives driving action for one world -->
     </div>
 </div>
 
@@ -47,12 +48,24 @@
     </div>
 </section> -->
 
-<section id="challenges" class="relative z-50 text-white">
-    {{nav from="challenges"}}
-    
-        {{partial:donorcluster thischallenge="{{slug}}"}}
- 
-    {{/nav}}
+<section id="challenges" class="relative z-50 text-white pb-32">
+    <div class="grid grid-cols-3">
+        {{nav from="challenges"}}
+            <a href="{{url}}">
+                <div class="flex flex-col items-center text-center space-y-8">
+                    <h1>{{title}}</h1>
+                    <div>{{collection:partner_initiatives challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives</div>
+                </div>
+            </a>
+        {{/nav}}
+    </div>
+</section>
+
+<section class="bg-white w-full relative z-50">
+    <div class="container mx-auto py-16">
+        <h1>How it works</h1>
+        <p>We partner with on-the-ground initiatives all over the world, hand-selected for high impact, and led by individuals.</p>
+    </div>
 </section>
 
 <section id="featured" class="">
