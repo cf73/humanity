@@ -5,12 +5,78 @@ title: 'Cultivating Peace'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708059649
+updated_at: 1708060421
 section_builder:
   -
     id: lsgtt24w
     talks: e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
     type: talks
+    enabled: true
+  -
+    id: lso71hqp
+    interstitial_text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Humankind continues to reshape the surface of the planet — so often at the expense of our future, as in this BBC '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.bbc.com/future/article/20231222-how-humans-have-changed-earths-surface-in-2023'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'summary on what we have done in this past year alone (12/27/23)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'And one of the less noticed effects of the continued violence of the human species is to dramatically effect carbon release into the Earth’s atmosphere, as in this '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'recent '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: italic
+            text: 'Guardian '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'report on the Mid-East war (1/10/24)'
+          -
+            type: text
+            text: .
+    type: interstitial_text
     enabled: true
   -
     id: lsgttcyk
