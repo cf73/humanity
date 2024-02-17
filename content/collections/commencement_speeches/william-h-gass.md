@@ -1,7 +1,7 @@
 ---
 id: 2a65a221-e8cd-4752-a899-703eb55c5036
 blueprint: commencement_speech
-title: 'William H. Gass'
+title: '*** William Howard Gass  --  "On Learning to Talk"'
 location: 'Washington University, St. Louis, Missouri  USA'
 date: '1979-06-04'
 url: 'https://humanity.org/wp-content/uploads/2023/06/Gass_69_72_11-1024x675-1.jpg'
@@ -17,9 +17,6 @@ description:
         text: 'William Howard Gass (born 1924) is an American novelist, short story writer, essayist, critic, and former philosophy professor at Washington University. A consummate author, Dr Gass called his fiction works “experimental constructions”. A revised version of this speech was included in the book of essays entitled “Habitations of the Word”, which won the National Book Critics Circle Award in 1985.'
   -
     type: paragraph
-    content:
-      -
-        type: hardBreak
 transcript:
   -
     type: paragraph
@@ -281,5 +278,5 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707602636
+updated_at: 1708194137
 ---
