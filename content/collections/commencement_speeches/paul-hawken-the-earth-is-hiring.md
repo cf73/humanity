@@ -1,7 +1,7 @@
 ---
 id: e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
 blueprint: commencement_speech
-title: '*** Paul Hawken "The Earth is Hiring”'
+title: '*** Paul Hawken  --  "The Earth is Hiring”'
 location: 'University of Portland. Portland, Oregon USA'
 date: '2009-05-03'
 url: 'https://humanity.org/wp-content/uploads/2022/09/clip_image001.gif'
@@ -175,7 +175,7 @@ transcript:
         type: text
         text: "\_You are graduating to the most amazing, stupefying challenge ever bequeathed to any generation. The generations before you failed. They didn’t stay up all night. They got distracted and lost sight of the fact that life is a miracle every moment of your existence. Nature beckons you to be on her side. You couldn’t ask for a better boss. The most unrealistic person in the world is the cynic, not the dreamer. Hope only makes"
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707919872
+updated_at: 1708138610
 description:
   -
     type: paragraph
