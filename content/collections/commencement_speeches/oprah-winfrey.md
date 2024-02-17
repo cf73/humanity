@@ -1,7 +1,7 @@
 ---
 id: ecd34d1f-9510-468f-9b8e-4f6d6c678fbf
 blueprint: commencement_speech
-title: 'Oprah Winfrey'
+title: 'Oprah Winfrey  --  "Be the Truth"'
 location: 'University of Southern California, Los Angeles, California USA'
 date: '2018-05-11'
 url: 'https://humanity.org/wp-content/uploads/2022/09/oprah-winfrey-speaks-at-the-usc-annenberg-school-for-communication-picture-id957485780-1024x672.jpeg'
@@ -15,6 +15,10 @@ description:
           -
             type: italic
         text: "Born in a small Mississippi town in 1954, Oprah Winfrey has become an influential and highly respected talk show host, author, philanthropist, actress, and media personality. She plays a key role in modern American life, helping shape cultural trends and fearlessly promoting civil and human rights.\_In this speech, Oprah calls on graduates of journalism and communications to battle bias, hysteria, and misinformation spread in the media by employing sharp critical thinking, challenging the narrati"
+  -
+    type: paragraph
+  -
+    type: paragraph
 transcript:
   -
     type: paragraph
@@ -33,6 +37,12 @@ transcript:
       -
         type: text
         text: ' from Annenberg News'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '-----------'
   -
     type: paragraph
     content:
@@ -473,5 +483,5 @@ transcript:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707696420
+updated_at: 1708212514
 ---
