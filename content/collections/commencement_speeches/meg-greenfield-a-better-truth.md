@@ -201,5 +201,7 @@ transcript:
         type: text
         text: "A better truth, not necessarily a more positive or friendly or comfortable one, or even a contradictory truth, but one that is larger, roomier, more complex and more authentic than any one-shot version can be. That is what journalism, yours and mine, ideally will be about. Keep the faith. Do the profession proud. We need all the help we can\_get."
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708193260
+updated_at: 1708213313
+challenges:
+  - cultivating-peace
 ---
