@@ -1,7 +1,7 @@
 ---
 id: 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
 blueprint: in_the_news
-title: '198 methods of non-violent action for ending war...'
+title: '*** 198 methods of non-violent action for ending war...'
 image: palestine-luke.jpeg
 url: 'https://www.aeinstein.org/198-methods-of-nonviolent-action'
 description:
@@ -52,8 +52,8 @@ description:
         type: hardBreak
 challenges:
   - cultivating-peace
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1707513388
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1708137413
 content:
   -
     type: paragraph
