@@ -1,7 +1,7 @@
 ---
 id: dfae34a8-30a5-4e7c-89d7-a33917e780d8
 blueprint: partner_initiative
-title: 'Join the Marine Microplastics Initiative'
+title: 'Join the Marine Microplastics Initiative, sponsored by the Woods Hole Oceanographic Institution'
 description:
   -
     type: paragraph
@@ -18,10 +18,26 @@ description:
       -
         type: text
         text: "\_of plastics enter our oceans each year, yet only one percent can be seen floating at the surface. Where the rest ends up is not well understood."
-image: microplastics.jpg
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://microplastics.whoi.edu/about/opportunities/'
+              rel: null
+              target: null
+              title: null
+        text: 'https://microplastics.whoi.edu/about/opportunities/'
+image: image-1708138158.jpeg
 challenges:
   - climate-action
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707848932
+updated_at: 1708138174
 partner: woods-hole-oceanographic-institution
 ---
