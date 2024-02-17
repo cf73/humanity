@@ -1,7 +1,7 @@
 ---
 id: fab94cb3-0c49-48a3-af62-e8ea16f88bc3
 blueprint: commencement_speech
-title: 'Dr. Martha  C. Nussbaum  "Compassionate Citizenship"'
+title: 'Dr. Martha  C. Nussbaum  --  "Compassionate Citizenship"'
 location: 'Georgetown University, Washington D. C. USA'
 date: '2003-05-13'
 url: 'https://humanity.org/wp-content/uploads/2023/01/R.a4c177dc2545ec679792303d0839e245.jpeg'
@@ -178,5 +178,12 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707601634
+updated_at: 1708138896
+description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Dr. Nussbaum'
 ---
