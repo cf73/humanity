@@ -1,7 +1,7 @@
 ---
 id: f14dfdf9-50fa-42df-ad0b-510e98b21d93
 blueprint: commencement_speech
-title: '*** 24 empowering and inspirational commencement addresses, 1838 – 2024'
+title: '*** 32 empowering and inspirational commencement addresses, 1838 – 2024'
 location: 'University commencements'
 date: '1839-08-24'
 description:
@@ -153,5 +153,7 @@ description:
         type: hardBreak
 url: 'https://www.youtube.com/watch?v=0fkKnfk4k40'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707919829
+updated_at: 1708195911
+challenges:
+  - cultivating-peace
 ---
