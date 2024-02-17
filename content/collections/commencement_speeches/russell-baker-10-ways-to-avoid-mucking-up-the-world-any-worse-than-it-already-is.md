@@ -1,7 +1,7 @@
 ---
 id: bd4a6f24-7396-4c5c-8320-b1baebd12b5f
 blueprint: commencement_speech
-title: 'Russell Baker  --  “10 Ways to Avoid Mucking Up the World Any Worse Than It Already Is"'
+title: 'Russell Baker  --  “10 Ways to Avoid Mucking Up the World Any Worse Than It Already Is."'
 location: 'Connecticut College, New London, Connecticut USA'
 date: '1995-05-27'
 url: mmm
@@ -316,5 +316,5 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708195870
+updated_at: 1708213184
 ---
