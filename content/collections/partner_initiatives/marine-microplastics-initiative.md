@@ -34,10 +34,10 @@ description:
               target: null
               title: null
         text: 'https://microplastics.whoi.edu/about/opportunities/'
-image: image-1708138158.jpeg
+image: youngs-img_6787.jpg
 challenges:
   - climate-action
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708138174
+updated_at: 1708139231
 partner: woods-hole-oceanographic-institution
 ---
