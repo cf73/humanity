@@ -49,16 +49,16 @@
 </section> -->
 
 <section id="challenges" class="relative z-50 text-white pb-32">
-    <div class="grid grid-cols-3">
-        {{nav from="challenges"}}
-            <a href="{{url}}">
-                <div class="flex flex-col items-center text-center space-y-8">
+    {{nav from="challenges"}}
+        <a href="{{url}}">
+            <div class="flex flex-col h-[800px] bg-gray-200 border-b-4 border-gray-400 justify-center space-y-8">
+                <div class="container mx-auto space-y-8">
                     <h1>{{title}}</h1>
-                    <div>{{collection:partner_initiatives challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives</div>
+                    <div class="text-6xl text-bold">{{collection:partner_initiatives challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives</div>
                 </div>
-            </a>
-        {{/nav}}
-    </div>
+            </div>
+        </a>
+    {{/nav}}
 </section>
 
 <section class="bg-white w-full relative z-50">
@@ -87,7 +87,7 @@
     </div>
 </section>
 
-<section class="py-48 space-y-8">
+<section class="py-48 space-y-8 text-white relative z-50">
     <div class="font-thin text-8xl text-center leading-tight px-36">
         "Don't look for hope.<br>Look for <span class="font-bold">action</span>."
     </div>
@@ -96,9 +96,9 @@
     </div>
 </section>
 
-<section id="trending" class="bg-green-50 py-8">
+<section id="trending" class="bg-green-50 py-8 relative z-50">
     <div class="container mx-auto space-y-16">
-        <h2>trending</h2>
+        <h2 class="text-white">trending</h2>
         <!-- <div class="swiper trendingSwiper">
             <div class="swiper-wrapper">
                 {{featured}}
@@ -118,8 +118,8 @@
     </div>
 </section>
 
-<section id="commencements" class="mt-32">
+<section id="commencements" class="mt-32 relative z-50">
     <div class="container mx-auto space-y-16">
-        <h2 class="">Commencement Speeches</h2>
+        <h2 class="text-white">Commencement Speeches</h2>
     </div>
 </section>
