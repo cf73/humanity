@@ -1,7 +1,7 @@
 ---
 id: 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
 blueprint: commencement_speech
-title: 'Steve Jobs  --  "Stay Hungry. Stay Foolish."'
+title: 'Steve Jobs  --  "Find What You Love"'
 location: 'Stanford University, Palo Alto, California'
 date: '2005-06-12'
 url: 'https://www.youtube.com/watch?v=UF8uR6Z6KLc'
@@ -213,7 +213,7 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708138737
+updated_at: 1708196013
 description:
   -
     type: paragraph
