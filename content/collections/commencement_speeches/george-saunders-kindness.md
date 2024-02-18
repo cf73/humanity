@@ -2,9 +2,12 @@
 id: cc16a060-6b0e-4fb8-86e6-82941952e7eb
 blueprint: commencement_speech
 title: '*** George Saunders  --  "Kindness"'
-location: 'Syracuse University, NY USA'
+location: 'Syracuse University, Syracuse, NY USA'
 date: '2013-05-11'
-url: 'https://humanity.org/wp-content/uploads/2023/05/saunders-1024x672.jpg'
+url: |-
+  https://humanity.org/wp-content/uploads/2023/05/saunders-1024x672.jpg
+
+  https://en.wikipedia.org/wiki/George_Saunders
 description:
   -
     type: paragraph
@@ -14,7 +17,7 @@ description:
         marks:
           -
             type: italic
-        text: 'George Saunders is an American writer of short stories, essays, novellas, and children’s books. A professor at Syracuse, Saunders has received both a MacArthur Fellowship and the PEN/Malamud Award, lauded for his compassionate and humorous stories of moral dilemmas and humanity. These values shine in his speech centered on striving for kindness and embracing the challenges of that ambition.'
+        text: 'George Saunders is an American writer of short stories, essays, novellas, and children’s books. A professor at Syracuse, Saunders has received both a MacArthur Fellowship and the PEN/Malamud Award, lauded for his compassionate and humorous stories of moral dilemmas and humanity. These values shine in this speech, centered on striving for kindness.'
   -
     type: paragraph
 transcript:
@@ -460,5 +463,5 @@ transcript:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708138573
+updated_at: 1708295254
 ---
