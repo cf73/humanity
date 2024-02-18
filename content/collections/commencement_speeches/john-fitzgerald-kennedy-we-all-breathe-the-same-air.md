@@ -11,7 +11,13 @@ description:
     content:
       -
         type: text
-        text: 'John F. Kennedy was elected President of the United States in 1960. After less than three years in office he was assassinated as his motorcade wound through Dallas, Texas. Kennedy wished to resume the mission of Woodrow Wilson to encourage a revolution in human rights, not just within the United States but for the entire planet. Further, growing up in the shadow of the 2nd World War and the Cold War, he intensely aspired to "a world of law and free choice, banishing the world of war and coercion'
+        text: 'John F. Kennedy was elected President of the United States in 1960. After less than three years in office he was assassinated as his motorcade wound through Dallas, Texas. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Kennedy wished to encourage a revolution in human rights, not just within the United States but for the entire planet. Further, growing up in the shadows of the 2nd World War and the Cold War, he intensely aspired to "a world of law and free choice, banishing the world of war and coercion."'
 transcript:
   -
     type: paragraph
@@ -322,7 +328,7 @@ transcript:
         type: text
         text: "The United States, as the world knows, will never start a war. We do not want a war. We do not now expect a war. This generation of Americans has already had enough, more than enough, of war and hate and oppression. We shall be prepared if others wish it. We shall be alert to try to stop it. But we shall also do our part to build a world of peace where the weak are safe and the strong are just. We are not helpless before that task or hopeless of its success. Confident and unafraid, we must labor on, not toward a strategy of annihilation but toward a strategy of\_peace.\_"
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708195508
+updated_at: 1708295510
 challenges:
   - cultivating-peace
 ---
