@@ -1,7 +1,7 @@
 ---
 id: a92555a1-da6e-4db9-9054-ca26749a9664
 blueprint: commencement_speech
-title: '*** Tom Hanks  --  "If You Don''t, Who Will?"'
+title: '*** Tom Hanks  --  "Truth and Indifference"'
 location: 'Harvard University, Cambridge, Massachusetts'
 date: '2023-05-25'
 description:
@@ -49,5 +49,5 @@ url: 'https://www.youtube.com/watch?v=dkPo5nfEk1w&t=1s'
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708214922
+updated_at: 1708215375
 ---
