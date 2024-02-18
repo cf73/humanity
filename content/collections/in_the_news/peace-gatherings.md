@@ -1,7 +1,7 @@
 ---
 id: e1912d5b-c259-42ca-aa14-01faa3424173
 blueprint: in_the_news
-title: 'Peace Gatherings'
+title: '*** Peace Gatherings'
 image: palestine-luke.jpeg
 description:
   -
@@ -23,8 +23,8 @@ description:
         text: ' how your neighborhood can help to end war – with contagious peace.'
 challenges:
   - cultivating-peace
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1707514042
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1708137438
 content:
   -
     type: paragraph

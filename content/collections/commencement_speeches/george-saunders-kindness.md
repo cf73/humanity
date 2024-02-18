@@ -1,7 +1,7 @@
 ---
 id: cc16a060-6b0e-4fb8-86e6-82941952e7eb
 blueprint: commencement_speech
-title: '*** George Saunders: "Kindness"'
+title: '*** George Saunders  --  "Kindness"'
 location: 'Syracuse University, NY USA'
 date: '2013-05-11'
 url: 'https://humanity.org/wp-content/uploads/2023/05/saunders-1024x672.jpg'
@@ -460,5 +460,5 @@ transcript:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707919679
+updated_at: 1708138573
 ---

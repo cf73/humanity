@@ -1,7 +1,7 @@
 ---
 id: b63d419a-4073-4e24-9a1e-59ea5ecd489d
 blueprint: commencement_speech
-title: '*** Ursula K LeGuin'
+title: '*** Ursula K LeGuin  --  "A Left-handed Commencement Address"'
 location: 'Mills College, Oakland, California USA'
 date: '1983-05-18'
 description:
@@ -10,12 +10,12 @@ description:
     content:
       -
         type: text
-        text: '[need to add description here]'
+        text: 'Ms Le Guin (1929 - 2018) was an astonishingly perceptive and original literary voice. In the recent words of The Guardian, she was "sane, committed, annoyed, humorous, wise and always intelligent." She lived in Oregon.'
 url: 'https://s3.amazonaws.com/walrus-assets/img/20180126132252/WEB_LeGuin_Art.jpg'
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707920212
+updated_at: 1708213380
 transcript:
   -
     type: paragraph

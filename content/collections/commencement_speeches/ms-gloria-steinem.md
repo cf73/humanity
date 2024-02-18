@@ -1,7 +1,7 @@
 ---
 id: 3c9aefca-a9fe-4455-86b6-0585897d6854
 blueprint: commencement_speech
-title: '*** Ms. Gloria Steinem'
+title: '*** Ms. Gloria Steinem  --  "What I Know Now That I Wish I''d Known Then"'
 location: 'Tufts University, Medford, Massachusetts USA'
 date: '1987-05-17'
 url: 'https://humanity.org/wp-content/uploads/2022/12/gloria-steinem.jpg'
@@ -16,11 +16,6 @@ transcript:
   -
     type: paragraph
     content:
-      -
-        type: hardBreak
-        marks:
-          -
-            type: bold
       -
         type: text
         text: "Mr. President – at last I can say that with pleasure \_– and administrators of the university and all its schools – their family, friends and significant others –\_Faculty with tenure. Faculty without tenure –\_Parents and families of graduates. Step parents and chosen family of graduates – and anyone else who helped pay the bills –\_Friends and lovers of graduates (you know who you are) –\_Also students who someday will graduate, returning graduates, and people who just stopped by to watch because, like me, you are commencement junkies –\_Staff members who house, feed and maintain all of the above, as well as preparing this ceremony\_–\_"
@@ -633,5 +628,5 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707920430
+updated_at: 1708193581
 ---
