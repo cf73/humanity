@@ -18,24 +18,19 @@ description:
       -
         type: text
         text: .
-transcript:
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'http://www.washingtonpost.com/blogs/post-partisan/wp/2015/05/12/michelle-obamas-forceful-speech-on-race-at-tuskegee-university/'
-              rel: 'noreferrer noopener'
-              target: _blank
-              title: null
-        text: 'Read more'
+        text: 'Read more from the '
       -
         type: text
-        text: ' from the Washington Post'
+        marks:
+          -
+            type: italic
+        text: 'Washington Post'
+transcript:
   -
     type: paragraph
     content:
@@ -462,7 +457,7 @@ transcript:
       -
         type: hardBreak
 challenges:
-  - cultivating-peace
+  - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708138593
+updated_at: 1708296096
 ---
