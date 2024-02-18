@@ -14,7 +14,16 @@ description:
         marks:
           -
             type: italic
-        text: 'William Howard Gass (born 1924) is an American novelist, short story writer, essayist, critic, and former philosophy professor at Washington University. A consummate author, Dr Gass called his fiction works “experimental constructions”. A revised version of this speech was included in the book of essays entitled “Habitations of the Word”, which won the National Book Critics Circle Award in 1985.'
+        text: 'William Howard Gass (1924  -  2017) was an American novelist, short story writer, essayist, critic, and former philosophy professor at Washington University. A consummate author, Dr Gass called his fiction works “experimental constructions”. A revised version of this speech was included in the book of essays entitled “'
+      -
+        type: text
+        text: 'Habitations of the Word'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '”, which won the National Book Critics Circle Award in 1985.'
   -
     type: paragraph
 transcript:
@@ -278,5 +287,5 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708194137
+updated_at: 1708297266
 ---
