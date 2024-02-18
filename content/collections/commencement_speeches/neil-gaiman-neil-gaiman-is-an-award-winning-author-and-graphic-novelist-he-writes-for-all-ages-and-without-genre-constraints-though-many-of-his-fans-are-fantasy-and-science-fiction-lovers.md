@@ -2,7 +2,7 @@
 id: 294e8080-c753-4588-896c-6be5c13e534c
 blueprint: commencement_speech
 title: 'Neil Gaiman  --  "Make Good Art"'
-location: 'University of the Arts, Philadelphia'
+location: 'University of the Arts, Philadelphia, Pennsylvania USA'
 date: '2012-05-17'
 url: |-
   https://humanity.org/wp-content/uploads/2023/05/neil.jpg
@@ -17,7 +17,7 @@ description:
         marks:
           -
             type: italic
-        text: ' Neil Gaiman is an award-winning author and graphic novelist. He writes for all ages and without genre constraints – though many of his fans are fantasy and science fiction lovers. This speech, which received international acclaim, urges artists to practice their craft with audacity, not least to take time to fully enjoy their creative process.'
+        text: 'Neil Gaiman is an award-winning author and graphic novelist. He writes for all ages and without genre constraints – though many of his fans are fantasy and science fiction lovers. This speech, which received international acclaim, urges artists to practice their craft with audacity, not least to take time to fully enjoy their creative process.'
 transcript:
   -
     type: paragraph
@@ -572,5 +572,7 @@ transcript:
       -
         type: hardBreak
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708138974
+updated_at: 1708298023
+challenges:
+  - cultivating-peace
 ---
