@@ -1,7 +1,7 @@
 ---
 id: 199fc2ee-1952-41c0-8c52-04fb6f160e72
 blueprint: commencement_speech
-title: 'E. O. Wilson'
+title: 'E. O. Wilson  --  "What We Wish to Become?'
 location: 'University of North Carolina, Chapel Hill, North Carolina  USA'
 date: '2011-05-08'
 url: 'https://www.youtube.com/watch?v=IzPcu0-ETTU'
@@ -231,5 +231,5 @@ transcript:
 challenges:
   - climate-action
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707701312
+updated_at: 1708215952
 ---
