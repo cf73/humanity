@@ -30,6 +30,9 @@ transcript:
       -
         type: text
         text: '-----------------'
+  -
+    type: paragraph
+    content:
       -
         type: hardBreak
       -
@@ -117,12 +120,12 @@ challenges:
   - cultivating-peace
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708196210
+updated_at: 1708297109
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Toni Morrison see below to fit....'
+        text: 'See description below, before her speech transcript begins.'
 ---
