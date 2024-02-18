@@ -14,12 +14,7 @@ description:
         marks:
           -
             type: italic
-        text: "Born in a small Mississippi town in 1954, Oprah Winfrey has become an influential and highly respected talk show host, author, philanthropist, actress, and media personality. She plays a key role in modern American life, helping shape cultural trends and fearlessly promoting civil and human rights.\_In this speech, Oprah calls on graduates of journalism and communications to battle bias, hysteria, and misinformation spread in the media by employing sharp critical thinking, challenging the narrati"
-  -
-    type: paragraph
-  -
-    type: paragraph
-transcript:
+        text: "Born in a small Mississippi town in 1954, Oprah Winfrey has become an influential and highly respected talk show host, author, philanthropist, actress, and media personality. She plays a key role in modern American life, helping shape cultural trends and fearlessly promoting civil and human rights.\_"
   -
     type: paragraph
     content:
@@ -27,22 +22,15 @@ transcript:
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'https://annenberg.usc.edu/news/commencement/oprah-winfrey-urges-usc-annenberg-graduates-seek-truth'
-              rel: 'noreferrer noopener'
-              target: _blank
-              title: null
-        text: 'Read more'
-      -
-        type: text
-        text: ' from Annenberg News'
+            type: italic
+        text: 'Oprah calls on graduates of journalism and communications to battle bias, hysteria, and misinformation spread in the media by employing sharp critical thinking, challenging the narrative.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: '-----------'
+  -
+    type: paragraph
+  -
+    type: paragraph
+transcript:
   -
     type: paragraph
     content:
@@ -483,5 +471,5 @@ transcript:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708212514
+updated_at: 1708298150
 ---
