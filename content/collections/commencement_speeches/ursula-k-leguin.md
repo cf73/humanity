@@ -10,12 +10,21 @@ description:
     content:
       -
         type: text
-        text: 'Ms Le Guin (1929 - 2018) was an astonishingly perceptive and original literary voice. In the recent words of The Guardian, she was "sane, committed, annoyed, humorous, wise and always intelligent." She lived in Oregon.'
+        text: 'Ms Le Guin (1929 - 2018) was an astonishingly perceptive and original literary voice. In the recent words of '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Guardian'
+      -
+        type: text
+        text: ', she was "sane, committed, annoyed, humorous, wise and always intelligent." She lived in Oregon.'
 url: 'https://s3.amazonaws.com/walrus-assets/img/20180126132252/WEB_LeGuin_Art.jpg'
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708213380
+updated_at: 1708297162
 transcript:
   -
     type: paragraph
