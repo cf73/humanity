@@ -2,7 +2,7 @@
 id: 3b334a81-f6d2-4f3b-ab0f-d09bb350cb09
 blueprint: commencement_speech
 title: '*** Meg Greenfield  --  "A Better Truth"'
-location: 'Williams College, Williamstown, Massachusetts'
+location: 'Williams College, Williamstown, Massachusetts USA'
 date: '1987-06-14'
 url: 'Meg Greenfield'
 description:
@@ -11,7 +11,25 @@ description:
     content:
       -
         type: text
-        text: 'For twenty years, Mary Ellen Greenfield was the highly-respected editor of the Washington Post opinion page and a columnist for Newsweek. On the day of her death in 1999, Roger Rosenblatt said, "All Washington gathered to her, not for her influence as an opinion-maker, but for her wit, her common sense and her heart."'
+        text: 'For twenty years, Mary Ellen Greenfield was the highly-respected editor of the '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Washington Post'
+      -
+        type: text
+        text: ' opinion page and a columnist for '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Newsweek
+      -
+        type: text
+        text: '. On the day of her death in 1999, Roger Rosenblatt said, "All Washington gathered to her, not for her influence as an opinion-maker, but for her wit, her common sense and her heart."'
   -
     type: paragraph
 transcript:
@@ -201,7 +219,8 @@ transcript:
         type: text
         text: "A better truth, not necessarily a more positive or friendly or comfortable one, or even a contradictory truth, but one that is larger, roomier, more complex and more authentic than any one-shot version can be. That is what journalism, yours and mine, ideally will be about. Keep the faith. Do the profession proud. We need all the help we can\_get."
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708213313
+updated_at: 1708295948
 challenges:
   - cultivating-peace
+  - preserving-democracy
 ---
