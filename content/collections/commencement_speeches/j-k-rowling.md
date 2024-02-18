@@ -11,7 +11,7 @@ description:
     content:
       -
         type: text
-        text: 'Failure and imagination.'
+        text: 'J.K. Rowling is the author of the hugely popular Harry Potter books. She was born as Joanne Rowling on July 31, 1965, in Gloucestershire, England. Rowling started writing about Harry Potter after graduating from the University of Exeter. After a brief marriage and the birth of her daughter, Rowling settled in Edinburgh and lived on public assistance between stints as a French teacher and writing.'
 transcript:
   -
     type: paragraph
@@ -319,5 +319,5 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708138807
+updated_at: 1708297859
 ---
