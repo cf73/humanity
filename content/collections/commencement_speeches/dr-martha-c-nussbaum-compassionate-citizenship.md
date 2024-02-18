@@ -11,18 +11,27 @@ transcript:
     content:
       -
         type: text
+        marks:
+          -
+            type: italic
         text: 'Most graduation speakers receive an honorary degree. Here, as an excellent example of how they often are phrased, is Dr. Nussbaum’s:'
   -
     type: paragraph
     content:
       -
         type: text
+        marks:
+          -
+            type: italic
         text: '“Martha Nussbaum has given new life to the ancient vocation of the philosopher, understood as a thinker who both pursues deep questions about justice and the good and defends humanity’s highest ideals in the public forum. She has helped us see that the greatest human goods are fragile; that our emotions of love and loss, and their narrative depiction in literature, rightly record this fact; and that the capabilities for living a good human life of the most fragile and vulnerable among us, the women and children of the developing world, deserve shelter and support from their governments and from us all. Although critical of the Stoics’ assessment of our emotions, she has become a premier defender of the cosmopolitan ideal, which has come down to us from the Stoics via Immanuel Kant. Like her beloved Aristotle, Professor Nussbaum does not shrink from examining all sides of human nature. Chided for spending his time studying the movement and digestion of shellfish, Aristotle responded that ‘in every natural thing there is something wonderful.’ Having told us that story, Professor Nussbaum has gone on to examine all of humanity’s wonderful aspects, from our most sublime to what it is that we consider shameful and disgusting.'
   -
     type: paragraph
     content:
       -
         type: text
+        marks:
+          -
+            type: italic
         text: 'Her many prize-winning books and hundreds of published essays cover topics from cosmopolitanism to cloning, from Aristotle’s Movement of Animals to Orwell’s 1984. She has contributed greatly to our understanding of the ideal of liberal education with her book, Cultivating Humanity, winner in 2002 of the Grawemeyer Award in Education. In a forthcoming work, Hiding from Humanity: Disgust, Shame, and the Law – depending on how one counts, perhaps her eleventh book – she examines how disgust and shame themselves can reflect and distort our moral judgment. For her contributions to the study of the ancients, which help us understand ourselves; for her inspired engagement with the full range of human artistic and literary achievement and her insistence on showing us how philosophy can learn from poetry; and for her passionate commitment to understanding and bettering the plight of the least fortunate, Georgetown University is proud to confer upon Martha C. Nussbaum the degree of Doctor of Humane Letters, honoris causa.”'
   -
     type: paragraph
@@ -178,12 +187,12 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708138896
+updated_at: 1708297349
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Dr. Nussbaum'
+        text: 'See description of Dr. Nussbaum below, before the transcript begins.'
 ---
