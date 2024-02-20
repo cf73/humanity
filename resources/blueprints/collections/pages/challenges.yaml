@@ -48,7 +48,7 @@ tabs:
               replicator_preview: true
               hide_display: false
           -
-            handle: collections
+            handle: challenges
             field:
               options:
                 articles: Articles
