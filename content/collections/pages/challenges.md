@@ -10,5 +10,8 @@ introduction_to_challenges:
         type: text
         text: 'Intro to all the challenges we face here'
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708447900
+updated_at: 1708448590
+filters:
+  - articles
+  - talks
 ---
