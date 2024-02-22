@@ -1,4 +1,4 @@
-<!-- <div id="hero-area" class="w-full h-screen flex items-center relative justify-center bg-black">
+<div id="hero-area" class="w-full h-[66vh] flex items-center relative justify-center bg-black">
     <video id="earth" src="{{main_image}}" autoplay muted loop style="
     position: absolute;
     top: 0;
@@ -10,68 +10,142 @@
     <div class="flex flex-col items-center space-y-16 relative z-10 w-full text-center">
         <h1 id="itstime" class="absolute text-white w-2/3">{{title}}</h1>
     </div>
-</div> -->
+</div>
 
-
-<!-- {{partial:donate}} -->
-
-<swiper-container class="featuredSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="1.25"
-space-between="30" centered-slides="true">
-    {{collection:partner_initiatives challenges:contains="{{slug}}"}}
-        {{if no_results}}
-            <p class="light">No dealers here ... yet!</p>
-        {{else}}
-            <div class="swiper-slide" style="height: auto !important;">
-                {{partial:cardExploded}}
-            </div>
-        {{/if}}
-    {{/collection:partner_initiatives}}
-</swiper-container>
-          
-<section id="challengeIntro" class="pb-32">
-  <div class="container mx-auto space-y-4">
-    <h1>{{title}}</h1>
-    <div class="font-serif text-2xl w-2/3 leading-loose">{{challenge_intro}}</div>
-  </div>
-</section>
-
-<section class="space-y-32 mb-64">
-  <div class="container mx-auto space-y-32">
-    {{ section_builder }}
-      {{ if type == "talks" }}
-        <div class="bg-green rounded w-2/3 p-4 flex flex-col items-center space-y-4">
-            <img src="{{talks:image}}" alt="{{talks:title}}" width="70%">
-            <div class="flex flex-row">
-              <div class="w-1/2 space-y-8">
-                <div class="font-extrabold text-softblack text-5xl">{{talks:title}}</div>
-                  <!-- {{partial:tag label="TALKS"}} -->
-                  <div><a href="{{talks:link}}"><button>Check it out</button></a></div>
-              </div>
-              <div class="font-bold leading-tight w-1/2 mx-auto flex flex-col justify-center">{{talks:description}}</div>
-            </div>
+<main class="space-y-32">
             
-          </div>
-      {{ elseif type == "interstitial_text" }}
-        <div class="w-1/2 mx-auto text-lg">
-          {{interstitial_text}}
-        </div>
-      {{ elseif type == "quotation" }}
-        <div class="flex flex-col items-center space-y-4">
-            <div class="font-serif text-3xl text-center leading-loose">{{ quotation:quotation }}</div>
-            <p>— {{ quotation:attribution }}</p>
-        </div>
-      {{ elseif type == "inspiring_image" }}
-        <figure>
-          <img src="{{ inspiring_image }}" alt="{{ caption }}" />
-          <figcaption>{{ caption }}</figcaption>
-        </figure>
-      {{ /if }}
-    {{ /section_builder }}
-  </div>
-</section>
+   <section id="challengeIntro" class="p-32">
+     <div class="container mx-auto space-y-4">
+       <div class="font-bold text-softblack text-5xl w-full leading-tight">{{challenge_intro}}</div>
+     </div>
+   </section>
+   
+   <section id="commencementSpeeches">
+     <div class="container mx-auto space-y-8">
+       <div class="uppercase text-3xl tracking-widest text-softblack">Commencement Speeches</div>
+       <swiper-container class="commencementSpeechesSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+       space-between="30">
+            {{collection:commencement_speeches challenges:contains="{{slug}}"}}
+              {{if no_results}}
+                  <p class="light">No content here ... yet!</p>
+              {{else}}
+                  <div class="swiper-slide" style="height: auto !important;">
+                      {{partial:card}}
+                  </div>
+              {{/if}}
+            {{/collection:commencement_speeches}}
+        </swiper-container>
+     </div>
+   </section>
+   
+   <seciont id="reflectiveMoment">
+   
+   </seciont>
+   
+   <section id="partnerStories">
+    <div class="container mx-auto space-y-8">
+      <div class="uppercase text-3xl tracking-widest text-softblack">Partner Stories</div>
+      <swiper-container class="partnerStoriesSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+      space-between="30">
+          {{collection:partner_stories challenges:contains="{{slug}}"}}
+            {{if no_results}}
+                <p class="light">No content here ... yet!</p>
+            {{else}}
+                <div class="swiper-slide" style="height: auto !important;">
+                    {{partial:card}}
+                </div>
+            {{/if}}
+          {{/collection:partner_stories}}
+      </swiper-container>
+    </div>
+   </section>
 
-<section>
-  <div class="flex flex-col items-center">
-    <div>See more {{title}} content</div>
-  </div>
-</section>
+   <section id="Books">
+    <div class="container mx-auto space-y-8">
+      <div class="uppercase text-3xl tracking-widest text-softblack">Books</div>
+      <swiper-container class="booksSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+      space-between="30">
+          {{collection:books challenges:contains="{{slug}}"}}
+            {{if no_results}}
+                <p class="light">No content here ... yet!</p>
+            {{else}}
+                <div class="swiper-slide" style="height: auto !important;">
+                    {{partial:card}}
+                </div>
+            {{/if}}
+          {{/collection:books}}
+      </swiper-container>
+    </div>
+   </section>
+
+   <section id="photography_contributions">
+    <div class="container mx-auto space-y-8">
+      <div class="uppercase text-3xl tracking-widest text-softblack">Photography Contributions</div>
+      <swiper-container class="photography_contributionsSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+      space-between="30">
+          {{collection:photography_contributions challenges:contains="{{slug}}"}}
+            {{if no_results}}
+                <p class="light">No content here ... yet!</p>
+            {{else}}
+                <div class="swiper-slide" style="height: auto !important;">
+                    {{partial:card}}
+                </div>
+            {{/if}}
+          {{/collection:photography_contributions}}
+      </swiper-container>
+    </div>
+   </section>
+
+   <section id="poetry_contributions">
+    <div class="container mx-auto space-y-8">
+      <div class="uppercase text-3xl tracking-widest text-softblack">Poetry Contributions</div>
+      <swiper-container class="poetry_contributionsSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+      space-between="30">
+          {{collection:poetry_contributions challenges:contains="{{slug}}"}}
+            {{if no_results}}
+                <p class="light">No content here ... yet!</p>
+            {{else}}
+                <div class="swiper-slide" style="height: auto !important;">
+                    {{partial:card}}
+                </div>
+            {{/if}}
+          {{/collection:poetry_contributions}}
+      </swiper-container>
+    </div>
+   </section>
+   
+   <section id="articles">
+     <div class="container mx-auto space-y-8">
+       <div class="uppercase text-3xl tracking-widest text-softblack">articles</div>
+       <swiper-container class="articlesSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+       space-between="30">
+           {{collection:articles challenges:contains="{{slug}}"}}
+            {{if no_results}}
+                <p class="light">No content here ... yet!</p>
+            {{else}}
+                <div class="swiper-slide" style="height: auto !important;">
+                    {{partial:card}}
+                </div>
+            {{/if}}
+           {{/collection:articles}}
+       </swiper-container>
+     </div>
+   </section>
+
+   <div class="container mx-auto space-y-8">
+    <div class="uppercase text-3xl tracking-widest text-softblack">Talks</div>
+    <swiper-container class="talksSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+    space-between="30">
+        {{collection:talks challenges:contains="{{slug}}"}}
+            {{if no_results}}
+                <p class="light">No content here ... yet!</p>
+            {{else}}
+                <div class="swiper-slide" style="height: auto !important;">
+                    {{partial:card}}
+                </div>
+            {{/if}}
+          {{/collection:talks}}
+      </swiper-container>
+    </div>
+ </main>
+
