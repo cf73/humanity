@@ -1,10 +1,9 @@
 ---
 id: 3c9aefca-a9fe-4455-86b6-0585897d6854
 blueprint: commencement_speech
-title: '*** Ms. Gloria Steinem  --  "What I Know Now That I Wish I''d Known Then"'
+title: "What I Know Now That I Wish I'd Known Then"
 location: 'Tufts University, Medford, Massachusetts USA'
 date: '1987-05-17'
-url: 'https://humanity.org/wp-content/uploads/2022/12/gloria-steinem.jpg'
 description:
   -
     type: paragraph
@@ -627,6 +626,8 @@ transcript:
         text: "\_For life is time, and time is all there\_is."
 challenges:
   - preserving-democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708193581
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1708573455
+speaker: 'Ms. Gloria Steinem'
+image: gloria-steinem.jpg
 ---
