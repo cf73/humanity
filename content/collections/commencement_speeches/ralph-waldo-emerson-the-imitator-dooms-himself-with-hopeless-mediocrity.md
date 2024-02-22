@@ -1,7 +1,7 @@
 ---
 id: 48a426ae-af93-404f-816c-29b3e34f8048
 blueprint: commencement_speech
-title: '*** Ralph Waldo Emerson  --   "The imitator dooms himself with hopeless mediocrity."'
+title: 'The imitator dooms himself with hopeless mediocrity'
 location: 'Harvard Divinity School, Cambridge, Massachusetts USA'
 date: '1838-07-15'
 description:
@@ -15,7 +15,7 @@ url: 'https://humanity.org/wp-content/uploads/2023/06/Ralph_Waldo_Emerson_by_Jos
 challenges:
   - preserving-democracy
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708571179
+updated_at: 1708571699
 transcript:
   -
     type: paragraph
@@ -308,4 +308,6 @@ transcript:
       -
         type: text
         text: "I look for the hour when that supreme Beauty, which ravished the souls of those eastern men, and chiefly of those Hebrews, and through their lips spoke oracles to all time, shall speak in the West also. The Hebrew and Greek Scriptures contain immortal sentences, that have been bread of life to millions. But they have no epical integrity; are fragmentary; are not shown in their order to the\_intellect. I look for the new Teacher, that shall follow so far those shining laws, that he shall see them come full circle; shall see their rounding complete grace; shall see the world to be the mirror of the soul; shall see the identity of the law of gravitation with purity of heart; and shall show that the Ought, that Duty, is one thing with Science, with Beauty,"
+speaker: 'Ralph Waldo Emerson'
+image: lithograph-ralph-waldo-emerson-leopold-grozelier-1859.webp
 ---
