@@ -13,6 +13,20 @@ tabs:
               validate:
                 - required
           -
+            handle: speaker
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Speaker
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
             handle: location
             field:
               antlers: false
@@ -37,6 +51,25 @@ tabs:
               time_seconds_enabled: false
               type: date
               display: Date
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: image
+            field:
+              max_files: 1
+              mode: list
+              container: assets
+              restrict: false
+              allow_uploads: true
+              show_filename: true
+              show_set_alt: true
+              type: assets
+              display: Image
               listable: hidden
               instructions_position: above
               visibility: visible
