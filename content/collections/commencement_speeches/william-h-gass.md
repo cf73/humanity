@@ -1,10 +1,9 @@
 ---
 id: 2a65a221-e8cd-4752-a899-703eb55c5036
 blueprint: commencement_speech
-title: '*** William Howard Gass  --  "On Learning to Talk"'
+title: 'On Learning to Talk'
 location: 'Washington University, St. Louis, Missouri  USA'
 date: '1979-06-04'
-url: 'https://humanity.org/wp-content/uploads/2023/06/Gass_69_72_11-1024x675-1.jpg'
 description:
   -
     type: paragraph
@@ -277,6 +276,8 @@ transcript:
         text: "© 1979, 1984, and 1985 by William\_Gass"
 challenges:
   - preserving-democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708194137
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1708573419
+speaker: 'William Howard Gass'
+image: gass_69_72_11-1024x675-1.jpg
 ---
