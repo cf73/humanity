@@ -1,10 +1,9 @@
 ---
 id: 3b334a81-f6d2-4f3b-ab0f-d09bb350cb09
 blueprint: commencement_speech
-title: '*** Meg Greenfield  --  "A Better Truth"'
+title: 'A Better Truth'
 location: 'Williams College, Williamstown, Massachusetts'
 date: '1987-06-14'
-url: 'Meg Greenfield'
 description:
   -
     type: paragraph
@@ -200,8 +199,10 @@ transcript:
       -
         type: text
         text: "A better truth, not necessarily a more positive or friendly or comfortable one, or even a contradictory truth, but one that is larger, roomier, more complex and more authentic than any one-shot version can be. That is what journalism, yours and mine, ideally will be about. Keep the faith. Do the profession proud. We need all the help we can\_get."
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708213313
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1708574191
 challenges:
   - cultivating-peace
+speaker: 'Meg Greenfield'
+image: 1hy5y71_293_lt.jpg
 ---
