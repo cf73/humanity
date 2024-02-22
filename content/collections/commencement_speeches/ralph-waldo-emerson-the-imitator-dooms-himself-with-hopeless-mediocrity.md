@@ -10,6 +10,18 @@ description:
     content:
       -
         type: text
+        text: 'When the mind opens, and reveals the laws which traverse the universe, and make things what they are, then shrinks the great world at once into a mere illustration and fable of this mind. What am I? and What is? asks the human spirit with a curiosity new-kindled, but never to be quenched.'
+url: 'https://humanity.org/wp-content/uploads/2023/06/Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg'
+challenges:
+  - preserving-democracy
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1708571179
+transcript:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'In this refulgent summer, it has been a luxury to draw the breath of life. The grass grows, the buds burst, the meadow is spotted with fire and gold in the tint of flowers. The air is full of birds, and sweet with the breath of the pine, the balm-of-Gilead, and the new hay. Night brings no gloom to the heart with its welcome shade. Through the transparent darkness the stars pour their almost spiritual rays. Man under them seems a young child, and his huge globe a toy. The cool night bathes the world as with a river, and prepares his eyes again for the crimson dawn. The mystery of nature was never displayed more happily. The corn and the wine have been freely dealt to all creatures, and the never-broken silence with which the old bounty goes forward, has not yielded yet one word of explanation.'
   -
     type: paragraph
@@ -296,9 +308,4 @@ description:
       -
         type: text
         text: "I look for the hour when that supreme Beauty, which ravished the souls of those eastern men, and chiefly of those Hebrews, and through their lips spoke oracles to all time, shall speak in the West also. The Hebrew and Greek Scriptures contain immortal sentences, that have been bread of life to millions. But they have no epical integrity; are fragmentary; are not shown in their order to the\_intellect. I look for the new Teacher, that shall follow so far those shining laws, that he shall see them come full circle; shall see their rounding complete grace; shall see the world to be the mirror of the soul; shall see the identity of the law of gravitation with purity of heart; and shall show that the Ought, that Duty, is one thing with Science, with Beauty,"
-url: 'https://humanity.org/wp-content/uploads/2023/06/Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg'
-challenges:
-  - preserving-democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708138533
 ---
