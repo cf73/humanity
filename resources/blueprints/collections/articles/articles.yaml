@@ -44,42 +44,6 @@ tabs:
               replicator_preview: true
               hide_display: false
           -
-            handle: description
-            field:
-              buttons:
-                - bold
-                - italic
-                - removeformat
-                - anchor
-              smart_typography: false
-              save_html: false
-              inline: false
-              toolbar_mode: fixed
-              reading_time: false
-              word_count: false
-              fullscreen: true
-              allow_source: true
-              enable_input_rules: true
-              enable_paste_rules: true
-              remove_empty_nodes: false
-              antlers: false
-              link_noopener: false
-              link_noreferrer: false
-              target_blank: false
-              always_show_set_button: false
-              collapse: false
-              previews: true
-              type: bard
-              display: Description
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
-              validate:
-                - required
-              character_limit: 500
-          -
             handle: content
             field:
               buttons:
@@ -155,6 +119,42 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
+          -
+            handle: description
+            field:
+              buttons:
+                - bold
+                - italic
+                - removeformat
+                - anchor
+              smart_typography: false
+              save_html: false
+              inline: false
+              toolbar_mode: fixed
+              reading_time: false
+              word_count: false
+              fullscreen: true
+              allow_source: true
+              enable_input_rules: true
+              enable_paste_rules: true
+              remove_empty_nodes: false
+              antlers: false
+              link_noopener: false
+              link_noreferrer: false
+              target_blank: false
+              always_show_set_button: false
+              collapse: false
+              previews: true
+              type: bard
+              display: Description
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+              character_limit: 500
   sidebar:
     display: Sidebar
     sections:
