@@ -13,6 +13,20 @@ tabs:
               validate:
                 - required
           -
+            handle: speaker
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Speaker
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
             handle: location
             field:
               antlers: false
@@ -45,11 +59,17 @@ tabs:
               validate:
                 - required
           -
-            handle: url
+            handle: image
             field:
-              antlers: false
-              type: textarea
-              display: URL
+              max_files: 1
+              mode: list
+              container: assets
+              restrict: false
+              allow_uploads: true
+              show_filename: true
+              show_set_alt: true
+              type: assets
+              display: Image
               listable: hidden
               instructions_position: above
               visibility: visible
@@ -57,6 +77,17 @@ tabs:
               hide_display: false
               validate:
                 - required
+          -
+            handle: url
+            field:
+              antlers: false
+              type: textarea
+              display: 'Video URL'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
           -
             handle: description
             field:

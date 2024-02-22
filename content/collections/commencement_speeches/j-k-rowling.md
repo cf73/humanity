@@ -1,7 +1,7 @@
 ---
 id: d5b3281c-b13a-4515-bfc2-87d2e15a7cb5
 blueprint: commencement_speech
-title: 'J.K.Rowling  --  "Failure and Imagination"'
+title: 'Failure and Imagination'
 location: 'Harvard University, Cambridge, Massachusetts, USA'
 date: '2008-06-05'
 url: 'https://www.youtube.com/watch?v=wHGqp8lz36c&t=5s'
@@ -318,6 +318,8 @@ transcript:
         text: "As is a tale, so is life: not how long it is, but how good it is, is what\_matters.I wish you all very good lives. Thank you very\_much."
 challenges:
   - preserving-democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708297859
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1708573184
+speaker: J.K.Rowling
+image: jkrowling.jpg
 ---

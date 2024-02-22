@@ -1,0 +1,12 @@
+<swiper-container class="featuredSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="1.25"
+space-between="30" centered-slides="true">
+    {{collection:partner_initiatives challenges:contains="{{slug}}"}}
+        {{if no_results}}
+            <p class="light">No dealers here ... yet!</p>
+        {{else}}
+            <div class="swiper-slide" style="height: auto !important;">
+                {{partial:cardExploded}}
+            </div>
+        {{/if}}
+    {{/collection:partner_initiatives}}
+</swiper-container>

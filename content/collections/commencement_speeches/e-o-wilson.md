@@ -1,7 +1,7 @@
 ---
 id: 199fc2ee-1952-41c0-8c52-04fb6f160e72
 blueprint: commencement_speech
-title: 'E. O. Wilson  --  "What We Wish to Become"'
+title: 'What We Wish to Become'
 location: 'University of North Carolina, Chapel Hill, North Carolina  USA'
 date: '2011-05-08'
 url: 'https://www.youtube.com/watch?v=IzPcu0-ETTU'
@@ -11,9 +11,6 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: italic
         text: 'Dr. Wilson was a research professor and museum curator at Harvard University who changed the way humans think about nature. He worked in the fields of entomology, animal behavior, evolutionary psychology, island biogeography, biodiversity, environmental ethics, and the philosophy of knowledge. Dr. Wilson speaks here to the future scientists, medical professionals, and lawyers in the crowd, honing in on the need for protection against the loss of biodiversity.'
 transcript:
   -
@@ -230,6 +227,8 @@ transcript:
         type: hardBreak
 challenges:
   - climate-action
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708297384
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1708573853
+speaker: 'E. O. Wilson'
+image: eowilson.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 id: 77c64688-921d-4b7e-9ca3-e2221568a42b
-blueprint: in_the_news
+blueprint: articles
 title: 'Our astronomical neighborhood'
 image: image-1707484544.png
 url: 'https://www.astronomy.com/wp-content/uploads/sites/2/2023/11/infographic-HD110067.png?w=620&resize=620%2C349'

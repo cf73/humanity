@@ -10,9 +10,9 @@ export default {
 
     theme: {
         fontFamily: {
-            'sans': ['RaporRegular', 'sans-serif'],
             'serif': ['BaskervilleRegular', 'serif'],
             'thin': ['RaporThin', 'sans-serif'],
+            'sans': ['RaporRegular', 'sans-serif'],
             'bold': ['RaporBold', 'sans-serif'],
             'extrabold': ['RaporExtraBold', 'sans-serif'],
         },
@@ -23,6 +23,7 @@ export default {
                 'softblack': '#373737',
                 'forest': '#06977D',
                 'earth': '#a08b8b',
+                'green': '#76FC9C',
             },
         },
     },
