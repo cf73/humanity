@@ -456,5 +456,5 @@ transcript:
         type: text
         text: "Thank you. Jai Guru Dev. I’m so honored. Thank\_you."
 speaker: 'Jim Carrey'
-image: jimcarey.jpg
+image: jimcarrey.jpg
 ---
