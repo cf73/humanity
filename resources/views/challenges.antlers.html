@@ -1,0 +1,14 @@
+<form method="GET">
+    @foreach ($filters['collection'] as $key => $value)
+        <label>
+            <input type="checkbox" name="filter[collection][]" value="{{ $key }}" {{ in_array($key, request('filter.collection', [])) ? 'checked' : '' }}>
+            {{ $value }}
+        </label>
+    @endforeach
+    <button type="submit">Apply Filters</button>
+</form>
+
+@foreach ($entries as $entry)
+    <!-- Display the entry -->
+    <li>{{title}}</li>
+@endforeach

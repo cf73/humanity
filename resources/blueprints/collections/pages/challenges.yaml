@@ -47,22 +47,6 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
-          -
-            handle: challenges
-            field:
-              options:
-                articles: Articles
-                talks: Talks
-                partner_initiatives: 'Partner Initiatives'
-                photos: Photos
-              inline: false
-              type: checkboxes
-              display: Filters
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
   sidebar:
     display: Sidebar
     sections:
