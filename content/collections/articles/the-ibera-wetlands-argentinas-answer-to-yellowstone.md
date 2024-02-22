@@ -1,6 +1,6 @@
 ---
 id: ac220561-aa8b-48ce-a11d-d0ee99b3cab4
-blueprint: in_the_news
+blueprint: articles
 title: "The Iberá Wetlands: Argentina's answer to Yellowstone"
 image: p0fn17jk.jpg.webp
 url: 'https://www.bbc.com/travel/article/20230614-the-iber-wetlands-argentinas-answer-to-yellowstone'
