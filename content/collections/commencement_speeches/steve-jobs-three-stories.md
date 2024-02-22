@@ -222,5 +222,5 @@ description:
         type: text
         text: 'https://www.youtube.com/watch?v=UF8uR6Z6KLc&t=2s'
 speaker: 'Steve Jobs'
-image: hqdefault-(1).jpg
+image: stevejobs.jpg
 ---
