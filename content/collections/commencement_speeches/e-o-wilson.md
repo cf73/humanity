@@ -11,9 +11,6 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: italic
         text: 'Dr. Wilson was a research professor and museum curator at Harvard University who changed the way humans think about nature. He worked in the fields of entomology, animal behavior, evolutionary psychology, island biogeography, biodiversity, environmental ethics, and the philosophy of knowledge. Dr. Wilson speaks here to the future scientists, medical professionals, and lawyers in the crowd, honing in on the need for protection against the loss of biodiversity.'
 transcript:
   -
@@ -231,7 +228,7 @@ transcript:
 challenges:
   - climate-action
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708573794
+updated_at: 1708573853
 speaker: 'E. O. Wilson'
 image: eowilson.jpg
 ---
