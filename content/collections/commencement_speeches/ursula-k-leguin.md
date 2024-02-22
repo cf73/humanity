@@ -1,7 +1,7 @@
 ---
 id: b63d419a-4073-4e24-9a1e-59ea5ecd489d
 blueprint: commencement_speech
-title: '*** Ursula K LeGuin  --  "A Left-handed Commencement Address"'
+title: 'A Left-handed Commencement Address'
 location: 'Mills College, Oakland, California USA'
 date: '1983-05-18'
 description:
@@ -11,11 +11,10 @@ description:
       -
         type: text
         text: 'Ms Le Guin (1929 - 2018) was an astonishingly perceptive and original literary voice. In the recent words of The Guardian, she was "sane, committed, annoyed, humorous, wise and always intelligent." She lived in Oregon.'
-url: 'https://s3.amazonaws.com/walrus-assets/img/20180126132252/WEB_LeGuin_Art.jpg'
 challenges:
   - preserving-democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708213380
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1708573360
 transcript:
   -
     type: paragraph
@@ -90,4 +89,6 @@ transcript:
         text: "So what I hope for you is that you live there not as prisoners, ashamed of being women, consenting captives of a psychopathic social system, but as natives. That you will be at home there, keep house there, be your own mistress, with a room of your own. That you will do your work there, whatever you’re good at, art or science or tech or running a company or sweeping under the beds, and when they tell you that it’s second-class work because a woman is doing it, I hope you tell them to go to hell and while they’re going to give you equal pay for equal time. I hope you live without the need to dominate, and without the need to be dominated. I hope you are never victims, but I hope you have no power over other people. And when you fail, and are defeated, and in pain, and in the dark, then I hope you will remember that darkness is your country, where you live, where no wars are fought and no wars are won, but where the future is. Our roots are in the dark; the earth is our country. Why did we look up for blessing – instead of around, and down? What hope we have lies there. Not in the sky full of orbiting spy-eyes and weaponry, but in the earth we have looked down upon. Not from above, but from below. Not in the light that blinds, but in the dark that nourishes, where human beings grow human\_souls."
   -
     type: paragraph
+speaker: 'Ursula K LeGuin'
+image: web_leguin_art.jpg
 ---
