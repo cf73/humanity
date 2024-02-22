@@ -171,26 +171,15 @@ transcript:
       -
         type: text
         text: "\_You are graduating to the most amazing, stupefying challenge ever bequeathed to any generation. The generations before you failed. They didn’t stay up all night. They got distracted and lost sight of the fact that life is a miracle every moment of your existence. Nature beckons you to be on her side. You couldn’t ask for a better boss. The most unrealistic person in the world is the cynic, not the dreamer. Hope only makes"
-<<<<<<< HEAD
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1708573493
-=======
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708296468
->>>>>>> main
 description:
   -
     type: paragraph
     content:
       -
         type: text
-<<<<<<< HEAD
         text: 'Paul Hawken'
 speaker: 'Paul Hawken'
 image: clip_image001.gif
-=======
-        text: 'See his description of this speech below, at outset of transcript.'
-challenges:
-  - climate-action
->>>>>>> main
 ---

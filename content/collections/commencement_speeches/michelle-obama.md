@@ -457,15 +457,9 @@ transcript:
       -
         type: hardBreak
 challenges:
-<<<<<<< HEAD
   - cultivating-peace
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1708572139
 speaker: 'Michelle Obama'
 image: maxresdefault-(1).jpg
-=======
-  - preserving-democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708296096
->>>>>>> main
 ---

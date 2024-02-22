@@ -1,13 +1,8 @@
 ---
 id: 628a23b7-fe57-4f55-93ae-11bdabccff59
 blueprint: commencement_speech
-<<<<<<< HEAD
 title: 'Real Freedom?'
 location: 'Kenyon College, Gambier, Ohio'
-=======
-title: '*** David Foster Wallace  --  "Real Freedom?"'
-location: 'Kenyon College, Gambier, Ohio USA'
->>>>>>> main
 date: '2005-05-21'
 url: 'http://www.youtube.com/watch?v=PhhC_N6Bm_s'
 description:
@@ -420,13 +415,6 @@ transcript:
         type: hardBreak
 challenges:
   - preserving-democracy
-<<<<<<< HEAD
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708572097
-speaker: 'David Foster Wallace'
-image: hqdefault.jpg
-=======
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708295037
->>>>>>> main
+updated_at: 1708196140
 ---
