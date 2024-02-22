@@ -1,8 +1,13 @@
 ---
 id: 628a23b7-fe57-4f55-93ae-11bdabccff59
 blueprint: commencement_speech
+<<<<<<< HEAD
 title: 'Real Freedom?'
 location: 'Kenyon College, Gambier, Ohio'
+=======
+title: '*** David Foster Wallace  --  "Real Freedom?"'
+location: 'Kenyon College, Gambier, Ohio USA'
+>>>>>>> main
 date: '2005-05-21'
 url: 'http://www.youtube.com/watch?v=PhhC_N6Bm_s'
 description:
@@ -14,7 +19,16 @@ description:
         marks:
           -
             type: italic
-        text: "David Foster Wallace, 1962-2008, was an American author and a professor at Pomona College in California. PLEASE NOTE: As this speech has become an icon of the genre, it has been reproduced on many web sites, but often in a severely cut form, sometimes including only 9 minutes of the original 22 minute speech. Below is the full text.\_"
+        text: 'David Foster Wallace, 1962-2008, was an American author and a professor at Pomona College in California. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: "PLEASE NOTE: As this speech has become an icon of the genre, it has been reproduced on many web sites, but often in a severely cut form, sometimes including only 9 minutes of the original 22 minute speech. Below is the full text.\_"
   -
     type: paragraph
     content:
@@ -22,8 +36,6 @@ description:
         type: text
         text: "http://www.youtube.com/watch?v=PhhC_N6Bm_s\_"
 transcript:
-  -
-    type: paragraph
   -
     type: paragraph
     content:
@@ -360,7 +372,16 @@ transcript:
     content:
       -
         type: text
-        text: "N.B.\_This speech has been published as a book. Here’s a link to a review in the New York Times by Tom Bissell on April 24, 2009: \_\_"
+        text: "N.B.\_This speech has been published as a book. Here’s a link to a review in the "
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'New York Times'
+      -
+        type: text
+        text: " by Tom Bissell on April 24, 2009: \_\_"
       -
         type: text
         marks:
@@ -374,7 +395,13 @@ transcript:
         text: 'http://www.nytimes.com/2009/04/26/books/review/Bissell-t.html?_r=1.'
       -
         type: text
-        text: "\_And here’s an article from the Kenyon Alumni Bulletin in 2015:\_"
+        text: "\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "And here’s an article from the Kenyon Alumni Bulletin, in 2015:\_"
       -
         type: text
         marks:
@@ -393,8 +420,13 @@ transcript:
         type: hardBreak
 challenges:
   - preserving-democracy
+<<<<<<< HEAD
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1708572097
 speaker: 'David Foster Wallace'
 image: hqdefault.jpg
+=======
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1708295037
+>>>>>>> main
 ---

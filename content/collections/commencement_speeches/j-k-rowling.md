@@ -11,7 +11,7 @@ description:
     content:
       -
         type: text
-        text: 'Failure and imagination.'
+        text: 'J.K. Rowling is the author of the hugely popular Harry Potter books. She was born as Joanne Rowling on July 31, 1965, in Gloucestershire, England. Rowling started writing about Harry Potter after graduating from the University of Exeter. After a brief marriage and the birth of her daughter, Rowling settled in Edinburgh and lived on public assistance between stints as a French teacher and writing.'
 transcript:
   -
     type: paragraph
@@ -318,8 +318,13 @@ transcript:
         text: "As is a tale, so is life: not how long it is, but how good it is, is what\_matters.I wish you all very good lives. Thank you very\_much."
 challenges:
   - preserving-democracy
+<<<<<<< HEAD
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1708573184
 speaker: J.K.Rowling
 image: jkrowling.jpg
+=======
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1708297859
+>>>>>>> main
 ---

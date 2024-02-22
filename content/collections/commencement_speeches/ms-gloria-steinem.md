@@ -10,7 +10,13 @@ description:
     content:
       -
         type: text
-        text: 'Mr. President – at last I can say that with pleasure....'
+        text: 'Gloria Steinem, the feminist and editor of Ms. magazine, urged Tufts University graduates today to follow their hearts rather than bow to societal pressures or traditions.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "''The point is less what you choose than that you have the power to choose,'' she told the 1,600 graduates and their guests.''No one way of living can be right for all people. Don't worry if your life doesn't look like a Dick and Jane primer.''"
 transcript:
   -
     type: paragraph
@@ -626,8 +632,13 @@ transcript:
         text: "\_For life is time, and time is all there\_is."
 challenges:
   - preserving-democracy
+<<<<<<< HEAD
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1708573455
 speaker: 'Ms. Gloria Steinem'
 image: gloria-steinem.jpg
+=======
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1708296318
+>>>>>>> main
 ---

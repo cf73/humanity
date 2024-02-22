@@ -10,12 +10,27 @@ description:
     content:
       -
         type: text
+<<<<<<< HEAD
         text: 'When the mind opens, and reveals the laws which traverse the universe, and make things what they are, then shrinks the great world at once into a mere illustration and fable of this mind. What am I? and What is? asks the human spirit with a curiosity new-kindled, but never to be quenched.'
 url: 'https://humanity.org/wp-content/uploads/2023/06/Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg'
 challenges:
   - preserving-democracy
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1708571699
+=======
+        marks:
+          -
+            type: bold
+        text: 'Ralph Waldo Emerson'
+      -
+        type: text
+        text: " (May 25, 1803\_– April 27, 1882),[2] who went by his middle name Waldo,[3] was an American essayist, lecturer, philosopher, abolitionist and poet who led the transcendentalist movement of the mid-19th century. He was seen as a champion of individualism and critical thinking, as well as a prescient critic of the countervailing pressures of society and conformity. Friedrich Nietzsche considered him \"the most gifted of the Americans.\" Walt Whitman referred to him as his \"master.\""
+url: 'https://humanity.org/wp-content/uploads/2023/06/Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg'
+challenges:
+  - preserving-democracy
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1708296769
+>>>>>>> main
 transcript:
   -
     type: paragraph
@@ -308,6 +323,9 @@ transcript:
       -
         type: text
         text: "I look for the hour when that supreme Beauty, which ravished the souls of those eastern men, and chiefly of those Hebrews, and through their lips spoke oracles to all time, shall speak in the West also. The Hebrew and Greek Scriptures contain immortal sentences, that have been bread of life to millions. But they have no epical integrity; are fragmentary; are not shown in their order to the\_intellect. I look for the new Teacher, that shall follow so far those shining laws, that he shall see them come full circle; shall see their rounding complete grace; shall see the world to be the mirror of the soul; shall see the identity of the law of gravitation with purity of heart; and shall show that the Ought, that Duty, is one thing with Science, with Beauty,"
+<<<<<<< HEAD
 speaker: 'Ralph Waldo Emerson'
 image: lithograph-ralph-waldo-emerson-leopold-grozelier-1859.webp
+=======
+>>>>>>> main
 ---

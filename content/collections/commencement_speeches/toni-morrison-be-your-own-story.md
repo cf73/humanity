@@ -30,6 +30,9 @@ transcript:
       -
         type: text
         text: '-----------------'
+  -
+    type: paragraph
+    content:
       -
         type: hardBreak
       -
@@ -116,15 +119,24 @@ transcript:
 challenges:
   - cultivating-peace
   - preserving-democracy
+<<<<<<< HEAD
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1708573617
+=======
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1708297109
+>>>>>>> main
 description:
   -
     type: paragraph
     content:
       -
         type: text
+<<<<<<< HEAD
         text: '[need description]'
 speaker: 'Toni Morrison'
 image: tonimorrison.png
+=======
+        text: 'See description below, before her speech transcript begins.'
+>>>>>>> main
 ---
