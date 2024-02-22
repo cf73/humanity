@@ -1,7 +1,7 @@
 ---
 id: c53fa4c5-dd91-4357-982f-dffd2296d749
 blueprint: commencement_speech
-title: 'The Affect You Have On Others'
+title: 'The Effect You Have On Others'
 location: 'Maharishi University of Management, Fairfield, Iowa'
 date: '2014-05-30'
 description:
@@ -15,7 +15,7 @@ url: 'https://www.youtube.com/watch?v=V80-gPkpH6M&t=1s'
 challenges:
   - preserving-democracy
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708573077
+updated_at: 1708573133
 transcript:
   -
     type: paragraph
