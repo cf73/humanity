@@ -82,14 +82,12 @@ tabs:
             field:
               antlers: false
               type: textarea
-              display: URL
+              display: 'Video URL'
               listable: hidden
               instructions_position: above
               visibility: visible
               replicator_preview: true
               hide_display: false
-              validate:
-                - required
           -
             handle: description
             field:
