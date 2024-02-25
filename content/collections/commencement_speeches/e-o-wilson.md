@@ -227,8 +227,8 @@ transcript:
         type: hardBreak
 challenges:
   - climate-action
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708573853
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1708824059
 speaker: 'E. O. Wilson'
 image: eowilson.jpg
 ---
