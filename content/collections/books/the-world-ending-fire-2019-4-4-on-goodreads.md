@@ -1,7 +1,7 @@
 ---
 id: 82e62d78-848e-49ee-bf84-bfdcc9af2150
 blueprint: book
-title: 'The World Ending Fire  (2019)  4.4 on Goodreads.'
+title: '*** The World Ending Fire  (2019)  4.4 on Goodreads.'
 author: 'Wendell Berry'
 image: image-1708994652.jpeg
 description:
@@ -52,5 +52,5 @@ challenges:
   - cultivating-peace
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708995430
+updated_at: 1708995450
 ---
