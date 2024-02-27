@@ -10,27 +10,21 @@ description:
     content:
       -
         type: text
-        text: 'Frans de Waal shows how the roots of politics are older than humanity and nowhere is this phenomenon less visible than in groups of Chimpanzees.'
+        text: "The first edition of Frans de Waal's Chimpanzee Politics was acclaimed not only by primatologists for its scientific achievement but also by a much broader audience of politicians, business leaders, and social psychologists for its remarkable insights into very basic human needs and behaviors. "
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Written nearly four decades ago, this book reveals bonding, jealousy, rivalry, and coalition, common among chimps. The author highlights Machiavelli-like behavior prevalent in chimps. Like their human cousins, chimps scheme, plot, and sometimes, assassinate, too.'
+        text: 'This new edition...reaffirms the complex bond between humans and their closest living relatives. As we watch the chimpanzees of Arnhem behave in ways we recognize from Machiavelli (and from the nightly news), de Waal reminds us again that the roots of politics are older than humanity.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: '“Just like humans have that whole scale of possibilities — from positive to negative — we find the same thing in the chimpanzees.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'De Waals’s work was praised for its scientific value and deep insights into basic human needs and behaviors. '
+        text: '(Goodreads review)'
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708993649
+updated_at: 1708993865
 ---
