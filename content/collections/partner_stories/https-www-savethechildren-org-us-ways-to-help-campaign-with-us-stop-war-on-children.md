@@ -1,7 +1,7 @@
 ---
 id: 5b23ff39-cc44-49fa-9ced-97b78abc74b8
 blueprint: partner_story
-title: 'https://www.savethechildren.org/us/ways-to-help/campaign-with-us/stop-war-on-children'
+title: 'Stop war on children'
 date: '2024-02-24'
 image: image-1709144254.png
 description:
@@ -96,5 +96,5 @@ challenges:
   - cultivating-peace
 partner: save-the-children
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709144267
+updated_at: 1709144304
 ---
