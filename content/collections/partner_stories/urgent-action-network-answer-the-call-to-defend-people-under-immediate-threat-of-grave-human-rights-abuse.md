@@ -25,11 +25,17 @@ description:
     content:
       -
         type: text
+        text: 'https://www.amnesty.org/en/get-involved/take-action/'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'https://youtu.be/ovpa6vRSyBA'
 link: 'https://youtu.be/ovpa6vRSyBA'
 challenges:
   - cultivating-peace
 partner: amnesty-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709145563
+updated_at: 1709145612
 ---
