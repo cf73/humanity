@@ -1,7 +1,7 @@
 ---
 id: 018aee1d-ee9a-4aac-a87f-499d4c6fb333
 blueprint: book
-title: "Children's books (including The Earthshot Prize"
+title: "Children's books (including The Earthshot Prize and also charity: water's World Changers book...)"
 author: "children's books"
 image: image-1707485581.jpeg
 description:
@@ -826,5 +826,5 @@ description:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709139358
+updated_at: 1709139409
 ---
