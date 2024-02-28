@@ -769,8 +769,62 @@ description:
       -
         type: text
         text: ;
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Also, this from charity: water:'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://links.charitywater.org/u/click?_t=814f0a418442411abf1dbdc673aee3a0&_m=af7c795572df4eba8632c46911ad06ef&_e=12167Vw-tz2EL6HSY4q7b4P4ixz7wX5zOTQ6TzG6tYvU3nh5mUmsCpr3U_GSkqO2IxwhjhrkesNkVHQw8a1xKRUMT-o1o1XG5JgrC-pyGuaAe9akDv1b7DLNrdqtE03WVFkr1sZB9kJ07Ore6fvrAym8WG9SUzoFIZQKQBAWfYds1FfrEP1W-eOAdhKSBGDAjma38mJaOgFBnOKqtlz5pd_id_DwjEh4KGUp5UFRLK_C8cn_FAUe0Z7LmZfgbKTZ-Ow0FdIkzH_PN1pAhU_fF4p-FA7sae8nEjAJBR8U6cq0IomI3owp-24s5cWoBoYUNEJKbuCwBV5qJBB9zPJrDA%3D%3D'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: "Download World Changers: A Drop by Drop Guide to Empowering Kind\_Kids\_here."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://links.charitywater.org/u/click?_t=814f0a418442411abf1dbdc673aee3a0&_m=af7c795572df4eba8632c46911ad06ef&_e=12167Vw-tz2EL6HSY4q7b4P4ixz7wX5zOTQ6TzG6tYvU3nh5mUmsCpr3U_GSkqO2IxwhjhrkesNkVHQw8a1xKRUMT-o1o1XG5JgrC-pyGuaAe9akDv1b7DLNrdqtE03WVFkr1sZB9kJ07Ore6fvrAym8WG9SUzoFIZQKQBAWfYds1FfrEP1W-eOAdhKSBGDAPrzyya1IbwQJwCdbAGtP4_3A0Fxj2MI17VF7PtK22j6T-I7pCaC7rVkiCJNFGORyYmubjpmNhlNc3s-ATtNwL6pflUez9yOVBFL35c_ijhFjVZGIbjGl9_aZYhfXlYgVugSkGHObhRDVzpjTZuN0NQ%3D%3D'
+              rel: null
+              target: _blank
+              title: null
+          -
+            type: bold
+        text: DOWNLOAD
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "We hope you enjoy sharing World Changers with a child who inspires you. We know they'll be encouraged to grow in generosity and compassion. "
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '— your friends at charity: water'
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708029346
+updated_at: 1709086655
 ---
