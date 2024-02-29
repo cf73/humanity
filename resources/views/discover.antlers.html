@@ -3,8 +3,8 @@
     {{intro}}
 </div>
 
-<div class="container mx-auto grid grid-cols-2">
-    <div>
+<div class="container mx-auto">
+    <div class="w-full">
         <h3>Filters</h3>
         <form action="/discover" method="get">
             {{taxonomy:challenges}}
@@ -21,8 +21,8 @@
         </form>
         
     </div>
-    <div class="w-4/5">
-        {{ collection :from="get:categories" as="articles"
+    <div>
+        {{ collection:* as="articles"
             :taxonomy:challenges="get:categories"
              }}
             {{ if no_results }}
@@ -30,12 +30,12 @@
                     Sorry, no results.
                 </div>
             {{ else }}
-                <div class="grid grid-cols-2 gap-6">
-                    {{ articles }}
+                <div class="grid grid-cols-4 gap-6">
+                    {{ articles | shuffle }}
                         {{ partial:card }}
                     {{ /articles }}
                 </div>
             {{ /if }}
-        {{ /collection }}
+        {{ /collection:* }}
     </div>
 </div>
