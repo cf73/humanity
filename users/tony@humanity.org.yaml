@@ -8,6 +8,3 @@ preferences:
   collections:
     quotations:
       after_save: create_another
-  assets:
-    assets:
-      mode: grid
