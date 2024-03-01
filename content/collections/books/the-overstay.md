@@ -1,7 +1,7 @@
 ---
 id: 239a38c6-1348-452c-b8d1-8136b4dd3c89
 blueprint: book
-title: '*** The Overstory'
+title: '*** The Overstory  (2018)'
 author: 'Richard Powers'
 image: image-1707920555.jpeg
 description:
@@ -13,16 +13,7 @@ description:
         marks:
           -
             type: bold
-        text: 'By Barbara Kingsolver'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'April 9, 2018'
+        text: 'Review by Barbara Kingsolver, April 9, 2018'
   -
     type: paragraph
     content:
@@ -37,11 +28,6 @@ description:
       -
         type: text
         text: 'By Richard Powers '
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '502 pp. W.W. Norton & Company. $27.95.'
   -
     type: paragraph
     content:
@@ -96,5 +82,5 @@ description:
 challenges:
   - climate-action
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709324911
+updated_at: 1709325022
 ---
