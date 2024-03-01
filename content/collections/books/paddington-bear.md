@@ -1,7 +1,7 @@
 ---
 id: 5c0af817-aaa5-49eb-9968-8a01beb12c10
 blueprint: book
-title: '*** Paddington Bear'
+title: '*** Paddington Bear  (1958)'
 author: 'Michael Bond'
 image: image-1708027616.jpeg
 description:
@@ -14,5 +14,5 @@ description:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708027724
+updated_at: 1709323139
 ---
