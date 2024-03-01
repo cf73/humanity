@@ -1,7 +1,7 @@
 ---
 id: 95201ba0-5657-4f50-a730-29f779b608bb
 blueprint: book
-title: '*** On Tyranny: Twenty Lessons from the Twentieth Century (2017). Goodreads rating 4.16'
+title: '*** On Tyranny: Twenty Lessons from the Twentieth Century (2017)'
 author: 'Timothy Snyder'
 image: image-1708992781.jpeg
 description:
@@ -82,9 +82,9 @@ description:
         text: Goodreads
       -
         type: text
-        text: .
+        text: ', who rated the book at 4.17.'
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709322937
+updated_at: 1709323042
 ---
