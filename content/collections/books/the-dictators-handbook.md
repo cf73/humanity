@@ -1,7 +1,7 @@
 ---
 id: c7c991b5-9dde-4365-9c58-41d73dfee6cb
 blueprint: book
-title: "*** The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics  (2011)"
+title: "The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics  (2011)"
 author: 'Bruce Bueno de Mesquita and Alastair Smith'
 image: image-1707921200.png
 description:
@@ -209,7 +209,7 @@ description:
   -
     type: paragraph
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709324521
+updated_at: 1709324541
 challenges:
   - preserving-democracy
 ---
