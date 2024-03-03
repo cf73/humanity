@@ -186,7 +186,7 @@ tabs:
             handle: template
             field:
               hide_partials: true
-              blueprint: false
+              blueprint: true
               type: template
               display: Template
               listable: hidden
