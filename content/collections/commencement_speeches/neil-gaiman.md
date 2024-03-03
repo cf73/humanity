@@ -1,8 +1,8 @@
 ---
 id: 294e8080-c753-4588-896c-6be5c13e534c
 blueprint: commencement_speech
-title: 'Make Good Art'
-location: 'University of the Arts, Philadelphia'
+title: '"Make Good Art"'
+location: 'University of the Arts, Philadelphia, Pennsylvania'
 date: '2012-05-17'
 url: 'https://www.youtube.com/watch?v=ikAb-NYkseI'
 description:
@@ -568,8 +568,8 @@ transcript:
     content:
       -
         type: hardBreak
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708572264
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1709494182
 speaker: 'Neil Gaiman'
 image: hqdefault-(2).jpg
 ---
