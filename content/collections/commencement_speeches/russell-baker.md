@@ -1,7 +1,7 @@
 ---
 id: bd4a6f24-7396-4c5c-8320-b1baebd12b5f
 blueprint: commencement_speech
-title: '“10 Ways to Avoid Mucking Up the World Any Worse Than It Already Is."'
+title: '“Ten Ways to Avoid Mucking Up the World Any Worse Than It Already Is."'
 location: 'Connecticut College, New London, Connecticut USA'
 date: '1995-05-27'
 url: 'Russell Wayne Baker (1925 – 2019) was an American journalist, narrator, writer of Pulitzer Prize-winning satirical commentary and self-critical prose, and author of Pulitzer Prize-winning autobiography Growing Up (1983).[1] He was a columnist for The New York Times from 1962 to 1998, and hosted the PBS show Masterpiece Theatre from 1992 to 2004. The Forbes Media Guide Five Hundred, 1994 stated: "Baker, thanks to his singular gift of treating serious, even tragic events and trends with gentle humor, has become an American institution."'
@@ -316,7 +316,7 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709494235
+updated_at: 1709495761
 speaker: 'Russell Baker'
 image: image-asset.jpeg
 ---
