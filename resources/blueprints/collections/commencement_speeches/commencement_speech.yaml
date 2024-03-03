@@ -198,3 +198,26 @@ tabs:
               hide_display: false
               validate:
                 - required
+          -
+            handle: related_content
+            field:
+              max_items: 5
+              mode: select
+              create: false
+              collections:
+                - articles
+                - books
+                - commencement_speeches
+                - partner_stories
+                - talks
+                - poetry_contributions
+              type: entries
+              display: 'Related Content'
+              instructions: 'Other content from THI that relates to this piece, allowing visitors to follow their own path.'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
