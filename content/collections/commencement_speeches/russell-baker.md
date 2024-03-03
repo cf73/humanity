@@ -316,7 +316,7 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709492330
+updated_at: 1709494235
 speaker: 'Russell Baker'
 image: image-asset.jpeg
 ---
