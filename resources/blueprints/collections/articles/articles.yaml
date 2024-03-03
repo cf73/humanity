@@ -182,3 +182,15 @@ tabs:
               type: slug
               localizable: true
               validate: 'max:200'
+          -
+            handle: template
+            field:
+              hide_partials: true
+              blueprint: false
+              type: template
+              display: Template
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
