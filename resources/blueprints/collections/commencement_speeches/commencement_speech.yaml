@@ -180,3 +180,21 @@ tabs:
               type: slug
               localizable: true
               validate: 'max:200'
+          -
+            handle: related_partner_initiatives
+            field:
+              max_items: 4
+              mode: select
+              create: false
+              collections:
+                - partner_initiatives
+              type: entries
+              display: 'Related Partner Initiatives'
+              instructions: "Help site visitors discover how to take action related to the content they've just seen here."
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
