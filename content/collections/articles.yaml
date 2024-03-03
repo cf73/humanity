@@ -4,6 +4,7 @@ layout: layout
 taxonomies:
   - challenges
 revisions: false
+route: '/discover/{slug}'
 sort_dir: asc
 date_behavior:
   past: public
