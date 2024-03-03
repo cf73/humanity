@@ -22,7 +22,7 @@ description:
         text: '. He was born on July 9, 1956, in Concord, California. He has two brothers and a sister. His mother worked in a hospital and was a distant relative of Abraham Lincoln. Hanks is known for his cheerful everyman persona and has starred in many popular films. He is also a big supporter of environmental causes, same-sex marriage, and alternative fuels.'
       -
         type: hardBreak
-url: 'https://www.youtube.com/watch?v=dkPo5nfEk1w&t=1s'
+video_id: 'dkPo5nfEk1w?si=l1HbjsUXu5x6R3BY'
 challenges:
   - preserving-democracy
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99

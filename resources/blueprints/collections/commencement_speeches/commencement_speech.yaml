@@ -75,19 +75,18 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
-              validate:
-                - required
           -
-            handle: url
+            handle: video_id
             field:
               antlers: false
               type: textarea
-              display: 'Video URL'
+              display: 'Video ID'
               listable: hidden
               instructions_position: above
               visibility: visible
               replicator_preview: true
               hide_display: false
+              instructions: 'Grab the long string of random letters and numbers after this in the YouTube embed code: src="https://www.youtube.com/embed/[grab this bit and paste it here]"'
           -
             handle: description
             field:
