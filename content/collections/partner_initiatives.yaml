@@ -1,6 +1,7 @@
 title: 'Partner Initiatives'
 template: partnerinitiatives
 layout: layout
+mount: f1904ab0-47ed-4349-aced-154c5a8fc29e
 revisions: false
 route: '/partner-initiatives/{slug}'
 sort_dir: asc
