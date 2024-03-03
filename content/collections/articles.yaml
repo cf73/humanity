@@ -1,5 +1,5 @@
 title: Articles
-template: '@blueprint'
+template: entry
 layout: layout
 taxonomies:
   - challenges
