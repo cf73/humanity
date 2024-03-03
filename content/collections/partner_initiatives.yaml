@@ -1,5 +1,5 @@
 title: 'Partner Initiatives'
-template: partnerinitiative
+template: partnerinitiatives
 layout: layout
 revisions: false
 route: '/partner-initiatives/{slug}'
