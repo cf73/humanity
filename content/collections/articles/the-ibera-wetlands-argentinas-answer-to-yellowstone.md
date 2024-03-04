@@ -14,14 +14,14 @@ description:
 challenges:
   - climate-action
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709577596
+updated_at: 1709577979
 related_partner_initiatives:
   - 3bf463d5-6e92-4bf8-abe9-bc1148c3a4e1
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
 related_content:
   - 263accbc-caa0-48eb-964e-dccc457c29cc
   - 33d5bca9-594d-474a-a22f-acca11802672
-articlecontent:
+article_text:
   -
     type: paragraph
     content:
