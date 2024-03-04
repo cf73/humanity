@@ -1,7 +1,7 @@
 ---
 id: b25f1f8e-6b0e-417e-be4c-0f4279eccc9e
 blueprint: book
-title: '"An Immense World: How Animal Senses Reveal the Hidden Realms Around Us"  (2022)'
+title: 'An Immense World: How Animal Senses Reveal the Hidden Realms Around Us  (2022)'
 author: 'Ed Yong'
 image: image-1708294500.jpeg
 description:
@@ -14,5 +14,5 @@ description:
 challenges:
   - climate-action
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709514092
+updated_at: 1709514124
 ---
