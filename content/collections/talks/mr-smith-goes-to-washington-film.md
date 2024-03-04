@@ -1,7 +1,7 @@
 ---
 id: 741d99a2-6da4-4429-979e-90df32a30949
 blueprint: talk
-title: '*** "Mr. Smith Goes to Washington"  (film)'
+title: '*** "Mr. Smith Goes to Washington"  (feature length film)'
 speaker: 'Jimmy Stewart'
 location_or_event: film
 description:
@@ -62,5 +62,5 @@ image: oip.slxx_9iyj264b4m4fdq_wahafj.jpeg
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709563345
+updated_at: 1709563540
 ---
