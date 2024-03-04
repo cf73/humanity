@@ -152,5 +152,5 @@ image: image-1707485762.jpeg
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709571311
+updated_at: 1709571522
 ---
