@@ -145,10 +145,12 @@ description:
         text: '” 2010 by Kathleen Dean Moore and Michael P. Nelson, Trinity University Press.'
       -
         type: hardBreak
-link: 'https://www.jimmynelson.com'
+link: |-
+  https://www.bing.com/videos/riverview/relatedvideo?&q=Ursula+le+guin+A+conference+in+time&&mid=2E9B287F799D252D1DC42E9B287F799D252D1DC4&&FORM=VRDGAR
+  (20-minute discussion between Ms. le Guin and Bill Moyers)
 image: image-1707485762.jpeg
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707485922
+updated_at: 1709571311
 ---
