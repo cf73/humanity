@@ -1,7 +1,7 @@
 ---
 id: 263accbc-caa0-48eb-964e-dccc457c29cc
 blueprint: talk
-title: '*** Sylvia Earle "My Wish to Protect the Oceans"'
+title: '*** Sylvia Earle "My Wish to Protect the Oceans"  (TED video)'
 speaker: 'Sylvia Earle'
 location_or_event: 'Long Beach, Calfornia  2009'
 description:
@@ -31,5 +31,5 @@ image: image-1707926901.jpeg
 challenges:
   - climate-action
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707926913
+updated_at: 1709563412
 ---
