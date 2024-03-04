@@ -1,7 +1,7 @@
 ---
 id: 211e5b92-4465-4f4a-9236-2735299e8761
 blueprint: talk
-title: '*** RFK on the night King was killed... (3 minute video)'
+title: '*** RFK on the night Martin Luther King Jr. was killed... (1968) (3 minute video)'
 speaker: 'Robert F.Kennedy Jr'
 location_or_event: 'Tennesse   April 4, 1968'
 description:
@@ -38,5 +38,5 @@ image: unknown-1707928330.jpeg
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709563498
+updated_at: 1709571920
 ---
