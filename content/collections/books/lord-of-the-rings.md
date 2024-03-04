@@ -1,7 +1,7 @@
 ---
 id: 3eab0ba8-394a-46fb-bc90-561dd6eeced4
 blueprint: book
-title: 'Lord of the Rings'
+title: 'Lord of the Rings  (1955)'
 author: 'J. R. R. Tolkien'
 image: image-1709163951.jpeg
 description:
@@ -51,5 +51,5 @@ description:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709164022
+updated_at: 1709514300
 ---
