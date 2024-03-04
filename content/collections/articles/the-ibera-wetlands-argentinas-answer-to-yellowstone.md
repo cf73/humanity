@@ -21,7 +21,7 @@ related_partner_initiatives:
 related_content:
   - 263accbc-caa0-48eb-964e-dccc457c29cc
   - 33d5bca9-594d-474a-a22f-acca11802672
-content:
+articlecontent:
   -
     type: paragraph
     content:

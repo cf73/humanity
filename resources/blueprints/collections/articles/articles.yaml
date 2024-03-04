@@ -44,7 +44,7 @@ tabs:
               replicator_preview: true
               hide_display: false
           -
-            handle: content
+            handle: articlecontent
             field:
               buttons:
                 - bold
@@ -113,7 +113,7 @@ tabs:
               collapse: false
               previews: true
               type: bard
-              display: Content
+              display: 'Article Body Content'
               listable: hidden
               instructions_position: above
               visibility: visible
