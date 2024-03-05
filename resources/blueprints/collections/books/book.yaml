@@ -156,3 +156,17 @@ tabs:
               hide_display: false
               validate:
                 - required
+          -
+            handle: collection_type
+            field:
+              mode: select
+              create: true
+              taxonomies:
+                - content_types
+              type: terms
+              display: 'Collection Type'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
