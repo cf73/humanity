@@ -46,6 +46,16 @@ tabs:
               validate:
                 - required
           -
+            handle: link
+            field:
+              type: link
+              display: 'Link to buy it'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
             handle: description
             field:
               buttons:
