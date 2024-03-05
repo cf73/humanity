@@ -1,7 +1,7 @@
 ---
 id: f2b1e0e5-d472-437c-8d11-1a69b7734513
 blueprint: photography_contribution
-title: '*** Old woman with beads Tibet'
+title: '*** Old woman with beads, Western Tibet'
 photographer_name: 'Lisa Kristine'
 photographer_website: 'https://lisakristine.com'
 image: lisa_kristine_com-prayer-beads-western-tibet.jpg.webp
@@ -35,5 +35,5 @@ challenges:
   - climate-action
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709655346
+updated_at: 1709655365
 ---
