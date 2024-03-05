@@ -1,7 +1,7 @@
 ---
 id: 48a426ae-af93-404f-816c-29b3e34f8048
 blueprint: commencement_speech
-title: 'The imitator dooms himself with hopeless mediocrity'
+title: 'The Imitator Dooms Himself with Hopeless Mediocrity'
 location: 'Harvard Divinity School, Cambridge, Massachusetts USA'
 date: '1838-07-15'
 description:
@@ -14,8 +14,8 @@ description:
 url: 'https://humanity.org/wp-content/uploads/2023/06/Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg'
 challenges:
   - preserving-democracy
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708571699
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1709650161
 transcript:
   -
     type: paragraph
