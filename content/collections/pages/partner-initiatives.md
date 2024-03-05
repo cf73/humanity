@@ -2,7 +2,7 @@
 id: ae48bce9-8395-40a6-8fe2-1542b9e41817
 blueprint: simple_page
 title: 'Partner Initiatives'
-template: partners
+template: partnerinitiatives
 intro:
   -
     type: paragraph

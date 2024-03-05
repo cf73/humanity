@@ -22,7 +22,7 @@
         
     </div>
     <div>
-        {{ collection:* as="articles"
+        {{ collection from="*" not_from="pages" as="articles"
             :taxonomy:challenges="get:categories"
              }}
             {{ if no_results }}
@@ -36,6 +36,6 @@
                     {{ /articles }}
                 </div>
             {{ /if }}
-        {{ /collection:* }}
+        {{ /collection }}
     </div>
 </div>
