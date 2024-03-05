@@ -3,7 +3,7 @@ id: c5ffbbf5-0949-437d-a936-bb3e9540bf9a
 blueprint: photography_contribution
 title: '*** Peru, near Cuzco'
 photographer_name: 'Werner Bischof'
-photographer_website: 'first cover, good home page shot'
+photographer_website: 'first cover of humanity, good home page shot'
 image: first-h-cover-jpeg.jpeg
 description:
   -
@@ -11,9 +11,9 @@ description:
     content:
       -
         type: text
-        text: 'Good home page shot.'
+        text: 'Compelling home page shot...'
 challenges:
   - climate-action
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707874183
+updated_at: 1709670789
 ---
