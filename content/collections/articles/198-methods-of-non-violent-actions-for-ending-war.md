@@ -3,7 +3,7 @@ id: 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
 blueprint: articles
 title: '*** 198 methods of non-violent action for ending war...'
 image: palestine-luke.jpeg
-url: 'https://www.aeinstein.org/198-methods-of-nonviolent-action'
+link: 'https://www.aeinstein.org/198-methods-of-nonviolent-action'
 description:
   -
     type: paragraph

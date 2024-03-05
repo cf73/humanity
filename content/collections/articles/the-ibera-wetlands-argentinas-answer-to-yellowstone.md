@@ -3,7 +3,7 @@ id: ac220561-aa8b-48ce-a11d-d0ee99b3cab4
 blueprint: articles
 title: "The Iberá Wetlands: Argentina's answer to Yellowstone"
 image: p0fn17jk.jpg.webp
-url: 'https://www.bbc.com/travel/article/20230614-the-iber-wetlands-argentinas-answer-to-yellowstone'
+link: 'https://www.bbc.com/travel/article/20230614-the-iber-wetlands-argentinas-answer-to-yellowstone'
 description:
   -
     type: paragraph
@@ -14,7 +14,7 @@ description:
 challenges:
   - climate-action
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709577979
+updated_at: 1709603397
 related_partner_initiatives:
   - 3bf463d5-6e92-4bf8-abe9-bc1148c3a4e1
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
@@ -101,10 +101,6 @@ article_text:
         text: 'Three decades ago, Iberá (which means "shining waters" in the local Indigenous Guaraní language) was a degraded backwater that was virtually unknown outside Argentina. Years of commercial foresting, illegal hunting and cattle ranching had taken a toll on the land and thrown the ecosystem off balance. Today, thanks to a transformational rewilding initiative, it has become one of South America''s premier wildlife-watching destinations.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Daniel Allen'
   -
     type: paragraph
     content:
