@@ -32,7 +32,7 @@ tabs:
               validate:
                 - required
           -
-            handle: url
+            handle: link
             field:
               input_type: text
               antlers: false
