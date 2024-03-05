@@ -1,7 +1,7 @@
 ---
 id: 3cc8f4c1-bcca-4142-8664-e0572beb84ea
 blueprint: commencement_speech
-title: 'William Allen White  --  "Eternal Resilience"'
+title: '"Eternal Resilience"'
 location: 'Northwestern University, Evanston, Illinois USA'
 date: '1936-06-10'
 url: mmm
@@ -280,5 +280,7 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708213650
+updated_at: 1709651561
+speaker: 'William Allen White'
+image: image-1709651549.png
 ---
