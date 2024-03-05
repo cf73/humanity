@@ -280,7 +280,7 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709651561
+updated_at: 1709655802
 speaker: 'William Allen White'
-image: image-1709651549.png
+image: images-3.jpeg
 ---
