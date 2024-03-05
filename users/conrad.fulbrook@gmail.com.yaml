@@ -13,3 +13,6 @@ preferences:
         - slug
         - status
         - speaker
+  taxonomies:
+    content_types:
+      after_save: create_another
