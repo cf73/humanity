@@ -23,5 +23,4 @@ related_content:
   - ac220561-aa8b-48ce-a11d-d0ee99b3cab4
   - ce171524-edce-436f-873d-6a863c83f1e6
 collection_type: book
-bird: crow
 ---
