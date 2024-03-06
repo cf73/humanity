@@ -23,10 +23,10 @@ description:
       -
         type: text
         text: 'volunteer for Earth Law Center'
-image: image-1709758354.jpeg
+image: image-1709758489.jpeg
 challenges:
   - climate-action
 partner: earth-law-center
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709758365
+updated_at: 1709758504
 ---
