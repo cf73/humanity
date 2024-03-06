@@ -35,10 +35,10 @@ description:
       -
         type: text
         text: '"'
-image: ts-logo-tagline-clearspace-rgb-1920x1080-2-2.png
+image: image-1709758269.jpeg
 challenges:
   - climate-action
 partner: treesisters
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707849323
+updated_at: 1709758281
 ---
