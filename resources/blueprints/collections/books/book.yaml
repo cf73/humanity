@@ -171,3 +171,18 @@ tabs:
               replicator_preview: true
               hide_display: false
               max_items: 1
+          -
+            handle: bird
+            field:
+              max_items: 1
+              mode: select
+              create: false
+              taxonomies:
+                - bird
+              type: terms
+              display: Bird
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
