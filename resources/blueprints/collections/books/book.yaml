@@ -162,7 +162,7 @@ tabs:
               mode: select
               create: false
               taxonomies:
-                - content_types
+                - collection_type
               type: terms
               display: 'Collection Type'
               listable: hidden
