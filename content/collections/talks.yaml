@@ -1,6 +1,8 @@
 title: Talks
 template: entry
 layout: layout
+taxonomies:
+  - collection_type
 revisions: false
 route: '/discover/{slug}'
 sort_dir: asc
