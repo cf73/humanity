@@ -1,6 +1,7 @@
 title: 'Partner Stories'
 taxonomies:
   - challenges
+  - collection_type
 revisions: false
 date_behavior:
   past: public
