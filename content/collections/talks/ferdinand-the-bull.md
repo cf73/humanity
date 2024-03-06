@@ -10,7 +10,7 @@ description:
     content:
       -
         type: text
-        text: 'Writer Maria Popova reminds us of Ferdinand, the peaceful bull and of how his timeless story, still reprinted across the globe, came to be told:'
+        text: 'Writer Maria Popova reminds us of Ferdinand, the peaceful bull, and of how his timeless story, still reprinted across the globe, came to be told:'
   -
     type: paragraph
     content:
@@ -22,13 +22,13 @@ description:
         text: "In\_"
       -
         type: text
-        text: "The Story of Ferdinand\_"
+        text: 'The Story of Ferdinand'
       -
         type: text
         marks:
           -
             type: italic
-        text: "(public library), a gentle-souled young misfit sits out the perpetual head-butting by which his peers hone their bull-skills, choosing instead to smell the flowers under his favorite cork tree in solitude. His mother, at first worried about his bullness, recognizes her son’s difference and trusts that he would find his way.\_"
+        text: ", a gentle-souled young misfit sits out the perpetual head-butting by which his peers hone their bull-skills, choosing instead to smell the flowers in solitude under his favorite cork tree. His mother, at first worried about his bullness, recognizes her son’s difference and trusts that he would find his way.\_"
   -
     type: paragraph
     content:
@@ -53,10 +53,10 @@ description:
       -
         type: text
         text: )
-link: 'Ferdinandhttps://humanity.org/wp-content/uploads/2022/08/th.jpeg'
+link: 'https://www.themarginalian.org/2022/07/09/ferdinand-civilon/'
 image: image-1707528079.jpeg
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709563900
+updated_at: 1709749130
 ---
