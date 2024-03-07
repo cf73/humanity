@@ -5,6 +5,7 @@ title: 'Roadside skeptic  -  Hawk'
 photographer_name: unk
 photographer_website: unk
 image: image-1707482695.jpeg
+collection_type: photography-contributions
 description:
   -
     type: paragraph

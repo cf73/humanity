@@ -5,6 +5,7 @@ title: '*** Pre-historic cave painting from 36,000 years ago. Altamira, Spain'
 photographer_name: 'Pre-historic cave painting from 36,000 years ago. Altamira, Spain'
 photographer_website: 'Pre-historic cave painting from 36,000 years ago. Altamira, Spain'
 image: image-1707482504.jpeg
+collection_type: photography-contributions
 description:
   -
     type: paragraph

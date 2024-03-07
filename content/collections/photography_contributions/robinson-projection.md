@@ -5,6 +5,7 @@ title: 'Robinson projection'
 photographer_name: 'Robinson projection'
 photographer_website: 'Robinson projection'
 image: image-1707510197.jpeg
+collection_type: photography-contributions
 description:
   -
     type: paragraph

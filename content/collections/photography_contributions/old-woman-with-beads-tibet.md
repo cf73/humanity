@@ -3,6 +3,7 @@ id: f2b1e0e5-d472-437c-8d11-1a69b7734513
 blueprint: photography_contribution
 title: '*** Old woman with beads, Western Tibet'
 photographer_name: 'Lisa Kristine'
+collection_type: photography-contributions
 photographer_website: 'https://lisakristine.com'
 image: lisa_kristine_com-prayer-beads-western-tibet.jpg.webp
 description:

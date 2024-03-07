@@ -4,6 +4,7 @@ blueprint: photography_contribution
 title: '"One June Early Morning"  (1972) Painting (for use in Ending War section)'
 photographer_name: 'Guy de Montlaur'
 photographer_website: unk
+collection_type: photography-contributions
 image: 12atwar-montlaur-image-03-superjumbo-v3-1.jpg.webp
 description:
   -

@@ -4,6 +4,7 @@ blueprint: photography_contribution
 title: Palestine
 photographer_name: 'Luke Powell'
 photographer_website: unk
+collection_type: photography-contributions
 image: palestine-luke.jpeg
 description:
   -
