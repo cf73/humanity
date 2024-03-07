@@ -7,4 +7,5 @@ attribution: 'E. B. White'
 image: image-1709325723.jpeg
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709325735
+collection_type: poetry-contributions
 ---

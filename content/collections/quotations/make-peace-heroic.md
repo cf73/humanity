@@ -7,4 +7,5 @@ attribution: 'James Hinton, Philosophy and Religion: Selections from the Manuscr
 image: james_hinton.jpg
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709564422
+collection_type: poetry-contributions
 ---
