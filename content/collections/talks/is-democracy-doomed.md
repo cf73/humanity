@@ -1,7 +1,7 @@
 ---
 id: e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
 blueprint: talk
-title: '"Is Democracy Doomed? The Global Fight for Our Future"'
+title: 'Is Democracy Doomed? The Global Fight for Our Future'
 speaker: 'Timothy Snyder, Professor at Yale University'
 location_or_event: 'TED lecture (32 minutes)'
 description:
@@ -14,12 +14,13 @@ description:
 link: 'https://www.youtube.com/watch?v=YY6LCOJbve8&t=557s'
 image: timothysynder.jpg
 challenges:
+  - democracy
   - war
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709777623
-collection_type: talks
+updated_at: 1709820622
 related_partner_initiatives:
   - 3bf463d5-6e92-4bf8-abe9-bc1148c3a4e1
 related_content:
   - d5b3281c-b13a-4515-bfc2-87d2e15a7cb5
+collection_type: talks
 ---

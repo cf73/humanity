@@ -1,65 +1,73 @@
 <div id="headerbackground" class="bg-orange-200 h-80 w-full absolute z-0">
 
 </div>
-<div class="container mx-auto relative z-10">
-    {{ if blueprint | contains('talk') }}
-    this is a talk
-
-    {{elseif blueprint | contains('article')}}
-    <section id="heroarea" class="flex flex-row">
-        <div class="flex flex-col items-center justify-center p-32 bg-gray-200">
-            <img src="{{image}}" width="100%" alt="">
-        </div>
-        <div class="w-1/2 flex flex-col p-32 space-y-8">
-            <h2>{{title}}</h2>
-            {{author}}
+<div class="container mx-auto relative z-10 space-y-16">
+    <section>
+        {{ if blueprint | contains('talk') }}
+        this is a talk
+        {{elseif blueprint | contains('article')}}
+        <section id="heroarea" class="flex flex-row">
+            <div class="flex flex-col items-center justify-center p-32 bg-gray-200">
+                <img src="{{image}}" width="100%" alt="">
+            </div>
+            <div class="w-1/2 flex flex-col p-32 space-y-8">
+                <h2>{{title}}</h2>
+                {{author}}
+                {{description}}
+            </div>
+        </section>
+        <a href="{{link}}" target="_blank">View the original article here.</a>
+        <div class="prose lg:prose-xl mx-auto">{{article_text}}</div>
+        {{ elseif blueprint | contains('book') }}
+        <section id="heroarea" class="flex flex-row">
+            <div class="flex flex-col items-center justify-center p-32 bg-gray-200">
+                <img src="{{image}}" width="100%" alt="">
+            </div>
+            <div class="w-1/2 flex flex-col p-32 space-y-8">
+                <h2>{{title}}</h2>
+                {{author}}
+                {{description}}
+            </div>
+        </section>
+        
+        {{elseif blueprint | contains('commencement')}}
+            {{location}}
+            {{date}}
+            {{speaker}}
+            {{if video_id}}
+            <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            {{else}}
+            <img src="{{image}}" alt="{{title}}" class="w-full">
+            {{/if}}
             {{description}}
-        </div>
-    </section>
-    <a href="{{link}}" target="_blank">View the original article here.</a>
-    <div class="prose lg:prose-xl mx-auto">{{article_text}}</div>
-
-    {{ elseif blueprint | contains('book') }}
-    <section id="heroarea" class="flex flex-row">
-        <div class="flex flex-col items-center justify-center p-32 bg-gray-200">
-            <img src="{{image}}" width="100%" alt="">
-        </div>
-        <div class="w-1/2 flex flex-col p-32 space-y-8">
-            <h2>{{title}}</h2>
-            {{author}}
-            {{description}}
-        </div>
-    </section>
-    
-    {{elseif blueprint | contains('commencement')}}
-        {{location}}
-        {{date}}
-        {{speaker}}
-        {{if video_id}}
-        <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         {{else}}
-        <img src="{{image}}" alt="{{title}}" class="w-full">
+        neither
         {{/if}}
-        {{description}}
-    {{else}}
-    neither
-    {{/if}}
+    </section>
 
     <section id="relatedPartnerInitiatives" class="mb-32">
         <div class="uppercase text-3xl tracking-widest text-softblack">Related Partner Initiatives</div>
         <div class="grid grid-cols-4 gap-6">
-            {{related_partner_initiatives}}
-                <a href="{{url}}">{{ partial:card }}</a>
-            {{/related_partner_initiatives}}
+            {{if related_partner_initiatives}}
+                {{related_partner_initiatives}}
+                    <a href="{{url}}">{{ partial:card }}</a>
+                {{/related_partner_initiatives}}
+            {{else}}
+                No related Partner Initiatives yet - add some!
+            {{/if}}
         </div>
     </section>
 
     <section>
         <div class="uppercase text-3xl tracking-widest text-softblack">Suggested content</div>
         <div class="grid grid-cols-4 gap-6">
-            {{related_content}}
+            {{if related_content}}
+                {{related_content}}
                 <a href="{{url}}">{{ partial:card }}</a>
-            {{/related_content}}
+                {{/related_content}}
+                {{else}}
+                No suggested content yet - add some!
+            {{/if}}
         </div>
     </section>
 </div>

@@ -21,9 +21,9 @@
                 <label>
                     <input class="rounded"
                         type="checkbox"
-                        name="contenttype[]"
+                        name="collectiontype[]"
                         value="{{ slug }}"
-                        {{ (get:contenttype | contains(slug)) ?= 'checked' }}>
+                        {{ (get:collectiontype | contains(slug)) ?= 'checked' }}>
                     {{ title }}<br>
                 </label>
             {{/taxonomy:collection_type}}
@@ -34,7 +34,7 @@
     <div class="col-span-4">
         {{ collection from="*" not_from="pages" as="results"
             :taxonomy:challenges="get:categories"
-            :taxonomy:collection_type="get:contenttype"
+            :taxonomy:collection_type="get:collectiontype"
              }}
             {{ if no_results }}
                 <div class="p-8 rounded-lg bg-gray-100 text-center">
