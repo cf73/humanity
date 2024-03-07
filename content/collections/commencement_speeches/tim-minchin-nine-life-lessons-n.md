@@ -1,7 +1,7 @@
 ---
 id: 582161a7-ea07-4374-abac-40154bb36abe
 blueprint: commencement_speech
-title: 'Nine Life Lessons'
+title: '"Nine Life Lessons"'
 location: 'University of Western Australia 2013'
 date: '2012-10-17'
 collection_type: commencement-speeches
@@ -13,8 +13,8 @@ description:
       -
         type: text
         text: 'Nine life lessons from a creative genius...'
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708572319
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1709650276
 transcript:
   -
     type: paragraph

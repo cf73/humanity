@@ -1,7 +1,7 @@
 ---
 id: 10910516-ffaf-4158-adbf-5959a505a01f
 blueprint: commencement_speech
-title: 'Margaret Atwood   --  "Attitude"'
+title: '"Attitude"'
 location: 'The University Of Toronto, Toronto, Canada'
 date: '1983-06-14'
 collection_type: commencement-speeches
@@ -169,5 +169,7 @@ transcript:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708297947
+updated_at: 1709495350
+speaker: 'Margaret Atwood'
+image: image-1709495339.jpeg
 ---

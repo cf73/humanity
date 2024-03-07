@@ -1,7 +1,7 @@
 ---
 id: b63d419a-4073-4e24-9a1e-59ea5ecd489d
 blueprint: commencement_speech
-title: 'A Left-handed Commencement Address'
+title: '"A Left-handed Commencement Address"'
 location: 'Mills College, Oakland, California USA'
 date: '1983-05-18'
 collection_type: commencement-speeches
@@ -11,11 +11,20 @@ description:
     content:
       -
         type: text
-        text: 'Ms Le Guin (1929 - 2018) was an astonishingly perceptive and original literary voice. In the recent words of The Guardian, she was "sane, committed, annoyed, humorous, wise and always intelligent." She lived in Oregon.'
+        text: 'Ms Le Guin (1929 - 2018) was an astonishingly perceptive and original literary voice. In the recent words of '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Guardian'
+      -
+        type: text
+        text: ', she was "sane, committed, annoyed, humorous, wise and always intelligent." She lived in Oregon.'
 challenges:
   - preserving-democracy
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708573360
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1709650255
 transcript:
   -
     type: paragraph

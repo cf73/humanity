@@ -1,7 +1,7 @@
 ---
 id: bb741d00-8673-47f0-8869-cd36c404c92e
 blueprint: book
-title: 'Lost in Translation: An Illustrated Compendium of Untranslatable Words from Around the World (public library)'
+title: 'Lost in Translation: An Illustrated Compendium of Unatranslatable Words from Around the World (2014)'
 author: '*** Ella Frances Sanders'
 image: image-1709142589.png
 collection_type: book
@@ -142,5 +142,8 @@ description:
   -
     type: paragraph
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709142652
+updated_at: 1709652337
+challenges:
+  - cultivating-peace
+  - preserving-democracy
 ---

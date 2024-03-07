@@ -1,7 +1,7 @@
 ---
 id: fab94cb3-0c49-48a3-af62-e8ea16f88bc3
 blueprint: commencement_speech
-title: 'Dr. Martha  C. Nussbaum  --  "Compassionate Citizenship"'
+title: '"Compassionate Citizenship"'
 location: 'Georgetown University, Washington D. C. USA'
 date: '2003-05-13'
 url: 'https://humanity.org/wp-content/uploads/2023/01/R.a4c177dc2545ec679792303d0839e245.jpeg'
@@ -12,9 +12,6 @@ transcript:
     content:
       -
         type: text
-        marks:
-          -
-            type: italic
         text: 'Most graduation speakers receive an honorary degree. Here, as an excellent example of how they often are phrased, is Dr. Nussbaum’s:'
   -
     type: paragraph
@@ -188,12 +185,14 @@ transcript:
 challenges:
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708297349
+updated_at: 1709494016
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'See description of Dr. Nussbaum below, before the transcript begins.'
+        text: 'See the exquisite, two-paragraph description of Dr. Nussbaum below, before the transcript begins.'
+speaker: 'Dr. Martha  C. Nussbaum'
+image: image-1709492144.jpeg
 ---

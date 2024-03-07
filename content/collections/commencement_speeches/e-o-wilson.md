@@ -1,7 +1,7 @@
 ---
 id: 199fc2ee-1952-41c0-8c52-04fb6f160e72
 blueprint: commencement_speech
-title: 'What We Wish to Become'
+title: '"What We Wish to Become"'
 location: 'University of North Carolina, Chapel Hill, North Carolina  USA'
 date: '2011-05-08'
 url: 'https://www.youtube.com/watch?v=IzPcu0-ETTU'

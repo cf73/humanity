@@ -1,7 +1,7 @@
 ---
 id: 3b334a81-f6d2-4f3b-ab0f-d09bb350cb09
 blueprint: commencement_speech
-title: 'A Better Truth'
+title: '"A Better Truth"'
 location: 'Williams College, Williamstown, Massachusetts'
 date: '1987-06-14'
 description:

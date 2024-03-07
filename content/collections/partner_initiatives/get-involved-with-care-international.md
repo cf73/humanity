@@ -20,32 +20,29 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'This Valentine’s Day, send love and hope to women facing hunger from wherever you are in the world. Your gift provides:'
+        text: 'Send love and hope to women facing hunger from wherever you are in the world. Your gift provides:'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Emergency food for women surviving crisis or war right now.'
+        text: '* Emergency food for women surviving crisis or war right now.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Nutrition training to build resilience during drought or other climate crises.'
+        text: '* Nutrition training to build resilience during drought or other climate crises.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Support for women farmers to create a sustainable future for their families and communities.'
+        text: '* Support for women farmers to create a sustainable future for their families and communities.'
 image: fy24mmdf_feb_vday_bgimg.jpg
 challenges:
   - cultivating-peace
 partner: care-international
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1707948489
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1709686766
 ---

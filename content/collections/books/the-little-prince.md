@@ -1,8 +1,8 @@
 ---
 id: 3f70d8b4-b75f-4bb1-bd8d-91d7e03a8232
 blueprint: book
-title: '*** The Little Prince'
-author: 'Anton de St. Expery'
+title: '*** The Little Prince  (1943)'
+author: 'A novella by Antoine de Saint-Exupéry'
 image: image-1707926328.jpeg
 collection_type: book
 description:
@@ -11,9 +11,35 @@ description:
     content:
       -
         type: text
-        text: 'review here'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.lepetitprince.com/en/homepage/'
+              rel: null
+              target: null
+              title: null
+        text: 'https://www.lepetitprince.com/en/homepage/'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'The Little Prince comes from a planet barely bigger than he is, on which there are baobabs and a very precious flower, a rose, which is doing its coquette and for which he feels responsible. The Little Prince loves the sunset. One day, he saw it forty-four times! He also visited other planets and met some very important people, but they didn’t know how to answer his questions. On Earth, he tamed the fox, who became his friend.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'And above all, he met the aviator, stranded in the Sahara desert. Then he asked him, “Please… draw me a sheep!”'
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707926373
+updated_at: 1709325243
 ---

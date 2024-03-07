@@ -1,14 +1,14 @@
 ---
 id: 5faa7255-a811-4e1d-ba34-b123d56068c3
 blueprint: book
-title: '*** The Politics of Nonviolent Action   (1973)   4.48 Goodreads'
+title: '*** The Politics of Nonviolent Action  (1973)'
 author: 'Gene Sharp'
 collection_type: book
 challenges:
   - cultivating-peace
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708995249
+updated_at: 1709324651
 image: politicsofnonviolentaction.jpeg
 description:
   -
@@ -36,6 +36,15 @@ description:
     content:
       -
         type: text
-        text: '(from Goodreads review)'
+        text: '(from '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Goodreads
+      -
+        type: text
+        text: ' review, rated 4.48)'
 ---
 https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action

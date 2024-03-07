@@ -1,7 +1,7 @@
 ---
 id: ecd34d1f-9510-468f-9b8e-4f6d6c678fbf
 blueprint: commencement_speech
-title: 'Oprah Winfrey  --  "Be the Truth"'
+title: '"Be the Truth"'
 location: 'University of Southern California, Los Angeles, California USA'
 date: '2018-05-11'
 collection_type: commencement-speeches
@@ -472,5 +472,7 @@ transcript:
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708298150
+updated_at: 1709495101
+speaker: 'Oprah Winfrey'
+image: gettyimages-957456666.jpg-1709495089.webp
 ---

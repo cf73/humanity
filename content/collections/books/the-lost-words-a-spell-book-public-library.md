@@ -1,7 +1,7 @@
 ---
 id: 9ecc06b8-0849-409a-8bd5-e6f6c0805014
 blueprint: book
-title: 'The Lost Words: A Spell Book (public library)'
+title: 'The Lost Words: A Spell Book  (2017)'
 author: 'Robert Macfarlane'
 image: image-1709142270.png
 collection_type: book
@@ -11,13 +11,7 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Robert Macfarlane'
-      -
-        type: text
-        text: ' — a rare descendent from the lyrical tradition of '
+        text: 'Robert Macfarlane — a rare descendent from the lyrical tradition of '
       -
         type: text
         marks:
@@ -65,16 +59,7 @@ description:
     content:
       -
         type: text
-        text: 'Troubled by this loss of vital and vitalizing language, MacFarlane teamed up with illustrator and children’s book author '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Jackie Morris'
-      -
-        type: text
-        text: ', who had reached out to him to write an introduction for a sort of “wild dictionary” she wanted to create as a counterpoint to Oxford’s erasure. Instead, Macfarlane envisioned something greater. '
+        text: 'Troubled by this loss of vital and vitalizing language, MacFarlane teamed up with illustrator and children’s book author Jackie Morris, who had reached out to him to write an introduction for a sort of “wild dictionary” she wanted to create as a counterpoint to Oxford’s erasure. Instead, Macfarlane envisioned something greater. '
       -
         type: text
         marks:
@@ -154,5 +139,5 @@ challenges:
   - cultivating-peace
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709142280
+updated_at: 1709652745
 ---

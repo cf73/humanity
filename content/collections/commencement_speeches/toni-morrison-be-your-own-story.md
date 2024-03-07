@@ -1,7 +1,7 @@
 ---
 id: b4176ab7-67b2-40c2-b5e0-37c995d46176
 blueprint: commencement_speech
-title: 'Be Your Own Story'
+title: '"Be Your Own Story"'
 location: 'Wellesley College, Wellesley, Massachusetts USA'
 date: '2004-05-28'
 collection_type: commencement-speeches
@@ -120,15 +120,15 @@ transcript:
 challenges:
   - cultivating-peace
   - preserving-democracy
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708573617
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1709495537
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: '[need description]'
+        text: 'See description in first two paragraphs before transcript begins, below.'
 speaker: 'Toni Morrison'
 image: tonimorrison.png
 ---

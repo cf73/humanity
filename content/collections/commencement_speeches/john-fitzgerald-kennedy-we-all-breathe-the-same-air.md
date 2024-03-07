@@ -1,7 +1,7 @@
 ---
 id: f74e61ed-bc0b-412d-8cbf-8d635097efe8
 blueprint: commencement_speech
-title: 'We All Breathe the Same Air'
+title: '"We All Breathe the Same Air"'
 location: 'American University, Washington D. C. USA'
 date: '1963-06-10'
 collection_type: commencement-speeches
@@ -327,10 +327,11 @@ transcript:
       -
         type: text
         text: "The United States, as the world knows, will never start a war. We do not want a war. We do not now expect a war. This generation of Americans has already had enough, more than enough, of war and hate and oppression. We shall be prepared if others wish it. We shall be alert to try to stop it. But we shall also do our part to build a world of peace where the weak are safe and the strong are just. We are not helpless before that task or hopeless of its success. Confident and unafraid, we must labor on, not toward a strategy of annihilation but toward a strategy of\_peace.\_"
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708574026
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1709493926
 challenges:
   - cultivating-peace
+  - preserving-democracy
 speaker: 'John Fitzgerald Kennedy'
 image: jfk.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 id: 5c0af817-aaa5-49eb-9968-8a01beb12c10
 blueprint: book
-title: '*** Paddington Bear'
+title: '*** Paddington Bear  (1958)'
 author: 'Michael Bond'
 image: image-1708027616.jpeg
 description:
