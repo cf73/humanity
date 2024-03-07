@@ -50,7 +50,7 @@ link: |-
   fortune.com/2023/11/20/jared-kushner-arab-israeli-officials-outline-day-after-solutions-first-time-oct-7-attacks-yale-middle-east-peace-dialogue-sonnenfeld-tian/
 image: unknown-1707518797.jpeg
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707518874
 ---

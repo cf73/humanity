@@ -5,7 +5,7 @@ title: '*** The Politics of Nonviolent Action  (1973)'
 author: 'Gene Sharp'
 collection_type: book
 challenges:
-  - cultivating-peace
+  - war
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709324651

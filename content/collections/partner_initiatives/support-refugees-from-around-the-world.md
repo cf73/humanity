@@ -26,7 +26,7 @@ description:
         text: 'https://www.rescue.org/how-to-help#main-content'
 image: image-1709757529.png
 challenges:
-  - cultivating-peace
+  - war
 partner: international-rescue-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709757640

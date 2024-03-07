@@ -5,7 +5,7 @@ title: '"Wild Geese"'
 poets_name: 'Mary Oliver (1935-2019). She was a Pulitzer Prize winning poet. She published several poetry collections, including Dog Songs: Poems (Penguin Books, 2015).'
 image: image-1708786001.jpeg
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1708996668
 poets_website: unk

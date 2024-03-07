@@ -6,7 +6,7 @@ quotation: '"There will one day spring from the brain of science a machine or fo
 attribution: 'Thomas A. Edison'
 image: image-1707512364.jpeg
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1709777284
 collection_type: poetry-contributions

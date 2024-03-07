@@ -27,7 +27,7 @@ description:
         text: 'Donate to Ashoka today and become a part of the “everyone a changemaker” movement!'
 image: nigeria.png
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1707947943
 ---

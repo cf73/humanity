@@ -14,7 +14,7 @@ description:
 link: 'https://www.youtube.com/watch?v=YY6LCOJbve8&t=557s'
 image: timothysynder.jpg
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1709777623
 collection_type: talks

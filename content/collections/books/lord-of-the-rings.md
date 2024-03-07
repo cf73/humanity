@@ -49,7 +49,7 @@ description:
         type: text
         text: ' tells of the great quest undertaken by Frodo and the Fellowship of the Ring: Gandalf the Wizard; the hobbits Merry, Pippin, and Sam; Gimli the Dwarf; Legolas the Elf; Boromir of Gondor; and a tall, mysterious stranger called Strider.'
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709514300
 ---

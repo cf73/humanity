@@ -220,7 +220,7 @@ transcript:
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1709774097
 challenges:
-  - cultivating-peace
+  - war
 speaker: 'Meg Greenfield'
 image: 1hy5y71_293_lt.jpg
 related_partner_initiatives:

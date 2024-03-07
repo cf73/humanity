@@ -56,7 +56,7 @@ description:
 link: 'https://www.themarginalian.org/2022/07/09/ferdinand-civilon/'
 image: image-1707528079.jpeg
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1709777374
 collection_type: talks

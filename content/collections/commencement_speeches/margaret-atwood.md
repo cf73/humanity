@@ -167,7 +167,7 @@ transcript:
         type: text
         text: "Try it and\_see."
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709495350
 speaker: 'Margaret Atwood'

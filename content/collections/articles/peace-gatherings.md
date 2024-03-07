@@ -22,7 +22,7 @@ description:
         type: text
         text: ' how your neighborhood can help to end war – with contagious peace.'
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1708137438
 content:

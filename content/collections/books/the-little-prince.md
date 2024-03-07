@@ -39,7 +39,7 @@ description:
             type: bold
         text: 'And above all, he met the aviator, stranded in the Sahara desert. Then he asked him, “Please… draw me a sheep!”'
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709325243
 ---

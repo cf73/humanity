@@ -32,7 +32,7 @@ description:
         type: text
         text: '~  Lisa Kristine'
 challenges:
-  - cultivating-peace
+  - war
   - climate
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172

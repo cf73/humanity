@@ -185,5 +185,5 @@ speaker: 'Paul Hawken'
 image: clip_image001.gif
 challenges:
   - climate
-  - cultivating-peace
+  - war
 ---

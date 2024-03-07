@@ -20,7 +20,7 @@ description:
         type: text
         text: 'https://www.nytimes.com/2019/06/12/magazine/world-war-ii-d-day-artist.html?'
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709597747
 ---
