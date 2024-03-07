@@ -4,6 +4,7 @@ blueprint: talk
 title: '*** RFK on the night Martin Luther King Jr. was killed... (1968) (3 minute video)'
 speaker: 'Robert F.Kennedy Jr'
 location_or_event: 'Tennesse   April 4, 1968'
+collection_type: talks
 description:
   -
     type: paragraph

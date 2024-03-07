@@ -4,6 +4,7 @@ blueprint: talk
 title: '*** Sylvia Earle "My Wish to Protect the Oceans"  (TED video)'
 speaker: 'Sylvia Earle'
 location_or_event: 'Long Beach, Calfornia  2009'
+collection_type: talks
 description:
   -
     type: paragraph
