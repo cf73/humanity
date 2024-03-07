@@ -38,7 +38,7 @@ description:
         text: '"'
 image: image-1709758269.jpeg
 challenges:
-  - climate-action
+  - climate
 partner: treesisters
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709758281

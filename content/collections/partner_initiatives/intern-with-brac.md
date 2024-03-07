@@ -225,7 +225,7 @@ description:
     type: paragraph
 image: image-1709686935.png
 challenges:
-  - climate-action
+  - climate
 partner: bangladesh-rural-advancement-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709686948

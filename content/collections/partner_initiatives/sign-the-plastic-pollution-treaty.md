@@ -55,7 +55,7 @@ description:
         text: 'Working to sustain the natural world for the benefit of people and nature'
 image: image-1709757138.jpeg
 challenges:
-  - climate-action
+  - climate
 partner: world-wide-fund-for-nature
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709757146

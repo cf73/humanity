@@ -49,7 +49,7 @@ description:
         type: text
         text: '(review above by Ereads; rated 4.4 by Goodreads)'
 challenges:
-  - climate-action
+  - climate
   - cultivating-peace
   - preserving-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172

@@ -579,7 +579,7 @@ description:
         text: 'Want to collaborate with us to submit an amicus brief in defense of the Rights of Nature, as well as human environmental rights and the rights of future generations? Contact us to speak with one of our lawyers.'
 link: 'https://www.earthlawcenter.org/amicus-briefs'
 challenges:
-  - climate-action
+  - climate
 partner: earth-law-center
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1709776825

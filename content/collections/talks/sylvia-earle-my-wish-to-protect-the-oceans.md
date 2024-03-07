@@ -30,7 +30,7 @@ description:
 link: 'https://www.ted.com/talks/sylvia_earle_my_wish_protect_our_oceans'
 image: image-1707926901.jpeg
 challenges:
-  - climate-action
+  - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709563412
 ---
