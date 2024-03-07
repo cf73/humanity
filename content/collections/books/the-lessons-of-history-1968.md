@@ -4,6 +4,7 @@ blueprint: book
 title: '*** The Lessons of History (1968)'
 author: 'Will and Ariel Durant'
 image: image-1707922371.jpeg
+collection_type: book
 description:
   -
     type: paragraph

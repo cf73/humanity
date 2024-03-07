@@ -4,6 +4,7 @@ blueprint: book
 title: 'The Lost Words: A Spell Book (public library)'
 author: 'Robert Macfarlane'
 image: image-1709142270.png
+collection_type: book
 description:
   -
     type: paragraph

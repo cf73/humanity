@@ -4,6 +4,7 @@ blueprint: book
 title: 'Chimpanzee Politics: Power and Sex among Apes  -  (1982) 4.28 Goodreads'
 author: 'Frans de Waal'
 image: image-1707921380.png
+collection_type: book
 description:
   -
     type: paragraph

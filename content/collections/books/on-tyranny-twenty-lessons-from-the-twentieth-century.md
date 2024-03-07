@@ -4,6 +4,7 @@ blueprint: book
 title: '*** On Tyranny: Twenty Lessons from the Twentieth Century  (published 2017) 4.17 on Goodreads.'
 author: 'Timothy Snyder'
 image: image-1708992781.jpeg
+collection_type: book
 description:
   -
     type: paragraph

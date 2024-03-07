@@ -4,6 +4,7 @@ blueprint: book
 title: '*** The World Ending Fire  (2019)  4.4 on Goodreads.'
 author: 'Wendell Berry'
 image: image-1708995723.jpeg
+collection_type: book
 description:
   -
     type: paragraph

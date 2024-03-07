@@ -4,6 +4,7 @@ blueprint: book
 title: '*** Guns, Germs and Steel'
 author: 'Jared Diamond'
 image: image-1707921450.png
+collection_type: book
 description:
   -
     type: paragraph

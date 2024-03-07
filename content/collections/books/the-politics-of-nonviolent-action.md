@@ -3,6 +3,7 @@ id: 5faa7255-a811-4e1d-ba34-b123d56068c3
 blueprint: book
 title: '*** The Politics of Nonviolent Action   (1973)   4.48 Goodreads'
 author: 'Gene Sharp'
+collection_type: book
 challenges:
   - cultivating-peace
   - preserving-democracy

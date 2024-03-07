@@ -4,6 +4,7 @@ blueprint: book
 title: "Children's books (including The Earthshot Prize and also charity: water's World Changers book...)"
 author: "children's books"
 image: image-1707485581.jpeg
+collection_type: book
 description:
   -
     type: paragraph

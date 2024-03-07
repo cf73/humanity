@@ -4,6 +4,7 @@ blueprint: book
 title: '*** The Little Prince'
 author: 'Anton de St. Expery'
 image: image-1707926328.jpeg
+collection_type: book
 description:
   -
     type: paragraph

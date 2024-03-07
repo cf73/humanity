@@ -4,6 +4,7 @@ blueprint: book
 title: 'The Origins of Totalitarianism'
 author: 'Hannah Arendt'
 image: pro0330260.jpg.webp
+collection_type: book
 description:
   -
     type: paragraph

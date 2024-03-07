@@ -25,6 +25,7 @@ description:
         text: 'Not reading this book will keep you from understanding the nitty-gritty of politics. Reading it will not make you a genius overnight either, but it will leave you a lot less politically naive than before.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707921236
+collection_type: book
 challenges:
   - preserving-democracy
 ---

@@ -4,6 +4,7 @@ blueprint: book
 title: 'Lost in Translation: An Illustrated Compendium of Untranslatable Words from Around the World (public library)'
 author: '*** Ella Frances Sanders'
 image: image-1709142589.png
+collection_type: book
 description:
   -
     type: paragraph
