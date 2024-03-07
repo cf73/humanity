@@ -1,5 +1,3 @@
-<h1>Partner Initiatives</h1>
-
 <div class="container mx-auto space-y-8">
     <h1>{{title}}</h1>
     <h3>{{intro}}</h3>
@@ -42,6 +40,10 @@
 <section id="partnerStories">
     <div class="container mx-auto space-y-8">
         <h3>Featured Partner Stories</h3>
-
+        <div class="grid grid-cols-4 gap-4">
+            {{collection:partner_stories}}
+                <a href="{{url}}">{{partial:card}}</a>
+            {{/collection:partner_stories}}
+        </div>
     </div>
 </section>
