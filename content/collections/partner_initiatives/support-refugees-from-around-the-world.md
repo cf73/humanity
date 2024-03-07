@@ -2,6 +2,7 @@
 id: 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
 blueprint: partner_initiative
 title: 'Support refugees from around the world.'
+collection_type: partner-initiatives
 description:
   -
     type: paragraph

@@ -2,6 +2,7 @@
 id: c7f4951c-3a1d-4fd9-a01d-f0b73975b069
 blueprint: partner_initiative
 title: 'Sign the plastic pollution treaty.'
+collection_type: partner-initiatives
 description:
   -
     type: paragraph

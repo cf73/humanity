@@ -2,6 +2,7 @@
 id: cfecebb5-ee73-41df-ad4c-184602dfe751
 blueprint: partner_initiative
 title: 'Volunteer your skills and resources to solve issues and address community needs.'
+collection_type: partner-initiatives
 description:
   -
     type: paragraph

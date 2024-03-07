@@ -2,6 +2,7 @@
 id: 6f9195fc-1c72-4935-be44-e6b912bbba06
 blueprint: partner_initiative
 title: "Support women's empowerment and connections with nature."
+collection_type: partner-initiatives
 description:
   -
     type: paragraph

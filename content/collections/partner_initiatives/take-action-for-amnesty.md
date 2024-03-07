@@ -2,6 +2,7 @@
 id: 2d25bdca-0661-40ea-8a59-9d3e34107a2a
 blueprint: partner_initiative
 title: 'Take action for Amnesty'
+collection_type: partner-initiatives
 description:
   -
     type: paragraph

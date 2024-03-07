@@ -2,6 +2,7 @@
 id: 914d560c-f5d0-48a3-8b24-906389eb8d49
 blueprint: partner_initiative
 title: 'Send love to women around the world and help them fight hunger'
+collection_type: partner-initiatives
 description:
   -
     type: paragraph

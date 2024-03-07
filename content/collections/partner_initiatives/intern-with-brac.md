@@ -2,6 +2,7 @@
 id: 86161e36-7285-41a6-ba67-5a5f928fb1d1
 blueprint: partner_initiative
 title: 'Intern with Bangladesh Rural Advancement Committee'
+collection_type: partner-initiatives
 description:
   -
     type: paragraph

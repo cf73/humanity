@@ -581,6 +581,7 @@ link: 'https://www.earthlawcenter.org/amicus-briefs'
 challenges:
   - climate-action
 partner: earth-law-center
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709145670
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1709776825
+collection_type: partner-stories
 ---

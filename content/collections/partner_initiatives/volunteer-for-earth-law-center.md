@@ -2,6 +2,7 @@
 id: 5b08c208-5356-4878-b3be-a9b91e1f383c
 blueprint: partner_initiative
 title: 'Volunteer for Earth Law Center'
+collection_type: partner-initiatives
 description:
   -
     type: paragraph
