@@ -123,6 +123,29 @@ tabs:
       -
         fields:
           -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
+          -
+            handle: collection_type
+            field:
+              max_items: 1
+              mode: select
+              create: true
+              taxonomies:
+                - collection_type
+              type: terms
+              display: 'Collection Type'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
             handle: challenges
             field:
               mode: select
@@ -138,12 +161,6 @@ tabs:
               hide_display: false
               validate:
                 - required
-          -
-            handle: slug
-            field:
-              type: slug
-              localizable: true
-              validate: 'max:200'
           -
             handle: related_partner_initiatives
             field:
@@ -185,18 +202,3 @@ tabs:
               hide_display: false
               validate:
                 - required
-          -
-            handle: collection_type
-            field:
-              max_items: 1
-              mode: select
-              create: true
-              taxonomies:
-                - collection_type
-              type: terms
-              display: 'Collection Type'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
