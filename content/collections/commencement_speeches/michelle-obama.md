@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: 'Be True to Yourself'
 location: 'Tuskegee University'
 date: '2015-05-09'
+collection_type: commencement-speeches
 url: 'https://www.youtube.com/watch?v=JACTrIRjGos&t=1s'
 description:
   -

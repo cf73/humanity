@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: 'The imitator dooms himself with hopeless mediocrity'
 location: 'Harvard Divinity School, Cambridge, Massachusetts USA'
 date: '1838-07-15'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph

@@ -3,8 +3,8 @@
     {{intro}}
 </div>
 
-<div class="container mx-auto">
-    <div class="w-full">
+<div class="container mx-auto grid grid-cols-5 gap-4">
+    <div class="col-span-1">
         <h3>Filters</h3>
         <form action="/discover" method="get">
             {{taxonomy:challenges}}
@@ -17,13 +17,24 @@
                     {{ title }}<br>
                 </label>
             {{/taxonomy:challenges}}
+            {{taxonomy:collection_type}}
+                <label>
+                    <input class="rounded"
+                        type="checkbox"
+                        name="contenttype[]"
+                        value="{{ slug }}"
+                        {{ (get:contenttype | contains(slug)) ?= 'checked' }}>
+                    {{ title }}<br>
+                </label>
+            {{/taxonomy:collection_type}}
             <button type="submit">Submit</button>
         </form>
         
     </div>
-    <div>
-        {{ collection from="*" not_from="pages" as="articles"
+    <div class="col-span-4">
+        {{ collection from="*" not_from="pages" as="results"
             :taxonomy:challenges="get:categories"
+            :taxonomy:collection_type="get:contenttype"
              }}
             {{ if no_results }}
                 <div class="p-8 rounded-lg bg-gray-100 text-center">
@@ -31,9 +42,9 @@
                 </div>
             {{ else }}
                 <div class="grid grid-cols-4 gap-6">
-                    {{ articles | shuffle }}
+                    {{ results | shuffle }}
                         <a href="{{url}}">{{ partial:card }}</a>
-                    {{ /articles }}
+                    {{ /results }}
                 </div>
             {{ /if }}
         {{ /collection }}

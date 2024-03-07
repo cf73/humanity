@@ -5,6 +5,7 @@ title: 'Dr. Martha  C. Nussbaum  --  "Compassionate Citizenship"'
 location: 'Georgetown University, Washington D. C. USA'
 date: '2003-05-13'
 url: 'https://humanity.org/wp-content/uploads/2023/01/R.a4c177dc2545ec679792303d0839e245.jpeg'
+collection_type: commencement-speeches
 transcript:
   -
     type: paragraph

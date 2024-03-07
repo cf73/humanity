@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: 'The Earth is Hiring'
 location: 'University of Portland. Portland, Oregon USA'
 date: '2009-05-03'
+collection_type: commencement-speeches
 transcript:
   -
     type: paragraph

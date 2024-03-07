@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: 'Find What You Love'
 location: 'Stanford University, Palo Alto, California'
 date: '2005-06-12'
+collection_type: commencement-speeches
 url: 'https://www.youtube.com/watch?v=UF8uR6Z6KLc'
 transcript:
   -

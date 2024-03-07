@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: 'The Effect You Have On Others'
 location: 'Maharishi University of Management, Fairfield, Iowa'
 date: '2014-05-30'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph

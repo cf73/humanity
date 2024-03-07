@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: "What I Know Now That I Wish I'd Known Then"
 location: 'Tufts University, Medford, Massachusetts USA'
 date: '1987-05-17'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph

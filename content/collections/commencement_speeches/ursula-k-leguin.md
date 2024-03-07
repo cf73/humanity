@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: 'A Left-handed Commencement Address'
 location: 'Mills College, Oakland, California USA'
 date: '1983-05-18'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph

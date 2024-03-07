@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: Kindness
 location: 'Syracuse University, NY USA'
 date: '2013-05-11'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph

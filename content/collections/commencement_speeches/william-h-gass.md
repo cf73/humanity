@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: 'On Learning to Talk'
 location: 'Washington University, St. Louis, Missouri  USA'
 date: '1979-06-04'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph

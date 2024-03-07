@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: 'Be Your Own Story'
 location: 'Wellesley College, Wellesley, Massachusetts USA'
 date: '2004-05-28'
+collection_type: commencement-speeches
 url: 'http://www.c-spanvideo.org/program/182148-1'
 transcript:
   -

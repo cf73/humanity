@@ -5,6 +5,7 @@ title: 'What We Wish to Become'
 location: 'University of North Carolina, Chapel Hill, North Carolina  USA'
 date: '2011-05-08'
 url: 'https://www.youtube.com/watch?v=IzPcu0-ETTU'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph

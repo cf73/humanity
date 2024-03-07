@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: 'William Allen White  --  "Eternal Resilience"'
 location: 'Northwestern University, Evanston, Illinois USA'
 date: '1936-06-10'
+collection_type: commencement-speeches
 url: mmm
 description:
   -

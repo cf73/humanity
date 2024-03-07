@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: 'Failure and Imagination'
 location: 'Harvard University, Cambridge, Massachusetts, USA'
 date: '2008-06-05'
+collection_type: commencement-speeches
 url: 'https://www.youtube.com/watch?v=wHGqp8lz36c&t=5s'
 description:
   -
