@@ -14,7 +14,7 @@ description:
         text: 'When the mind opens, and reveals the laws which traverse the universe, and make things what they are, then shrinks the great world at once into a mere illustration and fable of this mind. What am I? and What is? asks the human spirit with a curiosity new-kindled, but never to be quenched.'
 url: 'https://humanity.org/wp-content/uploads/2023/06/Ralph_Waldo_Emerson_by_Josiah_Johnson_Hawes_1857.jpg'
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709650180
 transcript:

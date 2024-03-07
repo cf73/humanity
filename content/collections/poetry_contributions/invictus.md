@@ -6,7 +6,7 @@ poets_name: 'William Ernest Henley, written 1975, United Kingdom'
 poets_website: 'https://en.wikipedia.org/wiki/Invictus'
 image: image-1708785410.jpeg
 challenges:
-  - preserving-democracy
+  - democracy
   - war
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1709777235

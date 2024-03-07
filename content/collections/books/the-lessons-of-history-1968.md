@@ -40,7 +40,7 @@ description:
         type: text
         text: 'This book is essentially the summary of recorded human history in over 120 pages, without flair and fluff—just pure facts.'
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707922381
 ---

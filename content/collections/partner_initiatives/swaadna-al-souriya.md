@@ -12,7 +12,7 @@ description:
         text: 'Swaadna Al Souriya is an organisation in Syria, focussed on supporting children, women, and poor families. They were established in 2015 to support children affected by the Syrian conflict to return to school and regain a sense of structure in their lives. They also support women’s empowerment, food security, and building livelihoods.'
 image: edu.jpg
 challenges:
-  - preserving-democracy
+  - democracy
   - war
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1708109272

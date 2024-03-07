@@ -61,7 +61,7 @@ description:
 link: 'https://www.youtube.com/watch?v=Ir_FM4RWH-o&t=1s'
 image: oip.slxx_9iyj264b4m4fdq_wahafj.jpeg
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709563540
 ---

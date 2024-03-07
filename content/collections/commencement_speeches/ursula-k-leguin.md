@@ -22,7 +22,7 @@ description:
         type: text
         text: ', she was "sane, committed, annoyed, humorous, wise and always intelligent." She lived in Oregon.'
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709650255
 transcript:

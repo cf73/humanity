@@ -16,7 +16,7 @@ description:
         type: hardBreak
 video_id: 'dkPo5nfEk1w?si=l1HbjsUXu5x6R3BY'
 challenges:
-  - preserving-democracy
+  - democracy
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709651110

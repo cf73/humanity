@@ -183,7 +183,7 @@ transcript:
         type: text
         text: "Congratulations, may you prosper, and may you live, some day, in a world of justice for\_all."
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709494016
 description:
