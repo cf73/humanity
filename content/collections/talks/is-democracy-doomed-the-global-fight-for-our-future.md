@@ -15,8 +15,9 @@ link: 'https://www.youtube.com/watch?v=YY6LCOJbve8&t=557s'
 image: timothysynder.jpg
 challenges:
   - war
+  - democracy
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709820140
+updated_at: 1709820170
 related_partner_initiatives:
   - 3bf463d5-6e92-4bf8-abe9-bc1148c3a4e1
 related_content:
