@@ -30,9 +30,10 @@ description:
         type: text
         text: 'Dr. Harari also compels us to look ahead, because over the last few decades humans have begun to bend laws of natural selection that have governed life for the past four billion years. We are acquiring the ability to design not only the world around us, but also ourselves. Where is this leading us, and what do we want to become? This provocative and insightful work is sure to spark debate.'
 challenges:
-  - cultivating-peace
-  - preserving-democracy
-  - climate-action
+  - war
+  - democracy
+  - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709652617
+updated_at: 1707921696
+collection_type: book
 ---

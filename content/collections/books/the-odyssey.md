@@ -34,8 +34,8 @@ description:
               title: null
         text: 'https://www.theguardian.com/books/2017/dec/08/the-odyssey-translated-emily-wilson-review'
 challenges:
-  - cultivating-peace
-  - preserving-democracy
+  - war
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709513993
 ---

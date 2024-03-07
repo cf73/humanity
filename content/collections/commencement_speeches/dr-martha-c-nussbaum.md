@@ -5,6 +5,7 @@ title: '"Compassionate Citizenship"'
 location: 'Georgetown University, Washington D. C. USA'
 date: '2003-05-13'
 url: 'https://humanity.org/wp-content/uploads/2023/01/R.a4c177dc2545ec679792303d0839e245.jpeg'
+collection_type: commencement-speeches
 transcript:
   -
     type: paragraph
@@ -182,7 +183,7 @@ transcript:
         type: text
         text: "Congratulations, may you prosper, and may you live, some day, in a world of justice for\_all."
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709494016
 description:

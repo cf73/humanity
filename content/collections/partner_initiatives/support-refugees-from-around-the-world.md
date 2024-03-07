@@ -2,6 +2,7 @@
 id: 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
 blueprint: partner_initiative
 title: 'Support refugees from around the world.'
+collection_type: partner-initiatives
 description:
   -
     type: paragraph
@@ -25,7 +26,7 @@ description:
         text: 'https://www.rescue.org/how-to-help#main-content'
 image: image-1709757529.png
 challenges:
-  - cultivating-peace
+  - war
 partner: international-rescue-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709757640

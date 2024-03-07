@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: '"Find What You Love"'
 location: 'Stanford University, Palo Alto, California'
 date: '2005-06-12'
+collection_type: commencement-speeches
 url: 'https://www.youtube.com/watch?v=UF8uR6Z6KLc'
 transcript:
   -
@@ -211,7 +212,7 @@ transcript:
         type: text
         text: 'Thank you all very much.'
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709493693
 description:

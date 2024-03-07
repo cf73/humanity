@@ -4,6 +4,7 @@ blueprint: book
 title: "Children's books (including The Earthshot Prize and also charity: water's World Changers book...)"
 author: "children's books"
 image: image-1707485581.jpeg
+collection_type: book
 description:
   -
     type: paragraph
@@ -824,7 +825,7 @@ description:
         type: text
         text: '— your friends at charity: water'
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709139409
 ---

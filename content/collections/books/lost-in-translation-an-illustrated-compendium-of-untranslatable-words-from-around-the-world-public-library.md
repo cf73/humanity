@@ -4,6 +4,7 @@ blueprint: book
 title: 'Lost in Translation: An Illustrated Compendium of Unatranslatable Words from Around the World (2014)'
 author: '*** Ella Frances Sanders'
 image: image-1709142589.png
+collection_type: book
 description:
   -
     type: paragraph
@@ -143,6 +144,6 @@ description:
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709652337
 challenges:
-  - cultivating-peace
-  - preserving-democracy
+  - war
+  - democracy
 ---

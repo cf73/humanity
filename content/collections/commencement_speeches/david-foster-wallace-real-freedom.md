@@ -5,6 +5,7 @@ title: '"Real Freedom?"'
 location: 'Kenyon College, Gambier, Ohio'
 date: '2005-05-21'
 url: 'http://www.youtube.com/watch?v=PhhC_N6Bm_s'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph
@@ -414,8 +415,8 @@ transcript:
       -
         type: hardBreak
 challenges:
-  - preserving-democracy
-  - cultivating-peace
+  - democracy
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709650608
 speaker: 'David Foster Wallace'

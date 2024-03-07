@@ -76,8 +76,9 @@ description:
         text: 'The programmatic activities support community-based peacebuilding and security and promote sustainability by providing information on peace and security at all levels of society. The sector is relevant for the development of global policy not only within disarmament and peacebuilding, but also in the humanitarian-development-peace ‘Triple Nexus’.'
 link: 'https://www.savethechildren.org/us/ways-to-help/campaign-with-us/stop-war-on-children'
 challenges:
-  - cultivating-peace
+  - war
 partner: danish-refugee-council
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709144549
+collection_type: partner-stories
 ---

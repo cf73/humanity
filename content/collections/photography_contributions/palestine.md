@@ -4,6 +4,7 @@ blueprint: photography_contribution
 title: Palestine
 photographer_name: 'Luke Powell'
 photographer_website: unk
+collection_type: photography-contributions
 image: palestine-luke.jpeg
 description:
   -
@@ -13,7 +14,7 @@ description:
         type: text
         text: Palestine
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707519802
 ---

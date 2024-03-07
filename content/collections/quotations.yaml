@@ -1,4 +1,6 @@
 title: Quotations
+taxonomies:
+  - collection_type
 revisions: false
 date_behavior:
   past: public

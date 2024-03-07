@@ -29,7 +29,8 @@ description:
             type: bold
         text: 'Replace this review!'
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707921958
+collection_type: book
 ---

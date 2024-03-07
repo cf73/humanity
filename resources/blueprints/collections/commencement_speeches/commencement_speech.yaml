@@ -75,19 +75,18 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
-              validate:
-                - required
           -
-            handle: url
+            handle: video_id
             field:
               antlers: false
               type: textarea
-              display: 'Video URL'
+              display: 'Video ID'
               listable: hidden
               instructions_position: above
               visibility: visible
               replicator_preview: true
               hide_display: false
+              instructions: 'Grab the long string of random letters and numbers after this in the YouTube embed code: src="https://www.youtube.com/embed/[grab this bit and paste it here]"'
           -
             handle: description
             field:
@@ -162,6 +161,27 @@ tabs:
       -
         fields:
           -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
+          -
+            handle: collection_type
+            field:
+              type: terms
+              taxonomies:
+                - collection_type
+              display: 'Collection Type'
+              mode: select
+              instructions_position: above
+              listable: hidden
+              visibility: visible
+              replicator_preview: true
+              max_items: 1
+              create: true
+              hide_display: false
+          -
             handle: challenges
             field:
               mode: select
@@ -176,8 +196,43 @@ tabs:
               replicator_preview: true
               hide_display: false
           -
-            handle: slug
+            handle: related_partner_initiatives
             field:
-              type: slug
-              localizable: true
-              validate: 'max:200'
+              max_items: 4
+              mode: select
+              create: false
+              collections:
+                - partner_initiatives
+              type: entries
+              display: 'Related Partner Initiatives'
+              instructions: "Help site visitors discover how to take action related to the content they've just seen here."
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: related_content
+            field:
+              max_items: 5
+              mode: select
+              create: false
+              collections:
+                - articles
+                - books
+                - commencement_speeches
+                - partner_stories
+                - talks
+                - poetry_contributions
+              type: entries
+              display: 'Related Content'
+              instructions: 'Other content from THI that relates to this piece, allowing visitors to follow their own path.'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required

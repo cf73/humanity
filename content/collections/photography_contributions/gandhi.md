@@ -5,6 +5,7 @@ title: Gandhi
 photographer_name: 'Henri Cartier-Bresson'
 photographer_website: unk
 image: r.6cd87990f57f486d0ed8b0013344e03c-1707873432.jpeg
+collection_type: photography-contributions
 description:
   -
     type: paragraph
@@ -96,7 +97,7 @@ description:
         type: text
         text: '(Wikipedia bio)'
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709685562
 ---

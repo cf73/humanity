@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: '"Attitude"'
 location: 'The University Of Toronto, Toronto, Canada'
 date: '1983-06-14'
+collection_type: commencement-speeches
 url: 'https://www.bing.com/images/search?view=detailV2&ccid=mtcMwfWs&id=E4C7F6E4985BDC26A02DBC808753C95F60A11EE3&thid=OIP.mtcMwfWsyUMfiuf1hNpb_wHaEc&mediaurl=https%3a%2f%2fd.newsweek.com%2fen%2ffull%2f333017%2fmargaret-atwood.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9ad70cc1f5acc9431f8ae7f584da5bff%3frik%3d4x6hYF%252fJU4eAvA%26pid%3dImgRaw%26r%3d0&exph=961&expw=1600&q=Margaret+Atwood+image&simid=608041660363337995&FORM=IRPRST&ck=BD2A4FC3361386152AC8163790778FC8&selectedIndex=15&itb=0'
 description:
   -
@@ -166,7 +167,7 @@ transcript:
         type: text
         text: "Try it and\_see."
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709495350
 speaker: 'Margaret Atwood'

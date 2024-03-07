@@ -2,6 +2,7 @@
 id: 8e78665e-26d1-400e-8f6f-2391b9bfec84
 blueprint: partner_initiative
 title: '*** Join "Everyone a Changemaker"'
+collection_type: partner-initiatives
 description:
   -
     type: paragraph
@@ -26,7 +27,7 @@ description:
         text: 'Donate to Ashoka today and become a part of the “everyone a changemaker” movement!'
 image: nigeria.png
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1707947943
 ---

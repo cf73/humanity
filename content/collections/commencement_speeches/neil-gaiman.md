@@ -5,6 +5,7 @@ title: '"Make Good Art"'
 location: 'University of the Arts, Philadelphia, Pennsylvania'
 date: '2012-05-17'
 url: 'https://www.youtube.com/watch?v=ikAb-NYkseI'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph

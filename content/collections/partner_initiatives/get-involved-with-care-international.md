@@ -2,6 +2,7 @@
 id: 914d560c-f5d0-48a3-8b24-906389eb8d49
 blueprint: partner_initiative
 title: 'Send love to women around the world and help them fight hunger'
+collection_type: partner-initiatives
 description:
   -
     type: paragraph
@@ -41,7 +42,7 @@ description:
         text: '* Support for women farmers to create a sustainable future for their families and communities.'
 image: fy24mmdf_feb_vday_bgimg.jpg
 challenges:
-  - cultivating-peace
+  - war
 partner: care-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709686766

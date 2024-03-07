@@ -5,6 +5,7 @@ title: '*** Peru, near Cuzco'
 photographer_name: 'Werner Bischof'
 photographer_website: 'first cover of humanity, good home page shot'
 image: h91_01-1709685784.jpeg
+collection_type: photography-contributions
 description:
   -
     type: paragraph
@@ -13,7 +14,7 @@ description:
         type: text
         text: 'Compelling home page shot...'
 challenges:
-  - climate-action
+  - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709685817
 ---

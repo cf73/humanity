@@ -4,6 +4,7 @@ blueprint: book
 title: '*** The Little Prince  (1943)'
 author: 'A novella by Antoine de Saint-Exupéry'
 image: image-1707926328.jpeg
+collection_type: book
 description:
   -
     type: paragraph
@@ -38,7 +39,7 @@ description:
             type: bold
         text: 'And above all, he met the aviator, stranded in the Sahara desert. Then he asked him, “Please… draw me a sheep!”'
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709325243
 ---

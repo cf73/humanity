@@ -4,6 +4,7 @@ blueprint: photography_contribution
 title: '"One June Early Morning"  (1972) Painting (for use in Ending War section)'
 photographer_name: 'Guy de Montlaur'
 photographer_website: unk
+collection_type: photography-contributions
 image: 12atwar-montlaur-image-03-superjumbo-v3-1.jpg.webp
 description:
   -
@@ -19,7 +20,7 @@ description:
         type: text
         text: 'https://www.nytimes.com/2019/06/12/magazine/world-war-ii-d-day-artist.html?'
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709597747
 ---

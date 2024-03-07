@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: '"On Learning to Talk"'
 location: 'Washington University, St. Louis, Missouri  USA'
 date: '1979-06-04'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph
@@ -284,7 +285,7 @@ transcript:
         type: text
         text: "© 1979, 1984, and 1985 by William\_Gass"
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709495443
 speaker: 'William Howard Gass'

@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: '"Be True to Yourself"'
 location: 'Tuskegee University'
 date: '2015-05-09'
+collection_type: commencement-speeches
 url: 'https://www.youtube.com/watch?v=JACTrIRjGos&t=1s'
 description:
   -
@@ -457,8 +458,8 @@ transcript:
       -
         type: hardBreak
 challenges:
-  - cultivating-peace
-  - preserving-democracy
+  - war
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709493883
 speaker: 'Michelle Obama'

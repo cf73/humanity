@@ -4,6 +4,7 @@ blueprint: book
 title: '*** The World Ending Fire  (2019)'
 author: 'Wendell Berry'
 image: image-1708995723.jpeg
+collection_type: book
 description:
   -
     type: paragraph
@@ -48,9 +49,9 @@ description:
         type: text
         text: '(review above by Ereads; rated 4.4 by Goodreads)'
 challenges:
-  - climate-action
-  - cultivating-peace
-  - preserving-democracy
+  - climate
+  - war
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709324597
 ---

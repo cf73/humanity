@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: '"What I Know Now That I Wish I''d Known Then"'
 location: 'Tufts University, Medford, Massachusetts USA'
 date: '1987-05-17'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph
@@ -631,8 +632,8 @@ transcript:
         type: text
         text: "\_For life is time, and time is all there\_is."
 challenges:
-  - preserving-democracy
-  - cultivating-peace
+  - democracy
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709495616
 speaker: 'Ms. Gloria Steinem'

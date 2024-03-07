@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: '"Kindness"'
 location: 'Syracuse University, NY USA'
 date: '2013-05-11'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph
@@ -457,8 +458,8 @@ transcript:
       -
         type: hardBreak
 challenges:
-  - cultivating-peace
-  - preserving-democracy
+  - war
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709495832
 speaker: 'George Saunders'

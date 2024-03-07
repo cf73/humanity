@@ -3,7 +3,7 @@ id: 77c64688-921d-4b7e-9ca3-e2221568a42b
 blueprint: articles
 title: 'Our astronomical neighborhood'
 image: image-1707484544.png
-url: 'https://www.astronomy.com/wp-content/uploads/sites/2/2023/11/infographic-HD110067.png?w=620&resize=620%2C349'
+link: 'https://www.astronomy.com/wp-content/uploads/sites/2/2023/11/infographic-HD110067.png?w=620&resize=620%2C349'
 description:
   -
     type: paragraph
@@ -29,7 +29,7 @@ description:
         type: text
         text: 'We wonder what tune they are dancing to?'
 challenges:
-  - climate-action
+  - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707484622
 ---

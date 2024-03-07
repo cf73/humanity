@@ -46,6 +46,16 @@ tabs:
               validate:
                 - required
           -
+            handle: link
+            field:
+              type: link
+              display: 'Link to buy it'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
             handle: description
             field:
               buttons:
@@ -86,6 +96,29 @@ tabs:
       -
         fields:
           -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
+          -
+            handle: collection_type
+            field:
+              mode: select
+              create: false
+              taxonomies:
+                - collection_type
+              type: terms
+              display: 'Collection Type'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              max_items: 1
+              validate:
+                - required
+          -
             handle: challenges
             field:
               mode: select
@@ -100,8 +133,43 @@ tabs:
               replicator_preview: true
               hide_display: false
           -
-            handle: slug
+            handle: related_partner_initiatives
             field:
-              type: slug
-              localizable: true
-              validate: 'max:200'
+              max_items: 4
+              mode: select
+              create: false
+              collections:
+                - partner_initiatives
+              type: entries
+              display: 'Related Partner Initiatives'
+              instructions: "Help site visitors discover how to take action related to the content they've just seen here."
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: related_content
+            field:
+              max_items: 5
+              mode: select
+              create: false
+              collections:
+                - articles
+                - books
+                - commencement_speeches
+                - partner_stories
+                - talks
+                - poetry_contributions
+              type: entries
+              display: 'Related Content'
+              instructions: 'Other content from THI that relates to this piece, allowing visitors to follow their own path.'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required

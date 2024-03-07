@@ -5,6 +5,7 @@ title: '"What We Wish to Become"'
 location: 'University of North Carolina, Chapel Hill, North Carolina  USA'
 date: '2011-05-08'
 url: 'https://www.youtube.com/watch?v=IzPcu0-ETTU'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph
@@ -226,9 +227,15 @@ transcript:
       -
         type: hardBreak
 challenges:
-  - climate-action
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709495912
+  - climate
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1709510217
 speaker: 'E. O. Wilson'
 image: eowilson.jpg
+video_id: 'IzPcu0-ETTU?si=gY2dncjqVPhK_elH'
+related_partner_initiatives:
+  - 5b08c208-5356-4878-b3be-a9b91e1f383c
+related_content:
+  - 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
+  - ce171524-edce-436f-873d-6a863c83f1e6
 ---

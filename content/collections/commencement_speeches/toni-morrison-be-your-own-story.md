@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: '"Be Your Own Story"'
 location: 'Wellesley College, Wellesley, Massachusetts USA'
 date: '2004-05-28'
+collection_type: commencement-speeches
 url: 'http://www.c-spanvideo.org/program/182148-1'
 transcript:
   -
@@ -117,8 +118,8 @@ transcript:
         type: text
         text: "Thank\_you."
 challenges:
-  - cultivating-peace
-  - preserving-democracy
+  - war
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709495537
 description:

@@ -1,5 +1,16 @@
 title: 'Partner Initiatives'
+template: partnerinitiatives
+layout: layout
+taxonomies:
+  - collection_type
 revisions: false
+route: '/partner-initiatives/{slug}'
+sort_dir: asc
 date_behavior:
   past: public
   future: private
+preview_targets:
+  -
+    label: Entry
+    url: '{permalink}'
+    refresh: true

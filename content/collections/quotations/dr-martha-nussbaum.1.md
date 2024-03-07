@@ -12,7 +12,8 @@ attribution: |-
   https://humanity.org/commencement-speeches/dr-martha-c-nussbaum/
 image: image-1708784401.jpeg
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709320470
+collection_type: poetry-contributions
 ---

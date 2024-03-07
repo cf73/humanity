@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: '"Truth and Indifference"'
 location: 'Harvard University, Cambridge, Massachusetts'
 date: '2023-05-25'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph
@@ -13,10 +14,10 @@ description:
         text: 'Tom Hanks is an American actor and filmmaker. He was born on July 9, 1956, in Concord, California. His mother worked in a hospital and was a distant relative of Abraham Lincoln. Hanks is known for his cheerful everyman persona and has starred in many popular films. He is also a big supporter of environmental causes, same-sex marriage, and alternative fuels.'
       -
         type: hardBreak
-url: 'https://www.youtube.com/watch?v=dkPo5nfEk1w&t=1s'
+video_id: 'dkPo5nfEk1w?si=l1HbjsUXu5x6R3BY'
 challenges:
-  - preserving-democracy
-  - climate-action
+  - democracy
+  - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709651110
 speaker: 'Tom Hanks'

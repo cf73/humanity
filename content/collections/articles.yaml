@@ -1,9 +1,11 @@
 title: Articles
-template: default
+template: entry
 layout: layout
 taxonomies:
   - challenges
+  - collection_type
 revisions: false
+route: '/discover/{slug}'
 sort_dir: asc
 date_behavior:
   past: public

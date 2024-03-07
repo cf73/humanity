@@ -6,3 +6,10 @@ preferences:
   assets:
     assets:
       mode: grid
+  collections:
+    commencement_speeches:
+      columns:
+        - title
+        - slug
+        - status
+        - speaker

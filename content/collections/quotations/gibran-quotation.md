@@ -6,7 +6,8 @@ quotation: '"Keep me away from the wisdom which does not cry, the philosophy whi
 attribution: 'Khalil Gibran'
 image: image-1707444700.jpeg
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709320536
+collection_type: poetry-contributions
 ---

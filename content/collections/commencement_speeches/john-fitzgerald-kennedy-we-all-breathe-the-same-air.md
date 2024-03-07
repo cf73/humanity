@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: '"We All Breathe the Same Air"'
 location: 'American University, Washington D. C. USA'
 date: '1963-06-10'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph
@@ -329,8 +330,8 @@ transcript:
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709493926
 challenges:
-  - cultivating-peace
-  - preserving-democracy
+  - war
+  - democracy
 speaker: 'John Fitzgerald Kennedy'
 image: jfk.jpg
 ---

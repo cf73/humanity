@@ -4,6 +4,7 @@ blueprint: book
 title: 'The Lost Words: A Spell Book  (2017)'
 author: 'Robert Macfarlane'
 image: image-1709142270.png
+collection_type: book
 description:
   -
     type: paragraph
@@ -134,9 +135,9 @@ description:
         type: text
         text: 'Each word occupies three lavishly illustrated spreads: a poetic “summoning spell” in the form of an acrostic to conjure back the lost word in a rhythmic incantation composed to be read aloud, a wordless visual eulogy for its vanishment, and a typographic botany of letters spelling it “back into language, hearts, minds and landscape.”'
 challenges:
-  - climate-action
-  - cultivating-peace
-  - preserving-democracy
+  - climate
+  - war
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709652745
 ---

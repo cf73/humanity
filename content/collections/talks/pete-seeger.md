@@ -4,6 +4,7 @@ blueprint: talk
 title: 'Pete Seeger singing in Sweden 1968  (4-minute video)'
 speaker: 'Pete Seeger'
 location_or_event: 'Sweden concert 1968'
+collection_type: talks
 description:
   -
     type: paragraph
@@ -14,7 +15,7 @@ description:
 link: 'https://youtu.be/PS3-lyqCl80'
 image: oip.vur8pfzyzh8lo_yac2vlvghafz.jpeg
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709563751
 ---

@@ -4,6 +4,7 @@ blueprint: book
 title: '*** On Tyranny: Twenty Lessons from the Twentieth Century (2017)'
 author: 'Timothy Snyder'
 image: image-1708992781.jpeg
+collection_type: book
 description:
   -
     type: paragraph
@@ -84,7 +85,7 @@ description:
         type: text
         text: ', who rated the book at 4.17.'
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709323042
 ---

@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: '"Be the Truth"'
 location: 'University of Southern California, Los Angeles, California USA'
 date: '2018-05-11'
+collection_type: commencement-speeches
 url: 'https://humanity.org/wp-content/uploads/2022/09/oprah-winfrey-speaks-at-the-usc-annenberg-school-for-communication-picture-id957485780-1024x672.jpeg'
 description:
   -
@@ -469,7 +470,7 @@ transcript:
       -
         type: hardBreak
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709495101
 speaker: 'Oprah Winfrey'

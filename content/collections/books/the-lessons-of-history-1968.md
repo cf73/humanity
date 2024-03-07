@@ -4,6 +4,7 @@ blueprint: book
 title: '*** The Lessons of History (1968)'
 author: 'Will and Ariel Durant'
 image: image-1707922371.jpeg
+collection_type: book
 description:
   -
     type: paragraph
@@ -39,7 +40,7 @@ description:
         type: text
         text: 'This book is essentially the summary of recorded human history in over 120 pages, without flair and fluff—just pure facts.'
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1707922381
 ---

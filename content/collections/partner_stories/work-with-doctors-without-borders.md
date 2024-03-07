@@ -31,8 +31,9 @@ description:
         text: "MSF doesn’t employ only doctors and nurses. To fulfill our social mission, we recruit employees from a large range of professions in the medical, finance, logistics, IT, administration, human resources, and communications fields, and in other areas. \_"
 link: 'https://www.msf.org/work-msf'
 challenges:
-  - cultivating-peace
+  - war
 partner: doctors-without-borders
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1708815415
+collection_type: partner-stories
 ---

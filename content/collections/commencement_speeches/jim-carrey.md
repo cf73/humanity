@@ -4,6 +4,7 @@ blueprint: commencement_speech
 title: '"The Effect You Have On Others"'
 location: 'Maharishi University of Management, Fairfield, Iowa'
 date: '2014-05-30'
+collection_type: commencement-speeches
 description:
   -
     type: paragraph
@@ -19,7 +20,7 @@ description:
         text: 'True to his reputation as a comedian, Carrey keeps the audience laughing while simultaneously delivering a story of seeing his father fail through fear, or a reflection on his uncertainty of identity, or a spiritual message of faith.'
 url: 'https://www.youtube.com/watch?v=V80-gPkpH6M&t=1s'
 challenges:
-  - preserving-democracy
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709494320
 transcript:

@@ -5,6 +5,7 @@ title: 'The world as tile cutouts...'
 photographer_name: 'Charlotte Bassin'
 photographer_website: 'https://wanderwonder.art/about'
 image: 046_moroccan_tile_1500px.jpg
+collection_type: photography-contributions
 description:
   -
     type: paragraph
@@ -45,7 +46,7 @@ description:
       -
         type: hardBreak
 challenges:
-  - cultivating-peace
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1709756479
 ---
