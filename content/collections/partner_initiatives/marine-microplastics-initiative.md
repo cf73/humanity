@@ -1,7 +1,7 @@
 ---
 id: dfae34a8-30a5-4e7c-89d7-a33917e780d8
 blueprint: partner_initiative
-title: 'Join the Marine Microplastics Initiative, sponsored by the Woods Hole Oceanographic Institution'
+title: 'Microplastics @WHOI'
 description:
   -
     type: paragraph
@@ -37,7 +37,8 @@ description:
 image: youngs-img_6787.jpg
 challenges:
   - climate-action
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708139231
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1709775065
 partner: woods-hole-oceanographic-institution
+collection_type: partner-initiatives
 ---
