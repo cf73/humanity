@@ -1,7 +1,7 @@
 ---
 id: 3c9aefca-a9fe-4455-86b6-0585897d6854
 blueprint: commencement_speech
-title: "What I Know Now That I Wish I'd Known Then"
+title: '"What I Know Now That I Wish I''d Known Then"'
 location: 'Tufts University, Medford, Massachusetts USA'
 date: '1987-05-17'
 description:
@@ -10,7 +10,7 @@ description:
     content:
       -
         type: text
-        text: 'Gloria Steinem, the feminist and editor of Ms. magazine, urged Tufts University graduates today to follow their hearts rather than bow to societal pressures or traditions.'
+        text: 'Gloria Steinem, the feminist and editor of Ms. magazine, urged Tufts University graduates to follow their hearts rather than bow to societal pressures or traditions.'
   -
     type: paragraph
     content:
@@ -632,8 +632,9 @@ transcript:
         text: "\_For life is time, and time is all there\_is."
 challenges:
   - preserving-democracy
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708573455
+  - cultivating-peace
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1709495616
 speaker: 'Ms. Gloria Steinem'
 image: gloria-steinem.jpg
 ---

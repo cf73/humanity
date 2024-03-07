@@ -8,3 +8,5 @@ preferences:
   collections:
     quotations:
       after_save: create_another
+    photography_contributions:
+      after_save: continue_editing

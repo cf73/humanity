@@ -1,7 +1,7 @@
 ---
 id: 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
 blueprint: commencement_speech
-title: 'Find What You Love'
+title: '"Find What You Love"'
 location: 'Stanford University, Palo Alto, California'
 date: '2005-06-12'
 url: 'https://www.youtube.com/watch?v=UF8uR6Z6KLc'
@@ -212,15 +212,15 @@ transcript:
         text: 'Thank you all very much.'
 challenges:
   - preserving-democracy
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708573736
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1709493693
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'You can’t connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.'
+        text: '"You can’t connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life."'
 speaker: 'Steve Jobs'
 image: stevejobs.jpg
 ---

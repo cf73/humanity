@@ -1,16 +1,10 @@
 ---
 id: 427cfc9b-95f5-48a7-a80e-38dc04beb6e2
 blueprint: talk
-title: 'Arts section'
-speaker: misc
-location_or_event: misc
+title: '*** "A Conference in Time"  (poem / story)'
+speaker: 'Ursula K. le Guin'
+location_or_event: '*Published on page 158 of “Moral Ground, Ethical Action for a Planet in Peril,” 2010 by Kathleen Dean Moore and Michael P. Nelson, Trinity University Press.'
 description:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Art, music, poetry, theater, photography, film and dance — compelling partners of positive change.'
   -
     type: paragraph
     content:
@@ -125,9 +119,6 @@ description:
         text: ..”
   -
     type: paragraph
-    content:
-      -
-        type: hardBreak
   -
     type: paragraph
     content:
@@ -145,10 +136,12 @@ description:
         text: '” 2010 by Kathleen Dean Moore and Michael P. Nelson, Trinity University Press.'
       -
         type: hardBreak
-link: 'https://www.jimmynelson.com'
+link: |-
+  https://www.bing.com/videos/riverview/relatedvideo?&q=Ursula+le+guin+A+conference+in+time&&mid=2E9B287F799D252D1DC42E9B287F799D252D1DC4&&FORM=VRDGAR
+  (20-minute discussion between Ms. le Guin and Bill Moyers)
 image: image-1707485762.jpeg
 challenges:
   - cultivating-peace
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707485922
+updated_at: 1709571837
 ---

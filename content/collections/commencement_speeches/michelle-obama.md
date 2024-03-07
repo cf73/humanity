@@ -1,7 +1,7 @@
 ---
 id: 6d28b288-2ed8-4983-a206-c1a19b3c1219
 blueprint: commencement_speech
-title: 'Be True to Yourself'
+title: '"Be True to Yourself"'
 location: 'Tuskegee University'
 date: '2015-05-09'
 url: 'https://www.youtube.com/watch?v=JACTrIRjGos&t=1s'
@@ -458,8 +458,9 @@ transcript:
         type: hardBreak
 challenges:
   - cultivating-peace
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708572139
+  - preserving-democracy
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1709493883
 speaker: 'Michelle Obama'
 image: maxresdefault-(1).jpg
 ---
