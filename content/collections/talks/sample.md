@@ -12,7 +12,7 @@ description:
         type: text
         text: sdfsdf
 link: sdfsdf
-image: _132560870_nima-sarikhani.jpg-2.webp
+image: timothysynder.jpg
 collection_type: talk
 challenges:
   - democracy
@@ -22,5 +22,5 @@ related_partner_initiatives:
 related_content:
   - 3cc8f4c1-bcca-4142-8664-e0572beb84ea
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709917694
+updated_at: 1709917731
 ---
