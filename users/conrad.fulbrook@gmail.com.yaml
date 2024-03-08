@@ -13,3 +13,6 @@ preferences:
         - slug
         - status
         - speaker
+  taxonomies:
+    birds:
+      after_save: continue_editing
