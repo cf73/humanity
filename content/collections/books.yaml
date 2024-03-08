@@ -2,9 +2,9 @@ title: Books
 template: entry
 layout: layout
 taxonomies:
-  - challenges
-  - bird
-  - collection_type
+  0: challenges
+  2: collection_type
+  3: birds
 revisions: false
 route: '/discover/{slug}'
 sort_dir: asc
