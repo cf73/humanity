@@ -15,4 +15,4 @@ preferences:
         - speaker
   taxonomies:
     birds:
-      after_save: continue_editing
+      after_save: create_another
