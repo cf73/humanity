@@ -72,7 +72,7 @@ tabs:
                             mode: select
                             create: false
                             collections:
-                              - in_the_news
+                              - articles
                             type: entries
                             display: Article
                             listable: hidden

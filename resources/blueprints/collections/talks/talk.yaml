@@ -112,6 +112,14 @@ tabs:
       -
         fields:
           -
+            handle: birds
+            field:
+              type: terms
+              taxonomies:
+                - birds
+              display: birds
+              mode: select
+          -
             handle: slug
             field:
               type: slug

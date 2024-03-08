@@ -4,6 +4,7 @@ layout: layout
 taxonomies:
   - challenges
   - collection_type
+  - birds
 revisions: false
 route: '/discover/{slug}'
 sort_dir: asc

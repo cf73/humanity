@@ -33,7 +33,7 @@
     </div>
     <div class="col-span-4">
         {{ collection from="*" not_from="pages" as="results"
-            :taxonomy:challenges="get:categories"
+            :taxonomy:challenges:all="get:categories"
             :taxonomy:collection_type="get:collectiontype"
              }}
             {{ if no_results }}

@@ -1,11 +1,11 @@
 ---
 id: 1ef88f1a-1435-4136-a7c2-d15c6f9a4f1a
 blueprint: page
-title: 'Cultivating Peace'
+title: War
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1708060421
+updated_at: 1709918844
 section_builder:
   -
     id: lsgtt24w
