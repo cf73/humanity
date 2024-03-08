@@ -30,6 +30,18 @@ description:
         text: 'We wonder what tune they are dancing to?'
 challenges:
   - climate
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707484622
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1709911867
+article_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'need to paste article text here'
+collection_type: article
+related_partner_initiatives:
+  - 914d560c-f5d0-48a3-8b24-906389eb8d49
+related_content:
+  - ecd34d1f-9510-468f-9b8e-4f6d6c678fbf
 ---
