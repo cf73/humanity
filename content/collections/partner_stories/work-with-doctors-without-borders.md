@@ -239,6 +239,6 @@ challenges:
   - war
 partner: doctors-without-borders
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710007426
+updated_at: 1710007516
 collection_type: partner-story
 ---
