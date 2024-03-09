@@ -1,7 +1,7 @@
 ---
 id: 0367b037-1bd0-4c14-8faa-f185019892f7
 blueprint: partner_story
-title: 'Solve the microplastics challenge'
+title: 'Woods Hole Oceanographic Institutions helps solve the microplastics challenge'
 date: '2022-11-14'
 image: image-1708719509.jpeg
 description:
@@ -138,8 +138,8 @@ description:
         text: "\_"
 link: 'https://microplastics.whoi.edu/?_gl=1*yz76vn*_ga*MTY4ODc4NTQzMy4xNzA3MTY1OTUy*_ga_HLKFZX9JZK*MTcwODcxODk0MC41LjEuMTcwODcxOTI1MC4wLjAuMA..*_gcl_au*MTYxOTg5ODEwNS4xNzA3MTY1OTUy'
 partner: woods-hole-oceanographic-institution
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709958388
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1710005482
 challenges:
   - climate
 collection_type: partner-story
