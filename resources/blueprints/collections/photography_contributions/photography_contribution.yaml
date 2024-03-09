@@ -117,7 +117,7 @@ tabs:
               visibility: visible
               replicator_preview: true
               max_items: 1
-              create: false
+              create: true
               hide_display: false
               validate:
                 - required
