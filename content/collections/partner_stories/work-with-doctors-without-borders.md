@@ -1,7 +1,7 @@
 ---
 id: bea6f0bd-9561-469b-9ee8-d1ac6d34899e
 blueprint: partner_story
-title: 'Doctors Without Borders president calls for immediate cease fire in Gaza'
+title: 'Doctors Without Borders calls for immediate cease fire in Gaza'
 date: '2024-02-24'
 image: image-1710007386.jpeg
 description:
@@ -239,6 +239,6 @@ challenges:
   - war
 partner: doctors-without-borders
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710007399
+updated_at: 1710007426
 collection_type: partner-story
 ---
