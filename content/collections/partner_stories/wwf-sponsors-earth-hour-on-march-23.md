@@ -1,0 +1,113 @@
+---
+id: 99622b57-8aa7-48d6-8d11-c5de8b413a24
+blueprint: partner_story
+title: 'WWF sponsors Earth Hour on March 23'
+date: '2024-03-23'
+image: image-1710001492.jpeg
+description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Since our beginnings in 2007, Earth Hour has been known for the “lights off” moment, with individuals from around the globe switching off their lights to show symbolic support for the planet and to raise awareness of the environmental issues affecting it. '
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: "More than 15 years later, we are now at a tipping point with our climate and nature crises, putting at risk the fate of our one home and all our futures. We are on course to breach by 2030 the 1.5°C global temperature increase limit set by the Paris Climate Agreement, and nature - the source of our very livelihoods and one of our biggest allies against the climate crisis - is also under severe threat,\_ facing alarming and unprecedented rates of loss globally. "
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: "The next 7 years are therefore crucial to all our futures - we have to stay under the 1.5°C climate threshold to avoid irreversible damage to our planet, and we need to reverse nature loss by 2030, ending the decade with more nature than we started, not less.\_ To make this happen, individuals, communities, businesses, and governments must all urgently step up their efforts to protect and restore our one shared home.\_"
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'With this 2030 goal in mind, we too must step things up. So in 2023, we’re breathed new life into Earth Hour - our brand, our work, our message, and our mission - creating the'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' Biggest Hour for Earth.'
+      -
+        type: text
+        text: ' How? By calling on our supporters across the globe to switch off their lights and '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'give an hour for Earth'
+      -
+        type: text
+        text: ', spending 60 minutes doing something - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: anything
+      -
+        type: text
+        text: " -\_positive for our planet. "
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Amidst our increasingly divided and polarized societies, the Biggest Hour for Earth becomes a precious moment of unity, reminding the world that our one shared home needs our help and that we all can - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'and must'
+      -
+        type: text
+        text: ' - play a part in protecting it.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '---'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Earth Hour is moment of unity that brings the world together, shines a spotlight on nature loss and the climate crisis, and inspires millions more to act and advocate for urgent change. Each year, we work together to turn a single Earth Hour into thousands and millions of hours of action for our one shared home.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "\_"
+link: |-
+  https://www.earthhour.org
+  https://www.youtube.com/watch?v=aJGyjp0Ulqw&t=14s
+  https://www.youtube.com/watch?v=aJGyjp0Ulqw&t=22s
+
+  (FYI: great videos!)
+collection_type: partner-story
+challenges:
+  - democracy
+  - war
+  - climate
+partner: world-wide-fund-for-nature
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1710001577
+---
