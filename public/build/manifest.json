@@ -1,0 +1,48 @@
+{
+  "public/assets/fonts/Baskerville/LibreBaskerville-Regular.ttf": {
+    "file": "assets/LibreBaskerville-Regular-243bcf9e.ttf",
+    "src": "public/assets/fonts/Baskerville/LibreBaskerville-Regular.ttf"
+  },
+  "public/assets/fonts/RAPORWOFF/Rapor-Bold.woff": {
+    "file": "assets/Rapor-Bold-35bf6df3.woff",
+    "src": "public/assets/fonts/RAPORWOFF/Rapor-Bold.woff"
+  },
+  "public/assets/fonts/RAPORWOFF/Rapor-ExtraBold.woff": {
+    "file": "assets/Rapor-ExtraBold-32bdf770.woff",
+    "src": "public/assets/fonts/RAPORWOFF/Rapor-ExtraBold.woff"
+  },
+  "public/assets/fonts/RAPORWOFF/Rapor-Regular.woff": {
+    "file": "assets/Rapor-Regular-26201a37.woff",
+    "src": "public/assets/fonts/RAPORWOFF/Rapor-Regular.woff"
+  },
+  "public/assets/fonts/RAPORWOFF/Rapor-Thin.woff": {
+    "file": "assets/Rapor-Thin-9ae8894c.woff",
+    "src": "public/assets/fonts/RAPORWOFF/Rapor-Thin.woff"
+  },
+  "public/assets/fonts/RAPORWOFF2/Rapor-Bold.woff2": {
+    "file": "assets/Rapor-Bold-e55ce2f2.woff2",
+    "src": "public/assets/fonts/RAPORWOFF2/Rapor-Bold.woff2"
+  },
+  "public/assets/fonts/RAPORWOFF2/Rapor-ExtraBold.woff2": {
+    "file": "assets/Rapor-ExtraBold-e4482a31.woff2",
+    "src": "public/assets/fonts/RAPORWOFF2/Rapor-ExtraBold.woff2"
+  },
+  "public/assets/fonts/RAPORWOFF2/Rapor-Regular.woff2": {
+    "file": "assets/Rapor-Regular-82e24ab3.woff2",
+    "src": "public/assets/fonts/RAPORWOFF2/Rapor-Regular.woff2"
+  },
+  "public/assets/fonts/RAPORWOFF2/Rapor-Thin.woff2": {
+    "file": "assets/Rapor-Thin-4d9ff661.woff2",
+    "src": "public/assets/fonts/RAPORWOFF2/Rapor-Thin.woff2"
+  },
+  "resources/css/site.css": {
+    "file": "assets/site-e066332b.css",
+    "isEntry": true,
+    "src": "resources/css/site.css"
+  },
+  "resources/js/site.js": {
+    "file": "assets/site-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/site.js"
+  }
+}
