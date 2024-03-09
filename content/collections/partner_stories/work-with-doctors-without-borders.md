@@ -3,26 +3,20 @@ id: bea6f0bd-9561-469b-9ee8-d1ac6d34899e
 blueprint: partner_story
 title: 'Doctors Without Borders president calls for immediate cease fire in Gaza'
 date: '2024-02-24'
-image: 'product-5be2adf5dc415.[1090].jpeg'
+image: image-1710007386.jpeg
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Opinion7 March 2024'
+        text: '7 March 2024'
   -
     type: paragraph
     content:
       -
         type: text
-        text: by
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Dr Christos Christou, International President, Médecins Sans Frontières'
+        text: 'by Dr Christos Christou, International President, Médecins Sans Frontières'
   -
     type: paragraph
     content:
@@ -46,13 +40,13 @@ description:
     content:
       -
         type: text
-        text: 'As a father, medic, humanitarian but mostly as a human being, I am appalled by the continued and complete disregard for life we are witnessing in Gaza.DR CHRISTOS CHRISTOU, MSF INTERNATIONAL PRESIDENT'
+        text: 'As a father, medic, humanitarian but mostly as a human being, I am appalled by the continued and complete disregard for life we are witnessing in Gaza.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'SHARE THIS'
+        text: 'DR CHRISTOS CHRISTOU, MSF INTERNATIONAL PRESIDENT'
   -
     type: paragraph
     content:
@@ -128,7 +122,13 @@ description:
     content:
       -
         type: text
-        text: 'When I visited some of our staff in Palestine a few months ago, they were already mentally and physically exhausted. Now, I fear they are at breaking point.DR CHRISTOS CHRISTOU, MSF INTERNATIONAL PRESIDENT'
+        text: 'When I visited some of our staff in Palestine a few months ago, they were already mentally and physically exhausted. Now, I fear they are at breaking point.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'DR CHRISTOS CHRISTOU, MSF INTERNATIONAL PRESIDENT'
   -
     type: paragraph
     content:
@@ -232,11 +232,13 @@ description:
               -
                 type: text
                 text: ' without this, the complete indifference to humanitarian laws and principles we are seeing in Gaza without any accountability makes our world a terrifying place, where violence is uncontested, and civilians unprotected. The ramifications for generations to come across the world are enormous. We have a collective responsibility not to let this become the new normal.'
-link: 'https://www.msf.org/work-msf'
+link: |-
+  https://www.msf.org/work-msf
+  https://www.doctorswithoutborders.ca/msf-10-monumental-moments/
 challenges:
   - war
 partner: doctors-without-borders
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710006778
+updated_at: 1710007399
 collection_type: partner-story
 ---
