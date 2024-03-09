@@ -7,6 +7,14 @@ image: image-1708719509.jpeg
 description:
   -
     type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'https://microplastics.whoi.edu/about/opportunities/'
+  -
+    type: paragraph
     content:
       -
         type: text
@@ -131,7 +139,7 @@ description:
 link: 'https://microplastics.whoi.edu/?_gl=1*yz76vn*_ga*MTY4ODc4NTQzMy4xNzA3MTY1OTUy*_ga_HLKFZX9JZK*MTcwODcxODk0MC41LjEuMTcwODcxOTI1MC4wLjAuMA..*_gcl_au*MTYxOTg5ODEwNS4xNzA3MTY1OTUy'
 partner: woods-hole-oceanographic-institution
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709144693
+updated_at: 1709945761
 challenges:
   - climate
 collection_type: partner-stories
