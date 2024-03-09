@@ -1,7 +1,7 @@
 ---
 id: 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
 blueprint: partner_initiative
-title: 'Support refugees from around the world.'
+title: 'International Rescue Committee: supporting refugees from around the world.'
 collection_type: partner-initiative
 description:
   -
@@ -29,5 +29,5 @@ challenges:
   - war
 partner: international-rescue-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709757640
+updated_at: 1710010949
 ---
