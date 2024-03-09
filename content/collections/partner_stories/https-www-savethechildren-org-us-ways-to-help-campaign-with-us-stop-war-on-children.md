@@ -1,7 +1,7 @@
 ---
 id: 5b23ff39-cc44-49fa-9ced-97b78abc74b8
 blueprint: partner_story
-title: 'Stop war on children'
+title: 'Save The Children protects children in conflict zones.'
 date: '2024-02-24'
 image: image-1709144254.png
 description:
@@ -95,7 +95,7 @@ link: 'https://www.savethechildren.org/us/ways-to-help/campaign-with-us/stop-war
 challenges:
   - war
 partner: save-the-children
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709958398
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1710005536
 collection_type: partner-story
 ---
