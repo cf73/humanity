@@ -1,14 +1,12 @@
-<form method="GET">
-    @foreach ($filters['collection'] as $key => $value)
-        <label>
-            <input type="checkbox" name="filter[collection][]" value="{{ $key }}" {{ in_array($key, request('filter.collection', [])) ? 'checked' : '' }}>
-            {{ $value }}
-        </label>
-    @endforeach
-    <button type="submit">Apply Filters</button>
-</form>
+<h1>{{title}}</h1>
 
-@foreach ($entries as $entry)
-    <!-- Display the entry -->
-    <li>{{title}}</li>
-@endforeach
+{{nav from="challenges"}}
+<a href="{{url}}">
+    <div class="flex flex-col h-[800px] bg-gray-200 border-b-4 border-gray-400 justify-center space-y-8">
+        <div class="container mx-auto space-y-8">
+            <h1>{{title}}</h1>
+            <div class="text-6xl text-bold">{{collection:partner_initiatives challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives</div>
+        </div>
+    </div>
+</a>
+{{/nav}}

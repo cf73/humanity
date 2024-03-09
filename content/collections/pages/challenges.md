@@ -1,6 +1,7 @@
 ---
 id: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 blueprint: challenges
+template: challenges
 title: Challenges
 introduction_to_challenges:
   -
