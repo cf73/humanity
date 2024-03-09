@@ -1,7 +1,7 @@
 ---
 id: 8c206ac9-1b59-49e5-9e1d-6454a86204c5
 blueprint: partner_story
-title: 'Help the Earth Law Center create amicus briefs'
+title: 'Earth Law Center creates amicus briefs'
 date: '2024-02-24'
 image: bingwallpaper-copy.jpg
 description:
@@ -581,7 +581,7 @@ link: 'https://www.earthlawcenter.org/amicus-briefs'
 challenges:
   - climate
 partner: earth-law-center
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709958351
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1710005342
 collection_type: partner-story
 ---
