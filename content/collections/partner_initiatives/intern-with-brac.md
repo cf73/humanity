@@ -2,7 +2,7 @@
 id: 86161e36-7285-41a6-ba67-5a5f928fb1d1
 blueprint: partner_initiative
 title: 'Bangladesh Rural Advancement Committee: the largest family in the world.'
-collection_type: partner-initiatives
+collection_type: partner-initiative
 description:
   -
     type: paragraph

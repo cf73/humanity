@@ -99,3 +99,5 @@ tabs:
               hide_display: false
               taxonomies:
                 - challenges
+              validate:
+                - required

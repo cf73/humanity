@@ -5,7 +5,7 @@ title: 'Salt harvesting in Vietnam'
 photographer_name: 'Salt harvesting in Vietnam'
 photographer_website: unk
 image: image-1707512041.jpeg
-collection_type: photography-contributions
+collection_type: photography-contribution
 description:
   -
     type: paragraph

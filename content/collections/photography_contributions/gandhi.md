@@ -5,7 +5,7 @@ title: Gandhi
 photographer_name: 'Henri Cartier-Bresson'
 photographer_website: unk
 image: r.6cd87990f57f486d0ed8b0013344e03c-1707873432.jpeg
-collection_type: photography-contributions
+collection_type: photography-contribution
 description:
   -
     type: paragraph

@@ -3,6 +3,7 @@ id: 6e0b4d98-551b-4702-87ff-e129145b468e
 blueprint: talk
 title: 'Ferdinand The Bull (short story)'
 speaker: 'Ferdinand The Bull'
+collection_type: talk
 location_or_event: Spain
 description:
   -
@@ -59,7 +60,6 @@ challenges:
   - war
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1709777374
-collection_type: talks
 related_partner_initiatives:
   - 3bf463d5-6e92-4bf8-abe9-bc1148c3a4e1
 related_content:

@@ -3,6 +3,7 @@ id: 427cfc9b-95f5-48a7-a80e-38dc04beb6e2
 blueprint: talk
 title: '*** "A Conference in Time"  (poem / story)'
 speaker: 'Ursula K. le Guin'
+collection_type: talk
 location_or_event: '*Published on page 158 of “Moral Ground, Ethical Action for a Planet in Peril,” 2010 by Kathleen Dean Moore and Michael P. Nelson, Trinity University Press.'
 description:
   -

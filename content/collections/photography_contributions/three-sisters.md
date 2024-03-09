@@ -5,7 +5,7 @@ title: '*** Three Sisters in Indonesia'
 photographer_name: 'Jimmy Nelson'
 photographer_website: 'https://www.jimmynelson.com'
 image: c51292.jpeg
-collection_type: photography-contributions
+collection_type: photography-contribution
 description:
   -
     type: paragraph

@@ -2,7 +2,7 @@
 id: 8e78665e-26d1-400e-8f6f-2391b9bfec84
 blueprint: partner_initiative
 title: '*** Join "Everyone a Changemaker"'
-collection_type: partner-initiatives
+collection_type: partner-initiative
 description:
   -
     type: paragraph

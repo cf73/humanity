@@ -7,7 +7,11 @@ attribution: |-
   Joseph Campell, American mythologist, PBS host. (1904-1987)
   https://americanarchive.org/special_collections/bill-moyers
 image: image-1709568942.jpeg
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709569381
-collection_type: poetry-contributions
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1709960145
+collection_type: quotation
+challenges:
+  - democracy
+  - climate
+  - war
 ---

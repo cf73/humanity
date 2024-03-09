@@ -2,7 +2,7 @@
 id: 5b08c208-5356-4878-b3be-a9b91e1f383c
 blueprint: partner_initiative
 title: 'Earth Law Center: justice for nature.'
-collection_type: partner-initiatives
+collection_type: partner-initiative
 description:
   -
     type: paragraph

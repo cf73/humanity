@@ -5,7 +5,7 @@ title: 'The Blues of Lake Abiquiu'
 photographer_name: 'Tony Balis'
 photographer_website: unk
 image: image-1707926577.jpeg
-collection_type: photography-contributions
+collection_type: photography-contribution
 description:
   -
     type: paragraph

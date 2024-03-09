@@ -2,7 +2,7 @@
 id: 3bf463d5-6e92-4bf8-abe9-bc1148c3a4e1
 blueprint: partner_initiative
 title: 'Support the Marine Arctic Peace Sanctuary'
-collection_type: partner-initiatives
+collection_type: partner-initiative
 description:
   -
     type: paragraph

@@ -1,6 +1,7 @@
 ---
 id: e1912d5b-c259-42ca-aa14-01faa3424173
 blueprint: articles
+collection_type: article
 title: '*** Peace Gatherings'
 image: palestine-luke.jpeg
 description:

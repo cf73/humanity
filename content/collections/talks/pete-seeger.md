@@ -4,7 +4,7 @@ blueprint: talk
 title: 'Pete Seeger singing in Sweden 1968  (4-minute video)'
 speaker: 'Pete Seeger'
 location_or_event: 'Sweden concert 1968'
-collection_type: talks
+collection_type: talk
 description:
   -
     type: paragraph

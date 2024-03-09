@@ -2,7 +2,7 @@
 id: 2d25bdca-0661-40ea-8a59-9d3e34107a2a
 blueprint: partner_initiative
 title: 'Amnesty International: campaigning for a world where human rights are enjoyed by all'
-collection_type: partner-initiatives
+collection_type: partner-initiative
 description:
   -
     type: paragraph

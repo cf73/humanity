@@ -36,7 +36,7 @@ link: 'https://youtu.be/ovpa6vRSyBA'
 challenges:
   - war
 partner: amnesty-international
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709145612
-collection_type: partner-stories
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1709958365
+collection_type: partner-story
 ---

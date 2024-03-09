@@ -3,7 +3,7 @@ id: a851e88b-625c-445a-a388-026989952dfc
 blueprint: photography_contribution
 title: 'Osaka Rush Hour'
 photographer_name: Bing
-collection_type: photography-contributions
+collection_type: photography-contribution
 photographer_website: unknown
 image: osaka-1709685896.jpg
 description:

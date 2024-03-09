@@ -4,7 +4,7 @@ blueprint: talk
 title: '*** Vangelis - The Stephen Hawking Tribute : Seize the Moment  (six-minute video)'
 speaker: 'Stephen Hawking'
 location_or_event: 'Stephen Hawking'
-collection_type: talks
+collection_type: talk
 description:
   -
     type: paragraph

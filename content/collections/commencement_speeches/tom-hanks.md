@@ -4,7 +4,7 @@ blueprint: commencement_speech
 title: '"Truth and Indifference"'
 location: 'Harvard University, Cambridge, Massachusetts'
 date: '2023-05-25'
-collection_type: commencement-speeches
+collection_type: commencement-speech
 description:
   -
     type: paragraph
