@@ -1,7 +1,7 @@
 ---
 id: dfae34a8-30a5-4e7c-89d7-a33917e780d8
 blueprint: partner_initiative
-title: 'Woods Hole Oceanographic Institution:'
+title: 'Woods Hole Oceanographic Institution: exploring how the oceans influence our lives.'
 description:
   -
     type: paragraph
@@ -45,7 +45,7 @@ image: youngs-img_6787.jpg
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709945865
+updated_at: 1709945940
 partner: woods-hole-oceanographic-institution
 collection_type: partner-initiatives
 ---
