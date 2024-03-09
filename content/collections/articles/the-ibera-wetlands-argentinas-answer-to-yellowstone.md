@@ -560,5 +560,4 @@ article_text:
       -
         type: text
         text: '--'
-collection_type: article
 ---
