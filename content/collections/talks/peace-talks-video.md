@@ -4,7 +4,7 @@ blueprint: talk
 title: 'Peace Talks video   (also dialogue at Yale)'
 speaker: dialogue
 location_or_event: 'Yale University'
-collection_type: talks
+collection_type: talk
 description:
   -
     type: paragraph

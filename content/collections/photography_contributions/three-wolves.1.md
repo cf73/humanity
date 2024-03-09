@@ -5,7 +5,7 @@ title: 'Three wolves'
 photographer_name: 'Bing image'
 photographer_website: 'Bing image'
 image: bingwallpaper-3-copy-2.jpg
-collection_type: photography-contributions
+collection_type: photography-contribution
 description:
   -
     type: paragraph

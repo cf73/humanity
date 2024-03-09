@@ -2,7 +2,7 @@
 id: 61653f39-a1f2-4949-9a50-e72537bfc211
 blueprint: partner_initiative
 title: 'Support children affected by Syrian conflict'
-collection_type: partner-initiatives
+collection_type: partner-initiative
 description:
   -
     type: paragraph

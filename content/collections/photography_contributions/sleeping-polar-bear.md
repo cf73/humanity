@@ -4,7 +4,7 @@ blueprint: photography_contribution
 title: '*** Sleeping polar bear'
 photographer_name: 'British amateur photographer award:  Nima Sarikhani'
 photographer_website: unk
-collection_type: photography-contributions
+collection_type: photography-contribution
 image: _132560870_nima-sarikhani.jpg-2.webp
 description:
   -

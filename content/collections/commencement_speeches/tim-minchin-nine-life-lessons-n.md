@@ -4,7 +4,7 @@ blueprint: commencement_speech
 title: '"Nine Life Lessons"'
 location: 'University of Western Australia 2013'
 date: '2012-10-17'
-collection_type: commencement-speeches
+collection_type: commencement-speech
 url: 'https://www.youtube.com/watch?v=yoEezZD71sc'
 description:
   -

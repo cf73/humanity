@@ -3,7 +3,7 @@ id: 9f745ca2-f7b3-4cdb-b90d-d53a51262b7e
 blueprint: talk
 title: '*** "River" (feature length film)'
 speaker: 'Australian film'
-collection_type: talks
+collection_type: talk
 location_or_event: 'https://www.imdb.com/title/tt14222534/mediaviewer/rm4063294721/?ref_=ext_shr_em'
 description:
   -

@@ -4,7 +4,7 @@ blueprint: commencement_speech
 title: '"We All Breathe the Same Air"'
 location: 'American University, Washington D. C. USA'
 date: '1963-06-10'
-collection_type: commencement-speeches
+collection_type: commencement-speech
 description:
   -
     type: paragraph

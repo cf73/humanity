@@ -4,7 +4,7 @@ blueprint: commencement_speech
 title: '"Be Your Own Story"'
 location: 'Wellesley College, Wellesley, Massachusetts USA'
 date: '2004-05-28'
-collection_type: commencement-speeches
+collection_type: commencement-speech
 url: 'http://www.c-spanvideo.org/program/182148-1'
 transcript:
   -
@@ -120,8 +120,8 @@ transcript:
 challenges:
   - war
   - democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709495537
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1709959071
 description:
   -
     type: paragraph
@@ -131,4 +131,8 @@ description:
         text: 'See description in first two paragraphs before transcript begins, below.'
 speaker: 'Toni Morrison'
 image: tonimorrison.png
+related_partner_initiatives:
+  - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
+related_content:
+  - 360862f3-318f-4ecc-804e-8baf0d2558cd
 ---

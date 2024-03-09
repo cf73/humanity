@@ -582,6 +582,6 @@ challenges:
   - climate
 partner: earth-law-center
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709776825
-collection_type: partner-stories
+updated_at: 1709958351
+collection_type: partner-story
 ---

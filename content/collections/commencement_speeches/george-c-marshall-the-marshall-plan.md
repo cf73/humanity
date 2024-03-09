@@ -4,7 +4,7 @@ blueprint: commencement_speech
 title: '"What Must Be Done?"'
 location: 'Harvard University, Cambridge, Massachusetts USA'
 date: '1947-06-04'
-collection_type: commencement-speeches
+collection_type: commencement-speech
 description:
   -
     type: paragraph

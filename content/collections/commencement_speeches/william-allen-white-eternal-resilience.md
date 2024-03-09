@@ -4,7 +4,7 @@ blueprint: commencement_speech
 title: '"Eternal Resilience"'
 location: 'Northwestern University, Evanston, Illinois USA'
 date: '1936-06-10'
-collection_type: commencement-speeches
+collection_type: commencement-speech
 url: mmm
 description:
   -

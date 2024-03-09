@@ -5,7 +5,9 @@ title: '"Give me a place to stand..."'
 quotation: '"Give me a place to stand and I will move the world."'
 attribution: Archimedes
 image: image-1709319960.jpeg
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709320283
-collection_type: poetry-contributions
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1709960397
+collection_type: quotation
+challenges:
+  - democracy
 ---

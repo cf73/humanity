@@ -2,7 +2,7 @@
 id: 6f9195fc-1c72-4935-be44-e6b912bbba06
 blueprint: partner_initiative
 title: 'TreeSisters: inspiring a re-connection with nature.'
-collection_type: partner-initiatives
+collection_type: partner-initiative
 description:
   -
     type: paragraph

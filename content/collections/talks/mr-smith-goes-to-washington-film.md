@@ -4,7 +4,7 @@ blueprint: talk
 title: '*** "Mr. Smith Goes to Washington"  (feature length film)'
 speaker: 'Jimmy Stewart'
 location_or_event: film
-collection_type: talks
+collection_type: talk
 description:
   -
     type: paragraph

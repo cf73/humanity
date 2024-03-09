@@ -2,7 +2,7 @@
 id: c7f4951c-3a1d-4fd9-a01d-f0b73975b069
 blueprint: partner_initiative
 title: 'World Wildlife Furn: Working to sustain the natural world for the benefit of people and nature.'
-collection_type: partner-initiatives
+collection_type: partner-initiative
 description:
   -
     type: paragraph
