@@ -1,7 +1,7 @@
 ---
 id: 6f9195fc-1c72-4935-be44-e6b912bbba06
 blueprint: partner_initiative
-title: "Support women's empowerment and connections with nature."
+title: "Women's empowerment and connections with nature."
 collection_type: partner-initiatives
 description:
   -
@@ -41,5 +41,5 @@ challenges:
   - climate
 partner: treesisters
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709758281
+updated_at: 1709944060
 ---
