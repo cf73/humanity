@@ -41,11 +41,11 @@ description:
         text: 'The Woods Hole Oceanographic Institution is dedicated to advancing knowledge of the ocean and its connection with the Earth system through a sustained commitment to excellence in science, engineering, and education, and to the application of this knowledge to problems facing society.'
   -
     type: paragraph
-image: youngs-img_6787.jpg
+image: image-1709946023.jpeg
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709945940
+updated_at: 1709946038
 partner: woods-hole-oceanographic-institution
 collection_type: partner-initiatives
 ---
