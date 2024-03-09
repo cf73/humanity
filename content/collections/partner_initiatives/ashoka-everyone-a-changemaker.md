@@ -1,7 +1,7 @@
 ---
 id: 8e78665e-26d1-400e-8f6f-2391b9bfec84
 blueprint: partner_initiative
-title: '*** Join "Everyone a Changemaker"'
+title: 'Ashoka:  "Everyone a Changemaker"'
 collection_type: partner-initiative
 description:
   -
@@ -28,6 +28,7 @@ description:
 image: nigeria.png
 challenges:
   - war
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1707947943
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1710010880
+partner: ashoka-https-www-ashoka-org-en-us
 ---
