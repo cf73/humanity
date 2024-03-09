@@ -1,7 +1,7 @@
 ---
 id: c7f4951c-3a1d-4fd9-a01d-f0b73975b069
 blueprint: partner_initiative
-title: 'World Wildlife Fund: Working to sustain the natural world for the benefit of people and nature.'
+title: 'World Wildlife Fund: working to sustain the natural world for the benefit of people and nature.'
 collection_type: partner-initiative
 description:
   -
@@ -89,5 +89,5 @@ challenges:
   - climate
 partner: world-wide-fund-for-nature
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710000858
+updated_at: 1710002008
 ---
