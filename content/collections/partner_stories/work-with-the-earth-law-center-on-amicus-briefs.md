@@ -1,7 +1,7 @@
 ---
 id: 8c206ac9-1b59-49e5-9e1d-6454a86204c5
 blueprint: partner_story
-title: 'Earth Law Center creates amicus briefs'
+title: 'Earth Law Center successfully sues to protect Elwha Legacy Forests'
 date: '2024-02-24'
 image: bingwallpaper-copy.jpg
 description:
@@ -582,6 +582,6 @@ challenges:
   - climate
 partner: earth-law-center
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710005342
+updated_at: 1710009158
 collection_type: partner-story
 ---
