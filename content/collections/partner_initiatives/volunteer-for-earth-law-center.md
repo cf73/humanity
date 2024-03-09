@@ -1,7 +1,7 @@
 ---
 id: 5b08c208-5356-4878-b3be-a9b91e1f383c
 blueprint: partner_initiative
-title: 'Volunteer for Earth Law Center'
+title: 'Earth Law Center: justice for nature.'
 collection_type: partner-initiatives
 description:
   -
@@ -29,5 +29,5 @@ challenges:
   - climate
 partner: earth-law-center
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709758504
+updated_at: 1709945966
 ---
