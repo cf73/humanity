@@ -1,7 +1,7 @@
 ---
 id: db0847a6-e419-402e-870f-2c2523cffef6
 blueprint: partner_story
-title: 'Danish Refugees Council''s "Global Displacement Forecast" predict 6.2 million more displaced persons in 2024.'
+title: 'Danish Refugees Council''s "Global Displacement Forecast" predicts 6.2 million more displaced persons in 2024.'
 date: '2024-03-09'
 image: image-1710004757.jpeg
 description:
@@ -43,5 +43,5 @@ challenges:
   - war
 partner: danish-refugee-council
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710005190
+updated_at: 1710005212
 ---
