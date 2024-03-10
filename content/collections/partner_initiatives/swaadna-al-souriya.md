@@ -1,7 +1,7 @@
 ---
 id: 61653f39-a1f2-4949-9a50-e72537bfc211
 blueprint: partner_initiative
-title: 'Peace Direct:  supporting children affected by Syrian conflict.'
+title: 'Peace Direct:  work in partnership with local peacebuilders and other allies like donors, policymakers and activists to shift power and resources for sustainable peace.'
 collection_type: partner-initiative
 description:
   -
@@ -190,6 +190,6 @@ challenges:
   - democracy
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710029589
+updated_at: 1710029623
 partner: peace-direct
 ---
