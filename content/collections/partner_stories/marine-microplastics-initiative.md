@@ -1,18 +1,33 @@
 ---
 id: 0367b037-1bd0-4c14-8faa-f185019892f7
 blueprint: partner_story
-title: 'Woods Hole Oceanographic Institutions helps solve the microplastics challenge'
+title: 'Woods Hole Oceanographic Institution helps solve the microplastics challenge'
 date: '2022-11-14'
 image: image-1708719509.jpeg
 description:
-  -
-    type: paragraph
   -
     type: paragraph
     content:
       -
         type: text
         text: 'https://microplastics.whoi.edu/about/opportunities/'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'WHOI establishes new fund to accelerate microplastics innovation'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'With the backing of a handful of family foundations, WHOI is launching a Marine Microplastics Innovation Accelerator to help answer some of the most pressing—and foundational—questions about marine microplastics and their impacts'
+  -
+    type: paragraph
   -
     type: paragraph
     content:
@@ -139,7 +154,7 @@ description:
 link: 'https://microplastics.whoi.edu/?_gl=1*yz76vn*_ga*MTY4ODc4NTQzMy4xNzA3MTY1OTUy*_ga_HLKFZX9JZK*MTcwODcxODk0MC41LjEuMTcwODcxOTI1MC4wLjAuMA..*_gcl_au*MTYxOTg5ODEwNS4xNzA3MTY1OTUy'
 partner: woods-hole-oceanographic-institution
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710005482
+updated_at: 1710030541
 challenges:
   - climate
 collection_type: partner-story
