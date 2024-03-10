@@ -9,12 +9,187 @@ description:
     content:
       -
         type: text
-        text: 'Swaadna Al Souriya is an organisation in Syria, focussed on supporting children, women, and poor families. They were established in 2015 to support children affected by the Syrian conflict to return to school and regain a sense of structure in their lives. They also support women’s empowerment, food security, and building livelihoods.'
+        text: 'We work in partnership with local peacebuilders and other allies to shift power and resources for sustainable peace. Discover the strategic approach we take to make that mission a reality.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Our mission is to work in partnership with local peacebuilders and other allies like donors, policymakers and activists to shift power and resources for sustainable peace.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Our work is not simply about acting as an intermediary between funders and peacebuilders. Instead, we take an active, strategic approach to ensure the whole sector we work in better serves local people – and makes peace more achievable.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'That means we collaborate with others to change the system in favour of local peacebuilding. We research, we advocate, we influence, we communicate and we campaign.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This broad mission is underpinned by several strategic areas of work.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '2. Advocating for decision-makers to change their attitudes, behaviour and practices.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'We want the local leadership to become the norm across the humanitarian, development and peacebuilding system. But there are longstanding barriers that stand in our way, including structural racism and a lack of trust in local people. Across our work, we add our voices to the chorus calling for change, to ensure local peacebuilders have a better chance of building sustainable peace.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'As part of that work, we lead and collaborate on research and advocacy efforts in this area, including co-producing a series of reports on decolonising the sector. And we push international decision-makers and organisations to hear local voices and commit their support for local peacebuilders.'
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '4. Building mass public support for local peacebuilding.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'To achieve our mission, we also need the support of the public. That means we need the value of local peacebuilding efforts to be more visible.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'We strive to raise the profile of local peacebuilders through innovative and inspirational campaigns and communications. That includes showcasing stories of local peacebuilding work, to help millions of people around the world discover the value of peacebuilding and understand the ways they can take action for peace.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'As part of that work, we lead and collaborate on research and advocacy efforts in this area, including co-producing a series of reports on decolonising the sector. And we push international decision-makers and organisations to hear local voices and commit their support for local peacebuilders.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Finally, tying all of these efforts together is a long-term strategy to ensure Peace Direct itself is a strong, dynamic and inclusive organisation. Otherwise, we won’t be equipped to achieve our mission.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Quick links'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.peacedirect.org/about-us/'
+              rel: null
+              target: null
+              title: null
+        text: 'About us'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.peacedirect.org/our-work-partners/'
+              rel: null
+              target: null
+              title: null
+        text: 'Our work & partners'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.peacedirect.org/news-insights/'
+              rel: null
+              target: null
+              title: null
+        text: 'News & insights'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.peacedirect.org/take-action/'
+              rel: null
+              target: null
+              title: null
+        text: 'Take action'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.peacedirect.org/about-us/jobs/'
+              rel: null
+              target: null
+              title: null
+        text: Jobs
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://peacedirect.org/sign-up/'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: 'Keep up to date'
 image: edu.jpg
 challenges:
   - democracy
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710029463
+updated_at: 1710029589
 partner: peace-direct
 ---
