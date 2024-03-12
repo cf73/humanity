@@ -29,7 +29,7 @@ description:
         text: "and letters from Marshall's escort, Harvard Law Professor E. M. Morgan, and Laird Bell, President of the Alumni Association."
 url: 'https://humanity.org/wp-content/uploads/2022/12/george-c-marshall.jpg'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709491674
+updated_at: 1710206021
 challenges:
   - war
 transcript:
@@ -178,4 +178,12 @@ transcript:
     type: paragraph
 speaker: 'George C. Marshall'
 image: 1120x600_header.jpg.webp
+related_partner_initiatives:
+  - 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
+related_content:
+  - 6dce87aa-d0d3-4ceb-b19a-3a59322fa98e
+  - f74e61ed-bc0b-412d-8cbf-8d635097efe8
+  - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
+  - 14cde4f6-5d03-4bdf-92cd-7cbd30aacc8c
+  - 92a684c9-ec52-4217-812f-186112d01ac0
 ---
