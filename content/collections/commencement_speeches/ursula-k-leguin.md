@@ -11,7 +11,25 @@ description:
     content:
       -
         type: text
-        text: 'Ms Le Guin (1929 - 2018) was an astonishingly perceptive and original literary voice. In the recent words of '
+        text: 'Ms Le Guin (1929 - 2018) said the writer’s “pleasant duty" is to ply the reader’s imagination with “the best and purest nourishment that it can absorb.” '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'She "'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '...embraced the standard themes of her chosen genres: sorcery and dragons, spaceships and planetary conflict. But even when her protagonists are male, they avoid the macho posturing of so many science fiction heroes." (NYTimes)'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'And in the words of '
       -
         type: text
         marks:
@@ -20,11 +38,20 @@ description:
         text: 'The Guardian'
       -
         type: text
-        text: ', she was "sane, committed, annoyed, humorous, wise and always intelligent." She lived in Oregon.'
+        text: ', she was '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '"sane, committed, annoyed, humorous, wise and always intelligent."'
+      -
+        type: text
+        text: ' '
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709650255
+updated_at: 1710203246
 transcript:
   -
     type: paragraph
@@ -101,4 +128,8 @@ transcript:
     type: paragraph
 speaker: 'Ursula K LeGuin'
 image: web_leguin_art.jpg
+related_partner_initiatives:
+  - 6f9195fc-1c72-4935-be44-e6b912bbba06
+related_content:
+  - 294e8080-c753-4588-896c-6be5c13e534c
 ---
