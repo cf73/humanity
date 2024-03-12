@@ -319,8 +319,14 @@ transcript:
         text: "As is a tale, so is life: not how long it is, but how good it is, is what\_matters.I wish you all very good lives. Thank you very\_much."
 challenges:
   - democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709493863
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1710203087
 speaker: J.K.Rowling
 image: jkrowling.jpg
+video_id: 'wHGqp8lz36c?si=hUIKf1R6jWKbMfme'
+related_partner_initiatives:
+  - 61653f39-a1f2-4949-9a50-e72537bfc211
+related_content:
+  - 3cc8f4c1-bcca-4142-8664-e0572beb84ea
+date_of_speech: '2011-09-16'
 ---
