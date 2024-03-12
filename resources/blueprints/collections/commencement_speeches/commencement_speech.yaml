@@ -40,7 +40,7 @@ tabs:
               validate:
                 - required
           -
-            handle: date
+            handle: date_of_speech
             field:
               mode: single
               inline: false
@@ -50,14 +50,12 @@ tabs:
               time_enabled: false
               time_seconds_enabled: false
               type: date
-              display: Date
+              display: 'Date of Speech'
               listable: hidden
               instructions_position: above
               visibility: visible
               replicator_preview: true
               hide_display: false
-              validate:
-                - required
           -
             handle: image
             field:

@@ -1,18 +1,19 @@
-<div id="headerbackground" class="bg-orange-200 h-80 w-full absolute z-0">
-
-</div>
 <div class="container mx-auto relative z-10 space-y-16">
     <section>
         {{ if blueprint | contains('talk') }}
-        {{location}}
-            {{date}}
-            {{speaker}}
-            {{if video_id}}
-            <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            {{else}}
-            <img src="{{image}}" alt="{{title}}" class="w-full">
-            {{/if}}
-            {{description}}
+        <div class="container mx-auto flex flex-col items-center space-y-8">
+                <div class="text-5xl font-bold">{{speaker}}</div>
+                <div class="flex flex-col w-full items-center space-y-0">
+                    <div>{{location_or_event}}</div>
+                    <div>{{date_of_talk}}</div>
+                </div>
+                {{if video_id}}
+                <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                {{else}}
+                <img src="{{image}}" alt="{{title}}" class="w-full">
+                {{/if}}
+                <div class="prose">{{description}}</div>
+        </div>
             
         {{elseif blueprint | contains('article')}}
         <section id="heroarea" class="flex flex-row">
@@ -41,15 +42,20 @@
         </section>
         
         {{elseif blueprint | contains('commencement')}}
-            {{location}}
-            {{date}}
-            {{speaker}}
+        <div class="container mx-auto flex flex-col items-center space-y-8">
+            <div class="text-5xl font-bold">{{speaker}}</div>
+            <div class="flex flex-col w-full items-center space-y-0">
+                <div>{{location}}</div>
+                <div>{{date_of_speech}}</div>
+            </div>
             {{if video_id}}
             <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             {{else}}
             <img src="{{image}}" alt="{{title}}" class="w-full">
             {{/if}}
-            {{description}}
+            <div class="prose">{{description}}</div>
+        </div>
+        
         {{else}}
         neither
         {{/if}}
