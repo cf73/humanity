@@ -449,7 +449,7 @@ challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710205305
+updated_at: 1710205388
 speaker: 'Michelle Obama'
 image: maxresdefault-(1).jpg
 related_partner_initiatives:
