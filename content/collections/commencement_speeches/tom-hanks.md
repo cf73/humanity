@@ -2,7 +2,7 @@
 id: a92555a1-da6e-4db9-9054-ca26749a9664
 blueprint: commencement_speech
 title: '"Truth and Indifference"'
-location: 'Harvard University, Cambridge, Massachusetts'
+location: 'Harvard University, Cambridge, Massachusetts USA'
 date: '2023-05-25'
 collection_type: commencement-speech
 description:
@@ -11,6 +11,9 @@ description:
     content:
       -
         type: text
+        marks:
+          -
+            type: italic
         text: 'Tom Hanks is an American actor and filmmaker. He was born on July 9, 1956, in Concord, California. His mother worked in a hospital and was a distant relative of Abraham Lincoln. Hanks is known for his cheerful everyman persona and has starred in many popular films. He is also a big supporter of environmental causes, same-sex marriage, and alternative fuels.'
       -
         type: hardBreak
@@ -19,7 +22,7 @@ challenges:
   - democracy
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709651110
+updated_at: 1710206570
 speaker: 'Tom Hanks'
 image: maxresdefault.jpg
 transcript:
@@ -188,4 +191,11 @@ transcript:
       -
         type: text
         text: 'Why is that truth so hard for some to accept, much less respect? If you live in the United States of America, the responsibility is yours, ours. The effort is optional, but the truth. The truth is sacred, unalterable, chiseled into the stone of the foundation of our republic. All of us, none of us are super. We are the Americans. Liberty and justice is for us all because yes, we have specific names and we have lived every year of our ages. But when it comes to race, we are all uniquely, magnificently, simply human, or so said Marlon Brando to Tommy Tommy Handkerchief, “May goodness and mercy follow you all the days, all the days of your lives.” God speed. Congratulations.'
+related_partner_initiatives:
+  - 643b298b-448c-44d4-841f-cdbcd7b03dcd
+  - cfecebb5-ee73-41df-ad4c-184602dfe751
+related_content:
+  - ecd34d1f-9510-468f-9b8e-4f6d6c678fbf
+  - 3b334a81-f6d2-4f3b-ab0f-d09bb350cb09
+  - 48a426ae-af93-404f-816c-29b3e34f8048
 ---
