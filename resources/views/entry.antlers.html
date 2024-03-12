@@ -1,7 +1,7 @@
 <div class="container mx-auto mt-32 relative z-10 space-y-16">
     <section>
         {{ if blueprint | contains('talk') }}
-        <div class="container mx-auto flex flex-col items-center space-y-8">
+        <div class="flex flex-col items-center space-y-8">
                 <div class="text-5xl font-bold">{{speaker}}</div>
                 <div class="flex flex-col w-full items-center space-y-0">
                     <div>{{location_or_event}}</div>
@@ -42,7 +42,7 @@
         </section>
         
         {{elseif blueprint | contains('commencement')}}
-        <div class="container mx-auto flex flex-col items-center space-y-8">
+        <div class="flex flex-col items-center space-y-8">
             <div class="text-5xl font-bold">{{speaker}}</div>
             <div class="flex flex-col w-full items-center space-y-0">
                 <div>{{location}}</div>
@@ -57,9 +57,8 @@
             <div class="bg-warmwhite p-32 pt-16 w-2/3 mx-auto">
                 <div class="prose">{{transcript}}</div>
             </div>
-
-            {{partial:exploreMore}}
         </div>
+            {{partial:exploreMore}}
         
         {{else}}
         neither
