@@ -1,0 +1,138 @@
+<main class="space-y-32">
+            
+    <section id="challengeIntro" class="p-32">
+      <div class="container mx-auto space-y-4">
+        <div class="font-bold text-softblack text-5xl w-full leading-tight">{{challenge_intro}}</div>
+      </div>
+    </section>
+    
+    <section id="commencementSpeeches">
+      <div class="container mx-auto space-y-8">
+        <div class="uppercase text-3xl tracking-widest text-softblack">Commencement Speeches</div>
+        <swiper-container class="commencementSpeechesSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+        space-between="30">
+             {{collection:commencement_speeches challenges:contains="{{slug}}"}}
+               {{if no_results}}
+                   <p class="light">No content here ... yet!</p>
+               {{else}}
+                   <div class="swiper-slide" style="height: auto !important;">
+                       <a href="{{url}}">{{partial:card}}</a>
+                   </div>
+               {{/if}}
+             {{/collection:commencement_speeches}}
+         </swiper-container>
+      </div>
+    </section>
+    
+    <seciont id="reflectiveMoment">
+    
+    </seciont>
+    
+    <section id="partnerStories">
+     <div class="container mx-auto space-y-8">
+       <div class="uppercase text-3xl tracking-widest text-softblack">Partner Stories</div>
+       <swiper-container class="partnerStoriesSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+       space-between="30">
+           {{collection:partner_stories challenges:contains="{{slug}}"}}
+             {{if no_results}}
+                 <p class="light">No content here ... yet!</p>
+             {{else}}
+                 <div class="swiper-slide" style="height: auto !important;">
+                   <a href="{{url}}">{{partial:card}}</a>
+                 </div>
+             {{/if}}
+           {{/collection:partner_stories}}
+       </swiper-container>
+     </div>
+    </section>
+ 
+    <section id="Books">
+     <div class="container mx-auto space-y-8">
+       <div class="uppercase text-3xl tracking-widest text-softblack">Books</div>
+       <swiper-container class="booksSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+       space-between="30">
+           {{collection:books challenges:contains="{{slug}}"}}
+             {{if no_results}}
+                 <p class="light">No content here ... yet!</p>
+             {{else}}
+                 <div class="swiper-slide" style="height: auto !important;">
+                   <a href="{{url}}">{{partial:card}}</a>
+                 </div>
+             {{/if}}
+           {{/collection:books}}
+       </swiper-container>
+     </div>
+    </section>
+ 
+    <section id="photography_contributions">
+     <div class="container mx-auto space-y-8">
+       <div class="uppercase text-3xl tracking-widest text-softblack">Photography Contributions</div>
+       <swiper-container class="photography_contributionsSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+       space-between="30">
+           {{collection:photography_contributions challenges:contains="{{slug}}"}}
+             {{if no_results}}
+                 <p class="light">No content here ... yet!</p>
+             {{else}}
+                 <div class="swiper-slide" style="height: auto !important;">
+                   <a href="{{url}}">{{partial:card}}</a>
+                 </div>
+             {{/if}}
+           {{/collection:photography_contributions}}
+       </swiper-container>
+     </div>
+    </section>
+ 
+    <section id="poetry_contributions">
+     <div class="container mx-auto space-y-8">
+       <div class="uppercase text-3xl tracking-widest text-softblack">Poetry Contributions</div>
+       <swiper-container class="poetry_contributionsSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+       space-between="30">
+           {{collection:poetry_contributions challenges:contains="{{slug}}"}}
+             {{if no_results}}
+                 <p class="light">No content here ... yet!</p>
+             {{else}}
+                 <div class="swiper-slide" style="height: auto !important;">
+                   <a href="{{url}}">{{partial:card}}</a>
+                 </div>
+             {{/if}}
+           {{/collection:poetry_contributions}}
+       </swiper-container>
+     </div>
+    </section>
+    
+    <section id="articles">
+      <div class="container mx-auto space-y-8">
+        <div class="uppercase text-3xl tracking-widest text-softblack">articles</div>
+        <swiper-container class="articlesSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+        space-between="30">
+            {{collection:articles challenges:contains="{{slug}}"}}
+             {{if no_results}}
+                 <p class="light">No content here ... yet!</p>
+             {{else}}
+                 <div class="swiper-slide" style="height: auto !important;">
+                   <a href="{{url}}">{{partial:card}}</a>
+                 </div>
+             {{/if}}
+            {{/collection:articles}}
+        </swiper-container>
+      </div>
+    </section>
+ 
+    <div class="container mx-auto space-y-8">
+     <div class="uppercase text-3xl tracking-widest text-softblack">Talks</div>
+     <swiper-container class="talksSwiper mb-32" pagination="true" pagination-clickable="true" navigation="true" slides-per-view="3.25"
+     space-between="30">
+         {{collection:talks challenges:contains="{{slug}}"}}
+             {{if no_results}}
+                 <p class="light">No content here ... yet!</p>
+             {{else}}
+                 <div class="swiper-slide" style="height: auto !important;">
+                   <a href="{{url}}">{{partial:card}}</a>
+                 </div>
+             {{/if}}
+           {{/collection:talks}}
+       </swiper-container>
+     </div>
+  </main>
+ 
+ 

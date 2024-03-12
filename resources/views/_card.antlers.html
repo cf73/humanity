@@ -1,4 +1,4 @@
-<div class="flex flex-col bg-white rounded h-full overflow-hidden pb-2">
+<div class="flex flex-col bg-warmwhite drop-shadow-md rounded h-full overflow-hidden pb-2">
     <div class="w-full h-80 mb-8 bg-cover bg-no-repeat bg-center bg-gray-100 flex p-2 items-end" style="background-image: url({{image}});">
         <div class="flex flex-row flex-wrap">
             {{challenges}}
@@ -7,9 +7,9 @@
             {{partial:tag label="{{collection:title | upper}}"}}
         </div>
     </div>
-    <div class="py-0 px-14 ">
-        <h3 class="mb-4">{{title}}</h3>
-        {{speaker}}
+    <div class="py-0 px-8 pb-4 flex flex-col space-y-0">
+        <div class="mb-4 font-bold leading-tight text-xl">{{title}}</div>
+        <div>{{speaker}}</div>
         <!-- <div class="font-serif leading-6 text-base">{{ description }}</div> -->
     </div>
 </div>
