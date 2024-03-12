@@ -1,16 +1,10 @@
 ---
 id: 5b23ff39-cc44-49fa-9ced-97b78abc74b8
 blueprint: partner_story
-title: 'Stop war on children'
+title: 'Save The Children protects children in conflict zones.'
 date: '2024-02-24'
-image: image-1709144254.png
+image: cq5dam.webp_thumbnail.1536.1536.webp
 description:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Act Now: Help Protect Children in Conflict'
   -
     type: paragraph
     content:
@@ -79,23 +73,11 @@ description:
                 text: 'Children in warzones must be given practical support on the ground to protect and care for them, and to help them recover.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Will you stand up for the millions of children in danger? By demanding change from governments, and by supporting Save the Children’s recovery programs helping children in conflict-affected regions, you can make a practical difference to children’s lives in war zones.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "*By providing your email on Save The Children's site, you will start receiving news of your generosity in action, including inspiring children's stories, emergency alerts and ways to get involved."
-  -
-    type: paragraph
 link: 'https://www.savethechildren.org/us/ways-to-help/campaign-with-us/stop-war-on-children'
 challenges:
   - war
 partner: save-the-children
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709958398
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1710010707
 collection_type: partner-story
 ---

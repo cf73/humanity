@@ -19,18 +19,6 @@ description:
       -
         type: text
         text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Read more from the '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Washington Post'
 transcript:
   -
     type: paragraph
@@ -461,7 +449,12 @@ challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709493883
+updated_at: 1710205419
 speaker: 'Michelle Obama'
 image: maxresdefault-(1).jpg
+related_partner_initiatives:
+  - 61653f39-a1f2-4949-9a50-e72537bfc211
+related_content:
+  - b4176ab7-67b2-40c2-b5e0-37c995d46176
+  - 48a426ae-af93-404f-816c-29b3e34f8048
 ---

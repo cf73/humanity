@@ -1,7 +1,7 @@
 ---
 id: c7f4951c-3a1d-4fd9-a01d-f0b73975b069
 blueprint: partner_initiative
-title: 'World Wildlife Furn: Working to sustain the natural world for the benefit of people and nature.'
+title: 'World Wildlife Fund: working to sustain the natural world for the benefit of people and nature.'
 collection_type: partner-initiative
 description:
   -
@@ -9,7 +9,10 @@ description:
     content:
       -
         type: text
-        text: 'Who we are'
+        marks:
+          -
+            type: bold
+        text: 'Who we are:'
   -
     type: paragraph
     content:
@@ -21,19 +24,7 @@ description:
     content:
       -
         type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: "Here at WWF, an independent conservation organization active in nearly 100 countries, we are working to sustain the natural world for the benefit of people and wildlife.\_\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
   -
     type: paragraph
     content:
@@ -98,5 +89,5 @@ challenges:
   - climate
 partner: world-wide-fund-for-nature
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709946294
+updated_at: 1710002008
 ---

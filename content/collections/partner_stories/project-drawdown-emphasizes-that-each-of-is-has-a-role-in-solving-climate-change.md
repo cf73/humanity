@@ -1,0 +1,414 @@
+---
+id: 2f877a19-cd77-436d-89ef-8d0f6516de64
+blueprint: partner_story
+title: 'Project Drawdown emphasizes that each of is has a role in solving climate change.'
+date: '2024-03-10'
+image: image-1710105116.jpeg
+description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The most important climate solution is YOU.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'No one can solve climate change alone. But science has shown that '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: "together we have the power to create a climate-stable future.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Each of us has a unique and important contribution to make. By taking action in five\_key areas, you can do your part to\_halt climate change before it’s too late."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "1:\_LEARN"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Familiarize yourself with climate solutions and how you can help\_deploy them."
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Check out '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'the 93 technologies and practices that together can stop climate change'
+              -
+                type: text
+                text: .
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Watch the '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Drawdown Roadmap'
+              -
+                type: text
+                text: ",\_"
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Climate Solutions 101'
+              -
+                type: text
+                text: ",\_and "
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Drawdown’s Neighborhood'
+              -
+                type: text
+                text: "\_video series for a comprehensive look at how humanity can halt climate disruption\_through concerted action.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "2:\_DO"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Alter your own activities to reduce your personal contribution to climate change.'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Apply what you learn to become more climate friendly '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'at home'
+              -
+                type: text
+                text: ', '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'at work'
+              -
+                type: text
+                text: ', in your volunteer activities and hobbies, as you travel—in every aspect of your life! The opportunities are endless, and every action matters.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Consider the climate impact of your consumer choices, and alter them accordingly.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: "Check out other suggestions for mobilizing around climate solutions, including those from our partners\_"
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Drawdown Ecochallenge(link is external)'
+              -
+                type: text
+                text: ', '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Rare(link is external)'
+              -
+                type: text
+                text: ', and '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Don’t Look Up(link is external)'
+              -
+                type: text
+                text: ', as well as from '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Science Moms(link is external)'
+              -
+                type: text
+                text: ', the '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'U.S. Environmental Protection Agency(link is external)'
+              -
+                type: text
+                text: ", and the\_"
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'David Suzuki Foundation(link is external)'
+              -
+                type: text
+                text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "3:\_SHARE"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Communicate the opportunity to make a difference with others.'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Bring up the subject of climate change(link is external)'
+              -
+                type: text
+                text: " with individuals in your various spheres of influence: family, friends, neighbors, fellow faith community members, etc. Do so in a nonthreatening, nonjudgmental way. For example, you might start by mentioning unusual weather you’re having\_or a disaster in the news, and wondering if it’s related to climate change."
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Before you broach the topic, think about what the other person cares about. Tailor your conversation to connect climate change to what’s most important to them—their hobbies, their family, their health, their values.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: "Listen to their thoughts. Then let them know the climate actions you’re taking\_and why. Explain\_how\_every person has a unique and important role to play in halting climate change. If they would like to learn more, share the link to this page.\_"
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: "Engage with people from\_all walks of life, not just those who think as\_you do. Like identity theft or the global economy, climate change affects everyone, not just environmentalists or those of particular political persuasions.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "4:\_ADVOCATE"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Urge change makers to go all in on halting climate change.'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: "Think of three people in your sphere of influence who have exceptional impact: lawmakers, CEOs, community leaders, popular artists, social media influencers, journalists, consumer liaisons for\_brands you buy."
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Share with each, in language that resonates with them and what they care about, the importance of stopping climate change—and the evidence we have that it’s possible. If appropriate, start with the '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'five basic facts about climate change(link is external)'
+              -
+                type: text
+                text: ': 1) it’s real, 2) It’s us, 3) It’s bad, 4) scientists agree, 5) there’s hope.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Encourage them to check out the '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Drawdown Roadmap'
+              -
+                type: text
+                text: ', which details strategies for strategically deploying solutions at the right time and in the right place, reaping multiple benefits, and overcoming barriers.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Point out that climate solutions are not just about climate. They also offer numerous benefits for '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'alleviating poverty'
+              -
+                type: text
+                text: ', protecting biodiversity, advancing justice, reducing conflict, and more.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Suggest one specific way in which the change maker can exert their influence to contribute to halting climate change.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "5:\_AMPLIFY"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Enhance your impact by spreading the word.'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Let us know(link is external)'
+              -
+                type: text
+                text: ' what you’re doing to help stop climate change.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'If you have additional resources to suggest or strategies to recommend, please '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'pass them along(link is external)'
+              -
+                type: text
+                text: ' so we can share with others.'
+link: 'https://drawdown.org/get-involved'
+collection_type: partner-story
+challenges:
+  - climate
+partner: project-drawdown
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1710105152
+---

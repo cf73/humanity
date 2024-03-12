@@ -1,7 +1,7 @@
 ---
 id: 9695b8da-259a-4a3f-84d4-9bc1a99d4e80
 blueprint: partner_story
-title: 'Reduce the threat of landmines.'
+title: 'Danish Refugees Council reduces threat of landmines.'
 date: '2024-02-20'
 image: image-1708739727.jpeg
 description:
@@ -78,7 +78,7 @@ link: 'https://www.savethechildren.org/us/ways-to-help/campaign-with-us/stop-war
 challenges:
   - war
 partner: danish-refugee-council
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709958373
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1710005419
 collection_type: partner-story
 ---

@@ -1,0 +1,169 @@
+---
+id: 8f01cbfc-48f8-4156-acd7-03bef3acce9f
+blueprint: partner_story
+title: 'Peace Direct launches Peace Starts Here, a global movement for peace builders.'
+date: '2024-03-09'
+image: image-1710030198.png
+description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "Wednesday 31st January 2024, 14:00 GMT: Today, a cohort of local peacebuilders from around the world launch Peace Starts Here, a global movement for peacebuilders. The campaigners are inviting people to sign a manifesto demanding that local peacebuilders be seen, heard, and better supported locally and globally.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Peace Starts Here will highlight the effectiveness and necessity of local peacebuilding, while calling for more international support and educating the bigger system about the realities of local peacebuilding. It will also galvanise a movement for change in the sector.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Through a manifesto for change, this campaign aims to ignite a movement that will change the status quo. With five separate asks, the manifesto centres local peacebuilders, and calls on the wider sector to ensure they are supported to lead:'
+  -
+    type: orderedList
+    attrs:
+      start: 1
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Make space for local peacebuilders – Create more inclusive ways for local peacebuilders to lead, shape and influence the peace process in their regions.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Fund more local peacebuilding efforts – Remove the barriers to funding for all genuine grassroots peacebuilding initiatives making a difference for local people, and proactively channel resources to local peacebuilders in communities closest to conflict.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Support and strengthen local peacebuilders – Build the capacity and resilience of local peacebuilders so they can participate in sustainable peacebuilding and build trust with policymakers, funders and donors.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Centre peacebuilding around local people – Invest in more human-centred, collaborative, and community-led approaches to global peacebuilding efforts, encouraging local peacebuilders to play an active role in decolonising the role of global actors.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Learn from local peacebuilders – Promote successful local peacebuilding initiatives to aid learning, insight-sharing and collaboration in the wider peacebuilding sector.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Join the movement today by sharing your thoughts on the asks and signing the manifesto.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Backed by Peace Direct and now with the added support of United Network of Young Peacebuilders (UNOY) and Alliance for Peacebuilding (AfP) Peace Starts Here is for local peacebuilders and by local peacebuilders.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Diana Ishaqat, one of the campaign’s co-creators and local peacebuilder, says:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '“We are calling for the recognition of local voices for peace. It is us who navigate the consequences of conflict and violence; it is us who should lead in building long-lasting peace. This is the real story of peace, told by local peacebuilders. It starts with them. It starts with their work. It starts in their communities.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Visit www.peacestartshere.world to read about the co-creators behind this campaign, their journey and the manifesto asks.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: 'Notes:'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Peace Starts Here is a global campaign created by 10 peacebuilders from around the world.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'For the past year, ten local peacebuilders from around the world have worked together to co-create a global movement to improve recognition and support for local peacebuilders. Together, they drafted a manifesto for change based on their experience of the peacebuilding sector, particularly their experience of the marginalisation of local perspectives in international discourse.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'The idea of a co-created global campaign began in Beirut, Lebanon in August 2018. Peace Direct’s Peace Exchange event brought together a group of peacebuilders from around the world to discuss how to best resolve conflict in their communities and build sustainable peace. During one of these conversations, the idea of a locally-led, global campaign was born.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'The campaign creation phase was facilitated by Peace Direct, an international peacebuilding NGO, InsightPact and creative agency Neo.'
+link: 'https://www.peacedirect.org/psh-launch-press-release/'
+collection_type: partner-story
+challenges:
+  - war
+partner: peace-direct
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1710030236
+---

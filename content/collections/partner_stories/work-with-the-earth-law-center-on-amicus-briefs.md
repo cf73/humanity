@@ -1,37 +1,22 @@
 ---
 id: 8c206ac9-1b59-49e5-9e1d-6454a86204c5
 blueprint: partner_story
-title: 'Help the Earth Law Center create amicus briefs'
+title: 'Earth Law Center successfully sues to protect Elwha Legacy Forests'
 date: '2024-02-24'
-image: bingwallpaper-copy.jpg
+image: image-1710009395.jpeg
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Introduction to Amicus Briefs'
+        text: 'In summer 2023, the Earth Law Center, the Center for Whale Research, and the Keystone Species Alliance filed a legal action challenging the “Power Plant” timber sale. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Since 2018, ELC has innovated a program to submit amicus briefs in defense of the Rights of Nature and human environmental rights all of the world, with a focus on Latin America. Our hope is that courts will issue landmark court decisions on behalf of rivers and other ecosystems.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Amicus briefs are legal documents filed in court cases by non-litigants with a strong interest in the subject matter. The briefs allow ELC to advise courts of emerging arguments in the field of Earth law.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Join us! Email info@earthlaw.org to learn more or collaborate.'
+        text: 'In combination with community organizing and political pressure, this lawsuit helped result in the cancellation of the sale on December 18, 2023, with 69 acres receiving permanent protection! There’s much more work to be done to protect the entire Elwha River Watershed, but we’re so excited for this important victory.'
   -
     type: paragraph
     content:
@@ -40,76 +25,43 @@ description:
         marks:
           -
             type: bold
-        text: 'Earth Law Cases'
+        text: 'Elwha Legacy Forests'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Here are a few of ELC’s recent amicus briefs—just click on the photo or hyperlink to read more. Many are still pending, but we hope to provide positive updates in the near future!'
+        text: 'The Elwha River remains the site of the biggest dam removal and river restoration in history, with the Federal Government spending over $327 million on restoration of the Elwha Watershed post dam-removal. Yet, older, structurally complex, naturally regenerated, and uniquely carbon-dense forests, termed “legacy forests” on state [Washington Department of Natural Resources (“DNR”)] managed forest lands in the Elwha River Watershed are at imminent risk of being logged. There are over 3,000 acres of unprotected legacy forests in, and contiguous to, the Elwha River Watershed, with approximately 850 in the watershed itself. In 2023-2024, there are over 200 acres of legacy forests in the Elwha River Watershed slated for logging.'
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'United States'
+        text: "The Elwha legacy forests tell an interconnected story. Forest health is tied to the health of endangered species like Chinook Salmon, and in turn, the Southern Resident Orcas. The surrounding forests also play a crucial role in protecting the water quality. The trees act as natural filters, removing pollutants and contaminants and help prevent soil erosion and sedimentation. Additionally, the root systems of trees in legacy forests help to regulate water flow and reduce the risk of flooding. The Elwha River also supplies Port Angeles' sole source of drinking water and along its banks are many culturally significant sites for the lower Elwha Klallam people."
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'ELC Advocates for Right to a Stable Climate'
+        text: 'A critical goal is to protect the Elwha River Watershed’s last remaining legacy forests for their intrinsic value along with drinking water security, climate adaptation benefits, carbon storage and sequestration, biodiversity preservation, and critical habitat, using innovative frameworks for local stewardship.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Earth Law Center joined an amicus brief in Washington State supporting youth plaintiffs' challenges to state policies causing and contributing to climate change. The complaint asserts violations of their fundamental right to a healthful and pleasant environment, which includes a stable climate system. See\_Aji P. et al. v. State of Washington, (No. 99564-8). The recognition of such fundamental rights is essential to restoring ecological balance and honoring the inseparable connection between humans and the environment.\_The youth plaintiffs are represented by\_Our Children’s Trust, while the\_Center for Environmental Law & Policy\_led the amicus brief."
+        text: 'We have immediate focus on two unique forests -- with the sale names “TCB23” and “Power Plant” -- slated to be auctioned by the WA Department of Natural Resources in July, 2023.'
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Amicus Brief Defends Ballot Initiative Process Used to Advance Rights of Nature'
+        text: 'Earth Law Center’s Director of Legal Advocacy lives in the Elwha River Watershed and ELC is a founding member of the community group Elwha Legacy Forests.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'ELC filed an amicus brief in support of the Plaintiffs-Appellants in '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Beiersdorfer v. La Rose, et al. '
-      -
-        type: text
-        text: '(No. 20-3557). The lawsuit challenges the constitutionality of Ohio’s ballot access scheme for ballot initiatives. The scheme excludes certain citizen-proposed laws and charters from the ballot despite satisfying procedural requirements, such as the requisite number of signatures. Many of the plaintiffs in the '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: Beiersdorfer
-      -
-        type: text
-        text: ' case advanced initiatives with provisions recognizing the inherent Rights of Nature, such as the Lake Erie Bill of Rights. ELC submitted its amicus brief in solidarity with community leaders who are writing human’s interconnectedness with the natural world into law to address the ecological crisis.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Special thanks to ELC pro bono attorney Kevin Rivera, Esq. for leading this project.'
+        text: 'Please visit the Elwha Legacy Forest website for photos, maps, drone footage, and to take action!'
   -
     type: paragraph
     content:
@@ -118,42 +70,25 @@ description:
         marks:
           -
             type: bold
-          -
-            type: italic
-        text: 'Amicus Curiae '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Brief Filed Before Washington State Supreme Court'
+        text: Background
   -
     type: paragraph
     content:
       -
         type: text
-        text: "On September 3, 2021, ELC submitted an amicus brief in the Washington State Supreme Court on behalf of ELC, 350 Seattle, 350 Everett, 350 West Sound Climate Action, Kitsap Environmental Coalition, and Emergency Conservation Committee-PNW. The brief supports the appellants' argument in a landmark case arguing that the Washington State Constitution requires the State to manage forest lands for all the people."
+        text: 'We have been working diligently to educate the public about mature, structurally complex forests, which many refer to as “legacy forests.” Their relatives were logged in the late 1800s and early 1900s and new trees were left to regenerate on their own, naturally. These forests are important because they preserve the genetic, biological, and ecological ‘legacies’ of the natural lowland forests that once dominated Western Washington. One of these critical older forests in the Elwha River Watershed called the “Aldwell” was identified to be logged last year.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "The state currently logs forest lands (including old growth and legacy forests) to maximize profits for specific trust beneficiaries. ELC’s amicus argues that the constitution must be interpreted in light of the climate crisis and introduces the concept of a constitutional right to live in a balanced relationship with the Earth. Special thanks to ELC summer intern Abigail Contreras, Anastasia Maier, Esq. and the National Lawyers Guild, Seattle Chapter, Living Systems Committee for their invaluable contributions.\_"
+        text: 'Thankfully, in September 2022, due in large part to our advocacy, the City of Port Angeles unanimously voted to request that the State halt logging of a critical older forest in the Elwha River Watershed called “Aldwell”. We then co-hosted a community hike to visit the forest and educate the public about mature, structurally complex forests.'
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'ELC Supports Rights of Ecosystems in Aerial Pesticide Bans'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'On September 1, 2021, ELC joined Dr. Craig M. Kauffman in supporting a petition to the Oregon Supreme Court for review of Lincoln County’s aerial pesticide spray ban, which includes recognition of the rights of ecosystems. The trial court denied the Siletz River Ecosystem’s motion to intervene but recognized the issue’s importance and suitability for resolution by a higher court. Lincoln County Community Rights advanced the measure with support from the Community Environmental Legal Defense Fund.'
+        text: 'Despite the City’s request and significant public outcry, the State proceeded with the logging.'
   -
     type: paragraph
     content:
@@ -162,37 +97,7 @@ description:
         marks:
           -
             type: bold
-        text: 'Latin America'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'MARAÑON RIVER'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Superior Court of Loreto, Peru'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Filed July 2023 (Spanish)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Threat: Oil spills have severely polluted the Marañon River and devastated local communities.'
+        text: Ecocentric
   -
     type: paragraph
     content:
@@ -201,7 +106,25 @@ description:
         marks:
           -
             type: italic
-        text: Pending
+        text: Ecocentric
+      -
+        type: text
+        text: ' refers to a nature-centered, rather than human-centered (Anthropocentric), approach. An ecocentric society is one in which humans conduct themselves in a way that allows them to de-center themselves and live in harmony with nature, while keeping our society from exceeding its planetary boundaries. Earth law is an emerging form of ecocentric law, meaning that it diverges from the status quo human-centered and corporation-centered laws that currently govern much of the world.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'At it’s core, the legal effort to keep the “Power Plant” timber sale off of the auction block is '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ecocentric
+      -
+        type: text
+        text: '. This case aims to protect nature by preventing its exploitation for anthropogenic interests. We are fighting to preserve the Elwha watershed and all of its natural elements for not just the human communities that rely on it, but also the numerous vulnerable and endangered species that are counting on the Elwha. An ecocentric worldview emphasizes our responsiblity to protect these legacy forests and by extension, their surrounding ecosystems.'
   -
     type: paragraph
     content:
@@ -210,76 +133,37 @@ description:
         marks:
           -
             type: bold
-        text: 'PARANÁ RIVER DELTA'
+        text: 'The Legacy Forest Movement'
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Supreme Court of Argentina'
+        text: 'A number of cases have been filed to protect legacy forests across the state. While our goal is to develop a statewide policy for Washington, and even one for the United States, we have no choice but to bring these cases in the near-term.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Filed August 2020 (Spanish)'
+        text: 'The legacy movement began when activist Steven Kropp did everything in his power to stop the logging of Chameleon in 2019. Losing the forest resulted in the formation of the “Center for Responsible Forestry” now active throughout Washington State. CRF’s wins include Smuggler, Upper Rutsatz and Bessie.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Threat: Climate change, pollution, and other impacts to South America's second-longest river."
+        text: "Momentum continues to grow because of public engagement and legal successes: In a case to prevent the “Brokedown Palace” sale, advocates secured a delay until December 2023. In the case of “Goodman 1” and “Taylor Downhill Sort” the judge ordered\_ DNR to redo their analysis in October 2022 thereby delaying this logging. In addition to our own case this month, the Center for Sustainable Economy and Save the Olympic Peninsula also filed a Notice of Appeal to halt the “Wishbone” timber sale scheduled for July 25, 2023.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: italic
-        text: Pending
+        text: "These cases are more than just one-off fights– they are building a movement to protect hundreds of acres of legacy forests, some over 100 years old.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: italic
-        text: 'Photo by Martin Terber'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Los Cedros FOREST RESERVE'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Constitutional Court of Ecuador'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Filed September 2021 (Spanish; English)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Threat: Mining concessions within a biodiverse and protected Andean cloud forest.'
+        text: 'A lawsuit filed by Conservation Northwest further challenged the idea that the state was “required” to log these forests. In yet another win, the Washington State Supreme Court ruled that DNR can integrate the many, diverse public benefits of forests into their decision making, rather than just making decisions that maximize revenue generation from timber sales. ELC’s Director of Legal Advocacy Elizabeth Dunne submitted an Amicus Brief that contributed to this monumental decision. Read it here.'
   -
     type: paragraph
     content:
@@ -290,139 +174,31 @@ description:
             type: bold
           -
             type: italic
-        text: Win!
+        text: '(Credit: © Photos by forest2sea.com).'
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: italic
-        text: 'Photo by Andreas Kay;'
+        text: 'On March 5, 2023, Earth Law Center co-sponsored a rally to raise awareness about the State’s decision to defy the City’s request. Over a hundred community members, largely from Port Angeles, lower Elwha Klallam Tribe, Jamestown S’klallam Tribe, Lummi Nation, and surrounding areas in the Olympic Peninsula, joined together in a peaceful rally.'
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Piatúa River'
+        text: 'Photos and videos available HERE.'
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Constitutional Court of Ecuador'
+        text: 'Read out report on the significance & status of Pacific Northwest Forests HERE.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Filed November 2020 (Spanish)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Threat: Proposed hydroelectric dams would devastate a free-flowing river in the Amazon.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: Pending
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Ecuadorian Rivers Institute'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'ECUADORIAN AMAZON'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Constitutional Court of Ecuador'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Filed November 2020 (Spanish)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Threat: Gas flaring impacts the health of Indigenous communities and imperiled ecosystems.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: Pending
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Ministry of Environment, Ecuador'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Salado & Atoyac Rivers'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'District Court, State of Oaxaca, Mexico'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Filed April 2019 (Spanish)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Threat: Extreme pollution in two rivers.'
+        text: 'Unfortunately, even this was not enough, and the Aldwell was fully logged (166 acres).'
   -
     type: paragraph
     content:
@@ -433,106 +209,7 @@ description:
             type: bold
           -
             type: italic
-        text: 'Win! '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Court ordered local, state, and federal authorities to restore to health the Salado and Atoyac Rivers based on human environmental rights and the rights of future generations, referencing ELC’s amicus brief.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Juan Porter, Wikimedia'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Anchicayá River'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Constitutional Court of Colombia'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Amicus filed August 2018 (Spanish)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Tutela Action filed August 2020 (Spanish)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Threat: Inadequate reparations and restoration after sediment discharges from a dam devastated wildlife and Afro-Colombian communities.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Appeals ongoing'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Mateo.gable, Wikimedia'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'DULCEPAMBA RIVER'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Constitutional Court of Ecuador & Environmental Ministry'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'First amicus filed July 2019 (English; Spanish)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Letter to Envtl. Ministry filed July 2020 (Spanish)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Threat: A dam project floods local communities and devastates wildlife.'
+        text: 'Rally-goers ask Public Lands Commission Hilary Franz to Stop Logging the Elwha'
   -
     type: paragraph
     content:
@@ -543,19 +220,13 @@ description:
             type: bold
           -
             type: italic
-        text: 'Partial win! '
-      -
-        type: text
-        text: 'In part due to ELC’s advocacy, Ecuador’s Environmental Ministry has required the dam operator to maintain minimum environmental flows and take other actions to protect the river and local communities. The case continues in the courts in the meantime.'
+        text: "Freddie Lane, (Lhaq'temish) Enrolled Citizen of the Lummi Indian Tribe, brings peace and unity to the effort to protect Elwha legacy forests."
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: italic
-        text: 'Dulcepamba River'
+        text: 'Since that time, we have been urgently working with the community and local government leaders on means to stop industrial logging on State lands in the Elwha River Watershed.'
   -
     type: paragraph
     content:
@@ -564,24 +235,263 @@ description:
         marks:
           -
             type: bold
-        text: Partners
+        text: 'Key Components'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We are proud to have worked with some of the following groups in submitting amicus briefs:'
+        text: 'Key components of the project are:'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'obtaining a commitment to pause or stop the logging of Elwha legacy forests through securing funds, strategic litigation, and otherwise;'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'working with multiple stakeholders to develop an Elwha legacy forests stewardship plan;'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'working with partners to conduct any necessary ecological assessments and studies and to undertake any additional GIS mapping work;'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'exploring alternative means of replacing revenue from timber harvests (including state funds and philanthropic donations) and of generating revenue from protected forest lands; and'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'developing an innovative community forest stewardship model by integrating Indigenous ancestral knowledge and centering the health of the Watershed as intrinsically linked to human health and well-being.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Want to collaborate with us to submit an amicus brief in defense of the Rights of Nature, as well as human environmental rights and the rights of future generations? Contact us to speak with one of our lawyers.'
-link: 'https://www.earthlawcenter.org/amicus-briefs'
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: '(Credit: © Photos by forest2sea.com).'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Due to the imminent threat of logging, we are prioritizing pathways that would protect Elwha legacy forests in the near term, particularly “Power Plant” and “TCB23”, namely securing funds to replace the revenue that would otherwise come from timber harvests. The amount needed for “Power Plant” and “TCB23” is approximately $500,000.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: '(Credit: © Photos by forest2sea.com).'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Climate Impact & Scalability'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'These forests are an existing natural climate solution, irreplaceable in the time frame in which we need to act to address climate change and biodiversity loss.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are thousands more acres of unprotected legacy forests (over 20,000) outside the Elwha River Watershed throughout Clallam County, and approximately 77,000 acres in Western Washington.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'If all 77,000 acres of these legacy forests are clear-cut as planned, it is estimated that over 31 million metric tons of CO2 will be emitted just in the course of harvest and manufacturing. That is one half of Washington’s 2030 emissions reduction target. Many communities are looking for alternative models and it is anticipated that the Elwha legacy forests’ model would be of great interest throughout Washington counties with old-growth and legacy forests, resulting in lasting protections for thousands of acres of these irreplaceable forests.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: '(Credit: © Photos by forest2sea.com).'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Notable Quotes Given in Support of the Campaign to Protect Elwha Legacy Forests'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Honorable Paulette Jordan (Coeur d’Alene), Native American Politician and Business Woman, who served in Idaho House of Representatives and ran for Idaho Governor and US Senate'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Honorable Paulette Jordan shared: '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '“As Indigenous Peoples - stewards of the lands and rivers here since time immemorial – we know that all life is interconnected. A river needs a healthy forest, and salmon need a healthy river. As Wy-Kan-Ush-Pum or ‘Salmon People’, we know that our own well-being is inseparable from healthy ecosystems. This is why you see First Nations in BC creating ‘salmon parks’ to protect critical forests in watersheds. We need visionary leadership who will respect our knowledge and see that protecting our legacy forests is an investment that will sustain present and future generations mentally, physically, spiritually, and economically.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Suzanne Simard, bestselling author of '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: 'Finding the Mother Tree'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '“The world is relying on us to protect the forests of the Pacific Rim because of their crucial role in stabilizing climate, supporting biodiversity and maintaining hydrologic integrity. Clearcutting the precious Elwha forests for short-term profits would be a massive blow to the health of current and future generations. We need birds singing, salmon spawning, and food growing more than money in the pockets of a few. The Elwha forests are worth more standing.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Navarra Carr, Port Angeles City Councilmember'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '"The Aldwell legacy forest is a critical part of the tributaries on the Elwha River. Legacy forests, like Aldwell, not only provide biodiversity, recreation opportunities, and aid in reducing climate impacts in our community, but also protect the water supply for every resident and visitor in Port Angeles”, said Port Angeles City Councilmember Navarra Carr. “Our city''s water supply is solely supplied by the Elwha, and negative impacts to the larger Elwha ecosystem affect our water citywide. We already experience drought conditions each year and logging these important forests will likely worsen the already existing challenges we are facing. Logging the Aldwell legacy forest will lead to the permanent destruction of a valuable forest on the Olympic Peninsula,"'
+      -
+        type: text
+        text: ' Carr explained.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'La Trisha Suggs (Jamestown S’klallam tribal member), Port Angeles City Councilmember'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '"Trees, they are our sisters, they are our brothers, they are a part of us. These trees around us are a part of who we are. They''re a part of our community. Those legacy forests and the creatures that need those are relying on those legacy forests. This is about legacy forests and this is not about stopping all timber harvests because we know timber families need the jobs. And we support those timber families."'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Paul Stamets, D.Sc. (Honaris Causa), Invention Ambassador for the American Academy for the Advancement of Science (AAAS), Member, Mycological Society of America & North American Mycological Association'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '"Our old growth forests are undervalued – we should not be deceived that short term gains in selling lumber accurately reflects the value of the intact biodiversity resident within these ancient stands. In particular, varieties of Agarikon (Fomitopsis officinalis aka Laricifomes officinalis) are now known to have potent antiviral properties. But not all of them. We are still deep in investigating the anti-flu, anti-herpes, and anti-pox viral properties of this mushroom, which many mycologists describe as the longest living, if not the longest living mushroom in Western North America. Without these old growth forests, this mushroom species is absent. I strongly urge that old growth forest reserves hosting these rare mushrooms be spared --- or at least considered -- for their contributions to future medicine. Once we lose these libraries, we may lose remedies for protecting ourselves from pandemics, which most scientists agree, will be coming with increasing frequency and severity. Our old growth forests are critical, in my opinion, for our national defense."'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Protect Elwha Watershed Forests'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Read more about the local community leaders’ advocacy at https://elwhalegacyforests.org/'
+link: 'https://www.earthlawcenter.org/elwha-legacy-forests'
 challenges:
   - climate
 partner: earth-law-center
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709958351
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1710009620
 collection_type: partner-story
 ---

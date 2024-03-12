@@ -1,7 +1,7 @@
 ---
 id: 33d5bca9-594d-474a-a22f-acca11802672
 blueprint: partner_story
-title: "Save Mt. Kenya's forests."
+title: "TreeSisters saves Mt. Kenya's forests."
 date: '2024-02-20'
 image: acc23d_46b148a2371141d9a34989d9c2be0dbf~mv2.jpg.webp
 description:
@@ -21,7 +21,7 @@ link: 'https://www.treesisters.org/projects/kenya'
 challenges:
   - climate
 partner: treesisters
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709958381
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1710005442
 collection_type: partner-story
 ---

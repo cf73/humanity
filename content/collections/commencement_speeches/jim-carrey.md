@@ -22,7 +22,7 @@ url: 'https://www.youtube.com/watch?v=V80-gPkpH6M&t=1s'
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709494320
+updated_at: 1710205557
 transcript:
   -
     type: paragraph
@@ -464,4 +464,9 @@ transcript:
         text: "Thank you. Jai Guru Dev. I’m so honored. Thank\_you."
 speaker: 'Jim Carrey'
 image: jimcarrey.jpg
+related_partner_initiatives:
+  - 8e78665e-26d1-400e-8f6f-2391b9bfec84
+related_content:
+  - 582161a7-ea07-4374-abac-40154bb36abe
+  - cc16a060-6b0e-4fb8-86e6-82941952e7eb
 ---
