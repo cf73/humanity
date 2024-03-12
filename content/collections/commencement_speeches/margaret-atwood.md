@@ -16,6 +16,12 @@ description:
           -
             type: italic
         text: 'Ms Atwood (born November 18, 1939) is a Canadian poet, novelist, literary critic, essayist, and environmental activist. She is among the most-honored authors of fiction in recent history.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'https://www.youtube.com/watch?v=ajtD01iFiaY'
 transcript:
   -
     type: paragraph
@@ -169,7 +175,12 @@ transcript:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709495350
+updated_at: 1710203839
 speaker: 'Margaret Atwood'
 image: image-1709495339.jpeg
+video_id: 'https://www.youtube.com/watch?v=ajtD01iFiaY'
+related_partner_initiatives:
+  - 8e78665e-26d1-400e-8f6f-2391b9bfec84
+related_content:
+  - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
 ---
