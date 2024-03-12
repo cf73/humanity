@@ -213,8 +213,8 @@ transcript:
         text: 'Thank you all very much.'
 challenges:
   - democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709493693
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1710267092
 description:
   -
     type: paragraph
@@ -224,4 +224,14 @@ description:
         text: '"You can’t connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life."'
 speaker: 'Steve Jobs'
 image: stevejobs.jpg
+date_of_speech: '2005-06-12'
+video_id: 'UF8uR6Z6KLc?si=bUquGEufO22SB7OI'
+related_partner_initiatives:
+  - 8e78665e-26d1-400e-8f6f-2391b9bfec84
+  - 5b08c208-5356-4878-b3be-a9b91e1f383c
+  - 3bf463d5-6e92-4bf8-abe9-bc1148c3a4e1
+related_content:
+  - 6d28b288-2ed8-4983-a206-c1a19b3c1219
+  - 582161a7-ea07-4374-abac-40154bb36abe
+  - a27d7f2c-bd60-4e6e-874c-5a971fb2d9e3
 ---

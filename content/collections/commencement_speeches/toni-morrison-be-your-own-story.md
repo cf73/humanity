@@ -121,18 +121,20 @@ challenges:
   - war
   - democracy
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709959071
+updated_at: 1710267618
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'See description in first two paragraphs before transcript begins, below.'
+        text: 'In many ways, Toni Morrison gives the anti-address. Not only does she dispense with the clichés and platitudes we hear in 98% of commencement addresses, but she tells us why they are entirely inappropriate for the occasion. The future is not yours; the past is ever-changing; if you need someone else to tell you what to do about the catastrophe of the present, then this education was in vain; these are not the best years of your life.'
 speaker: 'Toni Morrison'
 image: tonimorrison.png
 related_partner_initiatives:
   - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
 related_content:
   - 360862f3-318f-4ecc-804e-8baf0d2558cd
+date_of_speech: '2004-05-28'
+video_id: 'wVFRjT-Jfec?si=H_hbcv9Ljuguw5Hj'
 ---
