@@ -173,7 +173,7 @@ transcript:
         type: text
         text: "\_You are graduating to the most amazing, stupefying challenge ever bequeathed to any generation. The generations before you failed. They didn’t stay up all night. They got distracted and lost sight of the fact that life is a miracle every moment of your existence. Nature beckons you to be on her side. You couldn’t ask for a better boss. The most unrealistic person in the world is the cynic, not the dreamer. Hope only makes"
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709650760
+updated_at: 1710205654
 description:
   -
     type: paragraph
@@ -186,4 +186,9 @@ image: clip_image001.gif
 challenges:
   - climate
   - war
+related_partner_initiatives:
+  - 8e78665e-26d1-400e-8f6f-2391b9bfec84
+related_content:
+  - 6dce87aa-d0d3-4ceb-b19a-3a59322fa98e
+  - 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
 ---
