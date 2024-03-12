@@ -448,8 +448,8 @@ transcript:
 challenges:
   - war
   - democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710205419
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1710267225
 speaker: 'Michelle Obama'
 image: maxresdefault-(1).jpg
 related_partner_initiatives:
@@ -457,4 +457,6 @@ related_partner_initiatives:
 related_content:
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
   - 48a426ae-af93-404f-816c-29b3e34f8048
+date_of_speech: '2015-05-12'
+video_id: 'JACTrIRjGos?si=8mt0TJ2ZgGnsyGu7'
 ---

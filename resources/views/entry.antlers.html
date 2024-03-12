@@ -1,4 +1,4 @@
-<div class="container mx-auto relative z-10 space-y-16">
+<div class="container mx-auto mt-32 relative z-10 space-y-16">
     <section>
         {{ if blueprint | contains('talk') }}
         <div class="container mx-auto flex flex-col items-center space-y-8">
@@ -54,6 +54,11 @@
             <img src="{{image}}" alt="{{title}}" class="w-full">
             {{/if}}
             <div class="prose">{{description}}</div>
+            <div class="bg-warmwhite p-32 pt-16 w-2/3 mx-auto">
+                <div class="prose">{{transcript}}</div>
+            </div>
+
+            {{partial:exploreMore}}
         </div>
         
         {{else}}
