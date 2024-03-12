@@ -12,7 +12,46 @@ description:
     content:
       -
         type: text
-        text: 'American columist, author, humorist, and political satirist who addresses a wide range of social and political matters in a good natured and humorous manner, Mr Baker won the Pulitzer Prize for commentary in 1979 and again in 1983 for his autobiography.'
+        text: 'An American columnist, author, humorist, and political satirist who addressed a wide range of social and political matters in a good natured and humorous manner, Russell Baker won the Pulitzer Prize for commentary in 1979 and again in 1983 for his autobiography '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Growing Up'
+      -
+        type: text
+        text: '. He hosted '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Masterpiece Theatre'
+      -
+        type: text
+        text: ' for 12 years'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Forbes Media Guide '
+      -
+        type: text
+        text: 'stated: "'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Russell Baker, thanks to his singular gift of treating serious, even tragic events and trends with gentle humor, has become an American institution."'
 transcript:
   -
     type: paragraph
@@ -316,8 +355,13 @@ transcript:
         text: "\_"
 challenges:
   - democracy
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709495761
-speaker: 'Russell Baker'
+updated_at: 1710204402
+speaker: 'Russell Baker  (1925 - 2019)'
 image: image-asset.jpeg
+related_partner_initiatives:
+  - cfecebb5-ee73-41df-ad4c-184602dfe751
+related_content:
+  - 582161a7-ea07-4374-abac-40154bb36abe
 ---
