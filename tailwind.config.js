@@ -18,7 +18,10 @@ export default {
         },
         extend: {
             colors: {
-                'highlighter': '#ffffa0',
+                'highlighter': '#f3f239',
+                'warmwhite': '#fffff4',
+                'algae': '#f8f9eb',
+                'darkpink': 'rgb(168 145 161 / 90%)',
                 'khaki': '#AEC769',
                 'softblack': '#373737',
                 'forest': '#06977D',

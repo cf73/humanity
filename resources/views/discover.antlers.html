@@ -43,7 +43,7 @@
                     Sorry, no results.
                 </div>
             {{ else }}
-                <div class="grid grid-cols-4 gap-6">
+                <div class="grid grid-cols-3 gap-6">
                     {{ results | shuffle }}
                         <a href="{{url}}">{{ partial:card }}</a>
                     {{ /results }}
