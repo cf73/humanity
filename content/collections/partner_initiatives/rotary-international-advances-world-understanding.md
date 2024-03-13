@@ -1,7 +1,7 @@
 ---
 id: e418c09e-390d-4f38-987d-3a3731bb70b5
 blueprint: partner_initiative
-title: 'Rotary International advances world understanding.'
+title: 'Rotary International advances world understanding through community action.'
 description:
   -
     type: paragraph
@@ -46,5 +46,5 @@ challenges:
   - war
 partner: rotary-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710367284
+updated_at: 1710367312
 ---
