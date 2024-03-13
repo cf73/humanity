@@ -47,12 +47,6 @@ description:
     content:
       -
         type: text
-        text: 'Who is Amnesty International?'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: "Amnesty International is a\_"
       -
         type: text
@@ -113,5 +107,5 @@ challenges:
   - war
 partner: amnesty-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709945146
+updated_at: 1710365036
 ---
