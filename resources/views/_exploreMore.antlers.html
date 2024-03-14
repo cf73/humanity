@@ -1,13 +1,13 @@
 <div class="py-16 space-y-8">
     <div class="text-3xl text-center">Explore more {{collection_type:title}}...</div>
     <div class="grid grid-cols-2 gap-16 space-between">
-        <div class="flex flex-col space-y-4">
+        <div class="flex flex-col items-center space-y-4">
             <div>Previous:</div>
             {{ collection:previous in="{{collection_type}}" limit="1" sort="date:asc" }}
                 <a href="{{url}}">{{partial:card}}</a>
             {{/collection:previous}}
         </div>
-        <div class="flex flex-col space-y-4">
+        <div class="flex flex-col items-center space-y-4">
             <div>Up next:</div>
             {{ collection:next in="{{collection_type}}" limit="1" sort="date:asc" }}
                 <a href="{{url}}">{{partial:card}}</a>
