@@ -1,12 +1,19 @@
 <header class="w-full h-20 fixed top-0 z-50 bg-darkpink backdrop-blur">
-    <div class="container h-full mx-auto flex flex-row items-center justify-between h-16">
-        <a href="/"><img src="/assets/humanity-logo.png" width="205.5px" alt="Humanity Logo"></a>
-        <nav class="space-x-8 text-white font-bold">
-            {{nav}}
+    <div class="container h-full mx-auto items-center grid grid-cols-3 h-16">
+        <nav class="space-x-8 text-white text-xl font-sans">
+            {{ nav:left_nav }}
                 <a href="{{url}}">
-                    {{title}}
+                    {{title | lower}}
                 </a>
-            {{/nav}}
+            {{/nav:left_nav}}
+        </nav>
+        <a href="/" class="mx-auto"><img src="/assets/humanity-logo.png" width="205.5px" alt="Humanity Logo"></a>
+        <nav class="space-x-8 text-white text-right text-xl font-sans">
+            {{ nav:right_nav }}
+                <a href="{{url}}">
+                    {{title | lower}}
+                </a>
+            {{/nav:right_nav}}
         </nav>
     </div>
 </header>
