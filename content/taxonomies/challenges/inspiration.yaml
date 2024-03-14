@@ -1,0 +1,12 @@
+title: Inspiration
+main_image: first-h-cover-jpeg.jpeg
+intro_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Text introducing the arts and inspiration section'
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1710394549
+blueprint: challenge
