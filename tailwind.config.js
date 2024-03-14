@@ -20,7 +20,7 @@ export default {
             colors: {
                 'highlighter': '#f3f239',
                 'warmwhite': '#fffff4',
-                'algae': '#f8f9eb',
+                'algae': '#f8f4ec',
                 'darkpink': 'rgb(168 145 161 / 90%)',
                 'khaki': '#AEC769',
                 'softblack': '#373737',

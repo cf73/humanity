@@ -12,10 +12,12 @@ description:
         type: text
         text: 'Let the wild rumpus begin indeed!'
 challenges:
-  - war
-  - climate
-  - democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708995578
+  - kids
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1710396712
 collection_type: book
+related_partner_initiatives:
+  - 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
+related_content:
+  - b4176ab7-67b2-40c2-b5e0-37c995d46176
 ---

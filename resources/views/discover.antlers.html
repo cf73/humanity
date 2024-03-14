@@ -1,15 +1,13 @@
-<div class="container mx-auto mb-32">
-    <h1>Discover</h1>
+<div class="container mx-auto pt-64 mb-32">
     {{intro}}
 </div>
 
 <div class="container mx-auto grid grid-cols-5 gap-4">
     <div class="col-span-1">
-        <h3>Filters</h3>
         <form action="/discover" method="get">
             <div class="uppercase tracking-wider mt-4">Themes</div>
             {{taxonomy:challenges}}
-                <label>
+                <label class="font-serif text-xs">
                     <input class="rounded"
                         type="checkbox"
                         name="categories[]"
@@ -20,7 +18,7 @@
             {{/taxonomy:challenges}}
             <div class="uppercase tracking-wider mt-4">Content Type</div>
             {{taxonomy:collection_type}}
-                <label>
+                <label class="font-serif text-xs">
                     <input class="rounded"
                         type="checkbox"
                         name="collectiontype[]"
@@ -29,7 +27,7 @@
                     {{ title }}<br>
                 </label>
             {{/taxonomy:collection_type}}
-            <button type="submit" class="bg-black mt-4">Submit</button>
+            <button type="submit" class="mt-4">Submit</button>
         </form>
         
     </div>
@@ -43,9 +41,9 @@
                     Sorry, no results.
                 </div>
             {{ else }}
-                <div class="grid grid-cols-3 gap-6">
+                <div class="grid grid-cols-3 gap-16">
                     {{ results | shuffle }}
-                        <a href="{{url}}">{{ partial:card }}</a>
+                        {{ partial:card }}
                     {{ /results }}
                 </div>
             {{ /if }}

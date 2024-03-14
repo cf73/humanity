@@ -1,15 +1,19 @@
-<div class="flex flex-col bg-warmwhite drop-shadow-md rounded h-full overflow-hidden pb-2">
-    <div class="w-full h-80 mb-8 bg-cover bg-no-repeat bg-center bg-gray-100 flex p-2 items-end" style="background-image: url({{image}});">
-        <div class="flex flex-row flex-wrap">
-            {{challenges}}
-                {{partial:tag label="{{title}}"}}
-            {{/challenges}}
-            {{partial:tag label="{{collection:title | upper}}"}}
-        </div>
+<div class="flex flex-col rounded h-full overflow-hidden pb-2">
+    <div class="w-full h-80 mb-2 bg-contain bg-no-repeat bg-bottom flex p-2 items-end" style="background-image: url({{image}});">
+        
     </div>
-    <div class="py-0 px-8 pb-4 flex flex-col space-y-0">
-        <div class="mb-4 font-bold leading-tight text-xl">{{title}}</div>
-        <div>{{speaker}}</div>
+    <div class="flex flex-row flex-wrap justify-center mb-4">
+        {{challenges}}
+            <a href="/discover?categories%5B%5D={{slug}}">{{partial:tag label="{{title}}"}}</a> <span class="text-serif text-xs relative top-1.5">|</span>
+        {{/challenges}}
+         <a href="/discover?collectiontype%5B%5D={{collection_type:slug}}">{{partial:tag label="{{collection:title}}"}}</a>
+    </div>
+    <div class="py-0 px-8 pb-4 flex flex-col text-center items-center space-y-0">
+        <div class="font-sans leading-tighter text-3xl">{{title}}</div>
+        {{if speaker}}
+            {{speaker}}
+        {{/if}}
         <!-- <div class="font-serif leading-6 text-base">{{ description }}</div> -->
     </div>
+    <a href="{{url}}" class="mx-auto"><button>Read more</button></a>
 </div>
