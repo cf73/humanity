@@ -11,13 +11,22 @@ description:
     content:
       -
         type: text
-        text: 'Drawing on decades of research and a wide range of historical and global examples, from 1930s Europe to contemporary Hungary, Turkey, and Venezuela, to the American South during Jim Crow, Levitsky and Ziblatt show how democracies die--and how ours can be saved.'
+        text: 'Drawing on decades of research and a wide range of historical and global examples, from 1930s Europe to contemporary Hungary, Turkey, and Venezuela, to the American South during Jim Crow, Levitsky and Ziblatt show how democracies die -- and how ours can be saved.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'In 2021, The Economist described it as arguably the most important book of the Trump era.'
+        text: 'In 2021, '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Economist'
+      -
+        type: text
+        text: ' described it as arguably the most important book of the Trump era.'
 collection_type: book
 challenges:
   - democracy
@@ -26,5 +35,5 @@ related_partner_initiatives:
 related_content:
   - a92555a1-da6e-4db9-9054-ca26749a9664
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710454351
+updated_at: 1710454411
 ---
