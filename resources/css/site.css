@@ -84,6 +84,11 @@ button {
     align-self: flex-start;
     margin-bottom: 1rem;
 }
+
+.container {
+    padding: 0 2em;
+}
+
 swiper-container {
     width: 100%;
     height: 100%;
