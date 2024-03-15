@@ -14,7 +14,7 @@ description:
         type: text
         text: 'Lake Abiquiu, New Mexico  2008'
 challenges:
-  - war
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707926611
+  - inspiration
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1710481185
 ---
