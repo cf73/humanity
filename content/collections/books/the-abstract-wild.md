@@ -1,7 +1,7 @@
 ---
 id: b6024468-0b3f-4752-9de3-f5141560c0f6
 blueprint: book
-title: 'The Abstract Wild'
+title: 'The Abstract Wild  (1996)'
 author: 'Jack Turner'
 image: 61unfkryovl._sl1000_.jpg
 link: 'https://www.amazon.com/gp/product/0816516995/ref=as_li_tf_tl?ie=UTF8&tag=jainthwo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0816516995'
@@ -49,5 +49,5 @@ related_partner_initiatives:
 related_content:
   - abe90cd8-e74f-48d1-95cb-1c141bf6adb3
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710633979
+updated_at: 1710634016
 ---
