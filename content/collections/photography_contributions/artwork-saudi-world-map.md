@@ -18,9 +18,15 @@ description:
           -
             type: italic
         text: Sauti/voice.
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'https://www.sautifilm.org'
 collection_type: photography-contribution
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710721706
+updated_at: 1710721862
 ---
