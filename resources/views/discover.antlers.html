@@ -2,80 +2,72 @@
     {{intro}}
 </div>
 
+<button id="filtersbutton">
+    FILTERS
+</button>
 
-    <div id="dropdown-wrapper" class="inline-block">
-      <button onclick="toggleMenu()" class="px-10 py-3">
-        Themes
-      </button>
-      <div id="menu" class="hidden flex flex-col bg-white drop-shadow-md">
-        <form action="/discover" method="get">
-            <div class="uppercase tracking-wider px-5 py-3 mt-4">Themes</div>
-            {{taxonomy:challenges}}
-                <label class="px-5 py-3 block">
-                    <input class="rounded"
-                        type="checkbox"
-                        name="categories[]"
-                        value="{{ slug }}"
-                        {{ (get:categories | contains(slug)) ?= 'checked' }}>
-                    <a class="pr-8 pl-2 py-3" href="#">{{ title }}</a>
-                </label>
-            {{/taxonomy:challenges}}
-            <button type="submit" class="mt-4">Submit</button>
-        </form>
-      </div>
-    </div>
-
-    <div id="dropdown-wrapper" class="inline-block">
-        <button onclick="toggleMenu()" class="px-10 py-3">
-          Themes
-        </button>
-        <div id="menu" class="hidden flex flex-col bg-white drop-shadow-md">
-          <form action="/discover" method="get">
-              <div class="uppercase tracking-wider px-5 py-3 mt-4">Themes</div>
-              {{taxonomy:challenges}}
-                  <label class="px-5 py-3 block">
-                      <input class="rounded"
-                          type="checkbox"
-                          name="categories[]"
-                          value="{{ slug }}"
-                          {{ (get:categories | contains(slug)) ?= 'checked' }}>
-                      <a class="pr-8 pl-2 py-3" href="#">{{ title }}</a>
-                  </label>
-              {{/taxonomy:challenges}}
-              <button type="submit" class="mt-4">Submit</button>
-          </form>
+<div id="filters" style="background-color: rgba(232, 104, 7, 0.84);" class="container mx-auto h-[0vh] w-full overflow-hidden backdrop-blur fixed z-50 top-20 left-0">
+    <form action="/discover" method="get">
+        <div class="grid grid-cols-12">
+            <div class="col-span-3">
+                <div class="uppercase tracking-widest px-5 py-3 mt-4 text-white">Themes</div>
+                {{taxonomy:challenges}}
+                    <label class="px-5 py-3 block text-4xl font-thin text-white">
+                        <input class="rounded"
+                            type="checkbox"
+                            name="categories[]"
+                            value="{{ slug }}"
+                            {{ (get:categories | contains(slug)) ?= 'checked' }}>
+                        <a class="pr-8 pl-2 py-3" href="#">{{ title }}</a>
+                    </label>
+                {{/taxonomy:challenges}}
+            </div>
+            <div class="col-span-7">
+                <div class="uppercase tracking-widest px-5 py-3 mt-4 text-white">Content Type</div>
+                {{taxonomy:collection_type}}
+                    <label class="px-5 py-3 block text-4xl font-thin text-white">
+                        <input class="rounded"
+                            type="checkbox"
+                            name="collectiontype[]"
+                            value="{{ slug }}"
+                            {{ (get:collectiontype | contains(slug)) ?= 'checked' }}>
+                        <a class="pr-8 pl-2 py-3" href="#">{{ title }}</a>
+                    </label>
+                {{/taxonomy:collection_type}}
+            </div>
+            <div class="col-span-2">
+                <button type="submit" class="mt-4">Submit</button>
+                <button id="closefiltersbutton">Cancel</button>
+            </div>
         </div>
-      </div>
-  
-    <!-- Javascript code -->
-    <script>
-      var menu = document.getElementById("menu");
-  
-      // Open/close the menu when the user clicks on the button
-      function toggleMenu() {
-        if (menu.classList.contains("hidden")) {
-          menu.classList.remove("hidden");
-        } else {
-          menu.classList.add("hidden");
-        }
-      }
-  
-      // Close the menu when the user clicks outside of it
-      window.onclick = function (event) {
-        var dropdownWrapper = document.getElementById("dropdown-wrapper");
-        if (!dropdownWrapper.contains(event.target) && !menu.classList.contains("hidden")) {
-          menu.classList.add("hidden");
-        }
-      };
-    </script>
+        
+    </form>
+</div>
 
-  
+   <script>
+        $("#filtersbutton").on("click",function(){
+            gsap.to("#filters", {
+                height: "100vh",
+            });
+        });
+        $("#closefiltersbutton").on("click",function(){
+            gsap.to("#filters", {
+                height: "0vh",
+            });
+        });
+   </script>
 
 <div class="container mx-auto grid grid-cols-5 gap-4">
+    <style>
+        /* Hide inactive checkboxes */
+        input[type="checkbox"]:not(:checked) {
+            display: none;
+        }
+    </style>
     <div class="col-span-1">
         <form action="/discover" method="get">
             <div class="uppercase tracking-wider mt-4">Themes</div>
-            {{taxonomy:challenges}}
+            {{taxonomy:challenges :categories:contains="{{(get:categories | contains(slug))}}"}}
                 <label class="font-serif text-xs">
                     <input class="rounded"
                         type="checkbox"
