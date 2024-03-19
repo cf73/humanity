@@ -10,3 +10,5 @@ preferences:
       after_save: create_another
     photography_contributions:
       after_save: continue_editing
+    partner_initiatives:
+      per_page: 25
