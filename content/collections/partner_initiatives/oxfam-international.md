@@ -1,7 +1,7 @@
 ---
 id: 4e493203-61b5-4ca2-8ac9-0814e584fff4
 blueprint: partner_initiative
-title: 'Oxfam International'
+title: 'Oxfam International: ''We see a future that is equal."'
 description:
   -
     type: paragraph
@@ -114,5 +114,5 @@ challenges:
   - inspiration
 partner: oxfam-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710861150
+updated_at: 1710861240
 ---
