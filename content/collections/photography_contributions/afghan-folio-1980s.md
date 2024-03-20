@@ -1,20 +1,20 @@
 ---
-id: d04d86ab-57cf-48ff-b23d-7136a25fec97
+id: febbe503-e66f-4e77-ab5c-5077e60a7544
 blueprint: photography_contribution
-title: "Afghanistan 1980's"
+title: "Afghan Folio, 1980's"
 photographer_name: 'Luke Powell'
 photographer_website: unknown
-image: luke-powell-afghan....jpeg.webp
+image: luke-1710772762.jpeg
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: Afghanistan
-challenges:
-  - war
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710772557
+        text: 'Luke Powell'
 collection_type: photography-contribution
+challenges:
+  - climate
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1710772786
 ---
