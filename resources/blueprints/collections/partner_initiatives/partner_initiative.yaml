@@ -13,6 +13,55 @@ tabs:
               validate:
                 - required
           -
+            handle: image
+            field:
+              max_files: 1
+              mode: list
+              container: assets
+              restrict: false
+              allow_uploads: true
+              show_filename: true
+              show_set_alt: true
+              type: assets
+              display: Image
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+              instructions: "NOTE: this is NOT the Partner's logo. It should be something related to the impact of the initiative, e.g. photographic depiction of the real-world."
+          -
+            handle: summary
+            field:
+              character_limit: '300'
+              antlers: false
+              type: textarea
+              display: Summary
+              instructions: 'A short summary of what this initiative does.'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: call_to_action
+            field:
+              input_type: text
+              character_limit: 50
+              antlers: false
+              type: text
+              display: 'Call to action'
+              instructions: "This text appears in the button a visitor will click to act on this initiative (for the moment, it will simply link to the partner's website, but in future may be where we direct a visitor to a donate form)."
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
             handle: description
             field:
               buttons:
@@ -47,26 +96,6 @@ tabs:
               hide_display: false
               validate:
                 - required
-          -
-            handle: image
-            field:
-              max_files: 1
-              mode: list
-              container: assets
-              restrict: false
-              allow_uploads: true
-              show_filename: true
-              show_set_alt: true
-              type: assets
-              display: Image
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
-              validate:
-                - required
-              instructions: "NOTE: this is NOT the Partner's logo. It should be something related to the impact of the initiative, e.g. photographic depiction of the real-world."
   sidebar:
     display: Sidebar
     sections:
