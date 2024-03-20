@@ -11,8 +11,17 @@ introduction_to_challenges:
         type: text
         text: 'Intro to all the challenges we face here'
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1710394371
+updated_at: 1710966403
 filters:
   - articles
   - talks
+intro_images:
+  - salt-harvesting-3060093__480.jpg
+introduction_to_themes:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Blurb here about these themes, with what to expect etc.'
 ---

@@ -5,7 +5,7 @@ template: challenge
 title: Climate
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1710201198
+updated_at: 1710968649
 section_builder:
   -
     id: lsp0g8kq
@@ -28,6 +28,6 @@ section_builder:
             text: 'Tony text on why this is so critical and empowering…'
     type: interstitial_text
     enabled: true
-intro_movie: windmill.mp4
+intro_movie: act-fast-intxt2-new.jpg
 challenge_intro_text: 'Climate intro text here, flowery or otherwise...'
 ---

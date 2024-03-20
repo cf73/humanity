@@ -50,6 +50,8 @@ image: image-1709686935.png
 challenges:
   - climate
 partner: bangladesh-rural-advancement-committee
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710617029
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1710970114
+summary: 'Inequality and poverty are complex challenges that must be attacked from multiple fronts to systemically eradicate them: combining social development, humanitarian response, social enterprise, social investments and a university. Improving the lives of women and girls is the focus of BRAC’s work.'
+call_to_action: 'Specific action text here'
 ---
