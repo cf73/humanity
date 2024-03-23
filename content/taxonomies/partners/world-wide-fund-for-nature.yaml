@@ -1,8 +1,8 @@
-title: '*** World Wildlife Fund  (1961)'
+title: 'World Wildlife Fund  (1961)'
 logo: logo.png
 website: 'https://www.panda.org'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710000543
+updated_at: 1711237748
 blueprint: partner
 description: |-
   WWF mission statement:
@@ -14,8 +14,11 @@ description: |-
   "We celebrate and respect diversity in nature and among the people, partners, and communities with whom we work. Across the many cultures and individuals that represent WWF, we are unified by one mission, one brand, and one common set of values:
 
       "Courage: We demonstrate courage through our actions, we work for change where it's needed, and we inspire people and institutions to tackle the greatest threats to nature and the future of the planet, which is our home.
+
       "Integrity: We live the principles we call on others to meet. We act with integrity, accountability and transparency, and we rely on facts and science to guide us and to ensure we learn and evolve.
+
       "Respect: We honor the voices and knowledge of the people and communities that we serve, and we work to secure their rights to a sustainable future.
+
       "Collaboration: We deliver impact at the scale of the challenges we face through the power of collective action and innovation."
 
   Active in nearly 100 countries
