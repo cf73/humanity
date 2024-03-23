@@ -1,26 +1,23 @@
-//introduce the hero text
+//introduce the main image and hero text
 var tl = gsap.timeline({});
 
-gsap.to('#hero-area',{
-    duration: 5, opacity: 1,
+tl.to('#hero-area',{
+    duration: 2, opacity: 1,
 });
 tl.to('#counting',{
-    duration: 5, delay: 2, opacity: 1,
+    duration: 1, delay: 0, opacity: 1,
 },
 );
-gsap.to('#itstime',{
-    duration: 5, opacity: 1,
+tl.to('#itstime',{
+    duration: 3, delay: 3, opacity: 1,
 },
-    "-=2.75"
+    "-=1.75"
 );
-// tl.from('header',{
-//     duration: 3.5, opacity: 0,
-// },
-// );
-// tl.from('#initiatives',{
-//     duration: 3.5, opacity: 0,
-// },
-// );
+gsap.to('#ribbon',{
+    duration: 1, top: 0,
+},
+    "-=.75"
+);
 
 //fade out the hero text on scroll
 gsap.to('#herotext', {
@@ -32,6 +29,7 @@ gsap.to('#herotext', {
     scrub: false,
     // markers: true,
     },
+    duration: 3,
     opacity: 0
 });
 gsap.to('#earth', {
@@ -43,31 +41,33 @@ gsap.to('#earth', {
     scrub: false,
     // markers: true,
     },
+    duration: 2,
     opacity: 0.3
 });
-gsap.to('#initiatives', {
+
+// fade up intro text
+gsap.to('#intro', {
     scrollTrigger: {
-    trigger: "#invisibleScrollController",
-    start: "top -40%",
-    end: "bottom -50%",
-    toggleActions: "restart reset reverse reset",
+    trigger: "#intro",
+    start: "top bottom",
+    end: "bottom top",
     scrub: false,
     // markers: true,
     },
+    duration: 4,
     opacity: 1
 });
-gsap.to('#initiatives', {
-    scrollTrigger: {
-    trigger: "#invisibleScrollController",
-    start: "bottom -10%",
-    end: "bottom -20%",
-    toggleActions: "restart reset reverse reset",
-    scrub: false,
-    // markers: true,
-    },
-    opacity: 0
-});
 
+//fade in the themes text
+gsap.to('.themetext', {
+    scrollTrigger: {
+        trigger: ".themetext",
+        start: "top center",
+        scrub: false,
+    },
+    duration: 4,
+    opacity: 1
+});
 
 // //pin and unpin the donateBanner
 // gsap.to("#donateBanner", {
