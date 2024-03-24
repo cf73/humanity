@@ -9,19 +9,18 @@
     z-index: 0;"></video> -->
     <div id="earth" data-speed="0.5" style="background-image: url('{{hero_images | random}}');"
     class="bg-no-repeat bg-center bg-cover h-screen w-full absolute top-0 left-0 opacity-1"
-    ></div>
-    <div id="herotext" class="flex flex-col items-center mt-20 space-y-16 relative z-10 w-full text-center">
-        <h2 id="counting" class="absolute text-white opacity-0">2024 and counting.</h2>
-        <h1 id="itstime" class="absolute text-white w-2/3 opacity-0">It's time to rescue our humanity</h1>
+    ><div id="dimmer" class="bg-gradient-to-t from-black to-transparent h-[60vh] absolute z-0 bottom-0 w-full"></div>
+</div>
+    <div id="herotext" class="flex flex-col items-center top-[30vh] space-y-16 relative z-10 w-full text-center space-y-4">
+        <div id="counting" class="text-warmwhite text-5xl font-sans uppercase tracking-wider opacity-0">2024 and counting</div>
+        <div id="itstime" class="text-green text-5xl font-sans uppercase tracking-wider w-2/3 opacity-0">It's time to rescue our humanity</div>
     </div>
 </div>
 
 
-<section id="intro" data-speed="" class="h-[100vh] w-4/12 mx-auto flex flex-col items-center text-center prose opacity-0">
-    {{intro}}
-</section>
-
-
+<section id="intro" class="w-full py-[25vh] bg-warmwhite relative z-10 flex flex-col items-center">
+    <div id="introprose" class="w-2/3 font-sans text-softblack text-3xl leading-normal text-center opacity-0" data-speed="1.25">{{intro}}</div>
+</section>  
 
 <section id="themes" class="text-white pb-32">
     {{nav from="themes"}}

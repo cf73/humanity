@@ -13,20 +13,16 @@ tl.to('#itstime',{
 },
     "-=1.75"
 );
-gsap.to('#ribbon',{
-    duration: 1, top: 0,
-},
-    "-=.75"
-);
+
 
 //fade out the hero text on scroll
 gsap.to('#herotext', {
     scrollTrigger: {
-    trigger: "#invisibleScrollController",
-    start: "top top",
-    end: "bottom top",
+    trigger: "#intro",
+    start: "top bottom",
+    end: "top center",
     toggleActions: "restart none reverse reset",
-    scrub: false,
+    scrub: true,
     // markers: true,
     },
     duration: 3,
@@ -38,7 +34,7 @@ gsap.to('#earth', {
     start: "top top",
     end: "bottom top",
     toggleActions: "restart none reverse reset",
-    scrub: false,
+    scrub: true,
     // markers: true,
     },
     duration: 2,
@@ -46,15 +42,14 @@ gsap.to('#earth', {
 });
 
 // fade up intro text
-gsap.to('#intro', {
+gsap.to('#introprose', {
     scrollTrigger: {
     trigger: "#intro",
-    start: "top bottom",
-    end: "bottom top",
-    scrub: false,
+    start: "150",
+    scrub: true,
     // markers: true,
     },
-    duration: 4,
+    duration: 2,
     opacity: 1
 });
 
