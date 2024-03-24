@@ -1,7 +1,7 @@
 ---
 id: 95201ba0-5657-4f50-a730-29f779b608bb
 blueprint: book
-title: '*** On Tyranny: Twenty Lessons from the Twentieth Century (2017)'
+title: 'On Tyranny: Twenty Lessons from the Twentieth Century (2017)'
 author: 'Timothy Snyder'
 image: image-1708992781.jpeg
 collection_type: book
@@ -87,5 +87,9 @@ description:
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709323042
+updated_at: 1711238895
+related_partner_initiatives:
+  - 61653f39-a1f2-4949-9a50-e72537bfc211
+related_content:
+  - fab94cb3-0c49-48a3-af62-e8ea16f88bc3
 ---
