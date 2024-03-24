@@ -1,7 +1,7 @@
 ---
 id: 239a38c6-1348-452c-b8d1-8136b4dd3c89
 blueprint: book
-title: '*** The Overstory  (2018)'
+title: 'The Overstory  (2018)'
 author: 'Richard Powers'
 image: image-1707920555.jpeg
 description:
@@ -81,8 +81,8 @@ description:
         text: (continued)
 challenges:
   - climate
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709761726
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1711239671
 related_partner_initiatives:
   - 5b08c208-5356-4878-b3be-a9b91e1f383c
 related_content:
