@@ -1,7 +1,7 @@
 ---
 id: a27d7f2c-bd60-4e6e-874c-5a971fb2d9e3
 blueprint: book
-title: '*** The Odyssey (8th century BCE)'
+title: 'The Odyssey (8th century BCE)'
 author: 'Homer, translated by Emily Wilson (2017)'
 image: image-1709513520.png
 description:
@@ -37,5 +37,10 @@ challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709513993
+updated_at: 1711239655
+collection_type: book
+related_partner_initiatives:
+  - 86161e36-7285-41a6-ba67-5a5f928fb1d1
+related_content:
+  - 360862f3-318f-4ecc-804e-8baf0d2558cd
 ---
