@@ -1,14 +1,14 @@
 ---
 id: 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
 blueprint: partner_initiative
-title: "International Rescue Committee invites your help with the world's top ten crises."
+title: "International Rescue Committee forecasts the world's top ten crises."
 collection_type: partner-initiative
 image: 20170503_khtet_myanmar_0031-hero-3.jpg
 challenges:
   - war
 partner: international-rescue-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711384842
+updated_at: 1711385949
 description:
   -
     type: paragraph
