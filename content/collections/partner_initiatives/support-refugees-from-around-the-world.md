@@ -8,8 +8,28 @@ challenges:
   - war
 partner: international-rescue-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711384585
+updated_at: 1711384842
 description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://help.rescue.org/donate?ms=ws_watchlist_fy24_eoy_mmus_dec&initialms=ws_watchlist_fy24_eoy_mmus_dec&_gl=1'
+              rel: null
+              target: null
+              title: null
+        text: 'https://help.rescue.org/donate?ms=ws_watchlist_fy24_eoy_mmus_dec&initialms=ws_watchlist_fy24_eoy_mmus_dec&_gl=1'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '------'
   -
     type: paragraph
     content:
