@@ -10,14 +10,14 @@ description:
     content:
       -
         type: text
-        text: 'Let the wild rumpus begin indeed!'
+        text: 'Max, a wild and naughty boy, is sent to bed without his supper by his exhausted mother. In his room, he imagines sailing far away to a land of Wild Things. Instead of eating him, the Wild Things make Max their king.'
 challenges:
   - kids
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711239971
+updated_at: 1711399837
 collection_type: book
 related_partner_initiatives:
-  - 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
+  - 61653f39-a1f2-4949-9a50-e72537bfc211
 related_content:
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
 ---
