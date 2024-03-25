@@ -1,37 +1,31 @@
-//introduce the hero text
+//introduce the main image and hero text
 var tl = gsap.timeline({});
 
-gsap.to('#hero-area',{
-    duration: 5, opacity: 1,
+tl.to('#hero-area',{
+    duration: 2, opacity: 1,
 });
 tl.to('#counting',{
-    duration: 5, delay: 2, opacity: 1,
+    duration: 1, delay: 0, opacity: 1,
 },
 );
-gsap.to('#itstime',{
-    duration: 5, opacity: 1,
+tl.to('#itstime',{
+    duration: 3, delay: 3, opacity: 1,
 },
-    "-=2.75"
+    "-=1.75"
 );
-// tl.from('header',{
-//     duration: 3.5, opacity: 0,
-// },
-// );
-// tl.from('#initiatives',{
-//     duration: 3.5, opacity: 0,
-// },
-// );
+
 
 //fade out the hero text on scroll
 gsap.to('#herotext', {
     scrollTrigger: {
-    trigger: "#invisibleScrollController",
-    start: "top top",
-    end: "bottom top",
+    trigger: "#intro",
+    start: "top bottom",
+    end: "top center",
     toggleActions: "restart none reverse reset",
-    scrub: false,
+    scrub: true,
     // markers: true,
     },
+    duration: 3,
     opacity: 0
 });
 gsap.to('#earth', {
@@ -40,34 +34,36 @@ gsap.to('#earth', {
     start: "top top",
     end: "bottom top",
     toggleActions: "restart none reverse reset",
-    scrub: false,
+    scrub: true,
     // markers: true,
     },
+    duration: 2,
     opacity: 0.3
 });
-gsap.to('#initiatives', {
+
+// fade up intro text
+gsap.to('#introprose', {
     scrollTrigger: {
-    trigger: "#invisibleScrollController",
-    start: "top -40%",
-    end: "bottom -50%",
-    toggleActions: "restart reset reverse reset",
-    scrub: false,
+    trigger: "#intro",
+    start: "150",
+    scrub: true,
     // markers: true,
     },
+    duration: 2,
     opacity: 1
 });
-gsap.to('#initiatives', {
-    scrollTrigger: {
-    trigger: "#invisibleScrollController",
-    start: "bottom -10%",
-    end: "bottom -20%",
-    toggleActions: "restart reset reverse reset",
-    scrub: false,
-    // markers: true,
-    },
-    opacity: 0
-});
 
+//fade in the themes text
+gsap.to('.themetext', {
+    scrollTrigger: {
+        trigger: ".theme",
+        start: "top top",
+        end: "bottom bottom",
+        scrub: true,
+    },
+    duration: 4,
+    opacity: 1
+});
 
 // //pin and unpin the donateBanner
 // gsap.to("#donateBanner", {

@@ -6,8 +6,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ title ?? site:name }}</title>
         
-         <!-- Link Swiper's CSS -->
-         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
+        <link
+        rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      />
+      
+      <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
          <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 
@@ -17,88 +21,45 @@
 
          {{ vite src="resources/js/site.js|resources/css/site.css" }}
     </head>
+
     <body class="bg-algae">
         
         {{partial:nav}}
-     
-        <main class="relative mt-20">
-            {{ template_content }}
-            {{partial:newsletter}}
-            {{partial:faq}}
-            {{partial:footer}}
-        </main>
-
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+            <div id="smooth-content">
+                <main>
+                    {{ template_content }}
+                    {{partial:newsletter}}
+                    {{partial:faq}}
+                    {{partial:footer}}
+                </main>
+            </div>
+        <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.4/ScrollTrigger.min.js"></script>
+        <script src="/js/ScrollSmoother.min.js"></script>
+   
+        <script src="js/scrollEffects.js"></script>
+       
         <script src="js/gsap.js"></script>
 
         
-        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
 
         <!-- Initialize Swiper -->
         <script>
-            var swiper = new Swiper(".trendingSwiper", {
-                navigation: {
-                    nextEl: ".swiper-button-next",
-                    prevEl: ".swiper-button-prev",
-                },
-                grabCursor: true,
+            const swiper = new Swiper('.takeActionSwiper', {
                 pagination: {
-                el: ".swiper-pagination",
-                clickable: true,
+                    el: '.swiper-pagination',
+                    clickable: true,
                 },
-                breakpoints: {
-                540: {
+                navigation: {
+                    nextEl: '.image-swiper-button-next',
+                    prevEl: '.image-swiper-button-prev',
+                    disabledClass: "swiper-button-disabled",
+                },
                 slidesPerView: 1,
                 spaceBetween: 30,
-                },
-                768: {
-                slidesPerView: 2,
-                spaceBetween: 30,
-                },
-                992: {
-                slidesPerView: 3.5,
-                spaceBetween: 30,
-                },
-                1200: {
-                slidesPerView: 3.5,
-                spaceBetween: 30,
-                },
-            },
+                effect: 'fade',
+                speed: '1600',
             });
-            </script>
-
-        <!-- Initialize Swiper -->
-        <script>
-            var swiper = new Swiper(".campaignsSwiper", {
-                navigation: {
-                    nextEl: ".swiper-button-next",
-                    prevEl: ".swiper-button-prev",
-                },
-                grabCursor: true,
-                pagination: {
-                el: ".swiper-pagination",
-                clickable: true,
-                },
-                breakpoints: {
-                540: {
-                slidesPerView: 1,
-                spaceBetween: 30,
-                },
-                768: {
-                slidesPerView: 2,
-                spaceBetween: 30,
-                },
-                992: {
-                slidesPerView: 2.5,
-                spaceBetween: 30,
-                },
-                1200: {
-                slidesPerView: 2.5,
-                spaceBetween: 30,
-                },
-            },
-            });
-            </script>
+        </script>
     </body>
 </html>
