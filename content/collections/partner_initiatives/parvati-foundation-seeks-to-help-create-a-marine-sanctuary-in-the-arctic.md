@@ -16,6 +16,7 @@ challenges:
   - war
 partner: parvati-foundation
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711374462
+updated_at: 1711407612
 summary: 'Supporting the establishment of a Marine Sanctuary in the Artic Ocean.'
+call_to_action: 'Donate to help Parvati Foundation establish an  Arctic Marine Sanctuary.'
 ---
