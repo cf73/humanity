@@ -1,14 +1,14 @@
 ---
 id: 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
 blueprint: partner_initiative
-title: 'International Rescue Committee: helping those affected by humanitarian crises to survive, recover and rebuild their lives.'
+title: "International Rescue Committee invites your help with the world's top ten crises."
 collection_type: partner-initiative
 image: 20170503_khtet_myanmar_0031-hero-3.jpg
 challenges:
   - war
 partner: international-rescue-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710028098
+updated_at: 1711384585
 description:
   -
     type: paragraph
@@ -613,4 +613,6 @@ description:
       -
         type: text
         text: ' research groups.'
+summary: 'Each year, the International Rescue Committee analyzes 190 countries and territories to identify the greatest risk of experiencing a new or worsening humanitarian crisis in the coming year. We identify and rank the 20 countries most at risk in our emergency watchlist.'
+call_to_action: 'Help the IRC anticipate risk around the world.'
 ---
