@@ -165,7 +165,10 @@ challenges:
   - war
 partner: amnesty-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711376630
-summary: 'Amnesty International: Let’s get the history of the UDHR right. Not by whitewashing it or by ignoring the raging double standards of its implementation. But by paying homage: to those who used its extraordinary disruptive power during struggles for liberation and equality the world over; to those who made the UDHR real and authentic, in their struggle against colonialism and for independence; against bigotry and for equality; against patriarchy and for gender justice; for a world of greater dignity for ‘all members of the human family’.'
-call_to_action: 'Amnesty International: holding the powerful to account.'
+updated_at: 1711376799
+summary: |-
+  Amnesty International wants to honor the 75th anniversary of the Universal Declaration of Human Rights:  
+
+  "Let’s get the history of the UDHR right. Not by whitewashing it or by ignoring the raging double standards of its implementation. But by paying homage: to those who used its extraordinary disruptive power during struggles for liberation and equality the world over; to those who made the UDHR real and authentic, in their struggle against colonialism and for independence; against bigotry and for equality; against patriarchy and for gender justice; for a world of greater dignity for ‘all members of the human family’."
+call_to_action: 'Amnesty International creates Generation 2048'
 ---
