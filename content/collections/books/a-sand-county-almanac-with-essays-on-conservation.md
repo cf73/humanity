@@ -1,7 +1,7 @@
 ---
 id: 094f509c-6dba-4c63-a475-22cbd0c2f879
 blueprint: book
-title: 'A Sand County Almanac: With Essays on Conservation'
+title: 'A Sand County Almanac: With Essays on Conservation  (1949)'
 author: 'Aldo Leopold'
 image: 71aybinodpl._sl1024_.jpg
 link: 'https://www.amazon.com/gp/product/0195146174/ref=as_li_tf_tl?ie=UTF8&tag=jainthwo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0195146174'
@@ -54,5 +54,5 @@ related_content:
   - 239a38c6-1348-452c-b8d1-8136b4dd3c89
   - ac220561-aa8b-48ce-a11d-d0ee99b3cab4
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711399304
+updated_at: 1711399539
 ---
