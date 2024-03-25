@@ -1,7 +1,7 @@
 ---
 id: f80aa9dd-80ba-474c-acaa-cc772f395ca7
 blueprint: partner_initiative
-title: 'Parvati Foundation: helping create a marine sanctuary in the Arctic Ocean.'
+title: 'Donate to help Parvati Foundation create a marine sanctuary in the Arctic Ocean.'
 description:
   -
     type: paragraph
@@ -16,7 +16,7 @@ challenges:
   - war
 partner: parvati-foundation
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711407612
+updated_at: 1711407663
 summary: 'Supporting the establishment of a Marine Sanctuary in the Artic Ocean.'
 call_to_action: 'Donate to help Parvati Foundation establish an  Arctic Marine Sanctuary.'
 ---
