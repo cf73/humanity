@@ -56,9 +56,10 @@ gsap.to('#introprose', {
 //fade in the themes text
 gsap.to('.themetext', {
     scrollTrigger: {
-        trigger: ".themetext",
-        start: "top center",
-        scrub: false,
+        trigger: ".theme",
+        start: "top top",
+        end: "bottom bottom",
+        scrub: true,
     },
     duration: 4,
     opacity: 1
