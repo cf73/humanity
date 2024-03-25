@@ -1,7 +1,7 @@
 ---
 id: 86161e36-7285-41a6-ba67-5a5f928fb1d1
 blueprint: partner_initiative
-title: 'Help the Bangladesh Rural Advancement Committee grow its global presence.'
+title: 'Help the Bangladesh Rural Advancement Committee grow its Ultre-Poor Graduation Initiative'
 collection_type: partner-initiative
 description:
   -
@@ -72,7 +72,7 @@ challenges:
   - climate
 partner: bangladesh-rural-advancement-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711383859
-summary: 'Inequality and poverty are complex challenges that must be attacked from multiple fronts to systemically eradicate them: combining social development, humanitarian response, social enterprise, social investments and a university. Improving the lives of women and girls is the focus of BRAC’s work.'
+updated_at: 1711384192
+summary: 'UPGI aims to see high-quality Graduation programmes implemented at scale and adopted  across a range of existing government initiatives. It aims to advocate for the inclusion of Graduation-style programmes at the national-level, and to support knowledge sharing to enhance poverty alleviation efforts.'
 call_to_action: 'Help BRAC expand its Ultra-Poor Graduation Initiative'
 ---
