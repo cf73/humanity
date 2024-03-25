@@ -8,14 +8,25 @@ challenges:
   - war
 partner: danish-refugee-council
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711407487
+updated_at: 1711407842
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Core sectors'
+        text: 'Core sectors  '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://pro.drc.ngo/about-us/strategic-framework/strategy/'
+              rel: null
+              target: null
+              title: null
+        text: 'https://pro.drc.ngo/about-us/strategic-framework/strategy/'
   -
     type: paragraph
     content:
@@ -58,9 +69,6 @@ description:
           -
             type: bold
         text: 'Shelter and Settlements'
-  -
-    type: paragraph
-    content:
       -
         type: hardBreak
 summary: |-
