@@ -14,10 +14,11 @@ description:
 challenges:
   - kids
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711399837
+updated_at: 1711399947
 collection_type: book
 related_partner_initiatives:
-  - 61653f39-a1f2-4949-9a50-e72537bfc211
+  - f80aa9dd-80ba-474c-acaa-cc772f395ca7
 related_content:
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
+  - b6024468-0b3f-4752-9de3-f5141560c0f6
 ---
