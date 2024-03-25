@@ -54,7 +54,8 @@
                             <div class="grid grid-cols-3 gap-16">
                                 <div id="take-action-now">
                                     <div id="counter" class="font-serif mb-12">
-                                        {{increment from="1"}} / {{entries | count}}
+                                        {{increment from="1"}}
+                                        / {{entries | count}}
                                     </div>
                                     <div class="font-bold text-3xl mb-4 tracking-wider uppercase">Take action now</div>
                                     <div class="prose font-serif pb-8">{{summary}}</div>
@@ -67,11 +68,8 @@
                         {{/entries}}
                     {{/collection:partner_initiatives}}
                 </div>
-                
             </div>
-            
         </div>
-        
     {{/nav}}
 </section>
 
