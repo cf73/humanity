@@ -1,7 +1,7 @@
 ---
 id: b9c3aec9-7d96-43e7-b25b-35b63762dc05
 blueprint: quotation
-title: "THI's 125 aphorisms on peace and war..."
+title: "THI's 40 aphorisms on peace and war..."
 quotation: |-
   125 aphorisms on war and peace (copies below)
 
@@ -104,9 +104,9 @@ quotation: |-
   I cannot believe that war is the best solution. No one won the last war, and no one will win the next war.
         ~       Eleanor Roosevelt
 
+
   You cannot simultaneously prevent and prepare for war. 
         ~       Albert Einstein
-
 
   Man has no right to kill his brother. It is no excuse that he does so in uniform: he only adds the infamy of servitude to the crime of murder. 
         ~       Percy Bysshe Shelley
@@ -119,6 +119,7 @@ quotation: |-
 
   Peace at home, peace in the world.
         ~        Mustafa Kemal Atatürk , as quoted in many sources including, Atatürk(1963) by Uluğ İğdemir, p. 200; and Small Nations and Great Powers: A Study of Ethnopolitical Conflict in the Caucasus (2000) by Svante E. Cornell, p. 287. It later became the motto of the Republic of Turkey.
+
 
   The only way to abolish war is to make peace heroic.
         ~        James Hinton, Philosophy and Religion: Selections from the Manuscripts of the Late James Hinton, ed. Caroline Haddon, (2nd ed., London: 1884), p. 267.
@@ -134,5 +135,5 @@ collection_type: talk
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711403853
+updated_at: 1711405634
 ---
