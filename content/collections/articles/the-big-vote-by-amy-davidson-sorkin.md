@@ -2,7 +2,7 @@
 id: 237d2365-a6de-41ee-8687-58f80dad4586
 blueprint: articles
 collection_type: article
-title: 'The Big Vote, by Amy Davidson Sorkin  (New Yorker)'
+title: 'The Big Vote, by Amy Davidson Sorkin  (The New Yorker)'
 image: robinson-projection.jpg
 link: 'https://www.newyorker.com/magazine/2024/01/15/the-biggest-election-year-in-history'
 description:
@@ -29,7 +29,7 @@ description:
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711481853
+updated_at: 1711481933
 article_text:
   -
     type: paragraph
