@@ -5,8 +5,31 @@ template: challenge
 title: Climate
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1711486135
+updated_at: 1711486158
 section_builder:
+  -
+    id: lu8ulqyv
+    interstitial_text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Maybe kick off the page with some text like this, to introduce what’s coming below?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'It could be a paragraph or two… you will know better than I! This text is just here to bulk up the typographic space and evaluate for visual purposes, so feel free to replace it or delete it as you get a feel for authoring the selection of content shown on this theme page, drawing from the best of what is available throughout the site.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Have fun!'
+    type: interstitial_text
+    enabled: true
   -
     id: lu8u0wtn
     article: 29a151c3-c9be-46b9-977f-e15f1de27554
@@ -47,29 +70,6 @@ section_builder:
     id: lsp0g8kq
     talks: 263accbc-caa0-48eb-964e-dccc457c29cc
     type: talks
-    enabled: true
-  -
-    id: lu8ulqyv
-    interstitial_text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Maybe kick off the page with some text like this, to introduce what’s coming below?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'It could be a paragraph or two… you will know better than I! This text is just here to bulk up the typographic space and evaluate for visual purposes, so feel free to replace it or delete it as you get a feel for authoring the selection of content shown on this theme page, drawing from the best of what is available throughout the site.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Have fun!'
-    type: interstitial_text
     enabled: true
 intro_movie: act-fast-intxt2-new.jpg
 challenge_intro_text: 'Climate intro text here, flowery or otherwise...'
