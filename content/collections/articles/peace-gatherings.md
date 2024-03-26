@@ -2,7 +2,7 @@
 id: e1912d5b-c259-42ca-aa14-01faa3424173
 blueprint: articles
 collection_type: article
-title: '*** Peace Gatherings'
+title: 'Peace Gatherings'
 image: palestine-luke.jpeg
 description:
   -
@@ -25,7 +25,18 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1708137438
+updated_at: 1711481333
+article_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: PG
+related_partner_initiatives:
+  - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
+related_content:
+  - fab94cb3-0c49-48a3-af62-e8ea16f88bc3
 content:
   -
     type: paragraph
