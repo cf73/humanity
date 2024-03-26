@@ -1,7 +1,7 @@
 ---
 id: cf5dd77a-7879-4c1f-9c4e-6528d85d1636
 blueprint: articles
-title: 'Indices of global health  --  33 of them!'
+title: 'THI Peace Gathering in Bhutan. Cool!'
 image: oip.4zgtg7e03allf1-cs3sx6ghafj.jpeg
 link: 'misc.   https://www.youtube.com/watch?v=tTBtacrrCQg'
 description:
@@ -609,5 +609,5 @@ related_content:
   - 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
   - c53fa4c5-dd91-4357-982f-dffd2296d749
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711487409
+updated_at: 1711487721
 ---
