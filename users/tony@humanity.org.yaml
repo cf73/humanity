@@ -12,3 +12,8 @@ preferences:
       after_save: continue_editing
     partner_initiatives:
       per_page: 25
+    pages:
+      filters:
+        commencement_speeches:
+          display: 'commencement speeches'
+          query: 'Commencement speeches'
