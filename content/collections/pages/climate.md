@@ -5,17 +5,27 @@ template: challenge
 title: Climate
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1710968649
+updated_at: 1711485173
 section_builder:
   -
-    id: lsp0g8kq
-    talks: 263accbc-caa0-48eb-964e-dccc457c29cc
-    type: talks
+    id: lu8u0wtn
+    article: 29a151c3-c9be-46b9-977f-e15f1de27554
+    type: article
     enabled: true
   -
-    id: lsp0gq4k
-    quotation: af20afc7-07a3-4268-b5e1-1465773f3ef1
-    type: quotation
+    id: lu8u1989
+    book: bb741d00-8673-47f0-8869-cd36c404c92e
+    type: book
+    enabled: true
+  -
+    id: lu8u1j26
+    commencement_speech: d5b3281c-b13a-4515-bfc2-87d2e15a7cb5
+    type: commencement_speech
+    enabled: true
+  -
+    id: lu8u27cf
+    inspiring_image: c56717.jpeg
+    type: inspiring_image
     enabled: true
   -
     id: lsp0h5lj
@@ -28,6 +38,17 @@ section_builder:
             text: 'Tony text on why this is so critical and empowering…'
     type: interstitial_text
     enabled: true
+  -
+    id: lsp0gq4k
+    quotation: af20afc7-07a3-4268-b5e1-1465773f3ef1
+    type: quotation
+    enabled: true
+  -
+    id: lsp0g8kq
+    talks: 263accbc-caa0-48eb-964e-dccc457c29cc
+    type: talks
+    enabled: true
 intro_movie: act-fast-intxt2-new.jpg
 challenge_intro_text: 'Climate intro text here, flowery or otherwise...'
+parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 ---
