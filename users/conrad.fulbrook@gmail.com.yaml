@@ -3,9 +3,6 @@ super: true
 id: 0800036e-1638-4d6e-822a-26aefe2f9e99
 password_hash: $2y$10$4dEcK0zzV5anBKywUppnPOJFsgcD4KtbufS6oxmadtK0H6AyyGW02
 preferences:
-  assets:
-    assets:
-      mode: grid
   collections:
     commencement_speeches:
       columns:
