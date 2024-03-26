@@ -859,9 +859,11 @@ challenges:
   - kids
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710978168
+updated_at: 1711488437
 related_partner_initiatives:
   - e418c09e-390d-4f38-987d-3a3731bb70b5
+  - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
+  - dfae34a8-30a5-4e7c-89d7-a33917e780d8
 related_content:
   - 5c0af817-aaa5-49eb-9968-8a01beb12c10
   - 3f70d8b4-b75f-4bb1-bd8d-91d7e03a8232
