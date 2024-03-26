@@ -1,7 +1,7 @@
 ---
 id: 4e493203-61b5-4ca2-8ac9-0814e584fff4
 blueprint: partner_initiative
-title: 'Oxfam International: ''We see a future that is equal."'
+title: 'Join Oxfam International in providing a life of dignity for every person in crisis.'
 description:
   -
     type: paragraph
@@ -114,5 +114,6 @@ challenges:
   - inspiration
 partner: oxfam-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710861240
+updated_at: 1711411868
+summary: "Oxfam's supporters are fighting to guarantee a life of dignity for every person in crisis"
 ---

@@ -55,8 +55,12 @@ challenges:
   - climate
 related_partner_initiatives:
   - 5b08c208-5356-4878-b3be-a9b91e1f383c
+  - 6f9195fc-1c72-4935-be44-e6b912bbba06
 related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
+  - 8a6167d1-d897-4c80-a069-cb77667b2353
+  - 094f509c-6dba-4c63-a475-22cbd0c2f879
+  - b6024468-0b3f-4752-9de3-f5141560c0f6
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710768102
+updated_at: 1711153425
 ---

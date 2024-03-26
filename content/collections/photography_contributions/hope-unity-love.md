@@ -1,7 +1,7 @@
 ---
 id: 5bf8388a-3436-447a-8f59-8d0700df4b21
 blueprint: photography_contribution
-title: '"Hope, Unity, Love"'
+title: 'Hope, Unity, Love'
 photographer_name: 'artwork by Charlotte Bassin'
 photographer_website: 'https://wanderwonder.art'
 image: image-1710721223.jpeg
@@ -44,5 +44,5 @@ challenges:
   - inspiration
   - kids
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710722319
+updated_at: 1711241149
 ---

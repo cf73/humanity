@@ -1,15 +1,35 @@
 ---
 id: 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
 blueprint: partner_initiative
-title: 'International Rescue Committee: helping those affected by humanitarian crises to survive, recover and rebuild their lives.'
+title: 'International Rescue Committee needs donations to help 33 million refugees worldwide.'
 collection_type: partner-initiative
 image: 20170503_khtet_myanmar_0031-hero-3.jpg
 challenges:
   - war
 partner: international-rescue-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710028098
+updated_at: 1711388886
 description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://help.rescue.org/donate?ms=ws_watchlist_fy24_eoy_mmus_dec&initialms=ws_watchlist_fy24_eoy_mmus_dec&_gl=1'
+              rel: null
+              target: null
+              title: null
+        text: 'https://help.rescue.org/donate?ms=ws_watchlist_fy24_eoy_mmus_dec&initialms=ws_watchlist_fy24_eoy_mmus_dec&_gl=1'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '------'
   -
     type: paragraph
     content:
@@ -21,56 +41,13 @@ description:
     content:
       -
         type: text
-        text: "Here\_are highlights of our impact over a year."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: '32.9 million+'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'people in countries affected by crisis were reached by the IRC and partners in 2022'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Our teams work around the clock to ensure families can survive, recover and regain control of their futures.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.rescue.org/article/five-innovative-ways-irc-makes-difference'
-              rel: null
-              target: null
-              title: null
-          -
-            type: bold
-        text: 'See 5 ways we make a difference.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'In 2022, the IRC and our partners reached'
       -
         type: text
         marks:
           -
             type: bold
-        text: ' over 32.9 million people'
+        text: ' over 32.9 million people '
       -
         type: text
         text: 'in countries affected by crisis. As part of this work, we:'
@@ -613,4 +590,6 @@ description:
       -
         type: text
         text: ' research groups.'
+summary: 'Right now, in places like Gaza, Sudan and Ukraine, conflict and disaster have left millions of families living in temporary shelters, lacking basic supplies and in urgent need of emergency aid. The IRC works to provide food, water and medical care, along with the critical support families need to survive, recover and rebuild their lives.'
+call_to_action: 'Help the IRC aid refugees worldwide.'
 ---

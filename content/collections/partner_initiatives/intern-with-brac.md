@@ -1,9 +1,42 @@
 ---
 id: 86161e36-7285-41a6-ba67-5a5f928fb1d1
 blueprint: partner_initiative
-title: 'Bangladesh Rural Advancement Committee: the largest family in the world.'
+title: 'Help fund the Bangladesh Rural Advancement Committee expansion of its Ultra-Poor Graduation Initiative'
 collection_type: partner-initiative
 description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Growing Our Global Presence'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Since we established the Ultra-Poor Graduation Initiative in 2016, BRAC has expanded it to 14 countries around the globe.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Our experience has proven that by integrating the Graduation approach into existing poverty alleviation programs, we can achieve positive, long-term impacts for people in extreme poverty in a wide variety of poverty contexts.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Right now, we are working in countries across Africa and Asia to support government adoption of Graduation and further scale our approach — all with the goal of enabling 4.6 million more households to lift themselves from extreme poverty by 2026.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Here's some background on the BRAC: "
   -
     type: paragraph
     content:
@@ -33,25 +66,13 @@ description:
     content:
       -
         type: text
-        text: 'His work drew attention and accolades from around the world, some of the most prestigious being the Ramon Magsaysay Award (1980), WISE Prize (2011), Leo Tolstoy International Gold Medal (2014), World Food Prize (2015), Thomas Francis Jr Medal in Global Public Health (2016), the Laudato Si’ award (2017), the Lego Prize (2018), and the Yidan Prize (2019). In 2009, he was appointed Knight Commander of the Most Distinguished Order of St. Michael and St. George by the British Crown. His many honorary degrees include ones from Columbia University, Princeton University, the University of Oxford, and Yale University.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Despite all of his accolades, Abed bhai embodied humility, exemplified by the way he was referred to simply as bhai, the Bengali word for brother.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: '"Thank you Abed bhai," his colleagues say, "for showing us how meaningful one’s life can be – and that a better world is possible. We promise to be worthy of your legacy."'
 image: image-1709686935.png
 challenges:
   - climate
 partner: bangladesh-rural-advancement-committee
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1710970114
-summary: 'Inequality and poverty are complex challenges that must be attacked from multiple fronts to systemically eradicate them: combining social development, humanitarian response, social enterprise, social investments and a university. Improving the lives of women and girls is the focus of BRAC’s work.'
-call_to_action: 'Specific action text here'
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1711411218
+summary: 'UPGI aims to see high-quality Graduation programmes implemented at scale and adopted  across a range of existing government initiatives. It aims to advocate for the inclusion of Graduation-style programmes at the national-level, and to support knowledge sharing to enhance poverty alleviation efforts.'
+call_to_action: 'Help BRAC expand its Ultra-Poor Graduation Initiative'
 ---

@@ -1,7 +1,7 @@
 ---
 id: 643b298b-448c-44d4-841f-cdbcd7b03dcd
 blueprint: partner_initiative
-title: "Scientifically grounded optimism drives Project Drawdown's programs for climate recovery."
+title: "Help fund Project Drawdown's scientifically engaged programs for climate recovery"
 description:
   -
     type: paragraph
@@ -58,22 +58,6 @@ description:
           -
             type: link
             attrs:
-              href: 'https://drawdown.org/programs/drawdown-labs'
-              rel: null
-              target: null
-              title: null
-          -
-            type: bold
-        text: 'LEARN MORE'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
               href: 'https://drawdown.org/drawdown-lift'
               rel: null
               target: null
@@ -85,22 +69,6 @@ description:
       -
         type: text
         text: 'Drawdown Lift is deepening our understanding of the links between climate change solutions, health, and improving human wellbeing, particularly in emerging economies in Sub-Saharan Africa and Asia.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://drawdown.org/drawdown-lift'
-              rel: null
-              target: null
-              title: null
-          -
-            type: bold
-        text: 'LEARN MORE'
   -
     type: paragraph
     content:
@@ -130,22 +98,6 @@ description:
           -
             type: link
             attrs:
-              href: 'https://drawdown.org/programs/drawdown-science'
-              rel: null
-              target: null
-              title: null
-          -
-            type: bold
-        text: 'LEARN MORE'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
               href: 'https://drawdown.org/stories'
               rel: null
               target: null
@@ -163,5 +115,7 @@ challenges:
   - climate
 partner: project-drawdown
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710105747
+updated_at: 1711411614
+summary: 'Project Drawdown sponsors all manner of scientific engagement around solving climate change.'
+call_to_action: 'Project Drawdown needs donations to expand its programs.'
 ---

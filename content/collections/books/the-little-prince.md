@@ -1,7 +1,7 @@
 ---
 id: 3f70d8b4-b75f-4bb1-bd8d-91d7e03a8232
 blueprint: book
-title: '*** The Little Prince  (1943)'
+title: 'The Little Prince  (1943)'
 author: 'A novella by Antoine de Saint-Exupéry'
 image: image-1707926328.jpeg
 collection_type: book
@@ -41,5 +41,10 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709325243
+updated_at: 1711239580
+related_partner_initiatives:
+  - bd1d0db4-a43f-4e72-a31d-664b5cce943f
+related_content:
+  - 6d28b288-2ed8-4983-a206-c1a19b3c1219
+  - 9daf30e1-7588-4427-bc37-28fd0527f566
 ---

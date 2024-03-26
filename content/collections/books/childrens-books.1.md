@@ -705,6 +705,40 @@ description:
         text: 'China / by Jimmy Nelson'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'A quick aside for those who might have a five to eight year old in the house. There is a wonderful new book (July 2023) designed just for those ages:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: 'Our Planet: There’s No Place like Earth'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.youtube.com/watch?v=at6_U4MgcDw'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: 'Here is author Stacy McAnulty reading it.'
   -
     type: paragraph
     content:
@@ -772,14 +806,10 @@ description:
         text: ;
   -
     type: paragraph
-  -
-    type: paragraph
     content:
       -
         type: text
         text: 'Also, this from charity: water:'
-      -
-        type: hardBreak
       -
         type: hardBreak
       -
@@ -826,6 +856,15 @@ description:
         text: '— your friends at charity: water'
 challenges:
   - war
+  - kids
+  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709139409
+updated_at: 1710978168
+related_partner_initiatives:
+  - e418c09e-390d-4f38-987d-3a3731bb70b5
+related_content:
+  - 5c0af817-aaa5-49eb-9968-8a01beb12c10
+  - 3f70d8b4-b75f-4bb1-bd8d-91d7e03a8232
+  - ce171524-edce-436f-873d-6a863c83f1e6
+  - 9daf30e1-7588-4427-bc37-28fd0527f566
 ---

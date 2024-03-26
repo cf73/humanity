@@ -1,7 +1,7 @@
 ---
 id: d7a43560-9be9-426b-b413-e6b9d9276318
 blueprint: photography_contribution
-title: '"One June Early Morning"  (1972) Painting (for use in Ending War section)'
+title: 'One June Early Morning  (1972) Painting (for use in Ending War section)'
 photographer_name: 'Guy de Montlaur'
 photographer_website: unk
 collection_type: photography-contribution
@@ -22,5 +22,5 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709597747
+updated_at: 1711241216
 ---
