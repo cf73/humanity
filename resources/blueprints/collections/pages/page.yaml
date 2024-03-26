@@ -23,7 +23,7 @@ tabs:
               show_filename: true
               show_set_alt: true
               type: assets
-              display: 'Intro Movie'
+              display: 'Intro Movie or Image'
               listable: hidden
               instructions_position: above
               visibility: visible

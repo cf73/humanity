@@ -30,8 +30,9 @@
         <h3>Our partners</h3>
         <div class="grid grid-cols-4 gap-4">
             {{taxonomy:partners}}
-                <div class="h-64 bg-contain bg-no-repeat bg-center" style="background-image: url({{logo}});">
-                </div>
+                <a href="{{website}}" target="_blank">
+                    <div class="h-64 bg-contain bg-no-repeat bg-center" style="background-image: url({{logo}});"></div>
+                </a>
             {{/taxonomy:partners}}
         </div>
     </div>

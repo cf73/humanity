@@ -5,7 +5,7 @@ title: War
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709918844
+updated_at: 1711466136
 section_builder:
   -
     id: lsgtt24w
@@ -118,4 +118,7 @@ challenge_intro:
       -
         type: text
         text: '. He calls it his “witness statement.” It is a sobering and necessary yet hopeful investigation of the actions to which we now must commit our minds and hearts in full measure.'
+intro_movie: israel-palestinians-15_1697599261609_1697599283311.avif
+challenge_intro_text: 'Text here to introduce this theme/challenge'
+parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 ---
