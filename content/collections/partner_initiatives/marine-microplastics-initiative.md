@@ -20,8 +20,6 @@ description:
         text: 'The presence of microplastics and nanoplastics in the oceans is a worldwide concern. To help address this pressing problem, WHOI has launched an interdisciplinary research program to understand the fate and impacts of plastics in the marine environment. Our research is supported by both public and private sources and involves a diverse group of scientists, engineers, students, postdoctoral researchers, and science communicators. We invite you to explore these pages and contact any of the team members to inquire about opportunities to become involved in and support our research effort.'
   -
     type: paragraph
-  -
-    type: paragraph
     content:
       -
         type: text
@@ -64,11 +62,11 @@ description:
         text: 'The Woods Hole Oceanographic Institution is dedicated to advancing knowledge of the ocean and its connection with the Earth system through a sustained commitment to excellence in science, engineering, and education, and to the application of this knowledge to problems facing society.'
   -
     type: paragraph
-image: image-1709946023.jpeg
+image: microplastics-in-the-food-chain-illustration-1024x583.png
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711412602
+updated_at: 1711412743
 partner: woods-hole-oceanographic-institution
 collection_type: partner-initiative
 summary: |-
