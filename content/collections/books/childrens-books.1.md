@@ -1,11 +1,22 @@
 ---
 id: 018aee1d-ee9a-4aac-a87f-499d4c6fb333
 blueprint: book
-title: "Children's books (including The Earthshot Prize and also charity: water's World Changers book...)"
-author: "children's books"
+title: "CHILDREN'S BOOKS! (including The Earthshot Prize and also charity: water's World Changers book...)"
+author: MANY
 image: image-1707485581.jpeg
 collection_type: book
 description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: 'Opening the hearts of children  --  and adults!'
   -
     type: paragraph
     content:
@@ -35,28 +46,6 @@ description:
       -
         type: text
         text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '       '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: ' '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-          -
-            type: italic
-        text: 'Opening the hearts of children'
   -
     type: paragraph
     content:
@@ -859,7 +848,7 @@ challenges:
   - kids
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711488437
+updated_at: 1711488624
 related_partner_initiatives:
   - e418c09e-390d-4f38-987d-3a3731bb70b5
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
