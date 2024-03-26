@@ -1,7 +1,7 @@
 ---
 id: 7648bedf-0ccf-4f12-a6dc-37abf30bf691
 blueprint: articles
-title: 'Interpreters of their Era: commencement speakers from 1838 -2024'
+title: 'Interpreters of their era: commencement speakers from 1838 - 2024'
 image: image-1711483474.jpeg
 link: misc
 description:
@@ -289,5 +289,5 @@ related_content:
   - 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
   - 2a65a221-e8cd-4752-a899-703eb55c5036
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711483674
+updated_at: 1711483830
 ---
