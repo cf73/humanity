@@ -49,15 +49,18 @@ article_text:
             content:
               -
                 type: text
+                text: 'Bhutan Gross National Happiness index:  '
+              -
+                type: text
                 marks:
                   -
                     type: link
                     attrs:
-                      href: 'https://en.wikipedia.org/wiki/Bhutan_GNH_Index'
+                      href: 'https://blogs.adb.org/blog/your-questions-answered-what-bhutan-s-gross-national-happiness-index'
                       rel: null
                       target: null
                       title: null
-                text: 'Bhutan GNH Index'
+                text: 'https://blogs.adb.org/blog/your-questions-answered-what-bhutan-s-gross-national-happiness-index'
       -
         type: listItem
         content:
@@ -606,5 +609,5 @@ related_content:
   - 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
   - c53fa4c5-dd91-4357-982f-dffd2296d749
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711486703
+updated_at: 1711486829
 ---
