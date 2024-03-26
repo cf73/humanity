@@ -16,13 +16,13 @@ description:
     content:
       -
         type: text
-        text: "Our colleague, Jacqueline Wigglesworth, is there with a dozen fellow travelers for ten days. We'll report back on how it went. "
+        text: "Our colleague, Jacqueline Wigglesworth, is there with a dozen fellow travelers for ten days. We'll report back on how it went. Certainly seems a good place to contact the peace gods. "
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Meanwhile, should you feel like a closer look at how humanity itself is doing these days, here are no less than 33 indices of global health  --  beginning no less with the Bhutan's now famous, once humble, National Happiness Index."
+        text: "Meanwhile, should you feel like a closer look at how humanity itself is doing these days, here are no less than 33 indices of global health  --  beginning no less with the Bhutan's now famous, once humble, GrossNational Happiness Index."
   -
     type: paragraph
 article_text:
@@ -609,5 +609,5 @@ related_content:
   - 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
   - c53fa4c5-dd91-4357-982f-dffd2296d749
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711486829
+updated_at: 1711486946
 ---
