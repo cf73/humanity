@@ -1,7 +1,7 @@
 ---
 id: dfae34a8-30a5-4e7c-89d7-a33917e780d8
 blueprint: partner_initiative
-title: "Contribute to Woods Hole Oceanographic Institution's new fund to accelerate microplastics innovation"
+title: "Contribute to Woods Hole Oceanographic Institution's fund to accelerate its microplastics initiative."
 description:
   -
     type: paragraph
@@ -68,7 +68,7 @@ image: image-1709946023.jpeg
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711412511
+updated_at: 1711412602
 partner: woods-hole-oceanographic-institution
 collection_type: partner-initiative
 summary: |-
