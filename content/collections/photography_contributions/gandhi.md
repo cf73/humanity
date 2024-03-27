@@ -27,7 +27,7 @@ description:
         text: 'Mōhanadāsa Karamacaṁda Gāṁdhī'
       -
         type: text
-        text: ";[pron 1] 2 October 1869\_– 30 January 1948) was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule. He inspired movements for civil rights and freedom across the world. "
+        text: " (2 October 1869\_– 30 January 1948) was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule. He inspired movements for civil rights and freedom across the world. "
   -
     type: paragraph
     content:
@@ -93,10 +93,7 @@ description:
         text: Bapu
       -
         type: text
-        text: ' (Gujarati endearment for "father", roughly "papa",[2] "daddy"[3]).'
-  -
-    type: paragraph
-    content:
+        text: ' (Gujarati endearment for "father", roughly "papa","daddy").'
       -
         type: hardBreak
       -
@@ -106,5 +103,5 @@ challenges:
   - democracy
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711550750
+updated_at: 1711550811
 ---
