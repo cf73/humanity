@@ -1,8 +1,8 @@
 ---
 id: a00717ba-5120-46eb-b2eb-8f374aee92ed
 blueprint: photography_contribution
-title: "Afghan family 1980's"
-photographer_name: 'Luke Powell'
+title: "Afghanistan 1980's"
+photographer_name: "Luke Powell's Afghan folio, 1980's"
 photographer_website: unknown
 image: luke.jpg
 description:
@@ -17,5 +17,5 @@ challenges:
   - climate
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710772227
+updated_at: 1711547755
 ---
