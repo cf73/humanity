@@ -14,9 +14,7 @@ description:
         text: 'https://www.forbesindia.com/article/forbes-lifes/making-a-picture-is-the-last-thing-that-happens-jimmy-nelson/52863/1'
 collection_type: photography-contribution
 challenges:
-  - war
-  - democracy
-  - climate
+  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711551179
+updated_at: 1711551200
 ---
