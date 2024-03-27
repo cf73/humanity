@@ -106,5 +106,5 @@ challenges:
   - democracy
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711550734
+updated_at: 1711550750
 ---
