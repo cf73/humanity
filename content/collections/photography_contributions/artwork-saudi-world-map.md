@@ -50,7 +50,7 @@ description:
         marks:
           -
             type: italic
-        text: '~  Charlotte Bassin'
+        text: '      ~    Charlotte Bassin, Denver, Colorado'
   -
     type: paragraph
     content:
@@ -60,5 +60,5 @@ collection_type: photography-contribution
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710722241
+updated_at: 1711548169
 ---
