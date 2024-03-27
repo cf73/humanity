@@ -10,7 +10,7 @@ description:
     content:
       -
         type: text
-        text: 'Brief essay invoking '
+        text: 'Brief essay on the necessity of working together to rescue humanity.'
 article_text:
   -
     type: paragraph
@@ -74,13 +74,7 @@ article_text:
     content:
       -
         type: text
-        text: "Let us honor this fragile, transcendent web of life gifted us by the gods.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Let us ask ourselves in profound reverence for life, “How deeply do I care about our common future? How can I help make a positive\_difference?”"
+        text: "Let us ask ourselves in profound reverence for this fragile,  transcendent web of live gifted to us by the gods, “How deeply do I care about our common future? How can I help make a positive\_difference?”"
   -
     type: paragraph
     content:
@@ -109,5 +103,5 @@ related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - 8a6167d1-d897-4c80-a069-cb77667b2353
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711499689
+updated_at: 1711499894
 ---
