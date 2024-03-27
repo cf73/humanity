@@ -77,4 +77,25 @@ gsap.to('.themetext', {
 //     }
 //   });
   
-  
+gsap.to('.take-action-now', {
+    scrollTrigger: {
+        trigger: ".related-partner-initiatives",
+        start: "top center",
+        end: "top top",
+        scrub: true,
+    },
+    opacity: 1,
+    translateY: -40,
+});
+
+gsap.to('.actionExcerpt', {
+    scrollTrigger: {
+        trigger: ".related-partner-initiatives",
+        start: "top center",
+        end: "top top",
+        scrub: true,
+    },
+    delay: 100,
+    opacity: 1,
+    translateY: -40,
+});
