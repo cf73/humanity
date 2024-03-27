@@ -14,8 +14,7 @@ description:
         text: "Luke Powell, an American photographer from North Carolina, spent six years photographing in the Fertile Cresent, from the late 1970's to the early 1980's. He was one of the few image-makers who made his own dye-transfer prints, which he exhibited widely across the planet. "
 collection_type: photography-contribution
 challenges:
-  - climate
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711547988
+updated_at: 1711548008
 ---
