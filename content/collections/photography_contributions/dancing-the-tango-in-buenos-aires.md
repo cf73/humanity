@@ -13,8 +13,8 @@ description:
         type: text
         text: 'Tango time in Argentina, where they take their dancing seriously  -  probably true of most countries!'
 challenges:
-  - war
+  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711548597
+updated_at: 1711548618
 collection_type: photography-contribution
 ---
