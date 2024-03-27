@@ -11,16 +11,16 @@ description:
     content:
       -
         type: text
-        text: "Here's how one section of one state (Maine, USA) sees their neighbors..."
+        text: "Here's how one section of midstate Maine (USA) sees their neighbors..."
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Perhaps such positive vibes, something as simple as a town's name, actually make it easier to work together? They set the tone...encourage us to do well by each other..."
+        text: "Perhaps such positive vibes, something as simple as a town's name, actually do make it easier to work together: they set a neighborly tone, encouraging us to do well by each other..."
 collection_type: photography-contribution
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711241189
+updated_at: 1711560737
 ---
