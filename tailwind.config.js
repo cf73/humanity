@@ -27,6 +27,8 @@ export default {
                 'forest': '#06977D',
                 'earth': '#a08b8b',
                 'green': '#76FC9C',
+                'hotpink': '#FC76DF',
+                'yellow': '#FCDF76',
             },
         },
     },

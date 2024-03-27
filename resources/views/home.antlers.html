@@ -41,18 +41,18 @@
                 <a href="{{url}}"><button>Explore {{title}}</button></a>
             </div>
         </div>
-        <div id="related-partner-initiatives" class="bg-white w-full mx-auto pb-96 text-black p-20">
-            <div class="takeActionSwiper">
-                <div class="flex flex-row space-x-2 mb-4 relative -left-1">
+        <div class="related-partner-initiatives w-full mx-auto pb-96 text-black p-20">
+            <div class="takeActionSwiper container mx-auto">
+                <div class="flex flex-row space-x-2 mb-4 relative -left-1 take-action-now opacity-0 mt-[40px]">
                     <div class="image-swiper-button-prev"></div>
                     <div class="image-swiper-button-next"></div>
                 </div>
                 <div class="swiper-wrapper">
                     {{collection:partner_initiatives  challenges:contains="{{slug}}" as="entries"}}
                         {{entries}}
-                        <div class="swiper-slide bg-white" style="height: auto !important;">
+                        <div class="swiper-slide bg-algae" style="height: auto !important;">
                             <div class="grid grid-cols-3 gap-16">
-                                <div id="take-action-now">
+                                <div class="take-action-now opacity-0">
                                     <div id="counter" class="font-serif mb-12">
                                         {{increment from="1"}}
                                         / {{entries | count}}
@@ -61,7 +61,7 @@
                                     <div class="prose font-serif pb-8">{{summary}}</div>
                                     <button>{{call_to_action}}</button>
                                 </div>
-                                <div id="actionExcerpt" class="col-span-2 bg-darkpink h-200 w-full">
+                                <div class="actionExcerpt col-span-2 bg-darkpink h-200 w-full opacity-0">
                                 </div>
                             </div>
                         </div>
