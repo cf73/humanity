@@ -1,8 +1,8 @@
 ---
 id: 462fe68a-320f-4d99-97e8-1293f0a169cd
 blueprint: photography_contribution
-title: Athens
-photographer_name: '?'
+title: 'Athens at night.'
+photographer_name: Bing
 photographer_website: Bing
 image: bingwallpaper-copy-4.jpg
 description:
@@ -11,10 +11,10 @@ description:
     content:
       -
         type: text
-        text: 'Athens panorama'
+        text: 'Athens panorama at night. '
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707486441
+updated_at: 1711550054
 collection_type: photography-contribution
 ---
