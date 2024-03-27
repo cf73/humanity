@@ -3,7 +3,7 @@ id: 5e642029-8246-4d13-ae20-7c6d9ff36812
 blueprint: photography_contribution
 title: Gandhi
 photographer_name: 'Henri Cartier-Bresson'
-photographer_website: unk
+photographer_website: 'Magnum Photos'
 image: r.6cd87990f57f486d0ed8b0013344e03c-1707873432.jpeg
 collection_type: photography-contribution
 description:
@@ -15,7 +15,7 @@ description:
         marks:
           -
             type: bold
-        text: 'ohandas Karamchand Gandhi'
+        text: 'Mohandas Karamchand Gandhi'
       -
         type: text
         text: ' (ISO: '
@@ -27,7 +27,13 @@ description:
         text: 'Mōhanadāsa Karamacaṁda Gāṁdhī'
       -
         type: text
-        text: ";[pron 1] 2 October 1869\_– 30 January 1948) was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule. He inspired movements for civil rights and freedom across the world. The honorific "
+        text: ";[pron 1] 2 October 1869\_– 30 January 1948) was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule. He inspired movements for civil rights and freedom across the world. "
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The honorific '
       -
         type: text
         marks:
@@ -95,10 +101,10 @@ description:
         type: hardBreak
       -
         type: text
-        text: '(Wikipedia bio)'
+        text: '(= Wikipedia bio)'
 challenges:
   - democracy
   - inspiration
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1710481082
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1711550734
 ---
