@@ -1,7 +1,7 @@
 ---
 id: 63fce359-6f30-40b3-96f1-9985a9ea3012
 blueprint: poetry_contribution
-title: 'The New Colossus'
+title: '"The New Colossus"'
 poets_name: 'Emma Lazarus'
 poets_website: unknown
 image: image-1711646284.jpeg
@@ -9,7 +9,7 @@ collection_type: poetry-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711646298
+updated_at: 1711646328
 content:
   -
     type: paragraph
