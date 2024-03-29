@@ -5,7 +5,7 @@ title: 'Ending war: The Einstein - Russell Manifesto, July 1955'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711730029
+updated_at: 1711730101
 section_builder:
   -
     id: lsgtt24w
