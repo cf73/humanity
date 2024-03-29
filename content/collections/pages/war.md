@@ -1,11 +1,11 @@
 ---
 id: 1ef88f1a-1435-4136-a7c2-d15c6f9a4f1a
 blueprint: page
-title: War
+title: 'Ending war: The Einstein - Russell Manifesto, July 1955'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1711466136
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1711730029
 section_builder:
   -
     id: lsgtt24w
@@ -118,7 +118,10 @@ challenge_intro:
       -
         type: text
         text: '. He calls it his “witness statement.” It is a sobering and necessary yet hopeful investigation of the actions to which we now must commit our minds and hearts in full measure.'
-intro_movie: israel-palestinians-15_1697599261609_1697599283311.avif
-challenge_intro_text: 'Text here to introduce this theme/challenge'
+intro_movie: image-1711729478.jpeg
+challenge_intro_text: |-
+  Imagine, in the spring of 1955, in the aftermath of two world wars, ten of the world's great scientists and philosophers decide to meet privately to create a manifesto of peace. 
+  Meeting in Pugwash, a little known village on the distant shores of Nova Scotia, they created the Einstein - Russell Manifesto and gave it to all humanity, to consider deeply how we can not only avoid the use of nuclear weapons but how we can at last end humankind's tragic reliance on fighting wars. 
+  Please read it below...
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 ---
