@@ -17,3 +17,4 @@ preferences:
         commencement_speeches:
           display: 'commencement speeches'
           query: 'Commencement speeches'
+      after_save: continue_editing

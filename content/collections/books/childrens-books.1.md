@@ -1,11 +1,22 @@
 ---
 id: 018aee1d-ee9a-4aac-a87f-499d4c6fb333
 blueprint: book
-title: "Children's books (including The Earthshot Prize and also charity: water's World Changers book...)"
-author: "children's books"
+title: "CHILDREN'S BOOKS!"
+author: Many
 image: image-1707485581.jpeg
 collection_type: book
 description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: 'Opening the hearts of children  --  and adults!'
   -
     type: paragraph
     content:
@@ -35,28 +46,6 @@ description:
       -
         type: text
         text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '       '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: ' '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-          -
-            type: italic
-        text: 'Opening the hearts of children'
   -
     type: paragraph
     content:
@@ -809,7 +798,7 @@ description:
     content:
       -
         type: text
-        text: 'Also, this from charity: water:'
+        text: 'Also, this recently from charity: water:'
       -
         type: hardBreak
       -
@@ -830,38 +819,17 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://links.charitywater.org/u/click?_t=814f0a418442411abf1dbdc673aee3a0&_m=af7c795572df4eba8632c46911ad06ef&_e=12167Vw-tz2EL6HSY4q7b4P4ixz7wX5zOTQ6TzG6tYvU3nh5mUmsCpr3U_GSkqO2IxwhjhrkesNkVHQw8a1xKRUMT-o1o1XG5JgrC-pyGuaAe9akDv1b7DLNrdqtE03WVFkr1sZB9kJ07Ore6fvrAym8WG9SUzoFIZQKQBAWfYds1FfrEP1W-eOAdhKSBGDAPrzyya1IbwQJwCdbAGtP4_3A0Fxj2MI17VF7PtK22j6T-I7pCaC7rVkiCJNFGORyYmubjpmNhlNc3s-ATtNwL6pflUez9yOVBFL35c_ijhFjVZGIbjGl9_aZYhfXlYgVugSkGHObhRDVzpjTZuN0NQ%3D%3D'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: bold
-        text: DOWNLOAD
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "We hope you enjoy sharing World Changers with a child who inspires you. We know they'll be encouraged to grow in generosity and compassion. "
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '— your friends at charity: water'
+        text: "We hope you enjoy sharing World Changers with a child who inspires you. We know they'll be encouraged to grow in generosity and compassion. From your friends at charity: water"
 challenges:
   - war
   - kids
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710978168
+updated_at: 1711488725
 related_partner_initiatives:
   - e418c09e-390d-4f38-987d-3a3731bb70b5
+  - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
+  - dfae34a8-30a5-4e7c-89d7-a33917e780d8
 related_content:
   - 5c0af817-aaa5-49eb-9968-8a01beb12c10
   - 3f70d8b4-b75f-4bb1-bd8d-91d7e03a8232
