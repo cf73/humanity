@@ -18,13 +18,6 @@ description:
         type: hardBreak
       -
         type: text
-        text: 'Winner of the Pulitzer Prize and a national bestseller: the global account of the rise of civilization that is also a stunning refutation of ideas of human development based on race.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
         text: 'In this "artful, informative, and delightful" (William H. McNeill, New York Review of Books) book, Jared Diamond convincingly argues that geographical and environmental factors shaped the modern world. Societies that had a head start in food production advanced beyond the hunter-gatherer stage, and then developed writing, technology, government, and organized religion—as well as nasty germs and potent weapons of war—and adventured on sea and land to conquer and decimate preliterate cultures. A major advance in our understanding of human societies, '
       -
         type: text
@@ -150,7 +143,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711828199
+updated_at: 1711828245
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
 related_content:
