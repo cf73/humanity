@@ -28,6 +28,22 @@
     font-display: swap;
 }
 @font-face {
+    font-family: 'RaporMedium';
+    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Medium.woff2') format('woff2'),
+         url('/public/assets/fonts/RAPORWOFF/Rapor-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'RaporSemibold';
+    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Semibold.woff2') format('woff2'),
+         url('/public/assets/fonts/RAPORWOFF/Rapor-Semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
     font-family: 'RaporBold';
     src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Bold.woff2') format('woff2'),
          url('/public/assets/fonts/RAPORWOFF/Rapor-Bold.woff') format('woff');
@@ -107,7 +123,10 @@ button {
   background-image: url('/public/assets/icons/next.svg');
   left: 8em;
 }
-
+.image-swiper-button-next_white {
+    background-image: url('/public/assets/icons/next-wetwhite.svg');
+    left: 8em;
+  }
 .image-swiper-button-prev {
   background-image: url('/public/assets/icons/next.svg');
   transform: rotate(180deg);

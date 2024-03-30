@@ -2,7 +2,7 @@
 id: 237d2365-a6de-41ee-8687-58f80dad4586
 blueprint: articles
 collection_type: article
-title: 'The Big Vote, by Amy Davidson Sorkin  (The New Yorker)'
+title: 'The Big Vote'
 image: robinson-projection.jpg
 link: 'https://www.newyorker.com/magazine/2024/01/15/the-biggest-election-year-in-history'
 description:
@@ -11,25 +11,11 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.newyorker.com/magazine/2024/01/15/the-biggest-election-year-in-history'
-              rel: null
-              target: null
-              title: null
-        text: 'https://www.newyorker.com/magazine/2024/01/15/the-biggest-election-year-in-history'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Here is democracy in action, 2024, in all its worldwide variations and unpredictability...'
 challenges:
   - democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711481933
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1711770455
 article_text:
   -
     type: paragraph
@@ -275,6 +261,9 @@ related_content:
   - 741d99a2-6da4-4429-979e-90df32a30949
   - 6dce87aa-d0d3-4ceb-b19a-3a59322fa98e
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
+author: 'Amy Davidson Sorkin'
+publication: 'The New Yorker'
+date_published: '2024-01-07'
 content:
   -
     type: paragraph
