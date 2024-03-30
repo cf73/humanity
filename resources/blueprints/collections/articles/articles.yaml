@@ -13,6 +13,45 @@ tabs:
               validate:
                 - required
           -
+            handle: author
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Author
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: publication
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Publication
+              instructions: 'The NAME of the original source of the article, NOT the URL.'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: link
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: URL
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
             handle: image
             field:
               max_files: 1
@@ -31,18 +70,6 @@ tabs:
               hide_display: false
               validate:
                 - required
-          -
-            handle: link
-            field:
-              input_type: text
-              antlers: false
-              type: text
-              display: URL
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
           -
             handle: description
             field:

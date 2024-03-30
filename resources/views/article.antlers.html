@@ -1,6 +1,6 @@
 <div class="relative bg-gradient-to-r from-lightgreen to-transparent ">
     <div data-speed=".3" class="absolute z-10 mx-auto top-80 right-20 w-[45vw]">
-        <img src="{{talks:image}}" alt="" >
+        <img src="{{image}}" alt="" >
         <div class="flex flex-row">
             {{partial:buttonStrong buttonLabel="Watch Now"}}
             <!-- {{partial:buttonStrong buttonLabel="See more talks"}} -->
@@ -8,18 +8,18 @@
     </div>
 
     <div class="w-9/12 py-32 px-32 space-y-8 relative z-0">
-        <div class="font-serif text-darkblack uppercase relative z-50 text-9xl">{{talks:title}}</div>
+        <div class="font-serif text-darkblack text-center relative z-50 text-9xl">{{title}}</div>
 
 
       <div class="grid grid-cols-3 gap-16">
         <div class="col-span-2 space-y-8">
 
-          <div class="prose text-darkblack font-medium text-xl">{{talks:description}}</div>
+          <div class="prose text-darkblack font-medium text-xl">{{description}}</div>
           
           <div class="space-y-2">
             <div>
-              <span class="uppercase font-medium tracking-wider">Speaker: </span>
-              <span class="font-serif">{{talks:speaker}}</span>
+              <span class="uppercase font-medium tracking-wider">Author: </span>
+              <span class="font-serif">{{author}}</span>
             </div>
             <div>
               <span class="uppercase font-medium tracking-wider">Date: </span>
@@ -40,3 +40,7 @@
       </div>
     </div>
   </div>
+
+
+<a href="{{link}}" target="_blank">View the original article here.</a>
+<div class="prose font-serif mx-auto">{{article_text}}</div>
