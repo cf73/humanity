@@ -27,13 +27,17 @@ tabs:
               validate:
                 - required
           -
-            handle: publication
+            handle: date_published
             field:
-              input_type: text
-              antlers: false
-              type: text
-              display: Publication
-              instructions: 'The NAME of the original source of the article, NOT the URL.'
+              mode: single
+              inline: false
+              full_width: false
+              columns: 1
+              rows: 1
+              time_enabled: false
+              time_seconds_enabled: false
+              type: date
+              display: 'Date Published'
               listable: hidden
               instructions_position: above
               visibility: visible
@@ -46,6 +50,19 @@ tabs:
               antlers: false
               type: text
               display: URL
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: publication
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Publication
+              instructions: 'The NAME of the original source of the article, NOT the URL.'
               listable: hidden
               instructions_position: above
               visibility: visible

@@ -15,7 +15,7 @@ description:
 challenges:
   - democracy
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1711758762
+updated_at: 1711770455
 article_text:
   -
     type: paragraph
@@ -263,6 +263,7 @@ related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
 author: 'Amy Davidson Sorkin'
 publication: 'The New Yorker'
+date_published: '2024-01-07'
 content:
   -
     type: paragraph

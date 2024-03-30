@@ -1,46 +1,60 @@
-<div class="relative bg-gradient-to-r from-lightgreen to-transparent ">
-    <div data-speed=".3" class="absolute z-10 mx-auto top-80 right-20 w-[45vw]">
+<div class="relative bg-gradient-to-r from-lightgreen to-transparent grid grid-cols-3 gap-16 py-32 px-32 ">
+    
+    <!-- image -->
+    <div data-speed="1.3" class="absolute z-0 mx-auto top-80 right-20 w-[45vw] opacity-75">
         <img src="{{image}}" alt="" >
-        <div class="flex flex-row">
-            {{partial:buttonStrong buttonLabel="Watch Now"}}
-            <!-- {{partial:buttonStrong buttonLabel="See more talks"}} -->
-        </div>
+       
     </div>
 
-    <div class="w-9/12 py-32 px-32 space-y-8 relative z-0">
-        <div class="font-serif text-darkblack text-center relative z-50 text-9xl">{{title}}</div>
+    <!-- main column -->
+    <div class="col-span-2 space-y-8 flex flex-col items-center relative z-10">
+        <div class="font-serif text-darkblack text-center relative z-50 mb-16 text-9xl">{{title}}</div>
 
-
-      <div class="grid grid-cols-3 gap-16">
-        <div class="col-span-2 space-y-8">
-
-          <div class="prose text-darkblack font-medium text-xl">{{description}}</div>
+        <div class="prose text-darkblack font-medium text-xl text-center">{{description}}</div>
           
-          <div class="space-y-2">
-            <div>
-              <span class="uppercase font-medium tracking-wider">Author: </span>
-              <span class="font-serif">{{author}}</span>
+        <div class="space-y-2 flex flex-col items-center">
+            <div id="author">
+                <span class="uppercase font-medium tracking-wider">Author: </span>
+                <span class="font-serif">{{author}}</span>
             </div>
-            <div>
-              <span class="uppercase font-medium tracking-wider">Date: </span>
-              <span class="font-serif">{{talks:date_of_talk}}</span>
+            <div id="date">
+                <span class="uppercase font-medium tracking-wider">Date Published: </span>
+                <span class="font-serif">{{date_published}}</span>
             </div>
-            <div>
-              <span class="uppercase font-medium tracking-wider">Location: </span>
-              <span class="font-serif">{{talks:location_or_event}}</span>
+            <div id="location">
+                <span class="uppercase font-medium tracking-wider">Originally published on: </span>
+                <span class="font-serif"><a href="{{link}}" target="_blank">{{publication}}</a></span>
             </div>
-          </div>
-          <div>
-            <!-- <a href="{{talks:url}}"><button>Watch Now</button></a> -->
-            <a href="{{talks:url}}"><button>11 more Talks on {{title}}</button></a>
-          </div>
         </div>
+
         
-      </div>
-      </div>
+        <div class="prose font-serif mx-auto">{{article_text}}</div>
     </div>
-  </div>
 
+    <!-- side column -->
+    <div data-speed="1.2" class="col-span-1 mt-[80vh] relative z-10">
+        <!-- <div class="uppercase tracking-wider text-softblack">Related Partner Initiatives</div> -->
+        <div class="grid grid-cols-1 gap-16">
+            {{if related_partner_initiatives}}
+                {{related_partner_initiatives}}
+                    <a href="{{url}}">{{ partial:card }}</a>
+                {{/related_partner_initiatives}}
+            {{else}}
+                No related Partner Initiatives yet - add some!
+            {{/if}}
+        </div>
 
-<a href="{{link}}" target="_blank">View the original article here.</a>
-<div class="prose font-serif mx-auto">{{article_text}}</div>
+    
+        <div class="grid grid-cols-1 gap-16">
+            {{if related_content}}
+                {{related_content}}
+                <a href="{{url}}">{{ partial:card }}</a>
+                {{/related_content}}
+                {{else}}
+                No suggested content yet - add some!
+            {{/if}}
+        </div>
+
+    </div>
+</div>
+
