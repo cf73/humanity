@@ -5,7 +5,7 @@ title: 'End war'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711912584
+updated_at: 1711912864
 section_builder:
   -
     id: ludi5o3a
@@ -21,6 +21,32 @@ section_builder:
     id: lso71hqp
     type: interstitial_text
     enabled: true
+    interstitial_text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: '"Someday they’ll give a war, and nobody will come."'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: '      '
+          -
+            type: text
+            text: '~   Carl Sanburg, American poet'
   -
     id: lsgttcyk
     quotation: a50e90bb-af76-4603-9246-65b888b22e71
