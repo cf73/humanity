@@ -9,7 +9,8 @@ intro:
     content:
       -
         type: text
-        text: 'Since the 1980s, the Humanity Initiative has been reviewing and collecting content that sheds light on our world. Our highest and lowest moments are here. Where will they take you?'
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1709145551
+        text: 'Since publishing our journal thirty years ago, we have been reviewing and collecting content that sheds light on our world. We welcome your curiosity and comments. We hope that you will find exciting ways to participate in the positive changes that humankind and animalkind so deeply need. '
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1711925424
+parent: home
 ---
