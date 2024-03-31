@@ -5,7 +5,7 @@ template: challenge
 title: 'Save democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711908126
+updated_at: 1711908606
 challenge_intro:
   -
     type: paragraph
@@ -13,7 +13,7 @@ challenge_intro:
       -
         type: text
         text: 'Intro to this challenge here'
-intro_movie: 49682799561_0d038cfd0d_h.jpg
+intro_movie: image-1711908585.jpeg
 challenge_intro_text: |-
   On the final day of the American Constitutional Convention of 1787, as people gathered in colonial Philadelphia to await news of what exactly the founders had crafted, Elizabeth Willing Powel, a well known salonaire of that era and a close confidant of George Washington, inquired of Ben Franklin, “What have we created, Dr. Franklin, a republic or a monarchy?” His famous reply: “A republic…if you can keep it.”
 
@@ -48,7 +48,21 @@ section_builder:
         content:
           -
             type: text
-            text: 'We must not take our democracies for granted. Let the content on this page guide you to a path of creative action!'
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: '"Give me a place to stand and I will move the world."'
+          -
+            type: text
+            text: '  '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '      ~    Archimedes'
     type: interstitial_text
     enabled: true
   -
