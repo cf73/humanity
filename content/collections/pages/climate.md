@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711917910
+updated_at: 1711919529
 section_builder:
   -
     id: lu8ulqyv
@@ -84,7 +84,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'Tony text on why this is so critical and empowering…'
+            text: '"I get up every morning determined to both change the world and have one hell of a good time. Sometimes this makes planning my day difficult."    E. B. White, American writer'
     type: interstitial_text
     enabled: true
   -
