@@ -11,8 +11,8 @@ challenge_intro_text: |-
 template: challenge
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711848849
-intro_movie: 5713253479_35a0dd627a_k.jpg
+updated_at: 1711923723
+intro_movie: image-1711923706.jpeg
 section_builder:
   -
     id: lueu50d5
