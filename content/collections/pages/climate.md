@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711919529
+updated_at: 1711924005
 section_builder:
   -
     id: lu8ulqyv
@@ -99,7 +99,7 @@ section_builder:
     enabled: true
 intro_movie: man-staring-up-at-aurora-1711916552.jpg
 challenge_intro_text: |-
-  Let's plunge right in, with a deep and compelling dive into humanity’s climate crisis. The title says it all: “Drawdown. The Most Comprehensive Plan Ever Proposed to Reverse Global Warning.”
+  Let's plunge right in to rising seas, with a deep dive into humanity’s climate crisis. The title says it all: “Drawdown. The Most Comprehensive Plan Ever Proposed to Reverse Global Warning.”
 
   Edited by Paul Hawken, produced by hundreds of outstanding writers and researchers from across the continents, this is indeed a visionary and comprehensive resource for understanding both the challenges and solutions of this climate change era, the Anthropocene. This is truly an exciting and hopeful read.
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
