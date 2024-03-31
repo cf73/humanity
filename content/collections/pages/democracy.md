@@ -5,7 +5,7 @@ template: challenge
 title: 'Save democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711899429
+updated_at: 1711905658
 challenge_intro:
   -
     type: paragraph
@@ -15,14 +15,14 @@ challenge_intro:
         text: 'Intro to this challenge here'
 intro_movie: 49682799561_0d038cfd0d_h.jpg
 challenge_intro_text: |-
-  On the final day of the American Constitutional Convention of 1787, as people gathered in colonial Philadelphia to await news of what exactly our founders had crafted, Elizabeth Willing Powel, a well known salonaire of that era and a close confidant of George Washington, inquired of Ben Franklin, “What have we created, Dr. Franklin, a republic or a monarchy?” His famous reply: “A republic…if you can keep it.”
+  On the final day of the American Constitutional Convention of 1787, as people gathered in colonial Philadelphia to await news of what exactly the founders had crafted, Elizabeth Willing Powel, a well known salonaire of that era and a close confidant of George Washington, inquired of Ben Franklin, “What have we created, Dr. Franklin, a republic or a monarchy?” His famous reply: “A republic…if you can keep it.”
 
   Little could Franklin have known that he also would be speaking to most countries around the globe 235 years later, for the world now anxiously nurtures increasingly fragile democratic experiments in the face of expanding authoritarianism.
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 section_builder:
   -
     id: lua4vqlr
-    talks: e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
+    talks: 741d99a2-6da4-4429-979e-90df32a30949
     type: talks
     enabled: true
   -
@@ -37,7 +37,7 @@ section_builder:
     enabled: true
   -
     id: lua4wj5e
-    book: 9f09c216-ae44-4a47-badf-16a8ab75a311
+    book: bd8e76be-8769-4deb-94d4-3345b5477b38
     type: book
     enabled: true
   -
@@ -48,12 +48,12 @@ section_builder:
         content:
           -
             type: text
-            text: 'We must not take our democracy for granted. Let the content on this page guide you into a path of creative action!'
+            text: 'We must not take our democracies for granted. Let the content on this page guide you to a path of creative action!'
     type: interstitial_text
     enabled: true
   -
     id: lua4xfns
-    commencement_speech: fab94cb3-0c49-48a3-af62-e8ea16f88bc3
+    commencement_speech: 6a360ee3-019d-4dee-b075-4e5aeacce306
     type: commencement_speech
     enabled: true
 ---
