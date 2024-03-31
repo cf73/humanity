@@ -5,7 +5,7 @@ title: 'End war'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711915299
+updated_at: 1711915455
 section_builder:
   -
     id: ludi5o3a
@@ -21,6 +21,99 @@ section_builder:
     id: lso71hqp
     type: interstitial_text
     enabled: true
+    interstitial_text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Yes, and how many times must a man look up'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: italic
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Before he can see the sky?'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: italic
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'And how many ears must one man have'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: italic
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Before he can hear people cry?'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: italic
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: "Yes, and how many deaths will it take 'til he knows"
+          -
+            type: hardBreak
+            marks:
+              -
+                type: italic
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'That too many people have died?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: "The answer, my friend, is blowin' in the wind"
+          -
+            type: hardBreak
+            marks:
+              -
+                type: italic
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: "The answer is blowin' in the wind"
+      -
+        type: paragraph
+        content:
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '“Blowing in the Wind”, by Bob Dylan'
   -
     id: lsgttcyk
     quotation: 8d69ad34-4655-456c-a998-21d71086ceb0
