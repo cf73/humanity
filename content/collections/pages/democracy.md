@@ -5,7 +5,7 @@ template: challenge
 title: 'Save democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711905658
+updated_at: 1711908126
 challenge_intro:
   -
     type: paragraph
@@ -22,7 +22,7 @@ parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 section_builder:
   -
     id: lua4vqlr
-    talks: 741d99a2-6da4-4429-979e-90df32a30949
+    talks: e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
     type: talks
     enabled: true
   -
