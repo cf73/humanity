@@ -1,7 +1,7 @@
 ---
 id: ae48bce9-8395-40a6-8fe2-1542b9e41817
 blueprint: simple_page
-title: 'Our humanitarian, non-profit partners'
+title: 'Our humanitarian partners'
 template: partnerinitiatives
 intro:
   -
@@ -17,6 +17,6 @@ intro:
         type: text
         text: 'We also soon will be making it easy for you, if you prefer, to aggregate several donations with one payment, saving time and trouble. We of course will have direct links as well to both the volunteer and donation pages of each of these 30 non-profits.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711847995
+updated_at: 1711924192
 parent: home
 ---
