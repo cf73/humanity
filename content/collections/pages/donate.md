@@ -3,7 +3,7 @@ id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
 title: Donate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711924904
+updated_at: 1711924981
 intro:
   -
     type: paragraph
@@ -83,6 +83,18 @@ intro:
   -
     type: paragraph
     content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Tony Balis (USA, founder and president), Conrad Fullbrook (England), Kylie Janssens (South Africa), Sheila Kinkade (USA), Shashi Tharoor (India), Jacqueline Wigglesworth, England. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Humanity Initiative is a 501(c)(3). Your donations are fully tax-deductible in the United States.'
       -
         type: hardBreak
 parent: home
