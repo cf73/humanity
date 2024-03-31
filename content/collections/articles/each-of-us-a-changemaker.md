@@ -1,7 +1,7 @@
 ---
 id: cec12744-472f-4da0-b17a-41b303b4a29e
 blueprint: articles
-title: '"Each Of Us, Together"'
+title: '“To Rescue our Humanity”'
 image: wall-china-copy.jpeg
 link: none
 description:
@@ -12,15 +12,6 @@ description:
         type: text
         text: 'Brief essay on the necessity of working together to rescue humanity.'
 article_text:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: '“To Rescue our Humanity”'
   -
     type: paragraph
     content:
@@ -103,5 +94,7 @@ related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - 8a6167d1-d897-4c80-a069-cb77667b2353
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711499894
+updated_at: 1711898868
+author: 'Tony Balis'
+date_published: '1992-07-24'
 ---
