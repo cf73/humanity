@@ -1,11 +1,11 @@
 ---
 id: 1ef88f1a-1435-4136-a7c2-d15c6f9a4f1a
 blueprint: page
-title: 'Ending war'
+title: 'End war'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1711767896
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1711912329
 section_builder:
   -
     id: ludi5o3a
@@ -123,7 +123,12 @@ challenge_intro:
       -
         type: text
         text: '. He calls it his “witness statement.” It is a sobering and necessary yet hopeful investigation of the actions to which we now must commit our minds and hearts in full measure.'
-intro_movie: image-1711729478.jpeg
-challenge_intro_text: 'General intro to the page about ending war'
+intro_movie: sq-print-frs-0321-2-4-edited-1024x747.jpg
+challenge_intro_text: |-
+  So how exactly can humanity at last end the scourge of war? How do we meet such a seemingly impossible challenge, particularly in the face of the cynic, the terrorist and the fascist, who will always be among us? 
+
+  In the words of Nobel Peace Prize recipient, ​​Dag Hammarskjöld, “Our work for peace must begin within the private world of each one of us.” 
+
+  And from there...may it flow into dramatic enlightenment across the continents...fueled by the natural and deep dedication of the vast majority of humankind towards living in peace.
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 ---
