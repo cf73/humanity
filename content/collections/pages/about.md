@@ -4,13 +4,15 @@ blueprint: page
 title: About
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712004392
+updated_at: 1712007165
 intro_movie: first-h-cover-jpeg-1711920339.jpeg
 challenge_intro_text: |-
   The Humanity Initiative was founded in 1984 by Tony Balis, with the mission of encouraging people to understand this planet as our common home. 
 
   Initially we published a journal of non-fiction and photography, called 'humanity.' Our first contributor was HH The Dalai Lama, who agreed to write a letter to the children of the world. 
 
-  In 1997 we ended the journal in favor of the internet.
+  In 1997 we ended the journal in favor of the internet. It is now a digital resource for insight on humanity's three most urgent crises: ending war, saving democracy, and solving climate change. 
+
+  To this we have added detailed insight on the thirty leading humanitarian non-profits, how best to volunteer in what they do and to donate to advance their missions.
 parent: home
 ---
