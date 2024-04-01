@@ -377,18 +377,6 @@ article_text:
     content:
       -
         type: text
-        text: ADVERTISEMENT
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Sudanese civil society groups recount the horrifying tales of desperation and exploitation, including a surge in gender-based violence as women engage in “survival sex” with militiamen to feed themselves and their families. RSF fighters, as my colleagues Katharine Houreld and Hafiz Haroun '
       -
         type: text
@@ -458,12 +446,6 @@ article_text:
       -
         type: text
         text: '. “They ask why they have been forsaken; why they have been forgotten.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '1,000 WORDS'
 collection_type: article
 challenges:
   - war
@@ -478,5 +460,5 @@ related_content:
   - 6dce87aa-d0d3-4ceb-b19a-3a59322fa98e
   - 68c5ad00-6ff3-497d-a231-6789aed33965
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712002685
+updated_at: 1712002827
 ---
