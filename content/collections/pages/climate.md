@@ -2,10 +2,10 @@
 id: 9bfe6cc0-baef-4f15-8516-95ee6a52d784
 blueprint: page
 template: challenge
-title: 'Solving Climate Change'
+title: 'Solving climate change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711924101
+updated_at: 1711983425
 section_builder:
   -
     id: lu8ulqyv
@@ -68,7 +68,7 @@ section_builder:
     enabled: true
   -
     id: lu8u1j26
-    commencement_speech: e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
+    commencement_speech: 5d85beb0-2e22-4a87-8b15-6b37397f50cd
     type: commencement_speech
     enabled: true
   -
