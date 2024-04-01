@@ -1,10 +1,10 @@
 ---
 id: 0513c820-e382-4f2f-98fc-496e5578650e
 blueprint: simple_page
-title: 'Our mission'
+title: 'Our Mission'
 parent: e2c682f5-04cb-4b69-83f6-50cdbc6f2fa7
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711924766
+updated_at: 1711983534
 intro:
   -
     type: paragraph
