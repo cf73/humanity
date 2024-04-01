@@ -3,7 +3,7 @@ id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
 title: Donate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711924981
+updated_at: 1712006477
 intro:
   -
     type: paragraph
@@ -41,19 +41,19 @@ intro:
     content:
       -
         type: text
-        text: 'Not least, recognizing that humanity’s most critical challenge is to end war, we now are designing grass roots peace gatherings across the continents, intent on countering fascism at every turn with resolute and engaging humanism.'
+        text: 'We offer this digital oasis both as insight on Earth’s major challenges and as inspiration to tune our personal journeys towards helping solve them. Consider this a town meeting for the planet, a conversation with the world.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Also, throughout this site, as we highlight the inspiring efforts of those in the trenches of positive change and at the forefront of civilization, we champion those who make quieter but equally positive changes every day in every distant neighborhood.'
+        text: 'Also, throughout this site, as we highlight the inspiring efforts of those in the trenches of positive change and at the forefront of civilization, we champion those as well who make quieter but equally positive changes every day in every distant neighborhood.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Humanity Initiative offers this digital oasis as a town meeting for the planet, as insight on Earth’s major challenges, and as inspiration to tune our personal journeys towards helping solve them.'
+        text: 'Not least, recognizing that humanity’s most critical challenge is to end war, we have designed a blueprint for grass roots peace gatherings across the continents, intent on countering fascism at every turn with resolute and engaging humanism.'
   -
     type: paragraph
     content:
