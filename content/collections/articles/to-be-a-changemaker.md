@@ -1,7 +1,7 @@
 ---
 id: b0f6a4e1-6496-4fde-9241-ada32af2b40a
 blueprint: articles
-title: 'To be a Changemaker'
+title: 'On Becoming Changemakers'
 author: 'Tony Balis'
 publication: 'On Becoming Changemakers'
 image: oip.ya_cxb3maf7owexn0rjzzwaaaa-1711985381.jpeg
@@ -96,5 +96,5 @@ related_partner_initiatives:
 related_content:
   - 9e01cac3-8708-4f6e-b25f-52f499a2e4fc
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711985394
+updated_at: 1711985429
 ---
