@@ -17,6 +17,6 @@ intro:
         type: text
         text: 'We soon will be making it easy for you, as well, to aggregate several donations into one payment, saving you time and trouble. We will have direct links as well to both the volunteer and donation pages of each organization. '
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712091128
+updated_at: 1712091133
 parent: home
 ---
