@@ -9,8 +9,8 @@ intro:
     content:
       -
         type: text
-        text: 'Since publishing our journal, humanity, more than thirty years ago, The Humanity Initiative has been offering a wide range of content that sheds light on our world, that encourages all of us to become changemakers, to discover fulfilling ways to participate in the positive change that sentientkind so deeply needs. '
+        text: 'Since publishing our journal, humanity, more than thirty years ago, The Humanity Initiative has been offering a wide range of content that sheds an intense but sympathetic light on our world, encouraging all of us to become changemakers, to discover fulfilling ways to participate in the positive change that sentientkind so deeply needs. '
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712033151
+updated_at: 1712033279
 parent: home
 ---
