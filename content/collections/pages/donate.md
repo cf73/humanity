@@ -3,7 +3,7 @@ id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
 title: Donate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712006477
+updated_at: 1712089961
 intro:
   -
     type: paragraph
@@ -47,7 +47,7 @@ intro:
     content:
       -
         type: text
-        text: 'Also, throughout this site, as we highlight the inspiring efforts of those in the trenches of positive change and at the forefront of civilization, we champion those as well who make quieter but equally positive changes every day in every distant neighborhood.'
+        text: 'Throughout this site, as we highlight the inspiring efforts of those in the trenches of positive change and at the forefront of civilization, we also champion those who make quieter but equally positive changes every day in every distant neighborhood.'
   -
     type: paragraph
     content:
@@ -88,14 +88,12 @@ intro:
         marks:
           -
             type: italic
-        text: 'Tony Balis (USA, founder and president), Conrad Fullbrook (England), Kylie Janssens (South Africa), Sheila Kinkade (USA), Shashi Tharoor (India), Jacqueline Wigglesworth, England. '
+        text: 'Tony Balis (USA, founder and president), Conrad Fulbrook (England), Kylie Janssens (South Africa), Sheila Kinkade (USA), Shashi Tharoor (India), Jacqueline Wigglesworth, England. '
   -
     type: paragraph
     content:
       -
         type: text
         text: 'The Humanity Initiative is a 501(c)(3). Your donations are fully tax-deductible in the United States.'
-      -
-        type: hardBreak
 parent: home
 ---
