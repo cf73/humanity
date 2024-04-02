@@ -26,7 +26,7 @@ challenges:
   - war
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711488167
+updated_at: 1712092052
 article_text:
   -
     type: paragraph
@@ -1172,9 +1172,11 @@ related_content:
   - fab94cb3-0c49-48a3-af62-e8ea16f88bc3
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
-  - b9c68c79-3945-4421-b018-4f949e78e03a
   - ba850df4-c102-43cf-a7f7-0c66ed1f60d7
 link: misc.
+author: 'The Humanity Initiative'
+date_published: '2024-04-30'
+publication: THI
 content:
   -
     type: paragraph
