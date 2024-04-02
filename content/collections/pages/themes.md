@@ -11,7 +11,7 @@ introduction_to_challenges:
         type: text
         text: 'Intro to all the challenges we face here'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712012772
+updated_at: 1712091186
 filters:
   - articles
   - talks
@@ -24,5 +24,11 @@ introduction_to_themes:
       -
         type: text
         text: 'Blurb here about these themes, with what to expect etc.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Sorry we don't do blurbs. Only flowers."
 parent: home
 ---
