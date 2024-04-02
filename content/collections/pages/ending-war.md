@@ -1,91 +1,122 @@
 ---
 id: 1ef88f1a-1435-4136-a7c2-d15c6f9a4f1a
 blueprint: page
-title: 'Ending war'
+title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1711767896
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1711983483
 section_builder:
   -
     id: ludi5o3a
     type: article
     enabled: true
-    article: 94fd7a0f-10c7-4d7b-9ce1-0566ac29b55f
+    article: e1912d5b-c259-42ca-aa14-01faa3424173
   -
     id: lsgtt24w
-    talks: e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
+    talks: 9e01cac3-8708-4f6e-b25f-52f499a2e4fc
     type: talks
     enabled: true
   -
     id: lso71hqp
+    type: interstitial_text
+    enabled: true
     interstitial_text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Humankind continues to reshape the surface of the planet — so often at the expense of our future, as in this BBC '
+            marks:
+              -
+                type: italic
+            text: 'Yes, and how many times must a man look up'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: italic
           -
             type: text
             marks:
               -
-                type: link
-                attrs:
-                  href: 'https://www.bbc.com/future/article/20231222-how-humans-have-changed-earths-surface-in-2023'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'summary on what we have done in this past year alone (12/27/23)'
+                type: italic
+            text: 'Before he can see the sky?'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: italic
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'And how many ears must one man have'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: italic
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Before he can hear people cry?'
+          -
+            type: hardBreak
+            marks:
+              -
+                type: italic
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: "Yes, and how many deaths will it take 'til he knows"
+          -
+            type: hardBreak
+            marks:
+              -
+                type: italic
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'That too many people have died?'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'And one of the less noticed effects of the continued violence of the human species is to dramatically effect carbon release into the Earth’s atmosphere, as in this '
-          -
-            type: text
             marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'recent '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1'
-                  rel: null
-                  target: null
-                  title: null
               -
                 type: italic
-            text: 'Guardian '
+            text: "The answer, my friend, is blowin' in the wind"
+          -
+            type: hardBreak
+            marks:
+              -
+                type: italic
           -
             type: text
             marks:
               -
-                type: link
-                attrs:
-                  href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1'
-                  rel: null
-                  target: null
-                  title: null
-            text: 'report on the Mid-East war (1/10/24)'
+                type: italic
+            text: "The answer is blowin' in the wind"
+      -
+        type: paragraph
+        content:
+          -
+            type: hardBreak
           -
             type: text
-            text: .
-    type: interstitial_text
-    enabled: true
+            text: '“Blowing in the Wind”, by Bob Dylan'
   -
     id: lsgttcyk
-    quotation: a50e90bb-af76-4603-9246-65b888b22e71
+    quotation: 8d69ad34-4655-456c-a998-21d71086ceb0
     type: quotation
     enabled: true
   -
@@ -123,7 +154,12 @@ challenge_intro:
       -
         type: text
         text: '. He calls it his “witness statement.” It is a sobering and necessary yet hopeful investigation of the actions to which we now must commit our minds and hearts in full measure.'
-intro_movie: image-1711729478.jpeg
-challenge_intro_text: 'General intro to the page about ending war'
+intro_movie: sq-print-frs-0321-2-4-edited-1024x747.jpg
+challenge_intro_text: |-
+  So how exactly can humanity at last end the scourge of war? How do we meet such a seemingly impossible challenge, particularly in the face of the cynic, the terrorist and the fascist, who will always be among us? 
+
+  In the words of Nobel Peace Prize recipient, ​​Dag Hammarskjöld, “Our work for peace must begin within the private world of each one of us.” 
+
+  And from there...may it flow into dramatic enlightenment across the continents...fueled by the natural and deep dedication of the vast majority of humankind towards living in peace.
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 ---

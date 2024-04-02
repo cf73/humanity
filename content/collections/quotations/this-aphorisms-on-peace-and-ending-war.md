@@ -1,7 +1,7 @@
 ---
 id: b9c3aec9-7d96-43e7-b25b-35b63762dc05
 blueprint: quotation
-title: "THI's 43 aphorisms on peace and war..."
+title: "THI's 43 aphorisms on peace and ending war..."
 quotation: |-
   As both resource and inspiration, here is our offering of a few compelling aphorisms on war and peace.
 
@@ -133,5 +133,5 @@ collection_type: talk
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711720356
+updated_at: 1711980053
 ---

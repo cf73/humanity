@@ -1,11 +1,18 @@
 ---
-id: bef84282-b6e5-4552-8088-1ada3522f09f
-blueprint: talk
-title: '(article) To The Changemakers'
-speaker: 'Tony Balis'
-location_or_event: unk
-date_of_talk: '2024-03-23'
+id: b0f6a4e1-6496-4fde-9241-ada32af2b40a
+blueprint: articles
+title: 'On Becoming Changemakers'
+author: 'Tony Balis'
+publication: 'On Becoming Changemakers'
+image: oip.ya_cxb3maf7owexn0rjzzwaaaa-1711985381.jpeg
 description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: TB
+article_text:
   -
     type: paragraph
     content:
@@ -14,13 +21,13 @@ description:
         marks:
           -
             type: bold
-        text: '“To The Changemakers”'
+        text: '“On Becoming Changemakers”'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "(a short essay)\_"
+        text: "(short essay)\_"
   -
     type: paragraph
     content:
@@ -81,27 +88,14 @@ description:
       -
         type: text
         text: "make a positive\_difference?”"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'by Tony Balis'
-link: unk
-image: bingwallpaper-2018-08-13.jpg
-collection_type: talk
+collection_type: article
 challenges:
   - inspiration
 related_partner_initiatives:
   - 8e78665e-26d1-400e-8f6f-2391b9bfec84
 related_content:
-  - ecd34d1f-9510-468f-9b8e-4f6d6c678fbf
+  - 9e01cac3-8708-4f6e-b25f-52f499a2e4fc
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711240631
+updated_at: 1712006812
+date_published: '1988-07-04'
 ---

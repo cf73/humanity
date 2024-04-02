@@ -9,7 +9,13 @@ description:
     content:
       -
         type: text
-        text: 'Many believe that women should run the world. Here are many reminders why...'
+        text: 'Throughout history, women have changed the world with their strength, resistance, passion, and determination to create a better future. While the fight for equality continues, it’s important to remember the accomplishments of well-known idols and discover new ones who are shaping the world today.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Here are women from different countries and time periods who championed the fight for equality..'
 article_text:
   -
     type: paragraph
@@ -70,5 +76,6 @@ related_partner_initiatives:
 related_content:
   - 3c9aefca-a9fe-4455-86b6-0585897d6854
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711501305
+updated_at: 1711899044
+author: 'BBC, history.com, one.org'
 ---

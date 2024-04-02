@@ -2,10 +2,10 @@
 id: 9bfe6cc0-baef-4f15-8516-95ee6a52d784
 blueprint: page
 template: challenge
-title: Climate
+title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1711486175
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1711983631
 section_builder:
   -
     id: lu8ulqyv
@@ -15,34 +15,60 @@ section_builder:
         content:
           -
             type: text
-            text: 'Maybe kick off the page with some text like this, to introduce what’s coming below?'
+            marks:
+              -
+                type: bold
+            text: '“We must re-wild the planet,”  says Sir David Attenborough'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'It could be a paragraph or two… you will know better than I! This text is just here to bulk up the typographic space and evaluate for visual purposes, so feel free to replace it or delete it as you get a feel for authoring the selection of content shown on this theme page, drawing from the best of what is available throughout the site.'
+            text: 'The world is fortunate for the wise and heartfelt voice of this 94-year-old naturalist, broadcaster and humanist. He not only clarifies Earth’s climate crisis; he also delineates clear solutions, as in his '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'must-see '
+          -
+            type: text
+            text: 'film, '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'http://netflix.com/title/80216393'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'A Life on the Planet'
+          -
+            type: text
+            text: '. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Have fun!'
+            text: 'He calls it his “witness statement.” It is a sobering and necessary yet hopeful investigation of the actions to which all of us now must commit our minds and hearts in full measure.'
     type: interstitial_text
     enabled: true
   -
     id: lu8u0wtn
-    article: 29a151c3-c9be-46b9-977f-e15f1de27554
+    article: 20f17fae-af70-4c0a-b474-b9a75f95c1b8
     type: article
     enabled: true
   -
     id: lu8u1989
-    book: bb741d00-8673-47f0-8869-cd36c404c92e
+    book: 094f509c-6dba-4c63-a475-22cbd0c2f879
     type: book
     enabled: true
   -
     id: lu8u1j26
-    commencement_speech: d5b3281c-b13a-4515-bfc2-87d2e15a7cb5
+    commencement_speech: 5d85beb0-2e22-4a87-8b15-6b37397f50cd
     type: commencement_speech
     enabled: true
   -
@@ -58,12 +84,12 @@ section_builder:
         content:
           -
             type: text
-            text: 'Tony text on why this is so critical and empowering…'
+            text: '"I get up every morning determined to both change the world and have one hell of a good time. Sometimes this makes planning my day difficult."    E. B. White, American writer'
     type: interstitial_text
     enabled: true
   -
     id: lsp0gq4k
-    quotation: af20afc7-07a3-4268-b5e1-1465773f3ef1
+    quotation: d1d168b1-270e-4fc9-b723-1c65d0552fad
     type: quotation
     enabled: true
   -
@@ -71,7 +97,10 @@ section_builder:
     talks: 263accbc-caa0-48eb-964e-dccc457c29cc
     type: talks
     enabled: true
-intro_movie: act-fast-intxt2-new.jpg
-challenge_intro_text: 'Climate intro text here, flowery or otherwise...'
+intro_movie: man-staring-up-at-aurora-1711916552.jpg
+challenge_intro_text: |-
+  Let's plunge right in to rising seas, with a deep dive into humanity’s climate crisis. The title says it all: “Drawdown. The Most Comprehensive Plan Ever Proposed to Reverse Global Warning.”
+
+  Edited by Paul Hawken, produced by hundreds of outstanding writers and researchers from across the continents, this is indeed a visionary and comprehensive resource for understanding both the challenges and solutions of this climate change era, the Anthropocene. This is truly an exciting and hopeful read.
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 ---
