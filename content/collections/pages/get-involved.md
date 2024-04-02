@@ -4,7 +4,7 @@ blueprint: simple_page
 title: 'Get Involved'
 parent: e2c682f5-04cb-4b69-83f6-50cdbc6f2fa7
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712090775
+updated_at: 1712090899
 intro:
   -
     type: paragraph
@@ -17,5 +17,5 @@ intro:
     content:
       -
         type: text
-        text: 'Then may your aroused curiosity lead you through the work of our thirty humanitarian partners, finding yourself inspecting their successes and their volunteer opportunities. Not least, considering where and how you might like to contribute a donation, either directly on their sites or with the ease of an aggregate donation here on www.humanity.org.'
+        text: "Then may your aroused curiosity lead you through the work of our thirty humanitarian partners, finding yourself considering their challenges, their successes, and their volunteer opportunities. Not least, consider where and how you might like to make a donation, either directly on our partners' sites or with the ease of an aggregate donation here on www.humanity.org."
 ---
