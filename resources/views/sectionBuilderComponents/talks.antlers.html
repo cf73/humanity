@@ -1,0 +1,41 @@
+<div class="relative overflow-hidden">
+    <div class="absolute z-10 mx-auto top-80 right-20 w-[45vw]">
+        <img src="{{talks:image}}" alt="" >
+        <div class="flex flex-row">
+            {{partial:buttonStrong buttonLabel="Watch Now"}}
+            <!-- {{partial:buttonStrong buttonLabel="See more talks"}} -->
+        </div>
+    </div>
+
+    <div class="w-9/12 bg-gradient-to-r from-oceanbluez to-transparent  py-32 px-32 space-y-8 relative z-0">
+      <div class="font-semibold text-darkblack uppercase relative z-50 text-5xl">{{talks:title}}</div>
+
+
+      <div class="grid grid-cols-3 gap-16">
+        <div class="col-span-2 space-y-8">
+
+          <div class="prose text-darkblack font-medium text-xl">{{talks:description}}</div>
+          
+          <div class="space-y-2">
+            <div>
+              <span class="uppercase font-medium tracking-wider">Speaker: </span>
+              <span class="font-serif">{{talks:speaker}}</span>
+            </div>
+            <div>
+              <span class="uppercase font-medium tracking-wider">Date: </span>
+              <span class="font-serif">{{talks:date_of_talk}}</span>
+            </div>
+            <div>
+              <span class="uppercase font-medium tracking-wider">Location: </span>
+              <span class="font-serif">{{talks:location_or_event}}</span>
+            </div>
+          </div>
+          <div>
+            <!-- <a href="{{talks:url}}"><button>Watch Now</button></a> -->
+            <a href="{{talks:url}}"><button>11 more talk on {{title}}</button></a>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>

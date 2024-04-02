@@ -2,26 +2,26 @@
     <div>
       {{ section_builder }}
         {{ if type == "article" }}
-            {{ partial:themeCard :passthru="{type}" passedcolor="oceanbluez" }}
+          {{ partial:sectionBuilderComponents/articles }}
 
         {{ elseif type == "book" }}
-            {{ partial:themeCard :passthru="{type}" passedcolor="hotpink" }}
+        {{ partial:sectionBuilderComponents/books }}
 
         {{ elseif type == "commencement_speech" }}
             {{ partial:themeCard :passthru="{type}" passedcolor="lightgreen" }}
 
         {{ elseif type == "talks" }}
-            {{ partial:themeCard :passthru="{type}" passedcolor="yello" }}
+          {{ partial:sectionBuilderComponents/talks }}
 
         {{ elseif type == "interstitial_text" }}
-          <div class="prose font-serif">
+          <div class="container mx-auto font-serif text-5xl text-center leading-normal my-32">
             {{interstitial_text}}
           </div>
 
         {{ elseif type == "quotation" }}
-          <div class="flex flex-col items-center space-y-4">
-              <div class="font-serif text-3xl text-center leading-loose">{{ quotation:quotation }}</div>
-              <p>— {{ quotation:attribution }}</p>
+          <div class="container mx-auto font-serif text-5xl text-center leading-normal my-32 space-y-4">
+            <div>{{ quotation:quotation }}</div>
+            <div class="text-xl font-medium uppercase text-center tracking-wider text-softblack">— {{ quotation:attribution }}</div>
           </div>
 
         {{ elseif type == "inspiring_image" }}
