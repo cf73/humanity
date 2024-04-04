@@ -2,7 +2,7 @@
 id: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 blueprint: challenges
 template: challenges
-title: 'Themes (right word?)'
+title: 'Most Crucial Challenges'
 introduction_to_challenges:
   -
     type: paragraph
@@ -11,7 +11,7 @@ introduction_to_challenges:
         type: text
         text: 'Intro to all the challenges we face here'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712091186
+updated_at: 1712242413
 filters:
   - articles
   - talks
@@ -23,12 +23,18 @@ introduction_to_themes:
     content:
       -
         type: text
-        text: 'Blurb here about these themes, with what to expect etc.'
+        text: '#1    ENDING WAR'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Sorry we don't do blurbs. Only flowers."
+        text: '#2    SOLVING CLIIMATE CHANGE'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '#3    SAVING DEMOCRACY'
 parent: home
 ---
