@@ -11,7 +11,7 @@ introduction_to_challenges:
         type: text
         text: 'Intro to all the challenges we face here'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712242413
+updated_at: 1712242499
 filters:
   - articles
   - talks
