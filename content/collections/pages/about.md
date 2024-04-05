@@ -4,7 +4,7 @@ blueprint: page
 title: About
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712283670
+updated_at: 1712283692
 intro_movie: first-h-cover-jpeg-1711920339.jpeg
 challenge_intro_text: |-
   This is an oasis, not a news destination. We have designed a comfortable and intriguing place to linger, to sharpen your instincts about the fate of the world and discover ways to help save it, not least to world to do so in ways that nourishes your particular causes and hones your skills. 
