@@ -4,10 +4,14 @@ blueprint: page
 title: About
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712283975
+updated_at: 1712285164
 intro_movie: first-h-cover-jpeg-1711920339.jpeg
 challenge_intro_text: |-
-  This is an oasis, not a news destination. We have designed a comfortable and intriguing place to linger, all the while sharpening your instincts about the fate of the world and discovering ways to help save it, not least to do so in ways that nourish your favorite causes or introduce you to new ones. 
+  This is an oasis, not a news destination. We have designed a comfortable and intriguing place to linger, to sharpen your instincts about the fate of the world and discover ways to help save it, not least to do so in ways that nourish your favorite causes and introduce you to new ones. 
+
+  We want you to think, to stare out the window and consider what you have just read or heard or seen, to get excited about joining the world of positive change, or accelerating your place in it. 
+
+
 
   Ways that honor and hone your skills.... 
 
