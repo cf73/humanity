@@ -1,0 +1,42 @@
+<div class="container mx-auto">
+  <div class="relative overflow-hidden py-[33vh] flex flex-col grid grid-cols-12 gap-8 w-full">
+    
+    <!-- blob -->
+    <div data-speed=".4" class="bg-lightgreen blur-[15vh] rounded-[50%] absolute -z-10 left-[50%] mt-[40%] h-[70vh] w-[70vh] ml-[-35vh]"></div>
+  
+    <!-- image -->
+    <div data-speed="1.5" class="col-span-6">
+        <img src="{{article:image}}" alt="{{title}}" width="100%">
+    </div>
+  
+    <!-- text -->
+    <div class="col-span-5 col-start-8">
+        {{partial:headingText content="{{article:title}}" highlight=""}}
+  
+      <div class="mt-8 space-y-8">
+        <!-- metadata -->
+        <div class="space-y-2">
+          <div>
+            <span class="uppercase font-medium tracking-widest">Author: </span>
+            <span class="font-serif">{{article:author}}</span>
+          </div>
+          <div>
+            <span class="uppercase font-medium tracking-widest">Date Published: </span>
+            <span class="font-serif">{{article:date_published}}</span>
+          </div>
+          <div>
+            <span class="uppercase font-medium tracking-widest">Publication: </span>
+            <span class="font-serif">{{article:publication}}</span>
+          </div>
+        </div>
+  
+        {{partial:sectionBuilderComponents/moreButtons action="Read Now" passedType="{{type}}"}}
+  
+            <div class="prose text-darkblack font-medium text-xl">{{article:description}}</div>
+  
+  
+  
+      </div>
+    </div>
+  </div>
+</div>

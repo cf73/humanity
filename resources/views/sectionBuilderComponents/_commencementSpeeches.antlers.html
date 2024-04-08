@@ -1,0 +1,38 @@
+<div class="relative overflow-hidden py-[33vh] flex flex-col">
+    <!-- blob -->
+    <div data-speed=".4" class="bg-yello blur-[15vh] rounded-[50%] absolute -z-10 left-[50%] mt-[40%] h-[70vh] w-[70vh] ml-[-35vh]"></div>
+    
+    <!-- image -->
+    <div data-speed="1.5" class="absolute z-10 mx-auto top-[40vh] right-20 w-5/12">
+        <img src="{{commencement_speech:image}}" alt="{{title}}" width="100%">
+    </div>
+  
+    <!-- text -->
+    {{partial:headingText content="{{commencement_speech:title}}" highlight=""}}
+  
+    <div class="container mx-auto">
+      <div class="w-10/12 mt-8 space-y-8">
+        <!-- metadata -->
+        <div class="space-y-2">
+          <div>
+            <span class="uppercase font-medium tracking-widest">Author: </span>
+            <span class="font-serif">{{commencement_speech:author}}</span>
+          </div>
+          <div>
+            <span class="uppercase font-medium tracking-widest">Published: </span>
+            <span class="font-serif">{{commencement_speech:date_published}}</span>
+          </div>
+        </div>
+        <!-- action button -->
+        <div class="flex flex-row">
+          <!-- {{partial:buttonStrong buttonLabel="Buy on Amazon" passedLink="{commencement_speech:link}"}} -->
+          <!-- {{partial:buttonStrong buttonLabel="See more talks"}} -->
+        </div>
+        
+        {{partial:sectionBuilderComponents/moreButtons action="Watch Now"}}
+  
+          <div class="prose text-darkblack font-medium text-xl">{{commencement_speech:description}}</div>
+      </div>
+    </div>
+  </div>
+  

@@ -1,6 +1,6 @@
-<div class="relative bg-gradient-to-r from-lightgreen to-transparent ">
-    <div data-speed=".3" class="absolute z-10 mx-auto top-80 right-20 w-[45vw]">
-        <img src="{{talks:image}}" alt="" >
+<div class="relative bg-gradient-to-r from-{{passedcolor}} to-transparent overflow-hidden">
+    <div class="absolute z-10 mx-auto top-80 right-20 w-[45vw]">
+        <img src="{{passthru:image}}" alt="" >
         <div class="flex flex-row">
             {{partial:buttonStrong buttonLabel="Watch Now"}}
             <!-- {{partial:buttonStrong buttonLabel="See more talks"}} -->
@@ -8,26 +8,26 @@
     </div>
 
     <div class="w-9/12 py-32 px-32 space-y-8 relative z-0">
-        <div class="font-serif text-darkblack uppercase relative z-50 text-9xl">{{talks:title}}</div>
+      <div class="font-semibold text-darkblack uppercase relative z-50 text-5xl">{{passthru:title}}</div>
 
 
       <div class="grid grid-cols-3 gap-16">
         <div class="col-span-2 space-y-8">
 
-          <div class="prose text-darkblack font-medium text-xl">{{talks:description}}</div>
+          <div class="prose text-darkblack font-medium text-xl">{{passthru:description}}</div>
           
           <div class="space-y-2">
             <div>
               <span class="uppercase font-medium tracking-wider">Speaker: </span>
-              <span class="font-serif">{{talks:speaker}}</span>
+              <span class="font-serif">{{passthru:speaker}}</span>
             </div>
             <div>
               <span class="uppercase font-medium tracking-wider">Date: </span>
-              <span class="font-serif">{{talks:date_of_talk}}</span>
+              <span class="font-serif">{{passthru:date_of_talk}}</span>
             </div>
             <div>
               <span class="uppercase font-medium tracking-wider">Location: </span>
-              <span class="font-serif">{{talks:location_or_event}}</span>
+              <span class="font-serif">{{passthru:location_or_event}}</span>
             </div>
           </div>
           <div>
@@ -36,7 +36,6 @@
           </div>
         </div>
         
-      </div>
       </div>
     </div>
   </div>

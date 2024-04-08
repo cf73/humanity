@@ -1,56 +1,34 @@
-<section class="space-y-32 mb-64">
-    <div class="space-y-32">
+<section class="mb-64">
       {{ section_builder }}
         {{ if type == "article" }}
-            <article data-speed="1.1" class="space-y-4">
-              <div style="background-image: url('{{article:image}}');" class="bg-contain bg-no-repeat bg-center w-full h-[60vh]">
-              </div>
-              <div class="space-y-2 flex flex-col items-center">
-                <div class="font-sans text-softblack text-4xl">{{article:title}}</div>
-                <!-- {{partial:tag label="articles"}} -->
-                <div class="prose">{{article:description}}</div>
-                <div><a href="{{article:url}}"><button>Check it out</button></a></div>
-              </div>
-            </article>
-          {{ elseif type == "book" }}
-          <div data-speed="1.7" class="bg-hotpink rounded w-2/3 p-16 grid grid-cols-2 gap-16">
-            <div style="background-image: url('{{book:image}}');" class="bg-contain bg-no-repeat bg-center">
-            </div>
-            <div class="space-y-8">              
-              <div class="font-sans text-softblack text-4xl">{{book:title}}</div>
-              <!-- {{partial:tag label="TALKS"}} -->
-              <div class="prose">{{book:description}}</div>
-              <div><a href="{{book:url}}"><button>Check it out</button></a></div>
-            </div>
-          </div>
-          {{ elseif type == "commencement_speech" }}
-          <div data-speed=".8" class="bg-yellow rounded w-2/3 p-16 grid grid-cols-2 gap-16">
-            <div style="background-image: url('{{commencement_speech:image}}');" class="bg-contain bg-no-repeat bg-center">
-            </div>
-            <div class="space-y-8">              
-              <div class="font-sans text-softblack text-4xl">{{commencement_speech:title}}</div>
-              <!-- {{partial:tag label="TALKS"}} -->
-              <div class="prose">{{commencement_speech:description}}</div>
-              <div><a href="{{commencement_speech:url}}"><button>Check it out</button></a></div>
-            </div>
-          </div>
-          {{ elseif type == "talks" }}
-            {{partial:themeCard}}
+          {{ partial:sectionBuilderComponents/articles }}
+
+        {{ elseif type == "book" }}
+          {{ partial:sectionBuilderComponents/books }}
+
+        {{ elseif type == "commencement_speech" }}
+            {{ partial:sectionBuilderComponents/commencementSpeeches }}
+
+        {{ elseif type == "talks" }}
+          {{ partial:sectionBuilderComponents/talks }}
+
         {{ elseif type == "interstitial_text" }}
-          <div class="prose font-serif">
-            {{interstitial_text}}
+          <div class="container mx-auto">
+            <div class="prose font-serif leading-normal text-2xl my-32">{{interstitial_text}}</div>
           </div>
+
         {{ elseif type == "quotation" }}
-          <div class="flex flex-col items-center space-y-4">
-              <div class="font-serif text-3xl text-center leading-loose">{{ quotation:quotation }}</div>
-              <p>— {{ quotation:attribution }}</p>
+          <div class="container mx-auto font-serif text-5xl text-center leading-normal my-32 space-y-4">
+            <div class="text-hotpink">{{ quotation:quotation }}</div>
+            <div class="text-sm font-medium uppercase text-center tracking-widest text-hotpink">— {{ quotation:attribution }}</div>
           </div>
+
         {{ elseif type == "inspiring_image" }}
           <figure>
             <img src="{{ inspiring_image }}" alt="{{ caption }}" />
             <figcaption>{{ caption }}</figcaption>
           </figure>
+          
         {{ /if }}
       {{ /section_builder }}
-    </div>
   </section>
