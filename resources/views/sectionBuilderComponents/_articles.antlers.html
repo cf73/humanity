@@ -10,7 +10,7 @@
     </div>
   
     <!-- text -->
-    <div class="col-span-5 col-start-8">
+    <div class="col-span-5 col-start-8 bg-lightgreen/15 p-16">
         {{partial:headingText content="{{article:title}}" highlight=""}}
   
       <div class="mt-8 space-y-8">
@@ -30,11 +30,11 @@
           </div>
         </div>
   
-        {{partial:sectionBuilderComponents/moreButtons action="Read Now" passedType="{{type}}"}}
   
-            <div class="prose text-darkblack font-medium text-xl">{{article:description}}</div>
+            <div class="text-darkblack font-medium text-xl">{{article:description}}</div>
   
-  
+            {{partial:sectionBuilderComponents/moreButtons action="Read Now" passedType="{{type}}"}}
+
   
       </div>
     </div>
