@@ -2,7 +2,7 @@
 id: 7e00de5e-d35e-4430-a7bf-fc16eecb030a
 blueprint: articles
 title: 'Dialogue About the Middle East Is Possible—Indeed, It’s the Only Way to Peace'
-author: 'Yale seminar'
+author: 'Yale University seminar'
 date_published: '2023-11-20'
 link: 'https://insights.som.yale.edu/insights/dialogue-about-the-middle-east-is-possible-indeed-its-the-only-way-to-peace'
 publication: 'Yale Insights'
@@ -13,7 +13,7 @@ description:
     content:
       -
         type: text
-        text: 'A recent event held at Yale University showed that discussions among Israelis, Arabs, and other concerned parties can help bring out points of commonality that may be the first steps on a path toward peace, argue Yale’s Jeffrey Sonnenfeld and Steven Tian.'
+        text: "A recent event held at Yale University showed that discussions among Israelis, Arabs, and other concerned parties can help bring out points of commonality that may be the first steps on a path toward peace, argue Yale’ University's Jeffrey Sonnenfeld and Steven Tian."
 article_text:
   -
     type: bulletList
@@ -347,6 +347,8 @@ article_text:
         text: 'Ultimately, for every difference, there are also commonalities that bond the disparate peoples of the Middle East together. It is those commonalities rather than the differences that will prove paramount to any lasting peace–but only if there is the political willpower among its leaders to prove that peaceful coexistence between Jews and Muslims and between Israelis, Palestinians, and Arab neighbors is not just an “impossible dream.” As Winston Churchill remarked in 1942, “Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.”'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
@@ -365,53 +367,6 @@ article_text:
         text: 'Steven Tian is the director of research at the Yale Chief Executive Leadership Institute and a former quantitative investment analyst with the Rockefeller Family Office.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Department:'
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://insights.som.yale.edu/departments/faculty-viewpoints'
-              rel: null
-              target: null
-              title: null
-        text: 'Faculty Viewpoints'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Topics:'
-  -
-    type: bulletList
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://insights.som.yale.edu/topics/leadership'
-                      rel: null
-                      target: null
-                      title: null
-                text: Leadership
   -
     type: paragraph
     content:
@@ -429,5 +384,5 @@ related_content:
   - c7c991b5-9dde-4365-9c58-41d73dfee6cb
   - 8f01cbfc-48f8-4156-acd7-03bef3acce9f
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711982776
+updated_at: 1712603835
 ---
