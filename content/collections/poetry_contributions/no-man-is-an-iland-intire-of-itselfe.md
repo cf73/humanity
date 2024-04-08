@@ -1,14 +1,14 @@
 ---
 id: 6dce87aa-d0d3-4ceb-b19a-3a59322fa98e
 blueprint: poetry_contribution
-title: '"No man is an Iland, intire of itselfe..."'
+title: 'No man is an Iland, intire of itselfe...'
 poets_name: 'John Donne'
 poets_website: unk
 image: unknown-1.jpeg
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707872354
+updated_at: 1712595222
 collection_type: poetry-contribution
 content:
   -

@@ -1,7 +1,7 @@
 ---
 id: c6e7060e-324f-4cb8-8cbb-a658ae74cbd3
 blueprint: articles
-title: '"Should women run the world?"'
+title: 'Should women run the world?'
 image: image-1711501209.png
 description:
   -
@@ -76,6 +76,6 @@ related_partner_initiatives:
 related_content:
   - 3c9aefca-a9fe-4455-86b6-0585897d6854
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711899044
+updated_at: 1712594341
 author: 'BBC, history.com, one.org'
 ---
