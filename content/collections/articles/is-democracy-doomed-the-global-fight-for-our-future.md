@@ -27,7 +27,7 @@ article_text:
       -
         type: text
         text: 'From World War I to the Russian invasion of Ukraine, Snyder dives into the structures that uplift and tear down political systems, offering a historical perspective on the current state of democracy around the world as well as the patterns of thought that lead to tyranny. Learn more about a new approach to democracy that could help create and protect a future of freedom. This conversation, hosted by TED current affairs curator Whitney Pennington Rodgers, was part of an exclusive TED Membership event. '
-collection_type: talk
+collection_type: article
 challenges:
   - democracy
 related_partner_initiatives:
@@ -39,5 +39,5 @@ related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - 51726be6-7905-46a5-b6aa-c62d0c96eec7
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711984462
+updated_at: 1712590356
 ---
