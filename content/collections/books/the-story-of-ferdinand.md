@@ -26,7 +26,7 @@ description:
     content:
       -
         type: text
-        text: 'Writer Maria Popova reminds us of Ferdinand, the peaceful bull, and of how his timeless story came to be tol'
+        text: 'Writer Maria Popova reminds us of Ferdinand, the peaceful bull, and of how his timeless story came to be told:  '
       -
         type: text
         marks:
@@ -40,7 +40,7 @@ description:
         text: 'https://testing123.art/cp/taxonomies'
       -
         type: text
-        text: 'd:'
+        text: .
   -
     type: paragraph
     content:
@@ -49,7 +49,7 @@ description:
         marks:
           -
             type: italic
-        text: "In\_"
+        text: "\"In\_"
       -
         type: text
         text: 'The Story of Ferdinand'
@@ -58,16 +58,19 @@ description:
         marks:
           -
             type: italic
-        text: ", a gentle-souled young misfit sits out the perpetual head-butting by which his peers hone their bull-skills, choosing instead to smell the flowers in solitude under his favorite cork tree. His mother, at first worried about his bullness, recognizes her son’s difference and trusts that he would find his way.\_"
+        text: ", a gentle-souled young misfit sits out the perpetual head-butting by which his peers hone their bull-skills, choosing instead to smell the flowers in solitude under his favorite cork tree. His mother, at first worried about his bullness, recognizes her son’s difference and trusts that he would find his way.\"\_"
   -
     type: paragraph
     content:
       -
         type: text
+        text: 'And so he does'
+      -
+        type: text
         marks:
           -
             type: italic
-        text: 'And so he does:  '
+        text: ':  '
       -
         type: text
         text: 'https://www.themarginalian.org/2022/07'
@@ -82,5 +85,5 @@ related_content:
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
   - 360862f3-318f-4ecc-804e-8baf0d2558cd
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712604860
+updated_at: 1712604983
 ---
