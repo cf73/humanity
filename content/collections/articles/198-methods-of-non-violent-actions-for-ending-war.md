@@ -44,7 +44,13 @@ description:
         text: 'list of 198 profoundly possible methods of non-violent action'
       -
         type: text
-        text: ', gifted to humanity by the Albert Einstein Institution and its founder, Dr. Gene Sharp in 1973. He researched and catalogued these 198 methods and provided a rich selection of historical examples in his seminal work, '
+        text: ', gifted to humanity by the Albert Einstein Institution and its founder, Dr. Gene Sharp in 1973. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'He researched and catalogued these 198 methods and provided a rich selection of historical examples in his seminal work, '
       -
         type: text
         marks:
@@ -62,7 +68,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712603580
+updated_at: 1712603661
 article_text:
   -
     type: paragraph
