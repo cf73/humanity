@@ -1,0 +1,43 @@
+<div class="relative overflow-hidden py-[33vh] flex flex-col">
+  <!-- blob -->
+  <div data-speed=".4" class="bg-oceanbluez blur-[15vh] rounded-[50%] absolute -z-10 left-[50%] mt-[40%] h-[70vh] w-[70vh] ml-[-35vh]"></div>
+  
+  <!-- image -->
+  <div data-speed="1.5" class="absolute z-10 mx-auto top-[40vh] right-20 w-5/12">
+      <img src="{{talks:image}}" alt="{{title}}" width="100%">
+  </div>
+
+  <!-- text -->
+  {{partial:headingText content="{{talks:title}}" highlight=""}}
+
+  <div class="container mx-auto">
+    <div class="w-10/12 mt-8 space-y-8">
+      <!-- metadata -->
+      <div class="space-y-2">
+        <div>
+          <span class="uppercase font-medium tracking-wider">Speaker: </span>
+          <span class="font-serif">{{talks:speaker}}</span>
+        </div>
+        <div>
+          <span class="uppercase font-medium tracking-wider">Date: </span>
+          <span class="font-serif">{{talks:date_of_talk}}</span>
+        </div>
+        <div>
+          <span class="uppercase font-medium tracking-wider">Location: </span>
+          <span class="font-serif">{{talks:location_or_event}}</span>
+        </div>
+        {{partial:sectionBuilderComponents/moreButtons action="Watch Now"}}
+
+      </div>
+      
+
+      <div class="prose text-darkblack font-medium text-xl">{{talks:description}}</div>
+    
+    
+         
+        
+    
+      
+    </div>
+  </div>
+</div>

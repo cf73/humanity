@@ -1,21 +1,20 @@
-<section class="space-y-32 mb-64">
-    <div>
+<section class="mb-64">
       {{ section_builder }}
         {{ if type == "article" }}
           {{ partial:sectionBuilderComponents/articles }}
 
         {{ elseif type == "book" }}
-        {{ partial:sectionBuilderComponents/books }}
+          {{ partial:sectionBuilderComponents/books }}
 
         {{ elseif type == "commencement_speech" }}
-            {{ partial:themeCard :passthru="{type}" passedcolor="lightgreen" }}
+            {{ partial:sectionBuilderComponents/commencementSpeeches }}
 
         {{ elseif type == "talks" }}
           {{ partial:sectionBuilderComponents/talks }}
 
         {{ elseif type == "interstitial_text" }}
-          <div class="container mx-auto font-serif text-5xl text-center leading-normal my-32">
-            {{interstitial_text}}
+          <div class="container mx-auto">
+            <div class="prose font-serif leading-normal text-2xl my-32">{{interstitial_text}}</div>
           </div>
 
         {{ elseif type == "quotation" }}
@@ -32,5 +31,4 @@
           
         {{ /if }}
       {{ /section_builder }}
-    </div>
   </section>
