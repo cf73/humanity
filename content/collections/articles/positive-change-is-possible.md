@@ -254,5 +254,6 @@ related_content:
   - 20f17fae-af70-4c0a-b474-b9a75f95c1b8
   - 48c9aa4d-9d07-4ee1-b57b-0e4804e22f71
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712594326
+updated_at: 1712605444
+publication: 'GCA newsletter'
 ---
