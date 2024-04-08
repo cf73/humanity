@@ -1,7 +1,7 @@
 ---
 id: b6267639-94e6-40a5-8471-d1dc63559112
 blueprint: articles
-title: '"Positive Change is Possible"'
+title: 'Positive Change is Possible'
 author: 'Global Commons Alliance'
 date_published: '2024-03-20'
 link: 'https://globalcommonsalliance.org/news/positive-change-is-possible/'
@@ -254,5 +254,5 @@ related_content:
   - 20f17fae-af70-4c0a-b474-b9a75f95c1b8
   - 48c9aa4d-9d07-4ee1-b57b-0e4804e22f71
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712095927
+updated_at: 1712594326
 ---
