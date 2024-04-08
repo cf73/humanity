@@ -1,7 +1,7 @@
 ---
 id: 63fce359-6f30-40b3-96f1-9985a9ea3012
 blueprint: poetry_contribution
-title: '"The New Colossus"'
+title: 'The New Colossus'
 poets_name: 'Emma Lazarus'
 poets_website: "Paul Auster wrote that \"Bartholdi's gigantic effigy was originally intended as a monument to the principles of international republicanism, but 'The New Colossus' reinvented the statue's purpose, turning Liberty into a welcoming mother, a symbol of hope to the outcasts and downtrodden of the world.\"[17] John T. Cunningham wrote that \"The Statue of Liberty was not conceived and sculpted as a symbol of immigration, but it quickly became so as immigrant ships passed under the torch and the shining face, heading toward Ellis Island. However, it was [Lazarus's poem] that permanently stamped on Miss Liberty the role of unofficial greeter of incoming immigrants.\""
 image: image-1711646284.jpeg
@@ -9,7 +9,7 @@ collection_type: poetry-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711649497
+updated_at: 1712595257
 content:
   -
     type: paragraph
