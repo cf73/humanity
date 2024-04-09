@@ -12,13 +12,15 @@ description:
     content:
       -
         type: text
-        text: "Wildlife Photographer of the Year People's Choice Award winner."
+        text: 'British Natural History Museum'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'British Natural History Museum'
+        text: "Wildlife Photographer of the Year, People's Choice Award winner."
+  -
+    type: paragraph
   -
     type: paragraph
   -
@@ -29,5 +31,5 @@ description:
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711241060
+updated_at: 1712674441
 ---
