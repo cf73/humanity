@@ -5,7 +5,7 @@ template: challenge
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712690768
+updated_at: 1712690858
 challenge_intro:
   -
     type: paragraph
@@ -54,7 +54,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'Whenever we need to face any of the million challenges of living well together, democracy raises its hand, quietly, in response: “Bring me your disagreement, your misunderstanding; bring me that terrible thing your neighbors did. Share with me,” democracy says, “your confusion over legal rights or medical care or how to build a school that works best for everyone in your village. I will give you well-considered answers, based on much experience with the law of the land. I will do my best to preserve the dignity of humanhood.” '
+            text: 'Whenever we need to face any of the million challenges of living well together, democracy raises its hand, quietly, in response: “Bring me your disagreement, your misunderstanding; bring me that terrible thing your neighbors did. Share with me,” democracy says, “your confusion over legal rights or medical care or how to build a school that works best for everyone in your village. I will give you well-considered answers, based on much experience with the law of our land. I will do my best to preserve the dignity of humanhood.” '
     type: interstitial_text
     enabled: true
   -
