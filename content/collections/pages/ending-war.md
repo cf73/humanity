@@ -5,7 +5,7 @@ title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712685921
+updated_at: 1712686119
 section_builder:
   -
     id: ludi5o3a
@@ -33,13 +33,13 @@ section_builder:
         content:
           -
             type: text
-            text: 'Humankind developed war only ten thousand years ago (the end of the mesolithic period), when we stopped being hunters and gatherers and became farmers.'
+            text: 'Humankind developed war only ten thousand years ago (the end of the mesolithic period), when we stopped being only hunters and gatherers and became farmers as well.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'We began to posses land. To own things. Then we began arguing about who owned what. War soon became a really bad habit, an insult in every way to what should be our dominant human qualities: kindness, common sense, and creativity. '
+            text: 'We began to posses land. To own things. Then we began arguing about who owned what. War soon became a really bad habit, a profound insult to what should be our dominant human qualities: kindness, common sense, and creativity. '
       -
         type: paragraph
         content:
