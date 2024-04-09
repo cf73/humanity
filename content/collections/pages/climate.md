@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712694400
+updated_at: 1712694541
 section_builder:
   -
     id: lu8ulqyv
@@ -83,10 +83,6 @@ section_builder:
     id: lu8u27cf
     inspiring_image: medusa.jpeg
     type: inspiring_image
-    enabled: true
-  -
-    id: lsp0h5lj
-    type: interstitial_text
     enabled: true
   -
     id: lsp0gq4k
