@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712674767
+updated_at: 1712674848
 section_builder:
   -
     id: lu8ulqyv
@@ -73,7 +73,7 @@ section_builder:
     enabled: true
   -
     id: lu8u27cf
-    inspiring_image: c56717.jpeg
+    inspiring_image: waves-that-looks-like-a-face-at-lake-erie-1712674810.jpeg
     type: inspiring_image
     enabled: true
   -
@@ -84,7 +84,13 @@ section_builder:
         content:
           -
             type: text
-            text: '"I get up every morning determined to both change the world and have one hell of a good time. Sometimes this makes planning my day difficult."    E. B. White, American writer'
+            marks:
+              -
+                type: italic
+            text: '"I get up every morning determined to both change the world and have one hell of a good time. Sometimes this makes planning my day difficult." '
+          -
+            type: text
+            text: '   E. B. White, American writer'
     type: interstitial_text
     enabled: true
   -
