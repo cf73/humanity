@@ -10,9 +10,6 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
         text: "From new artificial islands to the environmental devastation caused by the breach of Ukraine's Kakhovka Dam – this is how humanity has changed the face of our planet throughout the past year."
 article_text:
   -
