@@ -29,7 +29,7 @@ description:
     content:
       -
         type: text
-        text: '"The dhow is being chased by a dark and ominous squall. The rich ocean and brooding sky makes a memorable backdrop for the hand crafted vessel."'
+        text: '"This dhow is being chased by a dark and ominous squall. The rich ocean and brooding sky makes a memorable backdrop for the hand crafted vessel."'
   -
     type: paragraph
     content:
@@ -39,5 +39,5 @@ collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711571422
+updated_at: 1712673928
 ---
