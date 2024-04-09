@@ -5,7 +5,7 @@ template: challenge
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711983556
+updated_at: 1712687559
 challenge_intro:
   -
     type: paragraph
@@ -48,21 +48,17 @@ section_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: '"Give me a place to stand and I will move the world."'
-          -
-            type: text
-            text: '  '
+            text: 'Democracy, in all its many forms, has proven to be the best answer to an eternal human question: how can I get along well with my neighbors? '
       -
         type: paragraph
         content:
           -
             type: text
-            text: '      ~    Archimedes'
+            text: 'Whenever we need to figure out any of the million challenges of living together, democracy raises its hand quietly in response: “Bring me your disagreement, your misunderstanding; bring me that terrible thing your neighbor did,” democracy urges. “Share with me your confusion over legal rights or medical care or how to build a school that works best for everyone in your village. I will give you a well-considered answer, based on much experience. I will do my best to preserve the dignity of humanhood.” '
+      -
+        type: paragraph
+      -
+        type: paragraph
     type: interstitial_text
     enabled: true
   -
