@@ -115,26 +115,28 @@ tabs:
                             visibility: visible
                             replicator_preview: true
                             hide_display: false
-                    quotation:
-                      display: Quotation
+                    documentary:
+                      display: Documentary
                       instructions: null
-                      icon: text-formatting-quotation
+                      icon: media-computer-screen-tv
                       fields:
                         -
-                          handle: quotation
+                          handle: documentaries
                           field:
                             max_items: 1
                             mode: select
                             create: true
+                            collections:
+                              - documentaries
                             type: entries
-                            display: Quotation
+                            display: Documentaries
                             listable: hidden
                             instructions_position: above
                             visibility: visible
                             replicator_preview: true
                             hide_display: false
-                            collections:
-                              - quotations
+                            validate:
+                              - required
                     inspiring_image:
                       display: 'Inspiring Image'
                       instructions: null
@@ -201,6 +203,26 @@ tabs:
                             visibility: visible
                             replicator_preview: true
                             hide_display: false
+                    quotation:
+                      display: Quotation
+                      instructions: null
+                      icon: text-formatting-quotation
+                      fields:
+                        -
+                          handle: quotation
+                          field:
+                            max_items: 1
+                            mode: select
+                            create: true
+                            type: entries
+                            display: Quotation
+                            listable: hidden
+                            instructions_position: above
+                            visibility: visible
+                            replicator_preview: true
+                            hide_display: false
+                            collections:
+                              - quotations
                     talks:
                       display: Talks
                       instructions: null

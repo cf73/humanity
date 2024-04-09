@@ -1,0 +1,37 @@
+<div class="container mx-auto">
+    <div class="relative overflow-hidden py-[33vh] flex flex-col grid grid-cols-12 gap-0 w-full">
+        <!-- blob -->
+        <div data-speed=".4" class="bg-yello/50 blur-[15vh] rounded-[50%] absolute -z-10 left-[50%] mt-[40%] h-[70vh] w-[70vh] ml-[-35vh]"></div>
+
+        <!-- image -->
+        <div data-speed="1.5" class="col-span-5 col-start-2 relative -right-4 z-10">
+            <img src="{{documentaries:image}}" alt="{{title}}" width="100%">
+        </div>
+
+        <!-- text -->
+        <div class="col-span-6 col-start-7 bg-yello/15 p-16">
+            {{partial:headingText content="{{documentaries:title}}" highlight=""}}
+
+            <div class="mt-8 space-y-8">
+                <!-- metadata -->
+                <div class="space-y-2">
+                    <div>
+                        <span class="uppercase font-medium tracking-wider">Director: </span>
+                        <span class="font-serif">{{documentaries:director}}</span>
+                    </div>
+                    <div>
+                        <span class="uppercase font-medium tracking-wider">Date: </span>
+                        <span class="font-serif">{{documentaries:date_released}}</span>
+                    </div>
+                </div>
+                <!-- description and buttons -->
+                <div class="text-darkblack font-medium text-xl">{{ documentaries:description }}</div>
+                {{partial:sectionBuilderComponents/moreButtons action="Watch Now" passedType="{{type}}"}}
+            </div>
+        </div>
+    </div>
+</div>
+  
+  
+  
+  
