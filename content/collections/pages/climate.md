@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711983631
+updated_at: 1712674767
 section_builder:
   -
     id: lu8ulqyv
@@ -97,7 +97,7 @@ section_builder:
     talks: 263accbc-caa0-48eb-964e-dccc457c29cc
     type: talks
     enabled: true
-intro_movie: man-staring-up-at-aurora-1711916552.jpg
+intro_movie: _polar-bear-_nima-sarikhani.jpg.webp
 challenge_intro_text: |-
   Let's plunge right in to rising seas, with a deep dive into humanity’s climate crisis. The title says it all: “Drawdown. The Most Comprehensive Plan Ever Proposed to Reverse Global Warning.”
 
