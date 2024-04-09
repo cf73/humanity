@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712694590
+updated_at: 1712694685
 section_builder:
   -
     id: lu8ulqyv
@@ -44,7 +44,7 @@ section_builder:
             text: 'A Life on the Planet'
           -
             type: text
-            text: ', with a link nearby.'
+            text: ', with a link below.'
       -
         type: paragraph
         content:
@@ -56,7 +56,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'Second, is oceanographer Sylvia Earle, also with a video link nearby, sharing a lifetime’s love of and experience with the oceans. With humor and wisdom, she urges us to pay attention and take action.   '
+            text: 'Second, is oceanographer Sylvia Earle, also with a video link nearby, sharing a lifetime’s love of and experience with the oceans. With humor and wisdom and passion, she too urges us to pay attention and take action.   '
     type: interstitial_text
     enabled: true
   -
