@@ -4,8 +4,8 @@ blueprint: page
 template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1712686117
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1712694400
 section_builder:
   -
     id: lu8ulqyv
@@ -15,16 +15,13 @@ section_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: '“We must re-wild the planet,”  says Sir David Attenborough'
+            text: 'For clarity on the many, complex challenges of our changing climate, there are two voices that, for me, ring most clearly in all the words and images that have besieged us over the last twenty years.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The world is fortunate for the wise and heartfelt voice of this 94-year-old naturalist, broadcaster and humanist. He not only clarifies Earth’s climate crisis; he also delineates clear solutions, as in his '
+            text: 'First, the world is fortunate for the wise and heartfelt voice of 94-year-old naturalist, broadcaster and humanist, Sir David Attenborough. He not only clarifies the climate crisis; he also delineates clear solutions, as in his '
           -
             type: text
             marks:
@@ -47,13 +44,19 @@ section_builder:
             text: 'A Life on the Planet'
           -
             type: text
-            text: '. '
+            text: ', with a link nearby.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'He calls it his “witness statement.” It is a sobering and necessary yet hopeful investigation of the actions to which all of us now must commit our minds and hearts in full measure.'
+            text: 'He calls it his “witness statement.” It’s a sobering yet hopeful investigation of the actions to which all of us must commit our minds and hearts in full measure.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Second, is oceanographer Sylvia Earle, also with a video link nearby, sharing a lifetime’s love of and experience with the oceans. With humor and wisdom, she urges us to pay attention and take action.   '
     type: interstitial_text
     enabled: true
   -
@@ -83,19 +86,6 @@ section_builder:
     enabled: true
   -
     id: lsp0h5lj
-    interstitial_text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: '"I get up every morning determined to both change the world and have one hell of a good time. Sometimes this makes planning my day difficult." '
-          -
-            type: text
-            text: '   E. B. White, American writer'
     type: interstitial_text
     enabled: true
   -
