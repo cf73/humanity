@@ -5,7 +5,7 @@ template: challenge
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712778010
+updated_at: 1712778223
 challenge_intro:
   -
     type: paragraph
@@ -113,5 +113,10 @@ section_builder:
     id: lua4xfns
     commencement_speech: 628a23b7-fe57-4f55-93ae-11bdabccff59
     type: commencement_speech
+    enabled: true
+  -
+    id: luu7x02p
+    book: 95201ba0-5657-4f50-a730-29f779b608bb
+    type: book
     enabled: true
 ---
