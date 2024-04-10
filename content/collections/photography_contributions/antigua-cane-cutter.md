@@ -11,7 +11,7 @@ description:
     content:
       -
         type: text
-        text: "I saw this guy riding along side saddle and stopped to talk. He thought that a clean-cut looking white guy wanted to buy drugs. I said no, I wanted to photograph him and his donkey. He was delighted and I asked him to ride a little into the field next to the road and then charge at me with the machete. Tjhat's how I got such a natural smile!"
+        text: "I saw this guy riding along side saddle in Antigua and stopped to talk. He thought that a clean-cut white guy might want to buy drugs. I said no, I wanted to photograph him and his donkey. He was delighted. So I asked him to ride out a little into the field next to the road and then turn and charge at me with the machete. That's how I got such a natural smile!"
   -
     type: paragraph
     content:
@@ -22,5 +22,5 @@ collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712718522
+updated_at: 1712718611
 ---
