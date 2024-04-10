@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1712686117
+updated_at: 1712724233
 section_builder:
   -
     id: lu8ulqyv
@@ -55,7 +55,7 @@ section_builder:
             type: text
             text: 'He calls it his “witness statement.” It is a sobering and necessary yet hopeful investigation of the actions to which all of us now must commit our minds and hearts in full measure.'
     type: interstitial_text
-    enabled: true
+    enabled: false
   -
     id: lusp2r91
     documentaries: bf9f3139-9543-45e3-a174-e1910cff4e4f
