@@ -10,9 +10,6 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
         text: '198 methods of non-violent action'
   -
     type: paragraph

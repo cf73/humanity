@@ -36,6 +36,14 @@
     font-display: swap;
 }
 @font-face {
+    font-family: 'RaporMediumItalic';
+    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-MediumItalic.woff2') format('woff2'),
+         url('/public/assets/fonts/RAPORWOFF/Rapor-MediumItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
     font-family: 'RaporSemibold';
     src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Semibold.woff2') format('woff2'),
          url('/public/assets/fonts/RAPORWOFF/Rapor-Semibold.woff') format('woff');
@@ -70,6 +78,12 @@ body {
     font-family: 'RaporRegular', sans-serif;
     margin-bottom: 1rem;
     overflow-x: hidden;
+}
+em {
+    font-family: 'RaporMediumItalic', 'sans-serif';
+}
+strong {
+    font-family: 'RaporBold', 'sans-serif';;
 }
 h1 {
     font-size: 7rem;

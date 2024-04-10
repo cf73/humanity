@@ -234,3 +234,11 @@ tabs:
               hide_display: false
               validate:
                 - required
+          -
+            handle: date
+            field:
+              type: date
+              required: true
+              default: now
+              validate:
+                - required
