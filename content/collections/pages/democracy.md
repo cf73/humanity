@@ -5,7 +5,7 @@ template: challenge
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712777949
+updated_at: 1712778010
 challenge_intro:
   -
     type: paragraph
@@ -97,7 +97,16 @@ section_builder:
         content:
           -
             type: text
-            text: 'Also, Churchill did in fact say, “The best argument against democracy is a five-minute conversation with the average voter.” '
+            text: 'Also, Churchill did in fact say, “'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'The best argument against democracy is a five-minute conversation with the average voter.”'
+          -
+            type: text
+            text: ' '
     type: interstitial_text
     enabled: true
   -
