@@ -91,6 +91,8 @@ tabs:
             handle: description
             field:
               buttons:
+                - bold
+                - italic
                 - removeformat
                 - anchor
               smart_typography: false

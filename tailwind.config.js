@@ -14,6 +14,7 @@ export default {
             'thin': ['RaporThin', 'sans-serif'],
             'sans': ['RaporRegular', 'sans-serif'],
             'medium': ['RaporMedium', 'sans-serif'],
+            'medium-italic': ['RaporMediumItalic', 'sans-serif'],
             'semibold': ['RaporSemibold', 'sans-serif'],
             'bold': ['RaporBold', 'sans-serif'],
             'extrabold': ['RaporExtraBold', 'sans-serif'],
