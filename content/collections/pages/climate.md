@@ -4,8 +4,8 @@ blueprint: page
 template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712694685
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1712724233
 section_builder:
   -
     id: lu8ulqyv
@@ -58,7 +58,7 @@ section_builder:
             type: text
             text: 'Second, is oceanographer Sylvia Earle, also with a video link nearby, sharing a lifetime’s love of and experience with the oceans. With humor and wisdom and passion, she too urges us to pay attention and take action.   '
     type: interstitial_text
-    enabled: true
+    enabled: false
   -
     id: lusp2r91
     documentaries: bf9f3139-9543-45e3-a174-e1910cff4e4f
