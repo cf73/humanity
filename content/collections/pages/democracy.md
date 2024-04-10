@@ -5,7 +5,7 @@ template: challenge
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712777184
+updated_at: 1712777246
 challenge_intro:
   -
     type: paragraph
@@ -77,7 +77,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'Churchill likely found the quotation in an article by Guy Henson, an educator in Nova Scotia, in 1946 ('
+            text: 'It turns out that Churchill likely found the quotation in an article by Guy Henson, an educator in Nova Scotia, in 1946 ('
           -
             type: text
             marks:
@@ -97,7 +97,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'Also, Churchill did say, “The best argument against democracy is a five-minute conversation with the average voter.” '
+            text: 'Also, Churchill did in fact say, “The best argument against democracy is a five-minute conversation with the average voter.” '
     type: interstitial_text
     enabled: true
   -
