@@ -5,7 +5,7 @@ template: challenge
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712770890
+updated_at: 1712771533
 challenge_intro:
   -
     type: paragraph
@@ -39,6 +39,11 @@ section_builder:
     id: lua4wj5e
     book: bd8e76be-8769-4deb-94d4-3345b5477b38
     type: book
+    enabled: true
+  -
+    id: luu3vtjy
+    inspiring_image: luke-1712771527.jpg
+    type: inspiring_image
     enabled: true
   -
     id: lua4wsov
