@@ -5,7 +5,7 @@ title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711983483
+updated_at: 1712691263
 section_builder:
   -
     id: ludi5o3a
@@ -27,93 +27,31 @@ section_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: italic
-            text: 'Yes, and how many times must a man look up'
-          -
-            type: hardBreak
-            marks:
-              -
-                type: italic
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Before he can see the sky?'
-          -
-            type: hardBreak
-            marks:
-              -
-                type: italic
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'And how many ears must one man have'
-          -
-            type: hardBreak
-            marks:
-              -
-                type: italic
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'Before he can hear people cry?'
-          -
-            type: hardBreak
-            marks:
-              -
-                type: italic
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: "Yes, and how many deaths will it take 'til he knows"
-          -
-            type: hardBreak
-            marks:
-              -
-                type: italic
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'That too many people have died?'
+            text: 'Ending war depends on two things: first, each of us must understand that it is indeed possible to do so; and, second, each of us must act on that understanding.'
       -
         type: paragraph
         content:
           -
             type: text
-            marks:
-              -
-                type: italic
-            text: "The answer, my friend, is blowin' in the wind"
-          -
-            type: hardBreak
-            marks:
-              -
-                type: italic
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: "The answer is blowin' in the wind"
+            text: 'Humankind developed war only ten thousand years ago (the end of the mesolithic period), when we stopped being only hunters and gatherers and became farmers as well.'
       -
         type: paragraph
         content:
           -
-            type: hardBreak
+            type: text
+            text: 'We began to posses land. To own things. Then we began arguing about who owned what. War soon became a really bad habit, a profound insult to what should be our dominant human qualities: kindness, common sense, and creativity. '
+      -
+        type: paragraph
+        content:
           -
             type: text
-            text: '“Blowing in the Wind”, by Bob Dylan'
+            text: 'Now it’s up to us, to each of us, to work our way out of it, to work on owning little and sharing much, like water and food and, yes, land. It’s time to get over ourselves, to recognize that it is indeed insanity to still be murdering each other, ruining life on Earth in the process. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '       ~    Tony Balis (founded The Humanity Initiative in 1984)'
   -
     id: lsgttcyk
     quotation: 8d69ad34-4655-456c-a998-21d71086ceb0

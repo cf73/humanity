@@ -4,7 +4,7 @@ blueprint: simple_page
 title: 'Our Mission'
 parent: e2c682f5-04cb-4b69-83f6-50cdbc6f2fa7
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711983534
+updated_at: 1712714283
 intro:
   -
     type: paragraph
@@ -14,22 +14,60 @@ intro:
         marks:
           -
             type: bold
-        text: '2024 and counting...It’s time to rescue our humanity.'
+        text: 'AN OASIS WITH A MISSION'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We urgently need a more profound commitment to working together, with imagination and respect, with kindness and love.'
+        text: "     Welcome!\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Humanity Initiative is creating this online oasis to offer clarity on our most crucial challenges and to inspire each of us to take action — fostering a resurgent new voice of humanity across the continents.'
+        text: "     May we pour you a cup of tea?\_"
   -
     type: paragraph
     content:
+      -
+        type: text
+        text: "     This is an oasis with a mission, custom-designed for we the people to linger, to consider how to rescue our humanity.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "     To do so, THI has chosen hundreds of inspiring voices to guide and encourage each of\_\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as a changemaker, for our community, our country, or our planet.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "     We begin with humanity’s most crucial challenges: ending war, saving democracy, and solving climate change. From there, we introduce you to the world’s thirty most respected non-profits and the opportunity to contribute to their life-saving work.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "     Not least, we include our popular thirty-year-old archive of empowering Commencement Speeches, as well as our new blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "     We hope the insights and inspirations throughout this humanitarian oasis\_\_--\_\_presented on the wings of essays, photographs, speeches, artwork, film, literature, poetry, and music\_\_--\_\_move you to help fan the breezes of our shared humanity into the winds of change that we so urgently need.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "          ~     Team Humanity\_\_\_\_\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: hardBreak
       -
         type: hardBreak
 ---

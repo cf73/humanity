@@ -5,7 +5,7 @@ template: challenge
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711983556
+updated_at: 1712691222
 challenge_intro:
   -
     type: paragraph
@@ -32,7 +32,7 @@ section_builder:
     enabled: true
   -
     id: lua4w80x
-    quotation: a51a447c-67c8-4e26-8318-89b9a22f0923
+    quotation: 25b8ce20-bb96-4b85-ba2c-d84cf91c33b4
     type: quotation
     enabled: true
   -
@@ -48,26 +48,18 @@ section_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: '"Give me a place to stand and I will move the world."'
-          -
-            type: text
-            text: '  '
+            text: 'Democracy  —  in all its many unpredictable forms  —  has proven to be the most enduring answer to an eternal question for humankind: how the heck can I get along well with my neighbors? For the world is indeed imperfect; we all have neighbors at some point like  “…that new lot down the street, with all their noise and disrespect.”'
       -
         type: paragraph
         content:
           -
             type: text
-            text: '      ~    Archimedes'
+            text: 'Whenever we need to face any of the million challenges of living well together, democracy raises its hand, quietly, in response: “Bring me your disagreement, your misunderstanding; bring me that terrible thing your neighbors did. Share with me,” democracy says, “your confusion over legal rights or medical care or how to build a school that works best for everyone in your village. I will give you well-considered answers, based on much experience with the law of our land. I will do my best to preserve the dignity of humanhood.” '
     type: interstitial_text
     enabled: true
   -
     id: lua4xfns
-    commencement_speech: 6a360ee3-019d-4dee-b075-4e5aeacce306
+    commencement_speech: 628a23b7-fe57-4f55-93ae-11bdabccff59
     type: commencement_speech
     enabled: true
 ---
