@@ -5,7 +5,7 @@ template: challenge
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712774219
+updated_at: 1712776533
 challenge_intro:
   -
     type: paragraph
@@ -14,10 +14,7 @@ challenge_intro:
         type: text
         text: 'Intro to this challenge here'
 intro_movie: athens-at-night.jpg
-challenge_intro_text: |-
-  On the final day of the American Constitutional Convention of 1787, as people gathered in colonial Philadelphia to await news of what exactly the founders had crafted, Elizabeth Willing Powel, a well known salonaire of that era and a close confidant of George Washington, inquired of Ben Franklin, “What have we created, Dr. Franklin, a republic or a monarchy?” His famous reply: “A republic…if you can keep it.”
-
-  235 years later Franklin's words would resonate across the globe, for much of the world of 2024 anxiously nurtures increasingly fragile democratic experiments in the face of expanding authoritarianism.
+challenge_intro_text: 'On the final day of the American Constitutional Convention of 1787, as people gathered in colonial Philadelphia to await news of what exactly the founders had crafted, Elizabeth Willing Powel, a well known salonaire of that era and a close confidant of George Washington, inquired of Ben Franklin, “What have we created, Dr. Franklin, a republic or a monarchy?” His famous reply: “A republic…if you can keep it.”'
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 section_builder:
   -
@@ -53,13 +50,34 @@ section_builder:
         content:
           -
             type: text
-            text: 'Democracy  —  in all its many unpredictable forms  —  has proven to be the most enduring answer to an eternal question for humankind: how the heck can I get along well with my neighbors? For the world is indeed imperfect; we all have neighbors at some point like  “…that new lot down the street, with all their noise and disrespect.”'
+            text: 'In 2024 the fight for “we the people” to run our governments is fully engaged across the continents. According to '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'The Economist'
+          -
+            type: text
+            text: ', only 8% of the world’s population now live under a full democracy; another 37% under a flawed democracy; 18% under a hybrid regime; and 37% under authoritarian regimes.  '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Whenever we need to face any of the million challenges of living well together, democracy raises its hand, quietly, in response: “Bring me your disagreement, your misunderstanding; bring me that terrible thing your neighbors did. Share with me,” democracy says, “your confusion over legal rights or medical care or how to build a school that works best for everyone in your village. I will give you well-considered answers, based on much experience with the law of our land. I will do my best to preserve the dignity of humanhood.” '
+            text: 'May we well remember what Winston Churchill famously quoted in November 1947: “'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Many forms of Government have been tried, and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.…’'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ah, and he also mentioned, '
     type: interstitial_text
     enabled: true
   -
