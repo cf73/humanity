@@ -5,7 +5,7 @@ template: challenge
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712771533
+updated_at: 1712774219
 challenge_intro:
   -
     type: paragraph
@@ -17,7 +17,7 @@ intro_movie: athens-at-night.jpg
 challenge_intro_text: |-
   On the final day of the American Constitutional Convention of 1787, as people gathered in colonial Philadelphia to await news of what exactly the founders had crafted, Elizabeth Willing Powel, a well known salonaire of that era and a close confidant of George Washington, inquired of Ben Franklin, “What have we created, Dr. Franklin, a republic or a monarchy?” His famous reply: “A republic…if you can keep it.”
 
-  Little could Franklin have known that he also would be speaking to most countries around the globe 235 years later, for the world now anxiously nurtures increasingly fragile democratic experiments in the face of expanding authoritarianism.
+  235 years later Franklin's words would resonate across the globe, for much of the world of 2024 anxiously nurtures increasingly fragile democratic experiments in the face of expanding authoritarianism.
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 section_builder:
   -
