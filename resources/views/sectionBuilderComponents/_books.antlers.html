@@ -9,6 +9,7 @@
         {{partial:headingText content="{{book:title}}" highlight=""}}
   
       <div class="mt-8 space-y-8">
+        <div class="text-darkblack font-medium text-xl">{{ book:description }}</div>
         <!-- metadata -->
         <div class="space-y-2">
           <div>
@@ -22,7 +23,7 @@
         </div>
   
   
-        <div class="text-darkblack font-medium text-xl">{{ book:description }}</div>
+        
         {{partial:sectionBuilderComponents/moreButtons action="Buy Now" passedType="{{type}}"}}
 
       </div>

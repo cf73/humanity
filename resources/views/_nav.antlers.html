@@ -8,12 +8,8 @@
             {{/nav:left_nav}}
         </nav>
         <a href="/" class="mx-auto"><img src="/assets/humanity-logo.png" width="205.5px" alt="Humanity Logo"></a>
-        <nav class="space-x-16 text-white/60 text-right font-bold text-sm uppercase tracking-widest">
-            {{ nav:right_nav }}
-                <a href="{{url}}">
-                    {{title | lower}}
-                </a>
-            {{/nav:right_nav}}
-        </nav>
+        <div class="text-right h-full flex flex-col justify-center">
+            <a href="{{url}}"><button class="border-white mb-0 font-semibold text-lg tracking-widest p-2 px-8 text-warmwhite backdrop-blur-lg">Donate</button></a>
+        </div>
     </div>
 </header>
