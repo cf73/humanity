@@ -1,10 +1,10 @@
 ---
 id: e2c682f5-04cb-4b69-83f6-50cdbc6f2fa7
 blueprint: page
-title: About
+title: 'About THI'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712285228
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1712808530
 intro_movie: first-h-cover-jpeg-1711920339.jpeg
 challenge_intro_text: |-
   This is an oasis, not a news destination. We have designed a comfortable and intriguing place to linger, to sharpen your instincts about the fate of the world and discover ways to help save it, not least to do so in ways that nourish your favorite causes and introduce you to new ones. 
