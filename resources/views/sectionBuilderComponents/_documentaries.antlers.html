@@ -13,6 +13,7 @@
             {{partial:headingText content="{{documentaries:title}}" highlight=""}}
 
             <div class="mt-8 space-y-8">
+                <div class="text-darkblack font-medium text-xl">{{ documentaries:description }}</div>
                 <!-- metadata -->
                 <div class="space-y-2">
                     <div>
@@ -24,8 +25,7 @@
                         <span class="font-serif">{{documentaries:date_released}}</span>
                     </div>
                 </div>
-                <!-- description and buttons -->
-                <div class="text-darkblack font-medium text-xl">{{ documentaries:description }}</div>
+
                 {{partial:sectionBuilderComponents/moreButtons action="Watch Now" passedType="{{type}}"}}
             </div>
         </div>

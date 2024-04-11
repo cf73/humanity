@@ -9,6 +9,7 @@
         {{partial:headingText content="{{talks:title}}" highlight=""}}
   
       <div class="mt-8 space-y-8">
+        <div class="text-darkblack font-medium text-xl">{{ talks:description }}</div>
         <!-- metadata -->
         <div class="space-y-2">
           <div>
@@ -26,7 +27,7 @@
         </div>
   
   
-        <div class="text-darkblack font-medium text-xl">{{ talks:description }}</div>
+        
         {{partial:sectionBuilderComponents/moreButtons action="Watch Now" passedType="{{type}}"}}
 
       </div>
