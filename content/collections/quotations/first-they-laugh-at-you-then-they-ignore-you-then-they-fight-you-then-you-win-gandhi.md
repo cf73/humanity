@@ -4,7 +4,7 @@ blueprint: quotation
 title: '"...then you win.”'
 quotation: '“First they laugh at you. Then they ignore you. Then they fight you. Then you win.”'
 attribution: Gandhi
-image: r.6cd87990f57f486d0ed8b0013344e03c.jpeg
+image: gandhi.jpeg
 challenges:
   - war
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99

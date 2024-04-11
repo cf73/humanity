@@ -70,7 +70,7 @@ tabs:
               mode: typeahead
               create: false
               collections:
-                - in_the_news
+                - articles
                 - books
                 - commencement_speeches
                 - partner_stories

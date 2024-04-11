@@ -1,12 +1,10 @@
-<div class="container mx-auto pt-64 mb-32">
-    {{intro}}
-</div>
 
-<button id="filtersbutton">
+
+<!-- <button id="filtersbutton">
     FILTERS
-</button>
+</button> -->
 
-<div id="filters" style="background-color: rgba(232, 104, 7, 0.84);" class="container mx-auto h-[0vh] w-full overflow-hidden backdrop-blur fixed z-50 top-20 left-0">
+<!-- <div id="filters" style="background-color: rgba(232, 104, 7, 0.84);" class="container mx-auto h-[0vh] w-full overflow-hidden backdrop-blur fixed z-50 top-20 left-0">
     <form action="/discover" method="get">
         <div class="grid grid-cols-12">
             <div class="col-span-3">
@@ -42,9 +40,9 @@
         </div>
         
     </form>
-</div>
+</div> -->
 
-   <script>
+   <!-- <script>
         $("#filtersbutton").on("click",function(){
             gsap.to("#filters", {
                 height: "100vh",
@@ -55,15 +53,15 @@
                 height: "0vh",
             });
         });
-   </script>
+   </script> -->
 
-<div class="container mx-auto grid grid-cols-5 gap-4">
-    <style>
+<div class="container mx-auto grid grid-cols-5 gap-4 mt-32 mb-32">
+    <!-- <style>
         /* Hide inactive checkboxes */
         input[type="checkbox"]:not(:checked) {
             display: none;
         }
-    </style>
+    </style> -->
     <div class="col-span-1">
         <form action="/discover" method="get">
             <div class="uppercase tracking-wider mt-4">Themes</div>
@@ -90,7 +88,6 @@
             {{/taxonomy:collection_type}}
             <button type="submit" class="mt-4">Submit</button>
         </form>
-        
     </div>
     <div class="col-span-4">
         {{ collection from="*" not_from="pages" as="results"
@@ -111,3 +108,7 @@
         {{ /collection }}
     </div>
 </div>
+
+
+
+<div class="w-2/3 mx-auto text-2xl font-serif leading-loose text-softblack text-center mb-32">{{intro}}</div>
