@@ -10,7 +10,7 @@ challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712595186
+updated_at: 1712965204
 content:
   -
     type: paragraph
