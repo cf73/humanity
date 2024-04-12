@@ -11,6 +11,16 @@ challenge_intro_text: |-
 template: discover
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712964222
+updated_at: 1712965132
 intro_movie: c512911.jpeg
+section_builder:
+  -
+    id: luxb7dyh
+    talks: 7a826137-26f5-4603-b372-092516aed2ab
+    type: talks
+    enabled: true
+  -
+    id: luxb6q40
+    type: article
+    enabled: true
 ---
