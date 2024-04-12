@@ -5,7 +5,7 @@ title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712884053
+updated_at: 1712884140
 section_builder:
   -
     id: ludi5o3a
@@ -61,6 +61,11 @@ section_builder:
     id: lsgxcpqs
     inspiring_image: image-1707481915.jpeg
     type: inspiring_image
+    enabled: true
+  -
+    id: luvyysnb
+    quotation: ffdc4f63-5be9-410a-8e3a-e1aab3494d1f
+    type: quotation
     enabled: true
   -
     id: luvyssk9
