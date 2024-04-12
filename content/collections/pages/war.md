@@ -5,7 +5,7 @@ title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712883342
+updated_at: 1712883633
 section_builder:
   -
     id: ludi5o3a
@@ -33,7 +33,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'Humankind first descended into wars only ten thousand years ago (the end of the mesolithic period), when we stopped being only hunters and gatherers and became farmers as well.'
+            text: 'Humankind first descended into wars only ten thousand years ago (the end of the mesolithic period), when we ceased being only hunters and gatherers, becoming farmers as well.'
       -
         type: paragraph
         content:
@@ -45,7 +45,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'Now it’s up to us, each of us, to work our way out of it, learn to own little and share much, like water and food and, yes, land. It’s time to recognize that it is indeed insanity to still be murdering each other, ruining life on Earth in the process. '
+            text: 'Now it’s up to us, each of us, to work our way out of war, to learn to own little and share much, like water and food and, yes, land. It’s time to recognize that it is indeed insanity to still be murdering each other, ruining life on Earth in the process, treating civilized existence as a given, not a choice. '
       -
         type: paragraph
         content:
