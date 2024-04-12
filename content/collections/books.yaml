@@ -1,10 +1,9 @@
 title: Books
-template: entry
+template: contentTemplates/book
 layout: layout
 taxonomies:
   0: challenges
   2: collection_type
-  3: birds
 revisions: false
 route: '/discover/{slug}'
 sort_dir: asc

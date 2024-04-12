@@ -1,0 +1,46 @@
+<div class="bg-darkblack p-32">
+    <div class="w-2/3 mx-auto text-center relative top-[20vh]">
+        <div class="fadeup opacity-0 font-medium inline-block leading-tighter tracking-widest uppercase text-hotpink relative text-4xl">{{title}}</div>
+    </div>
+    <!-- image -->
+    <div data-speed="2" class="mx-auto w-2/3 relative z-10">
+        <img src="{{image}}" alt="{{title}}" width="100%">
+      </div>
+      <!-- text -->
+      <div class="w-2/3 mx-auto text-hotpink text-hotpink p-16 relative -top-[40vh]">
+  
+      <div class="mt-8 space-y-8 fadeup">
+        <div class="font-medium text-xl text-hotpink">{{ description }}</div>
+        <!-- metadata -->
+        <div class="space-y-2">
+          <div>
+            <span class="uppercase font-medium tracking-widest">Author: </span>
+            <span class="font-serif">{{author}}</span>
+          </div>
+          <div>
+            <span class="uppercase font-medium tracking-widest">Published: </span>
+            <span class="font-serif">{{date_published}}</span>
+          </div>
+        </div>
+  
+  
+        
+        {{partial:sectionBuilderComponents/moreButtons action="Buy Now" passedType="{{type}}"}}
+
+      </div>
+    </div>
+  </div>
+  
+<script>
+    gsap.to('.fadeup', {
+    scrollTrigger: {
+        trigger: ".fadeup",
+        start: "top bottom",
+        end: "bottom bottom",
+        toggleActions: "restart none reverse reset",
+        scrub: true,
+    },
+    opacity: 1,
+    translateY: -40,
+    });
+</script>
