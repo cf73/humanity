@@ -1,10 +1,11 @@
 title: 'Photography Contributions'
-template: default
+template: contentTemplates/photography
 layout: layout
 taxonomies:
   - collection_type
   - challenges
 revisions: false
+route: '/discover/{slug}'
 sort_dir: asc
 date_behavior:
   past: public
