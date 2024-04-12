@@ -4,8 +4,8 @@ blueprint: page
 template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1712724233
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1712885635
 section_builder:
   -
     id: lu8ulqyv
@@ -15,7 +15,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'For clarity on the many, complex challenges of our changing climate, there are two voices that, for me, ring most clearly in all the words and images that have besieged and enlightened us over the last twenty years.'
+            text: 'For clarity on the many, complex challenges of our changing climate, there are two voices that, for me, ring most clearly among the words and images that have besieged and enlightened us over the last thirty years.'
       -
         type: paragraph
         content:
@@ -56,7 +56,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'Second, is oceanographer Sylvia Earle, also with a video link nearby, sharing a lifetime’s love of and experience with the oceans. With humor and wisdom and passion, she too urges us to pay attention and take action.   '
+            text: 'Second, is the passionate voice of oceanographer Sylvia Earle, also with a video link below, sharing her lifetime’s love of and experience with every ocean. With humor and wisdom, she too urges us to pay attention, to take action  —  now!   '
     type: interstitial_text
     enabled: false
   -

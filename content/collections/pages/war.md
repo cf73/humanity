@@ -4,8 +4,8 @@ blueprint: page
 title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1712807249
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1712885545
 section_builder:
   -
     id: ludi5o3a
@@ -27,25 +27,25 @@ section_builder:
         content:
           -
             type: text
-            text: 'Ending war depends on two things: first, each of us must understand that it is indeed possible to do so; and, second, each of us must act on that understanding.'
+            text: 'Ending war depends on two things: each of us must understand that it is indeed possible; and each of us must act on that understanding.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Humankind developed war only ten thousand years ago (the end of the mesolithic period), when we stopped being only hunters and gatherers and became farmers as well.'
+            text: 'Humankind first descended into wars only ten thousand years ago (the end of the mesolithic period), when we ceased being only hunters and gatherers, becoming farmers as well.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'We began to posses land. To own things. Then we began arguing about who owned what. War soon became a really bad habit, a profound insult to what should be our dominant human qualities: kindness, common sense, and creativity. '
+            text: 'We began to posses land. To own things. Then began arguing about who owned what. War soon became a bad habit, a profound insult to what should be our dominant human qualities: kindness, common sense, and creativity. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Now it’s up to us, to each of us, to work our way out of it, to work on owning little and sharing much, like water and food and, yes, land. It’s time to get over ourselves, to recognize that it is indeed insanity to still be murdering each other, ruining life on Earth in the process. '
+            text: 'Now it’s up to us, each of us, to work our way out of war, to learn to own little and share much, like water and food and, yes, land. It’s time to recognize that it is indeed insanity to still be murdering each other, ruining life on Earth in the process, treating civilized existence as a given, not a choice. '
       -
         type: paragraph
         content:
@@ -61,6 +61,11 @@ section_builder:
     id: lsgxcpqs
     inspiring_image: image-1707481915.jpeg
     type: inspiring_image
+    enabled: true
+  -
+    id: luvzsd2i
+    talks: ba850df4-c102-43cf-a7f7-0c66ed1f60d7
+    type: talks
     enabled: true
 challenge_intro:
   -
