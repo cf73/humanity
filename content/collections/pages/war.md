@@ -5,7 +5,7 @@ title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712884210
+updated_at: 1712884363
 section_builder:
   -
     id: ludi5o3a
@@ -115,6 +115,11 @@ section_builder:
             type: text
             text: 'Encourage new legislation – for example to prevent drones from being used for military purposes. Raise funds for a public awareness campaign. Research and publicize the history of peace movements.'
     type: interstitial_text
+    enabled: true
+  -
+    id: luvz204o
+    inspiring_image: three-sisters.jpeg
+    type: inspiring_image
     enabled: true
 challenge_intro:
   -
