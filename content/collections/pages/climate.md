@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712885635
+updated_at: 1712944731
 section_builder:
   -
     id: lu8ulqyv
@@ -15,13 +15,13 @@ section_builder:
         content:
           -
             type: text
-            text: 'For clarity on the many, complex challenges of our changing climate, there are two voices that, for me, ring most clearly among the words and images that have besieged and enlightened us over the last thirty years.'
+            text: 'For clarity on the many, complex challenges of our changing climate, there are two voices that ring most clearly among the words and images that have besieged and enlightened us over the last thirty years.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'First, the world is fortunate for the wise and heartfelt voice of 94-year-old naturalist, broadcaster and humanist, Sir David Attenborough. He not only clarifies the climate crisis; he also delineates clear solutions, as in his '
+            text: 'First, the world is fortunate for the wise and heartfelt voice of 94-year-old naturalist, broadcaster and humanist, Sir David Attenborough. He not only clarifies the climate crisis, he also delineates clear solutions   —  as in his '
           -
             type: text
             marks:
@@ -44,7 +44,7 @@ section_builder:
             text: 'A Life on the Planet'
           -
             type: text
-            text: ', with a link below.'
+            text: ' (link below).'
       -
         type: paragraph
         content:
@@ -56,7 +56,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'Second, is the passionate voice of oceanographer Sylvia Earle, also with a video link below, sharing her lifetime’s love of and experience with every ocean. With humor and wisdom, she too urges us to pay attention, to take action  —  now!   '
+            text: 'Second, is the passionate voice of oceanographer Sylvia Earle, also with a video link below, sharing her lifetime’s love of and experience with every ocean. With humor and wisdom, she too urges us to pay attention, to take action now.  '
     type: interstitial_text
     enabled: false
   -
