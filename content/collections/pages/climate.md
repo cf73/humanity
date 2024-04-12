@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712945044
+updated_at: 1712945228
 section_builder:
   -
     id: lu8ulqyv
@@ -30,7 +30,7 @@ section_builder:
             text: 'must-see '
           -
             type: text
-            text: 'film  —  '
+            text: 'film: '
           -
             type: text
             marks:
@@ -50,13 +50,13 @@ section_builder:
         content:
           -
             type: text
-            text: 'He calls it his “witness statement.” It’s a sobering yet hopeful investigation of the actions to which all of us must commit our minds and hearts in full measure.'
+            text: 'He calls this film his “witness statement.” It’s a sobering yet hopeful investigation of the actions to which all of us must now commit our minds and hearts in full measure.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Second, is the passionate voice of oceanographer Sylvia Earle  —  '
+            text: 'Second, is the passionate voice of oceanographer Sylvia Earle. In this TED video,  '
           -
             type: text
             marks:
@@ -70,7 +70,7 @@ section_builder:
             text: 'My Wish to Protect the Oceans'
           -
             type: text
-            text: '  —  sharing her lifetime’s love of and experience with every ocean. With humor and wisdom, she too urges us to pay attention, to take action now.  '
+            text: ', she shares  her lifetime’s love of and experience with every ocean on Earth. With humor and wisdom, she too urges us to pay attention, to take action now.  '
     type: interstitial_text
     enabled: false
   -
