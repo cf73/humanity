@@ -5,7 +5,7 @@ title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712884363
+updated_at: 1712885394
 section_builder:
   -
     id: ludi5o3a
@@ -60,65 +60,6 @@ section_builder:
   -
     id: lsgxcpqs
     inspiring_image: image-1707481915.jpeg
-    type: inspiring_image
-    enabled: true
-  -
-    id: luvz0kyk
-    commencement_speech: fab94cb3-0c49-48a3-af62-e8ea16f88bc3
-    type: commencement_speech
-    enabled: true
-  -
-    id: luvyysnb
-    quotation: ffdc4f63-5be9-410a-8e3a-e1aab3494d1f
-    type: quotation
-    enabled: true
-  -
-    id: luvyssk9
-    interstitial_text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'There also are of course many “neighborhood” ways for us to be peacemakers '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'every day'
-          -
-            type: text
-            text: ': '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Establish programs of peace studies in our schools. Sponsor an inspiring speaker at our school or community. Organize a peaceful protest for government transparency.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Found a book club that concentrates on dialogues of peace. Bring works of art to our local communities that address the need for peace – and the hard work it takes to get there.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "Join an international campaign against a particular warmonger, dictator or terrorist organization. Support the efforts of one of the many international enterprises that work for peace.\_"
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Encourage new legislation – for example to prevent drones from being used for military purposes. Raise funds for a public awareness campaign. Research and publicize the history of peace movements.'
-    type: interstitial_text
-    enabled: true
-  -
-    id: luvz204o
-    inspiring_image: three-sisters.jpeg
     type: inspiring_image
     enabled: true
 challenge_intro:
