@@ -63,7 +63,7 @@
         }
     </style> -->
     <div class="col-span-1">
-        <form action="/discover" method="get">
+        <form action="/index" method="get">
             <div class="uppercase tracking-wider mt-4">Themes</div>
             {{taxonomy:challenges :categories:contains="{{(get:categories | contains(slug))}}"}}
                 <label class="font-serif text-xs">
