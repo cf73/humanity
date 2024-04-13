@@ -62,6 +62,21 @@ tabs:
               replicator_preview: true
               hide_display: false
           -
+            handle: key_facts_that_make_this_urgent
+            field:
+              character_limit: '500'
+              antlers: false
+              type: textarea
+              display: 'Key facts that make this urgent'
+              instructions: "This text appears in the pink square on the homepage under each challenge, and should highlight some facts that underline the urgency of this initiative. Take language directly from the partners' sites for this."
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
             handle: description
             field:
               buttons:

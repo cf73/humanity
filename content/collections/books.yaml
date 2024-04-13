@@ -5,7 +5,7 @@ taxonomies:
   0: challenges
   2: collection_type
 revisions: false
-route: '/discover/{slug}'
+route: '/index/{slug}'
 sort_dir: asc
 date_behavior:
   past: public

@@ -1,0 +1,37 @@
+<section id="intro" class="w-full py-[25vh] bg-warmwhite relative z-10 flex flex-col items-center justify-center space-y-8">
+    <div id="introprose" class="w-2/3 text-2xl font-serif leading-loose text-softblack text-center" data-speed="1.25">{{introduction}}</div>
+    <div data-speed="1.25"><a href="/about"><button>About The Humanity Initiative</button></a></div>
+</section>  
+
+<div class="container mx-auto grid mt-32 grid-cols-3 gap-16">
+    {{nav from="themes"}}
+        <div style="background-image: url('{{intro_movie}}');" class="w-full h-[100vh] relative flex items-center bg-cover bg-center pb-32">
+            <!-- <video id="earth" src="{{intro_movie}}" autoplay muted loop style="
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 66vh;
+            object-fit: cover;
+            z-index: 0;"></video> -->
+            <div id="dimmer" class="bg-gradient-to-t from-black to-transparent h-[60vh] absolute z-0 bottom-0 w-full"></div>
+            <div data-speed="1.2" class="container mx-auto flex flex-col relative top-[20vh] z-10 space-y-8 text-warmwhite text-center items-center">
+                <div class="text-3xl font-bold uppercase tracking-wider leading-tight">{{title}}</div>
+                <!-- <div class="text-2xl font-serif leading-normal w-9/12">{{challenge_intro_text}}</div> -->
+    
+                <div class="grid grid-cols-1 text-center space-y-4 font-bold text-sm text-warmwhite/40 tracking-widest uppercase w-2/3 mx-auto flex-wrap">
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=commencement-speech">{{collection:commencement_speeches challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=documentaries">{{collection:documentaries challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:documentaries}} Documentaries</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=partner-initiative">{{collection:partner_initiatives challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Partner Initiatives</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=partner-story">{{collection:partner_stories challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_stories}} Partner Stories</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
+                </div>
+                <a href="{{url}}"><button class="border-white font-semibold text-lg tracking-widest p-2 px-8 text-warmwhite backdrop-blur-lg">Explore</button></a>
+    
+            </div>
+        </div>
+    {{/nav}}
+</div>
