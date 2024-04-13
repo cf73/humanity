@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712885635
+updated_at: 1712945421
 section_builder:
   -
     id: lu8ulqyv
@@ -15,13 +15,13 @@ section_builder:
         content:
           -
             type: text
-            text: 'For clarity on the many, complex challenges of our changing climate, there are two voices that, for me, ring most clearly among the words and images that have besieged and enlightened us over the last thirty years.'
+            text: 'For clarity on the many, complex challenges of our changing climate, there are two voices that ring perhaps most clearly among the myriad words and images that have besieged and enlightened us over the last thirty years.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'First, the world is fortunate for the wise and heartfelt voice of 94-year-old naturalist, broadcaster and humanist, Sir David Attenborough. He not only clarifies the climate crisis; he also delineates clear solutions, as in his '
+            text: 'First, the world is fortunate for the wise and heartfelt voice of 94-year-old naturalist, broadcaster and humanist, Sir David Attenborough. He not only clarifies the climate crisis, he also delineates clear solutions   —  as in his recent '
           -
             type: text
             marks:
@@ -30,7 +30,7 @@ section_builder:
             text: 'must-see '
           -
             type: text
-            text: 'film, '
+            text: 'film: '
           -
             type: text
             marks:
@@ -44,19 +44,27 @@ section_builder:
             text: 'A Life on the Planet'
           -
             type: text
-            text: ', with a link below.'
+            text: '. He calls this his “witness statement.” It’s a sobering yet hopeful investigation of the actions to which all of us must now commit our minds and hearts in full measure.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'He calls it his “witness statement.” It’s a sobering yet hopeful investigation of the actions to which all of us must commit our minds and hearts in full measure.'
-      -
-        type: paragraph
-        content:
+            text: 'Second, is the passionate voice of oceanographer Sylvia Earle. In this TED video, '
           -
             type: text
-            text: 'Second, is the passionate voice of oceanographer Sylvia Earle, also with a video link below, sharing her lifetime’s love of and experience with every ocean. With humor and wisdom, she too urges us to pay attention, to take action  —  now!   '
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.bing.com/videos/riverview/relatedvideo?q=Sylivie+Earle+My+wish+to+protect+the+oceans&mid=02CABDC03648E76734F502CABDC03648E76734F5&FORM=VIRE'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'My Wish to Protect the Oceans'
+          -
+            type: text
+            text: ', she shares her lifetime’s love of and experience with every ocean on Earth. With immense wisdom and humor, she too urges us to pay attention, to take action now.  '
     type: interstitial_text
     enabled: false
   -
