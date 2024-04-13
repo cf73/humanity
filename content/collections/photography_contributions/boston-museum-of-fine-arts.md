@@ -11,10 +11,10 @@ description:
     content:
       -
         type: text
-        text: '"Family portrait" at the Museum of Fine Arts, Boston'
+        text: 'A "family portrait" at the Museum of Fine Arts, Boston'
 collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713035135
+updated_at: 1713035162
 ---
