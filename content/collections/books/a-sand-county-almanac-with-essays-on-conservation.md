@@ -29,12 +29,36 @@ description:
         text: 'The New York Times'
       -
         type: text
-        text: "), it is perhaps the finest example of nature writing since Thoreau's Walden. "
+        text: "), it is perhaps the finest example of nature writing since Thoreau's "
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Walden. '
       -
         type: hardBreak
       -
         type: text
-        text: "Now this classic work is available in a completely redesigned and lavishly illustrated gift edition, featuring over one hundred beautiful full-color pictures by Michael Sewell, one of the country's leading nature photographers. Sewell, whose work has graced the pages of Audubon and Sierra magazines, walked Leopold's property in Wisconsin and shot these photographs specifically for this edition, allowing readers to see Sand County as Leopold saw it. The resulting layout is spectacular. "
+        text: "Now this classic work is available in a completely redesigned and lavishly illustrated gift edition, featuring over one hundred beautiful full-color pictures by Michael Sewell, one of the country's leading nature photographers. Sewell, whose work has graced the pages of "
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Audubon
+      -
+        type: text
+        text: ' and '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Sierra
+      -
+        type: text
+        text: " magazines, walked Leopold's property in Wisconsin and shot these photographs specifically for this edition, allowing readers to see Sand County as Leopold saw it. The resulting layout is spectacular. "
   -
     type: paragraph
     content:
@@ -53,7 +77,7 @@ related_partner_initiatives:
 related_content:
   - 239a38c6-1348-452c-b8d1-8136b4dd3c89
   - ac220561-aa8b-48ce-a11d-d0ee99b3cab4
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1712505406
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1713035523
 date_published: '1986-12-12'
 ---
