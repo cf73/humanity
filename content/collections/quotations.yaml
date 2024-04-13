@@ -5,6 +5,7 @@ taxonomies:
   - collection_type
   - challenges
 revisions: false
+route: '/index/{slug}'
 sort_dir: asc
 date_behavior:
   past: public
