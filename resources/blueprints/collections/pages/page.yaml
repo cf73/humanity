@@ -257,12 +257,6 @@ tabs:
       -
         fields:
           -
-            handle: template
-            field:
-              type: template
-              display: Template
-              localizable: true
-          -
             handle: slug
             field:
               type: slug
