@@ -13,7 +13,7 @@ challenge_intro_text: |-
 template: challenge
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713124077
+updated_at: 1713124179
 intro_movie: c512911.jpeg
 section_builder:
   -
