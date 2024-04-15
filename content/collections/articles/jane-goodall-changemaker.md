@@ -1,8 +1,8 @@
 ---
 id: c4e39c58-982d-4ffa-8cd0-16689135f9c7
 blueprint: articles
-title: 'Jane Goodall, changemaker'
-author: 'By Henry Nicholls,'
+title: 'Jane Goodall, How She Redefined Mankind'
+author: 'Henry Nicholls'
 date_published: '2014-03-31'
 link: 'https://www.bbc.com/future/article/20140331-the-woman-who-redefined-mankind'
 publication: BBC
@@ -690,5 +690,5 @@ related_content:
   - 8c206ac9-1b59-49e5-9e1d-6454a86204c5
   - 8a6167d1-d897-4c80-a069-cb77667b2353
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713201286
+updated_at: 1713201389
 ---
