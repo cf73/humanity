@@ -5,6 +5,7 @@ title: 'Support Human Right Watch in protecting students from online surveillanc
 image: oip.ho6sn69-i1rfazlf9ximdqhae7.jpeg
 summary: |-
   We think our kids are safe in school online. But many of them are being surveilled, and parents have often been kept in the dark. Kids are priceless, not products.
+
   https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments
 call_to_action: 'Human Rights Watch monitors educational tech data.'
 key_facts_that_make_this_urgent: |-
@@ -154,5 +155,5 @@ challenges:
   - democracy
 partner: human-rights-watch
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713304912
+updated_at: 1713305137
 ---
