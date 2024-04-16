@@ -1,7 +1,7 @@
 ---
 id: ce164af0-5a10-4e47-bff7-56edb91100ca
 blueprint: partner_initiative
-title: 'Join Human Right Watch in protecting students from online surveillance.'
+title: 'Support Human Right Watch in protecting students from online surveillance.'
 image: oip.ho6sn69-i1rfazlf9ximdqhae7.jpeg
 summary: |-
   We think our kids are safe in school online. But many of them are being surveilled, and parents have often been kept in the dark. Kids are priceless, not products.
@@ -154,5 +154,5 @@ challenges:
   - democracy
 partner: human-rights-watch
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713304873
+updated_at: 1713304912
 ---
