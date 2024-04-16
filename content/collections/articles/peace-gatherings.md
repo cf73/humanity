@@ -2,7 +2,7 @@
 id: e1912d5b-c259-42ca-aa14-01faa3424173
 blueprint: articles
 collection_type: article
-title: 'THI blueprint for Peace Gatherings'
+title: 'THI blueprint for peace gatherings'
 image: palestine-luke.jpeg
 description:
   -
@@ -10,23 +10,12 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://humanity.org/wp-admin/post.php?post=6519&action=edit'
-              rel: null
-              target: null
-              title: null
-        text: 'Peace Gatherings:'
-      -
-        type: text
-        text: ' how your neighborhood can help to end war – with a contagious peace gathering.'
+        text: 'Help your community end war; host a contagious peace gathering.'
 challenges:
   - war
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712092052
+updated_at: 1713300339
 article_text:
   -
     type: paragraph
