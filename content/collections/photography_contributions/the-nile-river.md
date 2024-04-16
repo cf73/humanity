@@ -11,10 +11,10 @@ description:
     content:
       -
         type: text
-        text: 'From headwaters in Burundi, the graceful White Nile flows slowly northward through Rwanda, Uganda, Kenya, the Democratic Republic of the Congo, and South Sudan, combining in Sudan at Khartoum with the Blue Nile, arriving out of Ethiopia, and then onward as the Nile River through the desert of Egypt.'
+        text: "From headwaters in Burundi, the graceful White Nile flows slowly northward through Rwanda, Uganda, Tanzania, Kenya, the Democratic Republic of the Congo, and South Sudan, combining in Sudan at Khartoum with the Blue Nile, arriving out of Ethiopia with 80% of the Nile's volume, and then onward through the desert of Egypt as the well fabled Nile, longest river on Earth."
 collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713237101
+updated_at: 1713238437
 ---
