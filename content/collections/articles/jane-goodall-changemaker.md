@@ -44,16 +44,19 @@ article_text:
         text: 'By Henry Nicholls,'
       -
         type: text
-        text: 'Features correspondent'
+        text: ' features correspondent'
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
         text: 'Primatologist Jane Goodall, turning 80 this week, tells Henry Nicholls the inside story on how she transformed our understanding of chimpanzees, what it means to be human, and the controversy and condescension she faced in her influential career.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '                                                       ***'
   -
     type: paragraph
     content:
@@ -690,5 +693,5 @@ related_content:
   - 8c206ac9-1b59-49e5-9e1d-6454a86204c5
   - 8a6167d1-d897-4c80-a069-cb77667b2353
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713300039
+updated_at: 1713300199
 ---
