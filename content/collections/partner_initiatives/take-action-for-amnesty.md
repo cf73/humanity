@@ -24,12 +24,6 @@ description:
     content:
       -
         type: text
-        text: "Some question the legitimacy of the UDHR. After all, it was drafted by a minority of States at a time when many of the world’s population lived under colonialism. We cannot ignore this shortcoming, any more than we should neglect the critique that the modern human rights regime is a Western liberal project favouring civil and political rights over economic, social and cultural rights.\_\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: "But while the UDHR was undoubtedly a victor’s project, its drafting ultimately could not be controlled by the powerful alone.\_ Smaller nations outmaneuvered the large, ensuring that the final text promised human rights for all without “distinction”.\_ The Egyptian delegate confirmed the “universality” of human rights and their applicability to persons subject to colonial rule or occupation.\_ Women delegates from India, Brazil and the Dominican Republic ensured that equal rights of men and women were affirmed.\_\_"
   -
     type: paragraph
@@ -150,7 +144,7 @@ description:
     content:
       -
         type: text
-        text: 'LET’S BECOME GENERATION 2048No government is beyond scrutiny. '
+        text: 'LET’S BECOME GENERATION 2048.  No government is beyond scrutiny. '
       -
         type: text
         marks:
@@ -160,15 +154,18 @@ description:
       -
         type: text
         text: ' We hold human rights violators to account.'
-image: image-1709945135.jpeg
+image: image-1713310641.jpeg
 challenges:
   - war
 partner: amnesty-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711380527
+updated_at: 1713311052
 summary: |-
   Amnesty International seeks to re-examine the Universal Declaration of Human Rights:  
 
   "Let’s get the history of the UDHR right. Not by whitewashing it or by ignoring the raging double standards of its implementation. But by paying homage: to those who used its extraordinary disruptive power during struggles for liberation and equality the world over; to those who made the UDHR real and authentic, in their struggle against colonialism and for independence; against bigotry and for equality; against patriarchy and for gender justice; for a world of greater dignity for ‘all members of the human family’."
 call_to_action: 'Amnesty International creates Generation 2048'
+key_facts_that_make_this_urgent: |-
+  Generation 2048: time to resist, disrupt and transform. 
+  Some question the legitimacy of the Universal Declaration of Human Rights (UDHR). After all, it was drafted by a minority of States at a time when many of the world’s population lived under colonialism. We cannot ignore this shortcoming, any more than we should neglect the critique that the modern human rights regime is a Western liberal project favouring civil and political rights over economic, social and cultural rights.
 ---
