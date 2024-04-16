@@ -22,6 +22,23 @@ article_text:
     content:
       -
         type: text
+        text: 'From the BBC:   '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.bbc.co.uk/newsround/42872803'
+              rel: null
+              target: null
+              title: null
+        text: 'https://www.bbc.co.uk/newsround/42872803'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'From one.org:  '
       -
         type: text
@@ -51,23 +68,6 @@ article_text:
               target: null
               title: null
         text: 'https://www.history.com/news/bold-women-who-changed-the-world'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'From the BBC:   '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.bbc.co.uk/newsround/42872803'
-              rel: null
-              target: null
-              title: null
-        text: 'https://www.bbc.co.uk/newsround/42872803'
 collection_type: article
 challenges:
   - inspiration
@@ -76,7 +76,7 @@ related_partner_initiatives:
 related_content:
   - 3c9aefca-a9fe-4455-86b6-0585897d6854
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713133974
+updated_at: 1713299571
 author: 'BBC, history.com, one.org'
 date_published: '2023-03-07'
 link: 'https://www.bbc.co.uk/newsround/42872803'
