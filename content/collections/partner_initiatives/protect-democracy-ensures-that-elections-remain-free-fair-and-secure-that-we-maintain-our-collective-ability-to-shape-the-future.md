@@ -1,7 +1,7 @@
 ---
 id: b8061fa7-85a2-49a6-8e37-289afe449ed6
 blueprint: partner_initiative
-title: 'Protect Democracy ensures that elections remain free, fair, and secure  --  that we maintain our collective ability to shape the future.'
+title: 'Protect Democracy works to ensure that elections remain free, fair, and secure  --  that we maintain our collective ability to shape the future.'
 image: image-1713227192.png
 summary: 'Without free, fair, and secure elections, voters have no voice, little control over the direction of a country, and few ways to correct course when things go awry.'
 call_to_action: 'Protect Democracy defends the process of holding elections.'
@@ -57,5 +57,5 @@ challenges:
   - democracy
 partner: protect-democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713227347
+updated_at: 1713227400
 ---
