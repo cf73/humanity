@@ -139,10 +139,10 @@ image: microplastics-in-the-food-chain-illustration-1024x583.png
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713286536
+updated_at: 1713302173
 partner: woods-hole-oceanographic-institution
 collection_type: partner-initiative
 summary: 'In 2017, WHOI launched a marine microplastics program, convening an international workshop to identify key knowledge gaps and research questions, while also building a long-term, collaborative, interdisciplinary research program to provide better understanding of microplastics and possible solutions.'
 call_to_action: 'Join WHOI in solving the microplastics challenge.'
-key_facts_that_make_this_urgent: 'The presence of microplastics and nanoplastics in the oceans is a worldwide concern. WHOI has launched an interdisciplinary research program to understand the fate and impacts of plastics in the marine environment. Our research involves a diverse group of scientists, engineers, students, postdoctoral researchers, and science communicators. We invite you to explore microplastics@whoi,edu and contact any of the team members to inquire about opportunities to become involved in and support our research effort.'
+key_facts_that_make_this_urgent: 'The presence of microplastics and nanoplastics in the oceans is a worldwide concern. WHOI has launched an interdisciplinary research program to understand the fate and impacts of plastics in the marine environment. Our research involves a diverse group of scientists, engineers, students, postdoctoral researchers, and science communicators. We invite you to explore microplastics@whoi.edu and contact any of the team members to inquire about opportunities to become involved in and support our research effort.'
 ---
