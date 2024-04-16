@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713301227
+updated_at: 1713301584
 section_builder:
   -
     id: lu8ulqyv
@@ -15,7 +15,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'For clarity on the many, complex challenges of our changing climate, there are two voices that ring perhaps most clearly among the myriad words and images that have besieged and enlightened us over the last thirty years.'
+            text: 'For clarity on the complex challenges of our changing climate, two voices ring perhaps most clearly among the myriad words and images that have besieged and enlightened us over these last thirty years.'
       -
         type: paragraph
         content:
@@ -50,7 +50,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'Second, is the passionate voice of oceanographer Sylvia Earle. In this TED video, '
+            text: 'Second, is the passionate testimony of oceanographer Sylvia Earle. In this TED video, '
           -
             type: text
             marks:
