@@ -11,7 +11,20 @@ description:
         marks:
           -
             type: bold
-        text: "WHOI's Microplastics Initiative"
+        text: "WHOI's Microplastics Initiative:   "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://microplastics.whoi.edu/?_gl=1'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: 'https://microplastics.whoi.edu/'
   -
     type: paragraph
     content:
@@ -66,10 +79,10 @@ image: microplastics-in-the-food-chain-illustration-1024x583.png
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713285496
+updated_at: 1713286084
 partner: woods-hole-oceanographic-institution
 collection_type: partner-initiative
-summary: 'Microplastics  --  tiny plastic fragments less than five millimeters in size  --  are ubiquitous in the global ocean. In fact, an estimated eight million tons of plastics enter our oceans each year, yet only one percent can be seen floating at the surface. Where the rest ends up is not well understood.'
+summary: 'In 2017, WHOI launched a marine microplastics program, convening an international workshop to identify key knowledge gaps and research questions, while also building a long-term, collaborative, interdisciplinary research program to provide better understanding of microplastics and possible solutions.'
 call_to_action: 'Join WHOI in solving the microplastics challenge.'
-key_facts_that_make_this_urgent: 'The presence of microplastics and nanoplastics in the oceans is a worldwide concern. To help address this pressing problem, WHOI has launched an interdisciplinary research program to understand the fate and impacts of plastics in the marine environment. Our research is supported by both public and private sources and involves a diverse group of scientists, engineers, students, postdoctoral researchers, and science communicators. We invite you to explore these pages and contact any of the team members to inquire about opportunities to become involved in and support our research effort.'
+key_facts_that_make_this_urgent: 'The presence of microplastics and nanoplastics in the oceans is a worldwide concern. WHOI has launched an interdisciplinary research program to understand the fate and impacts of plastics in the marine environment. Our research involves a diverse group of scientists, engineers, students, postdoctoral researchers, and science communicators. We invite you to explore these pages and contact any of the team members to inquire about opportunities to become involved in and support our research effort.'
 ---
