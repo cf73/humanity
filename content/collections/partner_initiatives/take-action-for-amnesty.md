@@ -18,6 +18,20 @@ description:
     content:
       -
         type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.amnesty.org/en/latest/campaigns/2023/12/generation-2048-time-to-resist-disrupt-and-transform/'
+              rel: null
+              target: null
+              title: null
+        text: 'https://www.amnesty.org/en/latest/campaigns/2023/12/generation-2048-time-to-resist-disrupt-and-transform/'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: "2023 marks the 75th anniversary of the Universal Declaration of Human Rights (UDHR). Born from the ashes of World War II under the shadow of the very worst of humanity, the UDHR held out the promise of a global framework for justice and the recognition of ‘equal and inalienable rights’ for all.\_"
   -
     type: paragraph
@@ -159,7 +173,7 @@ challenges:
   - war
 partner: amnesty-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713311052
+updated_at: 1713311147
 summary: |-
   Amnesty International seeks to re-examine the Universal Declaration of Human Rights:  
 
