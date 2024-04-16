@@ -19,13 +19,13 @@ description:
     content:
       -
         type: text
-        text: 'She and the medics who had been given permission to go save her life are soon killed outright by soldiers. '
+        text: 'She and the arriving medics  --  who had been given permission to go save her life  --  are soon killed outright by soldiers. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Humanity no longer can survive the senseless violence of this world. '
+        text: 'Humanity no longer can tolerate or survive the senseless, bloodthirsty violence of our world. '
   -
     type: paragraph
     content:
@@ -2186,5 +2186,5 @@ related_content:
   - ee249176-0024-4fca-a366-9b5d515d29d4
   - 5b23ff39-cc44-49fa-9ced-97b78abc74b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713293341
+updated_at: 1713298801
 ---
