@@ -1,7 +1,7 @@
 ---
 id: 91d3f85d-1560-4132-940f-029c9e3fabfe
 blueprint: articles
-title: "All of us must answer six-year-old Hind Rajab's request to live..."
+title: "All of us must answer six-year-old Hind Rajab's cry for life."
 author: 'Meg Kelley, Washington Post'
 date_published: '2024-04-16'
 link: 'https://www.washingtonpost.com/world/interactive/2024/hind-rajab-israel-gaza-killing-timeline/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most&carta-url=https%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3d69d6e%2F661ea5be0ab0880fad371910%2F5a3aa40bade4e25c8f8dfb67%2F9%2F52%2F661ea5be0ab0880fad371910'
@@ -2186,5 +2186,5 @@ related_content:
   - ee249176-0024-4fca-a366-9b5d515d29d4
   - 5b23ff39-cc44-49fa-9ced-97b78abc74b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713291660
+updated_at: 1713293054
 ---
