@@ -13,7 +13,25 @@ description:
     content:
       -
         type: text
-        text: 'Six year old Palestinian girl calls for help for three hours. She is killed outright by IDF forces. '
+        text: 'Six year old Palestinian Hind Rajab, with her tiny voice and brave heart, calls for help for three hours. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'She and the medics who had been given permission to go save her life are soon killed outright by soldiers. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Humanity no longer can survive the senseless violence of this world. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'It is up to each of us to stop it. '
 article_text:
   -
     type: paragraph
@@ -2168,5 +2186,5 @@ related_content:
   - ee249176-0024-4fca-a366-9b5d515d29d4
   - 5b23ff39-cc44-49fa-9ced-97b78abc74b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713291304
+updated_at: 1713291660
 ---
