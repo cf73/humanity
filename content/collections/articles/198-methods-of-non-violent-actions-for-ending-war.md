@@ -2,7 +2,7 @@
 id: 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
 blueprint: articles
 title: '198 methods of non-violent action for ending war...'
-image: palestine-luke.jpeg
+image: image-1713472601.png
 link: 'https://www.aeinstein.org/198-methods-of-nonviolent-action'
 description:
   -
@@ -57,15 +57,12 @@ description:
       -
         type: text
         text: ' (3 volumes).'
-  -
-    type: paragraph
-    content:
       -
         type: hardBreak
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713472534
+updated_at: 1713472777
 article_text:
   -
     type: paragraph
@@ -1528,6 +1525,7 @@ related_content:
   - 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
 author: 'Dr. Gene Sharp'
 date_published: '1973-05-15'
+publication: 'The Politics of Nonviolent Action (3 volumes)'
 content:
   -
     type: paragraph
