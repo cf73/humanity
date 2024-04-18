@@ -825,7 +825,7 @@ challenges:
   - kids
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711921113
+updated_at: 1713468314
 related_partner_initiatives:
   - e418c09e-390d-4f38-987d-3a3731bb70b5
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
@@ -835,4 +835,6 @@ related_content:
   - 3f70d8b4-b75f-4bb1-bd8d-91d7e03a8232
   - ce171524-edce-436f-873d-6a863c83f1e6
   - 9daf30e1-7588-4427-bc37-28fd0527f566
+date_published: '2024-04-18'
+link: 'https://enchantedlion.com/all-books/at-the-drop-of-a-cat'
 ---
