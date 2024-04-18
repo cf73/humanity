@@ -6,7 +6,7 @@ challenge_intro_text: "Children’s literature about Earth  --  and humanity's m
 template: challenge
 parent: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713464689
+updated_at: 1713464973
 intro_movie: image-1711923706.jpeg
 section_builder:
   -
@@ -30,6 +30,10 @@ section_builder:
     id: lv5kmk2r
     book: 018aee1d-ee9a-4aac-a87f-499d4c6fb333
     type: book
+    enabled: true
+  -
+    id: lv5ks5f9
+    type: article
     enabled: true
   -
     id: lug37hsg
