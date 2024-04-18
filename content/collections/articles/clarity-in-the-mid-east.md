@@ -1,7 +1,7 @@
 ---
 id: 13b098dc-b20f-40ad-8ee4-b7793b42733a
 blueprint: articles
-title: 'Clarity in the Mid-East.'
+title: 'Clarity in the Middle East.'
 author: 'Tom Friedman'
 date_published: '2024-04-18'
 link: 'https://www.nytimes.com/2024/04/16/opinion/israel-iran-gaza.html'
@@ -317,5 +317,5 @@ related_partner_initiatives:
 related_content:
   - 91d3f85d-1560-4132-940f-029c9e3fabfe
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713457309
+updated_at: 1713457348
 ---
