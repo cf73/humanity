@@ -13,25 +13,39 @@ description:
     content:
       -
         type: text
-        text: 'Six year old Palestinian Hind Rajab, with her tiny voice and brave heart, calls for help for three hours. '
+        text: "Six-year-old Palestinian Hind Rajab  --  trapped in her relatives' car in Gaza  --  with her tiny, soft voice and brave heart, clutching a cellphone, calls for help for three hours. "
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'She and the arriving medics  --  who had been given permission to go save her life  --  are soon killed outright by soldiers. '
+        text: '"Please come save me."'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Humanity no longer can tolerate or survive the senseless, bloodthirsty violence of our world. '
+        text: 'Soon, she and two arriving medics, who had been given permission to rescue her, are killed outright by soldiers. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'It is up to each of us to stop it. '
+        text: "Her plea is humanity's demand to end war. "
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '"It is forbidden to kill; therefore all murderers are punished unless they kill in large numbers and to the sound of trumpets."'
+      -
+        type: text
+        text: ' (Voltaire)'
+  -
+    type: paragraph
 article_text:
   -
     type: paragraph
@@ -2186,5 +2200,5 @@ related_content:
   - ee249176-0024-4fca-a366-9b5d515d29d4
   - 5b23ff39-cc44-49fa-9ced-97b78abc74b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713299016
+updated_at: 1713460661
 ---
