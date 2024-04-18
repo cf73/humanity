@@ -19,7 +19,7 @@ description:
     content:
       -
         type: text
-        text: 'American journalist Tom Friedman has been a wise observer of this part of the world for forty years. His latest column (4/16/24) is irresistibly sensible about how the people of Iran and Palestine and Israel might well find the lasting peace so many yearn for. '
+        text: 'American journalist Tom Friedman has been a highly respected observer of this part of the world for forty years. His latest column (4/16/24) is irresistibly sensible about how the people of Iran and Palestine and Israel might well find the lasting peace so many yearn for. '
 article_text:
   -
     type: paragraph
@@ -311,5 +311,5 @@ related_partner_initiatives:
 related_content:
   - 91d3f85d-1560-4132-940f-029c9e3fabfe
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713458865
+updated_at: 1713459611
 ---
