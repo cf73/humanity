@@ -6,7 +6,7 @@ challenge_intro_text: "Children’s literature about Earth  --  and humanity's m
 template: challenge
 parent: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713464470
+updated_at: 1713464689
 intro_movie: image-1711923706.jpeg
 section_builder:
   -
@@ -26,6 +26,11 @@ section_builder:
           -
             type: text
             text: 'Also, The Humanity Initiative is currently looking for an intern to help expand this collection across the continents. Please contact peace@humanity.org if you are interested in applying. '
+  -
+    id: lv5kmk2r
+    book: 018aee1d-ee9a-4aac-a87f-499d4c6fb333
+    type: book
+    enabled: true
   -
     id: lug37hsg
     type: article
