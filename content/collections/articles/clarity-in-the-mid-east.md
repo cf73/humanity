@@ -13,19 +13,13 @@ description:
     content:
       -
         type: text
-        text: 'Aspirations of democracy are forever rife in the Middle East, from Iran to Palestine to Israel. Yet year after year, the world is left with a confusing patchwork of violence, that paint that are of the globe as consistently unmanageable and violent. '
+        text: 'Aspirations of democracy forever fuel the heartbeat of a vast majority of people throughout the Middle East. Yet year after year after year, a farrago of violence makes us believe these ancient lands are antithetical to peace. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'What is the solution? '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Tom Friedman has been a wise observer of this part of the world for forty years. His latest column is irresistibly sensible about how the people of Iran and Palestine and Israel can work their way to a peaceful future. '
+        text: 'American journalist Tom Friedman has been a wise observer of this part of the world for forty years. His latest column (4/16/24) is irresistibly sensible about how the people of Iran and Palestine and Israel might well find the lasting peace so many yearn for. '
 article_text:
   -
     type: paragraph
@@ -57,7 +51,7 @@ article_text:
         marks:
           -
             type: bold
-        text: 'Opinion Columnist'
+        text: 'Opinion Columnist, The New York Times'
   -
     type: paragraph
     content:
@@ -317,5 +311,5 @@ related_partner_initiatives:
 related_content:
   - 91d3f85d-1560-4132-940f-029c9e3fabfe
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713457348
+updated_at: 1713458436
 ---
