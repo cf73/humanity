@@ -24,7 +24,7 @@ description:
         text: '198 profoundly possible methods of non-violent action'
       -
         type: text
-        text: ' were gifted to humanity by the Albert Einstein Institution and its founder, Dr. Gene Sharp in 1973. He researched and catalogued them, providing a rich selection of historical examples in his seminal work, '
+        text: ' were gifted to humanity by the Albert Einstein Institution and its founder, Dr. Gene Sharp, in 1973. He researched and catalogued them, providing a rich selection of historical examples in his seminal work, '
       -
         type: text
         marks:
@@ -33,13 +33,13 @@ description:
         text: 'The Politics of Nonviolent Action'
       -
         type: text
-        text: ' (3 volumes).'
+        text: .
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'In her 2016 TED talk, '
+        text: 'In a 2016 TED talk, '
       -
         type: text
         marks:
@@ -53,11 +53,25 @@ description:
         text: 'Jamila Raqib'
       -
         type: text
-        text: ', born in Afghanistan, references these methods as she convincingly made the case for making violence obsolete.'
+        text: ', born in Afghanistan, references these methods as she convincingly makes the case for making war obsolete ('
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.youtube.com/watch?v=OIpgrZ8yS-Q&t=2s'
+              rel: null
+              target: null
+              title: null
+        text: 'https://www.youtube.com/watch?v=OIpgrZ8yS-Q&t=2s'
+      -
+        type: text
+        text: ).
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713473176
+updated_at: 1713473581
 article_text:
   -
     type: paragraph
