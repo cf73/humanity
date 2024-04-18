@@ -10,7 +10,7 @@ description:
     content:
       -
         type: text
-        text: "From new artificial islands to the environmental devastation caused by the breach of Ukraine's Kakhovka Dam – this is how humanity has changed the face of our planet throughout the past year."
+        text: "From new artificial islands to the environmental devastation caused by the breach of Ukraine's Kakhovka Dam  --  this is how humanity has changed the face of our planet throughout the past year."
 article_text:
   -
     type: paragraph
@@ -29,7 +29,7 @@ article_text:
         text: 'By Richard Gray,'
       -
         type: text
-        text: 'Features correspondent, @chalkmark'
+        text: ' features correspondent, @chalkmark'
   -
     type: paragraph
     content:
@@ -625,9 +625,9 @@ related_partner_initiatives:
 related_content:
   - e9537ad7-4c07-499a-b9ac-3bd1c5dbb222
   - 48c9aa4d-9d07-4ee1-b57b-0e4804e22f71
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1712711649
-author: 'Richard Gray, Features correspondent, BBC'
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1713461227
+author: 'Richard Gray, features correspondent, BBC'
 date_published: '2023-12-27'
 publication: BBC
 ---
