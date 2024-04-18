@@ -10,10 +10,36 @@ description:
     content:
       -
         type: text
-        text: '198 methods of non-violent action'
+        text: 'These '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.aeinstein.org/198-methods-of-nonviolent-action'
+              rel: null
+              target: null
+              title: null
+        text: '198 profoundly possible methods of non-violent action'
+      -
+        type: text
+        text: ' were gifted to humanity by the Albert Einstein Institution and its founder, Dr. Gene Sharp in 1973. He researched and catalogued them, providing a rich selection of historical examples in his seminal work, '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Politics of Nonviolent Action'
+      -
+        type: text
+        text: ' (3 volumes).'
   -
     type: paragraph
     content:
+      -
+        type: text
+        text: 'In her 2016 TED talk, '
       -
         type: text
         marks:
@@ -27,42 +53,11 @@ description:
         text: 'Jamila Raqib'
       -
         type: text
-        text: ', born in Afghanistan, convincingly states the case for making violence obsolete in her 2016 TED talk. She also references this '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.aeinstein.org/198-methods-of-nonviolent-action'
-              rel: null
-              target: null
-              title: null
-        text: 'list of 198 profoundly possible methods of non-violent action'
-      -
-        type: text
-        text: ', gifted to humanity by the Albert Einstein Institution and its founder, Dr. Gene Sharp in 1973. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'He researched and catalogued these 198 methods and provided a rich selection of historical examples in his seminal work, '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Politics of Nonviolent Action'
-      -
-        type: text
-        text: ' (3 volumes).'
-      -
-        type: hardBreak
+        text: ', born in Afghanistan, references these methods as she convincingly made the case for making violence obsolete.'
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713472777
+updated_at: 1713473176
 article_text:
   -
     type: paragraph
