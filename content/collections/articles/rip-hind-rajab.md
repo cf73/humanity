@@ -52,27 +52,7 @@ article_text:
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.washingtonpost.com/visual-forensics/'
-              rel: null
-              target: null
-              title: null
-        text: 'VISUAL FORENSICS'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Palestinian paramedics said Israel gave them safe passage to save a 6-year-old girl in Gaza. They were all killed.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '(Obtained by the Washington Post)'
   -
     type: paragraph
     content:
@@ -92,16 +72,7 @@ article_text:
         text: 'Meg Kelly'
       -
         type: text
-        text: ",\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Hajar Harb,\_"
-  -
-    type: paragraph
-    content:
+        text: " (with Hajar Harb,\_"
       -
         type: text
         marks:
@@ -116,9 +87,6 @@ article_text:
       -
         type: text
         text: ",\_"
-  -
-    type: paragraph
-    content:
       -
         type: text
         marks:
@@ -133,9 +101,6 @@ article_text:
       -
         type: text
         text: "\_and\_"
-  -
-    type: paragraph
-    content:
       -
         type: text
         marks:
@@ -147,36 +112,15 @@ article_text:
               target: null
               title: null
         text: 'Cate Brown'
+      -
+        type: text
+        text: ).
   -
     type: paragraph
     content:
       -
         type: text
         text: 'April 16, 2024 at 5:00 a.m.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: Share
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: Comment
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Add to your saved stories'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: Save
   -
     type: paragraph
     content:
@@ -228,12 +172,6 @@ article_text:
     content:
       -
         type: text
-        text: 'From left: Hind Rajab, 6, Bashar Hamada, 44, and his daughter Layan, 13, were killed, along with four other family members, as well as paramedics Yusuf Zeino and Ahmed Al-Madhoun. (Mohammed Hamada and Palestine Red Crescent Society )'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Twelve days later, when a Palestinian civil defense crew finally reached the area, they found Hind’s body in a car riddled with bullets, according to her uncle, Samir Hamada, who also arrived at the scene early that morning. The ambulance lay charred'
       -
         type: text
@@ -255,25 +193,43 @@ article_text:
     content:
       -
         type: text
-        text: 'A Washington Post investigation found that Israeli armored vehicles were present in the area in the afternoon, and that gunfire audible as Hind and her cousin Layan begged for help, as well as extensive damage caused to the ambulance, are consistent with Israeli weapons. The analysis is based on satellite imagery, contemporaneous dispatcher recordings, photos and videos of the aftermath, interviews with 13 dispatchers, family members and rescue workers, and more than a dozen military, satellite, munitions and audio experts who reviewed the evidence, as well as the IDF’s own statements.'
+        text: 'A '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Washington Post'
+      -
+        type: text
+        text: ' investigation found that Israeli armored vehicles were present in the area in the afternoon, and that gunfire audible as Hind and her cousin Layan begged for help, as well as extensive damage caused to the ambulance, are consistent with Israeli weapons. The analysis is based on satellite imagery, contemporaneous dispatcher recordings, photos and videos of the aftermath, interviews with 13 dispatchers, family members and rescue workers, and more than a dozen military, satellite, munitions and audio experts who reviewed the evidence, as well as the IDF’s own statements.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'PRCS as well as representatives from Euro-Med Monitor and the Civil Defense who visited the scene on Feb. 10 provided visuals to The Post, which it verified by independently confirming the location using satellite imagery, open-source maps and eyewitness interviews.'
+        text: 'PRCS as well as representatives from Euro-Med Monitor and the Civil Defense who visited the scene on Feb. 10 provided visuals to '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Post'
+      -
+        type: text
+        text: ', which it verified by independently confirming the location using satellite imagery, open-source maps and eyewitness interviews.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: '(Euro-Med Monitor)'
-  -
-    type: paragraph
-    content:
+        marks:
+          -
+            type: italic
+        text: 'The Post’'
       -
         type: text
-        text: 'The Post’s review also found that the ambulance was discovered along a route provided by COGAT, an arm of the Israeli Defense Ministry that generally coordinates safe passage for medical vehicles with the IDF. COGAT initially referred specific questions about the ambulance to the IDF. In mid-March, Elad Goren, head of Coordination and Liaison Administration at COGAT, told The Post that the agency “coordinated everything … including the ambulance that wanted to go and find Hind,” but said he was “not aware” of the specifics. COGAT did not respond to repeated requests to clarify.'
+        text: 's review also found that the ambulance was discovered along a route provided by COGAT, an arm of the Israeli Defense Ministry that generally coordinates safe passage for medical vehicles with the IDF. COGAT initially referred specific questions about the ambulance to the IDF. In mid-March, Elad Goren, head of Coordination and Liaison Administration at COGAT, told The Post that the agency “coordinated everything … including the ambulance that wanted to go and find Hind,” but said he was “not aware” of the specifics. COGAT did not respond to repeated requests to clarify.'
   -
     type: paragraph
     content:
@@ -286,18 +242,6 @@ article_text:
       -
         type: text
         text: 'It was not possible to reach Hamas’s military wing for comment on the incident.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Story continues below advertisement'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: Advertisement
   -
     type: paragraph
     content:
@@ -462,7 +406,16 @@ article_text:
     content:
       -
         type: text
-        text: 'Steven Beck, an acoustic analyst who consulted with the FBI for more than a decade, examined the recording at the request of The Post, and found the number of rounds per minute fired was faster than an automatic AK-patterned rifle, which Hamas fighters often use. The rate, he said, was more akin to weapons commonly issued to Israeli forces. Earshot also found the rate of fire to be faster than an AK-patterned rifle.'
+        text: 'Steven Beck, an acoustic analyst who consulted with the FBI for more than a decade, examined the recording at the request of '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Post'
+      -
+        type: text
+        text: ', and found the number of rounds per minute fired was faster than an automatic AK-patterned rifle, which Hamas fighters often use. The rate, he said, was more akin to weapons commonly issued to Israeli forces. Earshot also found the rate of fire to be faster than an AK-patterned rifle.'
   -
     type: paragraph
     content:
@@ -475,36 +428,6 @@ article_text:
       -
         type: text
         text: 'A satellite image captured by Planet Labs roughly an hour later, at 3:31 p.m., shows at least four Israeli armored vehicles around 300 meters up the road from the girls.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Hind Map'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '3:31 pm: Israeli military vehicles pictured'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Hind’s family car stop point'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '350 FEET'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'N'
   -
     type: paragraph
     content:
@@ -524,7 +447,16 @@ article_text:
         text: ' Contested Ground'
       -
         type: text
-        text: ' — an open-access satellite research group focused on military, humanitarian and international affairs — who examined the satellite imagery at the request of The Post, said the armored vehicles at the intersection closest to Hind are “tactically placed” and appear to provide a “prominent, visible presence to deter (and respond to) enemy attacks,” amid ongoing ground operations.'
+        text: ' — an open-access satellite research group focused on military, humanitarian and international affairs — who examined the satellite imagery at the request of '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Post'
+      -
+        type: text
+        text: ', said the armored vehicles at the intersection closest to Hind are “tactically placed” and appear to provide a “prominent, visible presence to deter (and respond to) enemy attacks,” amid ongoing ground operations.'
   -
     type: paragraph
     content:
@@ -607,7 +539,16 @@ article_text:
     content:
       -
         type: text
-        text: 'The map, reviewed by The Post, appears to have been made in Google Maps and has a clear blue line, instructing the ambulance drivers to follow an indirect route that avoided much of the evacuation area.'
+        text: 'The map, reviewed by '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Post'
+      -
+        type: text
+        text: ', appears to have been made in Google Maps and has a clear blue line, instructing the ambulance drivers to follow an indirect route that avoided much of the evacuation area.'
   -
     type: paragraph
     content:
@@ -752,18 +693,6 @@ article_text:
     content:
       -
         type: text
-        text: 'Story continues below advertisement'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: Advertisement
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'By this point, everyone on the call with Hind — her family, the dispatchers — were praying they would not lose her too. She was falling silent for long periods. The team did what they could to keep her talking, but it was clear that the child’s thoughts had begun to loop. She just kept saying, “Come get me, quickly.”'
   -
     type: paragraph
@@ -891,6 +820,8 @@ article_text:
       -
         type: text
         text: '“All that mattered to us at that moment was to retrieve them and bury them in a decent way.”'
+  -
+    type: paragraph
   -
     type: paragraph
     content:
@@ -1251,36 +1182,6 @@ article_text:
         text: .
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Show more'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'ISRAEL-GAZA WAR'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: HAND-CURATED
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.washingtonpost.com/world/2024/04/15/israel-iran-hamas-war-news-gaza-palestine/'
-              rel: null
-              target: null
-              title: null
-        text: 'Israel weighs response to Iranian attack'
   -
     type: paragraph
     content:
@@ -1351,18 +1252,6 @@ article_text:
               target: null
               title: null
         text: 'April 14, 2024'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'View all 20 stories'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: Share
   -
     type: paragraph
     content:
@@ -1492,702 +1381,7 @@ article_text:
         marks:
           -
             type: bold
-        text: Follow
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: Company
-  -
-    type: orderedList
-    attrs:
-      start: 1
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/about-the-post/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'About The Post'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/policies-and-standards/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Newsroom Policies & Standards'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://washingtonpost.com/about-the-post/workforce-demographics/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Diversity & Inclusion'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://careers.washingtonpost.com/'
-                      rel: null
-                      target: null
-                      title: null
-                text: Careers
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/public-relations/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Media & Community Relations'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/brand-studio/archive/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'WP Creative Group'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/accessibility'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Accessibility Statement'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/sitemap'
-                      rel: null
-                      target: null
-                      title: null
-                text: Sitemap
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Get The Post'
-  -
-    type: orderedList
-    attrs:
-      start: 1
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/my-post/account/subscription/?itid=site_footer'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Manage Your Subscription'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://subscribe.washingtonpost.com/acquisition/?p=g_v&s_l=ONSITE_FOOTER_GIFT'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Gift Subscriptions'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://subscription.washingtonpost.com/mobile/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Mobile & Apps'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://washingtonpost.com/newsletters/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Newsletters & Alerts'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/washington-post-live/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Washington Post Live'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/reprints-permissions/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Reprints & Permissions'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://store.washingtonpost.com/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Post Store'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/photos-books/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Books & E-Books'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://search.proquest.com/?accountid=189667'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Print Archives (Subscribers Only)'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/todays_paper/updates'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Today’s Paper'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/classifieds'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Public Notices'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/coupons'
-                      rel: null
-                      target: null
-                      title: null
-                text: Coupons
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Contact Us'
-  -
-    type: orderedList
-    attrs:
-      start: 1
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://helpcenter.washingtonpost.com/hc/en-us/articles/360002940991-Leadership-of-The-Washington-Post-newsroom'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Contact the Newsroom'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://helpcenter.washingtonpost.com/hc/en-us/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Contact Customer Care'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://helpcenter.washingtonpost.com/hc/en-us/articles/360004745292-Leadership-of-The-Washington-Post-Opinions-section'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Contact the Opinions Team'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/mediakit/'
-                      rel: null
-                      target: null
-                      title: null
-                text: Advertise
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/syndication/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Licensing & Syndication'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://helpcenter.washingtonpost.com/hc/en-us/articles/115003675928-Submit-a-correction'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Request a Correction'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/anonymous-news-tips/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Send a News Tip'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/discussions/2021/05/13/vulnerability-disclosure-policy/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Report a Vulnerability'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Terms of Use'
-  -
-    type: orderedList
-    attrs:
-      start: 1
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/information/2022/06/17/terms-sale-digital-products/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Digital Products Terms of Sale'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/information/2020/11/20/terms-sale-print-products/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Print Products Terms of Sale'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/information/2022/01/01/terms-of-service/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Terms of Service'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/privacy-policy/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Privacy Policy'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/cookie-policy/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Cookie Settings'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/discussions/2021/11/23/discussion-submission-guidelines/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Submissions & Discussion Policy'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/discussions/2021/01/01/rss-terms-service/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'RSS Terms of Service'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/information/2022/01/01/ad-choices/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Ad Choices'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.washingtonpost.com/my-post/privacy-settings-eac/'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'EU Advertising Consent'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.washingtonpost.com/'
-              rel: null
-              target: null
-              title: null
-        text: 'washingtonpost.com '
-      -
-        type: text
-        text: '© 1996-2024 The Washington Post'
+        text: '----------'
 collection_type: article
 challenges:
   - war
@@ -2200,5 +1394,5 @@ related_content:
   - ee249176-0024-4fca-a366-9b5d515d29d4
   - 5b23ff39-cc44-49fa-9ced-97b78abc74b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713460807
+updated_at: 1713474463
 ---
