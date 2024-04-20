@@ -6,7 +6,7 @@ quotation: '"There will one day spring from the brain of science a machine or fo
 attribution: 'Thomas A. Edison  (1847 - 1931)  American inventor and businessman'
 image: image-1707512364.jpeg
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713578102
+updated_at: 1713578115
 collection_type: quotation
 challenges:
   - war
