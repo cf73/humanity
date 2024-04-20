@@ -8,7 +8,7 @@ challenges:
   - war
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713579693
+updated_at: 1713579734
 image: salt-harvesting-3060093__480.jpg
 collection_type: quotation
 ---
