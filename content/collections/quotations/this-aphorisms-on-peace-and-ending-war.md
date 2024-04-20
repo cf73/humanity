@@ -127,11 +127,11 @@ quotation: |-
 
   An eye for an eye makes the whole world blind.
         ~        Gandhi
-attribution: THI
+attribution: 'The Humanity Initiative archives'
 image: image-1709064721-1710965511.jpeg
 collection_type: talk
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713582222
+updated_at: 1713582256
 ---
