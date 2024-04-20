@@ -5,11 +5,11 @@ title: '"...in truly effective thinking..."'
 quotation: |-
   "In truly effective thinking, the prime necessity is to liquidate judgments, 
   regain an innocent eye, disentangle feelings, be curious and open-hearted."
-attribution: 'Walter Lipman, Public Opinion'
-image: _132560870_nima-sarikhani.jpg-2.webp
+attribution: 'Walter Lipman  (1889 - 1974)  Public Opinion'
+image: image-1713577424.jpeg
 collection_type: quotation
 challenges:
-  - inspiration
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712192295
+updated_at: 1713577557
 ---
