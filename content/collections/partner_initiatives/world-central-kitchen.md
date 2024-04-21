@@ -1,7 +1,7 @@
 ---
 id: 161604bd-1825-43e1-b66c-6627131ef17d
 blueprint: partner_initiative
-title: 'World Central Kitchen'
+title: 'World Central Kitchen seeks volunteers to help respond to crises.'
 image: image-1713727118.png
 summary: |-
   Supporting communities in times of crisis
@@ -106,5 +106,5 @@ challenges:
   - climate
 partner: world-central-kitchen-2010
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713727131
+updated_at: 1713727174
 ---
