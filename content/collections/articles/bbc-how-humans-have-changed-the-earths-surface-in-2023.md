@@ -626,7 +626,7 @@ related_content:
   - e9537ad7-4c07-499a-b9ac-3bd1c5dbb222
   - 48c9aa4d-9d07-4ee1-b57b-0e4804e22f71
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713461227
+updated_at: 1713811951
 author: 'Richard Gray, features correspondent, BBC'
 date_published: '2023-12-27'
 publication: BBC
