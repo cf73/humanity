@@ -1,45 +1,41 @@
 <div class="container mx-auto">
-  <div class="relative overflow-hidden py-[33vh] flex flex-col grid grid-cols-12 gap-8 w-full">
+  <div class="relative overflow-hidden py-[33vh] flex flex-col grid grid-cols-12 gap-0 w-full">
     
     <!-- blob -->
     <div data-speed=".4" class="bg-yello/50 blur-[15vh] rounded-[50%] absolute -z-10 left-[50%] mt-[40%] h-[70vh] w-[70vh] ml-[-35vh]"></div>
   
+    <!-- image -->
+    <div data-speed="1.5" class="col-span-6 relative -right-4">
+        <img src="{{talks:image}}" alt="{{title}}" width="100%">
+    </div>
+  
     <!-- text -->
-    <div class="col-span-7 bg-yello/15 p-16">
+    <div class="col-span-5 bg-yello/15 p-16">
         {{partial:headingText content="{{talks:title}}" highlight=""}}
   
-      <div class="mt-8 space-y-8">
-        <div class="text-darkblack font-medium text-xl">{{ talks:description }}</div>
-        <!-- metadata -->
-        <div class="space-y-2">
-          <div>
-            <span class="uppercase font-medium tracking-wider">Speaker: </span>
-            <span class="font-serif">{{talks:speaker}}</span>
+        <div class="mt-8 space-y-8">
+          <div class="text-darkblack font-medium text-xl">{{ talks:description }}</div>
+          <!-- metadata -->
+          <div class="space-y-2">
+            <div>
+              <span class="uppercase font-medium tracking-wider">Speaker: </span>
+              <span class="font-serif">{{talks:speaker}}</span>
+            </div>
+            <div>
+              <span class="uppercase font-medium tracking-wider">Date: </span>
+              <span class="font-serif">{{talks:date_of_talk}}</span>
+            </div>
+            <div>
+              <span class="uppercase font-medium tracking-wider">Location: </span>
+              <span class="font-serif">{{talks:location_or_event}}</span>
+            </div>  
           </div>
-          <div>
-            <span class="uppercase font-medium tracking-wider">Date: </span>
-            <span class="font-serif">{{talks:date_of_talk}}</span>
-          </div>
-          <div>
-            <span class="uppercase font-medium tracking-wider">Location: </span>
-            <span class="font-serif">{{talks:location_or_event}}</span>
-          </div>  
+    
+    
+          
+          <div><a href="{{talks:url}}"><button><span class="uppercase font-medium tracking-widest">Watch Now</span></button></a></div>
+  
         </div>
-  
-  
-        
-        {{partial:sectionBuilderComponents/moreButtons action="Watch Now" passedType="{{type}}"}}
-
-      </div>
     </div>
-
-    <!-- image -->
-    <div data-speed="1.5" class="col-span-4 col-start-9">
-      <img src="{{talks:image}}" alt="{{title}}" width="100%">
-    </div>
-
   </div>
 </div>
-
-
-

@@ -2,16 +2,17 @@
 var tl = gsap.timeline({});
 
 tl.to('#hero-area',{
-    duration: 2, opacity: 1,
+    duration: 1, opacity: 1,
 });
 tl.to('#counting',{
-    duration: 1, delay: 0, opacity: 1,
+    duration: .4, delay: 0, opacity: 1,
 },
+
 );
 tl.to('#itstime',{
-    duration: 3, delay: 3, opacity: 1,
+    duration: .4, delay: .8, opacity: 1,
 },
-    "-=1.75"
+
 );
 
 
@@ -80,12 +81,12 @@ gsap.to('.themetext', {
 gsap.to('.take-action-now', {
     scrollTrigger: {
         trigger: ".related-partner-initiatives",
-        start: "top center",
-        end: "top top",
+        start: "30",
         toggleActions: "restart none reverse reset",
         scrub: true,
     },
     opacity: 1,
+    duration: 1,
     translateY: -40,
 });
 
