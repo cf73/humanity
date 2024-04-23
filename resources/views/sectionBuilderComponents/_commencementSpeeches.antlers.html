@@ -1,19 +1,14 @@
 <div class="container mx-auto">
-    <div class="relative overflow-hidden py-[33vh] flex flex-col grid grid-cols-12 gap-8 w-full">
-        
-        <!-- blob -->
-        <div data-speed=".4" class="bg-khaki/40 blur-[15vh] rounded-[50%] absolute -z-10 left-[50%] mt-[40%] h-[70vh] w-[70vh] ml-[-35vh]"></div>
-
-        <!-- image -->
-        <div data-speed="1.5" class="col-span-6">
-            <img src="{{commencement_speech:image}}" alt="{{title}}" width="100%">
-        </div>
-
-        <!-- text -->
-        <div class="col-span-5 col-start-8 bg-khaki/15 p-16">
-            {{partial:headingText content="{{commencement_speech:title}}" highlight=""}}
-
-        <div class="mt-8 space-y-8">
+    <div class="relative overflow-hidden py-[33vh] flex flex-col grid grid-cols-12 gap-0 w-full">
+      
+      <!-- blob -->
+      <div data-speed=".4" class="bg-khaki/40 blur-[15vh] rounded-[50%] absolute -z-10 left-[50%] mt-[40%] h-[70vh] w-[70vh] ml-[-35vh]"></div>
+    
+      <!-- text -->
+      <div class="col-span-6 bg-khaki/15 p-16">
+          {{partial:headingText content="{{commencement_speech:title}}" highlight=""}}
+    
+          <div class="mt-8 space-y-8">
             <div class="text-darkblack font-medium text-xl">{{ commencement_speech:description }}</div>
             <!-- metadata -->
             <div class="space-y-2">
@@ -33,13 +28,15 @@
 
 
             
-            {{partial:sectionBuilderComponents/moreButtons action="Watch Now" passedType="{{type}}"}}
+            <div><a href="{{commencement_speech:url}}"><button><span class="uppercase font-medium tracking-widest">Watch Now</span></button></a></div>
 
         </div>
-        </div>
-
+      </div>
+  
+      <!-- image -->
+      <div data-speed="1.5" class="col-span-4 relative -left-4">
+        <img src="{{commencement_speech:image}}" alt="{{title}}" width="100%">
+      </div>
+  
     </div>
-</div>
-
-
-
+  </div>

@@ -9,9 +9,9 @@
     </div>
     <div class="flex flex-row flex-wrap justify-center mb-4">
         {{challenges}}
-            <a href="/discover?categories%5B%5D={{slug}}">{{partial:tag label="{{title}}"}}</a> <span class="text-serif text-xs relative top-1.5">|</span>
+            <a href="/index?categories%5B%5D={{slug}}">{{partial:tag label="{{title}}"}}</a> <span class="text-serif text-xs relative top-1.5">|</span>
         {{/challenges}}
-         <a href="/discover?collectiontype%5B%5D={{collection_type:slug}}">{{partial:tag label="{{collection:title}}"}}</a>
+         <a href="/index?collectiontype%5B%5D={{collection_type:slug}}">{{partial:tag label="{{collection:title}}"}}</a>
     </div>
     <div class="py-0 px-8 pb-4 flex flex-col text-center items-center space-y-0">
         <div class="font-sans leading-tighter text-3xl">{{title}}</div>
