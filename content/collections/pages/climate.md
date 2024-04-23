@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712945421
+updated_at: 1713301627
 section_builder:
   -
     id: lu8ulqyv
@@ -15,7 +15,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'For clarity on the many, complex challenges of our changing climate, there are two voices that ring perhaps most clearly among the myriad words and images that have besieged and enlightened us over the last thirty years.'
+            text: 'For clarity on the complex challenges of our changing climate, two voices ring perhaps most clearly among the myriad words and images that have besieged and enlightened us over these last thirty years.'
       -
         type: paragraph
         content:
@@ -50,7 +50,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'Second, is the passionate voice of oceanographer Sylvia Earle. In this TED video, '
+            text: 'Second, is the passionate testimony of oceanographer Sylvia Earle. In this TED video, '
           -
             type: text
             marks:
@@ -106,6 +106,6 @@ intro_movie: _polar-bear-_nima-sarikhani.jpg.webp
 challenge_intro_text: |-
   Let's plunge right in to rising seas, with a deep dive into humanity’s climate crisis. The title says it all: “Drawdown. The Most Comprehensive Plan Ever Proposed to Reverse Global Warning.”
 
-  Edited by Paul Hawken, produced by hundreds of outstanding writers and researchers from across the continents, this is indeed a visionary and comprehensive resource for understanding both the challenges and solutions of this climate change era, the Anthropocene. This is truly an exciting and hopeful read.
+  Edited by Paul Hawken, produced by hundreds of outstanding writers and researchers from across the continents, this is indeed a visionary and comprehensive resource for understanding both the challenges and solutions of this climate change era, the Anthropocene. Truly an exciting and hopeful read.
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 ---

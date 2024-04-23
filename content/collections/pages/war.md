@@ -5,7 +5,7 @@ title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712984175
+updated_at: 1713465367
 section_builder:
   -
     id: ludi5o3a
@@ -45,13 +45,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'Now it’s up to us, each of us, to work our way out of war, to learn to own little and share much, like water and food and, yes, land. It’s time to recognize that it is indeed insanity to still be murdering each other, ruining life on Earth in the process, treating civilized existence as a given, not a choice. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '       ~    Tony Balis (founded The Humanity Initiative in 1984)'
+            text: 'Now it’s up to us, each of us, to work our way out of war, to learn to own little and share much, like water and food and, yes, land. It’s time to recognize that it is indeed insanity to still be murdering each other, not least ruining life on Earth in the process, treating civilized existence as a given, not a choice.   TB'
   -
     id: lsgttcyk
     quotation: 8d69ad34-4655-456c-a998-21d71086ceb0
@@ -104,5 +98,5 @@ challenge_intro_text: |-
   In the words of Nobel Peace Prize recipient, ​​Dag Hammarskjöld, “Our work for peace must begin within the private world of each one of us.” 
 
   And from there...may it flow into dramatic enlightenment across the continents...fueled by the natural and deep dedication of the vast majority of humankind towards living in peace.
-parent: home
+parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 ---

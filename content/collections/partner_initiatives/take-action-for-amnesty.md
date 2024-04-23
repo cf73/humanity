@@ -18,13 +18,21 @@ description:
     content:
       -
         type: text
-        text: "2023 marks the 75th anniversary of the Universal Declaration of Human Rights (UDHR). Born from the ashes of World War II under the shadow of the very worst of humanity, the UDHR held out the promise of a global framework for justice and the recognition of ‘equal and inalienable rights’ for all.\_"
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.amnesty.org/en/latest/campaigns/2023/12/generation-2048-time-to-resist-disrupt-and-transform/'
+              rel: null
+              target: null
+              title: null
+        text: 'https://www.amnesty.org/en/latest/campaigns/2023/12/generation-2048-time-to-resist-disrupt-and-transform/'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Some question the legitimacy of the UDHR. After all, it was drafted by a minority of States at a time when many of the world’s population lived under colonialism. We cannot ignore this shortcoming, any more than we should neglect the critique that the modern human rights regime is a Western liberal project favouring civil and political rights over economic, social and cultural rights.\_\_"
+        text: "2023 marks the 75th anniversary of the Universal Declaration of Human Rights (UDHR). Born from the ashes of World War II under the shadow of the very worst of humanity, the UDHR held out the promise of a global framework for justice and the recognition of ‘equal and inalienable rights’ for all.\_"
   -
     type: paragraph
     content:
@@ -150,7 +158,7 @@ description:
     content:
       -
         type: text
-        text: 'LET’S BECOME GENERATION 2048No government is beyond scrutiny. '
+        text: 'LET’S BECOME GENERATION 2048.  No government is beyond scrutiny. '
       -
         type: text
         marks:
@@ -160,15 +168,18 @@ description:
       -
         type: text
         text: ' We hold human rights violators to account.'
-image: image-1709945135.jpeg
+image: image-1713310641.jpeg
 challenges:
   - war
 partner: amnesty-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711380527
+updated_at: 1713311147
 summary: |-
   Amnesty International seeks to re-examine the Universal Declaration of Human Rights:  
 
   "Let’s get the history of the UDHR right. Not by whitewashing it or by ignoring the raging double standards of its implementation. But by paying homage: to those who used its extraordinary disruptive power during struggles for liberation and equality the world over; to those who made the UDHR real and authentic, in their struggle against colonialism and for independence; against bigotry and for equality; against patriarchy and for gender justice; for a world of greater dignity for ‘all members of the human family’."
 call_to_action: 'Amnesty International creates Generation 2048'
+key_facts_that_make_this_urgent: |-
+  Generation 2048: time to resist, disrupt and transform. 
+  Some question the legitimacy of the Universal Declaration of Human Rights (UDHR). After all, it was drafted by a minority of States at a time when many of the world’s population lived under colonialism. We cannot ignore this shortcoming, any more than we should neglect the critique that the modern human rights regime is a Western liberal project favouring civil and political rights over economic, social and cultural rights.
 ---

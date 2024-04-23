@@ -1,7 +1,7 @@
 ---
 id: dfae34a8-30a5-4e7c-89d7-a33917e780d8
 blueprint: partner_initiative
-title: "Contribute to Woods Hole Oceanographic Institution's fund to accelerate its microplastics initiative."
+title: "Contribute to Woods Hole Oceanographic Institution's microplastics initiative."
 description:
   -
     type: paragraph
@@ -11,25 +11,61 @@ description:
         marks:
           -
             type: bold
-        text: "WHOI's Microplastics Initiative"
+        text: "About WHOI's Microplastics Initiative"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The presence of microplastics and nanoplastics in the oceans is a worldwide concern. To help address this pressing problem, WHOI has launched an interdisciplinary research program to understand the fate and impacts of plastics in the marine environment. Our research is supported by both public and private sources and involves a diverse group of scientists, engineers, students, postdoctoral researchers, and science communicators. We invite you to explore these pages and contact any of the team members to inquire about opportunities to become involved in and support our research effort.'
+        text: "The presence in the ocean of microplastics (MPs)  --  small particles of plastic less than 5 mm in size  --  has emerged as a major cause for concern around the world. WHOI scientists\_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://science.sciencemag.org/content/175/4027/1240'
+              rel: null
+              target: null
+              title: null
+        text: 'first identified'
+      -
+        type: text
+        text: "\_MPs in\_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://science.sciencemag.org/content/178/4062/749'
+              rel: null
+              target: null
+              title: null
+        text: coastal
+      -
+        type: text
+        text: "\_and open ocean environments in the 1970s and subsequently contributed to seminal research on the presence of MPs in the North Atlantic subtropical gyre that was\_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://science.sciencemag.org/content/329/5996/1185'
+              rel: null
+              target: null
+              title: null
+        text: 'published in 2010'
+      -
+        type: text
+        text: '. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Background:'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Woods Hole Oceanographic Institution is the world's leading, independent non-profit organization dedicated to ocean research, exploration, and education. Our scientists and engineers push the boundaries of knowledge about the ocean to reveal its impacts on our planet and our lives."
+        text: "Questions surrounding microplastics in the ocean are inherently complex and cross traditional disciplinary boundaries. As a result,\_WHOI researchers\_are working individually and collaboratively to conduct cross-disciplinary research to understand the fate and impacts of marine microplastics and their much smaller cousin, nanoplastics. The research is supported by\_partners and sponsors\_that include federal agencies, foundations, and individuals. WHOI scientists and engineers are also providing leadership in the microplastics research field by organizing\_events\_and giving\_presentations\_to a variety of audiences."
   -
     type: paragraph
     content:
@@ -38,40 +74,75 @@ description:
         marks:
           -
             type: bold
-        text: 'Vision & Mission'
+        text: Capabilities
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The ocean is a defining feature of our planet and crucial to life on Earth, yet it remains one of the planet’s last unexplored frontiers. For this reason, WHOI scientists and engineers are committed to understanding all facets of the ocean as well as its complex connections with Earth’s atmosphere, land, ice, seafloor, and life—including humanity. This is essential not only to advance knowledge about our planet, but also to ensure society’s long-term welfare and to help guide human stewardship of the environment. WHOI researchers are also dedicated to training future generations of ocean science leaders, to providing unbiased information that informs public policy and decision-making, and to expanding public awareness about the importance of the global ocean and its resources.'
+        text: 'WHOI researchers have multi-disciplinary expertise and capabilities that are being applied to understand microplastics in the ocean:'
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Mission Statement'
+        text: 'Analytical chemistry, including Raman and FTIR spectroscopy and mass spectrometry'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Woods Hole Oceanographic Institution is dedicated to advancing knowledge of the ocean and its connection with the Earth system through a sustained commitment to excellence in science, engineering, and education, and to the application of this knowledge to problems facing society.'
+        text: Photochemistry
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Isotope geochemistry'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Physical oceanographic modeling'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Marine microbiology'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Molecular toxicology'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Global Rivers program'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Marine Policy'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Additional details can be found associated with individual team members.'
 image: microplastics-in-the-food-chain-illustration-1024x583.png
 challenges:
   - climate
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1712975000
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1713302173
 partner: woods-hole-oceanographic-institution
 collection_type: partner-initiative
-summary: |-
-  A Major Hidden Problem
-  Microplastics—tiny plastic fragments less than five millimeters in size—are ubiquitous in the global ocean. In fact, an estimated eight million tons of plastics enter our oceans each year, yet only one percent can be seen floating at the surface. Where the rest ends up is not well understood.
+summary: 'In 2017, WHOI launched a marine microplastics program, convening an international workshop to identify key knowledge gaps and research questions, while also building a long-term, collaborative, interdisciplinary research program to provide better understanding of microplastics and possible solutions.'
 call_to_action: 'Join WHOI in solving the microplastics challenge.'
-key_facts_that_make_this_urgent: 'The presence of microplastics and nanoplastics in the oceans is a worldwide concern. To help address this pressing problem, WHOI has launched an interdisciplinary research program to understand the fate and impacts of plastics in the marine environment. Our research is supported by both public and private sources and involves a diverse group of scientists, engineers, students, postdoctoral researchers, and science communicators. We invite you to explore these pages and contact any of the team members to inquire about opportunities to become involved in and support our research effort.'
+key_facts_that_make_this_urgent: 'The presence of microplastics and nanoplastics in the oceans is a worldwide concern. WHOI has launched an interdisciplinary research program to understand the fate and impacts of plastics in the marine environment. Our research involves a diverse group of scientists, engineers, students, postdoctoral researchers, and science communicators. We invite you to explore microplastics@whoi.edu and contact any of the team members to inquire about opportunities to become involved in and support our research effort.'
 ---

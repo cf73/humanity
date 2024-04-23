@@ -1,7 +1,7 @@
 ---
 id: 094f509c-6dba-4c63-a475-22cbd0c2f879
 blueprint: book
-title: 'A Sand County Almanac: With Essays on Conservation'
+title: 'A Sand County Almanac: With Essays on Conservation (1949)'
 author: 'Aldo Leopold'
 image: 71aybinodpl._sl1024_.jpg
 link: 'https://www.amazon.com/County-Almanac-Outdoor-Essays-Reflections/dp/0345345053/ref=sr_1_1?adgrpid=1331509151015665&dib=eyJ2IjoiMSJ9.tIqeqFERp17Y22rL7ODCyBi70H7MplsBpg7xuYi8IxMQnTuB_OL627Ytd4BEuXZStaQf-zDbTWZzKVbB46UQVg.201X_Ip93qSJCPHBiqZT_27hSA7ga4rN1PhjdHCA1OE&dib_tag=se&hvadid=83219393874437&hvbmt=be&hvdev=c&hvlocphy=103662&hvnetw=o&hvqmt=e&hvtargid=kwd-83219677578478%3Aloc-190&hydadcr=3328_10810794&keywords=sand+county+almanac+with+essays+on+conservation+from+round+river&qid=1712505322&sr=8-1'
@@ -29,12 +29,36 @@ description:
         text: 'The New York Times'
       -
         type: text
-        text: "), it is perhaps the finest example of nature writing since Thoreau's Walden. "
+        text: "), it is perhaps the finest example of nature writing since Thoreau's "
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Walden. '
       -
         type: hardBreak
       -
         type: text
-        text: "Now this classic work is available in a completely redesigned and lavishly illustrated gift edition, featuring over one hundred beautiful full-color pictures by Michael Sewell, one of the country's leading nature photographers. Sewell, whose work has graced the pages of Audubon and Sierra magazines, walked Leopold's property in Wisconsin and shot these photographs specifically for this edition, allowing readers to see Sand County as Leopold saw it. The resulting layout is spectacular. "
+        text: "Now this classic work is available in a completely redesigned and lavishly illustrated gift edition, featuring over one hundred beautiful full-color pictures by Michael Sewell, one of the country's leading nature photographers. Sewell, whose work has graced the pages of "
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Audubon
+      -
+        type: text
+        text: ' and '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Sierra
+      -
+        type: text
+        text: " magazines, walked Leopold's property in Wisconsin and shot these photographs specifically for this edition, allowing readers to see Sand County as Leopold saw it. The resulting layout is spectacular. "
   -
     type: paragraph
     content:
@@ -53,7 +77,7 @@ related_partner_initiatives:
 related_content:
   - 239a38c6-1348-452c-b8d1-8136b4dd3c89
   - ac220561-aa8b-48ce-a11d-d0ee99b3cab4
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1712505406
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1713035598
 date_published: '1986-12-12'
 ---

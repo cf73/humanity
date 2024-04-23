@@ -2,9 +2,9 @@
 id: 1332707e-9d36-4c5e-aee3-9ba5947252b5
 blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
-title: 'Our Greatest Challenges'
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1713015545
+title: 'Welcome to the site...'
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1713467424
 introduction:
   -
     type: paragraph
@@ -47,11 +47,12 @@ introduction:
     content:
       -
         type: text
-        text: "We hope the insights and inspirations throughout this humanitarian oasis\_\_--\_\_presented on the wings of essays, photographs, speeches, artwork, film, literature, poetry, and music\_\_--\_\_move you to help fan the breezes of our shared humanity into the winds of change that we so urgently need."
+        text: "We hope the insights and inspirations throughout this humanitarian oasis\_\_--\_\_presented on the wings of essays, photographs, speeches, artwork, film, literature, poetry, and music\_\_--\_\_move you to help fan the aspirational breezes of our shared humanity into the winds of change we so urgently need."
   -
     type: paragraph
     content:
       -
         type: text
         text: 'Team Humanity'
+parent: home
 ---

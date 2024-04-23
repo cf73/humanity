@@ -10,7 +10,7 @@ challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712965204
+updated_at: 1713576850
 content:
   -
     type: paragraph
@@ -50,7 +50,13 @@ content:
         text: Time
       -
         type: text
-        text: '“ does exactly that, offering us an evocative take on the necessity of Earthly rescue – and on our relationship with the mighty powers that have manuvered us forever.'
+        text: '“ does exactly that, offering us an evocative take on the necessity of Earthly rescue  --  and on our relationship with the mighty powers that have manuvered us forever.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: ____
   -
     type: paragraph
     content:
@@ -59,6 +65,8 @@ content:
         marks:
           -
             type: bold
+          -
+            type: italic
         text: '“A Conference in Time”'
   -
     type: paragraph
@@ -68,6 +76,8 @@ content:
         marks:
           -
             type: bold
+          -
+            type: italic
         text: 'by Ursula K. Le Guin'
   -
     type: paragraph
@@ -809,6 +819,4 @@ content:
       -
         type: text
         text: '” 2010 by Kathleen Dean Moore and Michael P. Nelson, Trinity University Press.'
-      -
-        type: hardBreak
 ---

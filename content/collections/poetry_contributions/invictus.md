@@ -9,7 +9,7 @@ challenges:
   - democracy
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712595196
+updated_at: 1713036601
 collection_type: poetry-contribution
 content:
   -
@@ -17,7 +17,19 @@ content:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: INVICTUS
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'by William Ernest Henley'
   -
     type: paragraph
     content:
@@ -105,23 +117,4 @@ content:
       -
         type: text
         text: 'I am the captain of my soul.'
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Duration: 34 seconds.0:34'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'A reading of the poem "Invictus"'
 ---

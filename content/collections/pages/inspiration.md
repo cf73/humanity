@@ -3,24 +3,25 @@ id: 231a2439-71f2-48ac-8521-62542a7f6213
 blueprint: page
 title: Inspiration
 challenge_intro_text: |-
-  Our menu for this free-flowing feast of inspiration is drawn from all the arts and sciences, all the continents, all the centuries. 
+  Earth rise! Voices of wisdom, kindness, courage and humor.
 
-  We searched for heights of courage and dedication, raw talent perfectly tuned to saving civilization, humor to balance urgency, grace that enlightens humanity, and wisdom to know exactly the right challenge.
+  Our voice is our liaison to life, our distinguishing tune, our hallmark, our trace, our touch one to another. Be it spoken, written, whispered, implied or sung; be it gestured, danced or played; be it offered on still wings of silence or in the intimacy of eyes alone, it is our human touchstone.
 
-  We will continue to do so. May these voices move you to becoming a changemaker, in whatever venture crosses your path, whatever cause or community attracts your participation, whatever solo enterprises you might dream.
+  In these defining years, facing mutltiple planet-wide crises, we have gathered below an enlightenment of known and unknown voices encouraging us to act on the understanding that we are profoundly, inescapably and urgently in these Earthly struggles together.
 template: challenge
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1713015945
-intro_movie: c512911.jpeg
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1713467177
+intro_movie: man-staring-up-at-aurora-1713467032.jpg
 section_builder:
   -
     id: luxb7dyh
-    talks: 7a826137-26f5-4603-b372-092516aed2ab
+    talks: f9f4f112-845f-467c-900e-c064fb540f9b
     type: talks
     enabled: true
   -
     id: luxb6q40
     type: article
     enabled: true
+    article: cec12744-472f-4da0-b17a-41b303b4a29e
 ---

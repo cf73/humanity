@@ -8,231 +8,287 @@ challenges:
   - war
 partner: international-rescue-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711388886
+updated_at: 1713370679
 description:
   -
     type: paragraph
     content:
       -
         type: text
+        text: 'At a time when more than 100 million people are uprooted by crisis worldwide, here are 10 reasons to give to the International Rescue Committee (IRC):'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For '
+      -
+        type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://help.rescue.org/donate?ms=ws_watchlist_fy24_eoy_mmus_dec&initialms=ws_watchlist_fy24_eoy_mmus_dec&_gl=1'
+              href: 'https://www.rescue.org/page/history-international-rescue-committee'
               rel: null
               target: null
               title: null
-        text: 'https://help.rescue.org/donate?ms=ws_watchlist_fy24_eoy_mmus_dec&initialms=ws_watchlist_fy24_eoy_mmus_dec&_gl=1'
+          -
+            type: bold
+        text: 'nearly 90 years'
+      -
+        type: text
+        text: ' we have been helping people affected by humanitarian crises to survive, recover and rebuild their lives.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: '------'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Founded at the call of Albert Einstein in 1933, the IRC is now at work in over 50 crisis-affected countries as well as communities throughout Europe and the Americas. We deliver lasting impact by providing health care, helping children learn, and empowering individuals and communities to become self-reliant, always seeking to address the inequalities facing women and girls.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'In 2022, the IRC and our partners reached'
+        text: 'We were founded at the call of '
       -
         type: text
         marks:
           -
+            type: link
+            attrs:
+              href: 'https://www.rescue.org/article/albert-einstein-and-birth-international-rescue-committee'
+              rel: null
+              target: null
+              title: null
+          -
             type: bold
-        text: ' over 32.9 million people '
+        text: 'Albert Einstein'
       -
         type: text
-        text: 'in countries affected by crisis. As part of this work, we:'
+        text: '. Ingenuity, fortitude and optimism remain at the heart of who we are and how we work.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Supported '
+        text: 'We are the largest '
       -
         type: text
         marks:
           -
+            type: link
+            attrs:
+              href: 'https://www.rescue.org/refugees-america'
+              rel: null
+              target: null
+              title: null
+          -
             type: bold
-        text: '3,137'
+        text: 'refugee resettlement'
       -
         type: text
-        text: ' health facilities'
+        text: ' agency in the United States. In 2021, we served nearly 35,000 people across 20 cities with asylum and protection programs.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Provided '
+        text: 'In 2021 alone, we '
       -
         type: text
         marks:
           -
+            type: link
+            attrs:
+              href: 'https://www.rescue.org/page/ircs-impact-glance'
+              rel: null
+              target: null
+              title: null
+          -
             type: bold
-        text: '8,013,515'
+        text: 'reached over 31.5 million people in countries affected by crisis'
       -
         type: text
-        text: ' primary health care consultations'
+        text: ' with health care, clean water, education, protection and emergency cash—among other assistance provided around the world last year.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Treated '
+        text: 'We are rapidly responding to the triple threat refugees are facing right now—ongoing conflict, the spread of '
       -
         type: text
         marks:
           -
+            type: link
+            attrs:
+              href: 'https://www.rescue.org/topic/coronavirus-response'
+              rel: null
+              target: null
+              title: null
+          -
             type: bold
-        text: '222,278'
+        text: COVID-19
       -
         type: text
-        text: ' children under 5 for severe acute malnutrition'
+        text: ' and '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.rescue.org/topic/climate-change'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: 'climate change'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Admitted '
+        text: 'We help people in some of the toughest places on Earth, including '
       -
         type: text
         marks:
           -
+            type: link
+            attrs:
+              href: 'https://www.rescue.org/country/yemen'
+              rel: null
+              target: null
+              title: null
+          -
             type: bold
-        text: '453,344'
+        text: Yemen
       -
         type: text
-        text: ' children and '
+        text: ', '
       -
         type: text
         marks:
           -
+            type: link
+            attrs:
+              href: 'https://www.rescue.org/country/syria'
+              rel: null
+              target: null
+              title: null
+          -
             type: bold
-        text: '106,722'
+        text: Syria
       -
         type: text
-        text: ' pregnant and lactating women to nutrition programs'
+        text: ' and '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.rescue.org/country/somalia'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: Somalia
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Built or rehabilitated water supplies serving '
+        text: 'We have developed and are implementing a revolutionary new approach to treating '
       -
         type: text
         marks:
           -
+            type: link
+            attrs:
+              href: 'https://www.rescue.org/topic/ending-malnutrition'
+              rel: null
+              target: null
+              title: null
+          -
             type: bold
-        text: '3,490,159'
+        text: malnutrition
       -
         type: text
-        text: ' people'
+        text: ' in children.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Reached '
+        text: 'We work in more than 40 countries, including '
       -
         type: text
         marks:
           -
+            type: link
+            attrs:
+              href: 'https://www.rescue.org/country/afghanistan'
+              rel: null
+              target: null
+              title: null
+          -
             type: bold
-        text: '1,421,270'
+        text: Afghanistan
       -
         type: text
-        text: ' people with cash assistance'
+        text: '. In a single year, we helped more than 1 million people in Afghanistan with services, including education and safe spaces for girls. We are determined to stay and deliver life-changing support as long as we are needed.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Distributed '
+        text: 'We were on the ground in '
       -
         type: text
         marks:
           -
+            type: link
+            attrs:
+              href: 'https://www.rescue.org/country/poland'
+              rel: null
+              target: null
+              title: null
+          -
             type: bold
-        text: '$109,751,532'
+        text: Poland
       -
         type: text
-        text: ' in cash or vouchers'
+        text: ' before the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.rescue.org/topic/ukraine-crisis'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: Ukraine
+      -
+        type: text
+        text: " conflict began, monitoring the situation and preparing to respond, and today we're providing aid in Ukraine and Poland directly and with local nonprofits with deep roots in their communities."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Provided counseling to '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: '43,814'
-      -
-        type: text
-        text: ' women survivors of gender-based violence'
+        text: 'We adapt to the challenges in front of us with courage and resilience and we never, ever give up on refugees and displaced families.'
   -
     type: paragraph
     content:
       -
-        type: text
-        text: 'Supported '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: '122,390'
-      -
-        type: text
-        text: ' children in IRC safe spaces and other protection programs'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Enrolled '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: '807,853'
-      -
-        type: text
-        text: ' children and youth in learning programs'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Provided '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: '186,491'
-      -
-        type: text
-        text: ' individuals with livelihood support'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '... among other assistance provided around the world last year.'
-  -
-    type: paragraph
+        type: hardBreak
   -
     type: paragraph
     content:
@@ -592,4 +648,5 @@ description:
         text: ' research groups.'
 summary: 'Right now, in places like Gaza, Sudan and Ukraine, conflict and disaster have left millions of families living in temporary shelters, lacking basic supplies and in urgent need of emergency aid. The IRC works to provide food, water and medical care, along with the critical support families need to survive, recover and rebuild their lives.'
 call_to_action: 'Help the IRC aid refugees worldwide.'
+key_facts_that_make_this_urgent: 'In the almost 90 years since our founding, the world has changed and so have the needs of the people we serve. Today a staggering 100 million people are displaced as result of conflict, persecution and crisis. People are displaced for longer periods than ever (most for over a decade) as conflicts (such as that in Afghanistan) average 20 years in length. The climate crisis, projected to displace as many as 150 million people by 2050, further exacerbates these trends, as does COVID-19.'
 ---
