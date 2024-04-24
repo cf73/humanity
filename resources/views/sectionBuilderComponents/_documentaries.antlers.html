@@ -1,7 +1,7 @@
 <div class="container mx-auto">
     <div class="relative overflow-hidden py-[33vh] flex flex-col grid grid-cols-12 gap-0 w-full">
         <!-- blob -->
-        <div data-speed=".4" class="bg-yello/50 blur-[15vh] rounded-[50%] absolute -z-10 left-[50%] mt-[40%] h-[70vh] w-[70vh] ml-[-35vh]"></div>
+        <div data-speed=".4" class="bg-darkpink/80 blur-[15vh] rounded-[50%] absolute -z-10 left-[50%] mt-[40%] h-[70vh] w-[70vh] ml-[-35vh]"></div>
 
         <!-- image -->
         <div data-speed="1.5" class="col-span-5 col-start-2 relative -right-4 z-10">
@@ -9,8 +9,11 @@
         </div>
 
         <!-- text -->
-        <div class="col-span-6 col-start-7 bg-yello/15 p-16">
-            {{partial:headingText content="{{documentaries:title}}" highlight=""}}
+        <div class="col-span-6 col-start-7 bg-darkpink/15 p-16 relative">
+
+            {{partial:globals/sectionTag content="Documentaries" backgroundColor="bg-darkpink"}}
+
+            {{partial:globals/headingText content="{{documentaries:title}}" highlight="text-darkpink"}}
 
             <div class="mt-8 space-y-8">
                 <div class="text-darkblack font-medium text-xl">{{ documentaries:description }}</div>

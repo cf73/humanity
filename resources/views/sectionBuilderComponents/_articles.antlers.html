@@ -5,13 +5,16 @@
     <div data-speed=".4" class="bg-lightgreen/20 blur-[15vh] rounded-[50%] absolute -z-10 left-[50%] mt-[40%] h-[70vh] w-[70vh] ml-[-35vh]"></div>
   
     <!-- image -->
-    <div data-speed="1.5" class="col-span-6 relative -right-4">
+    <div data-speed="1.5" class="col-span-6 relative -right-4 relative z-10">
         <img src="{{article:image}}" alt="{{title}}" width="100%">
     </div>
   
     <!-- text -->
-    <div class="col-span-5 bg-lightgreen/10 p-16">
-        {{partial:headingText content="{{article:title}}" highlight=""}}
+    <div class="col-span-6 col-start-7 bg-lightgreen/10 p-16 relative">
+
+      {{partial:globals/sectionTag content="Articles" backgroundColor="bg-lightgreen"}}
+
+      {{partial:globals/headingText content="{{article:title}}" highlight="text-lightgreen"}}
   
       <div class="mt-8 space-y-8">
         <div class="text-darkblack font-medium text-xl">{{article:description}}</div>
