@@ -10,13 +10,16 @@
     </div>
   
     <!-- text -->
-    <div class="col-span-5 bg-yello/15 p-16">
-        {{partial:headingText content="{{talks:title}}" highlight=""}}
+    <div class="col-span-6 col-start-7 bg-yello/15 p-16 relative -left-48">
+
+        {{partial:globals/sectionTag content="Talks" backgroundColor="bg-yello"}}
+
+        {{partial:globals/headingText content="{{talks:title}}" highlight="text-yello"}}
   
         <div class="mt-8 space-y-8">
-          <div class="text-darkblack font-medium text-xl">{{ talks:description }}</div>
+          <div class="text-yello font-medium text-xl">{{ talks:description }}</div>
           <!-- metadata -->
-          <div class="space-y-2">
+          <div class="space-y-2 text-yello">
             <div>
               <span class="uppercase font-medium tracking-wider">Speaker: </span>
               <span class="font-serif">{{talks:speaker}}</span>

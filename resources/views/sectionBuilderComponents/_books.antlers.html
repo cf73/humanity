@@ -5,8 +5,10 @@
     <div data-speed=".4" class="bg-hotpink/35 blur-[15vh] rounded-[50%] absolute -z-10 left-[50%] mt-[40%] h-[70vh] w-[70vh] ml-[-35vh]"></div>
   
     <!-- text -->
-    <div class="col-span-6 bg-hotpink/10 p-16">
-        {{partial:headingText content="{{book:title}}" highlight=""}}
+    <div class="col-span-7 bg-hotpink/10 p-16 relative">
+      {{partial:globals/sectionTag content="Books" backgroundColor="bg-hotpink"}}
+
+      {{partial:globals/headingText content="{{book:title}}" highlight="text-hotpink"}}
   
       <div class="mt-8 space-y-8">
         <div class="text-darkblack font-medium text-xl">{{ book:description }}</div>
@@ -30,7 +32,7 @@
     </div>
 
     <!-- image -->
-    <div data-speed="1.5" class="col-span-4 relative -left-4">
+    <div data-speed="1.5" class="col-span-4 relative -left-48">
       <img src="{{book:image}}" alt="{{title}}" width="100%">
     </div>
 
