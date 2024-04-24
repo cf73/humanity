@@ -17,7 +17,7 @@ intro:
         type: text
         text: 'In this online oasis, The Humanity Initiative offers clarity and insight on our most crucial challenges, providing compelling inspiration for each of us to join in fostering a resurgent new voice of humanity.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713918609
+updated_at: 1713918634
 hero_images:
   - image-1707487061.jpeg
   - image-1707483801.jpeg
