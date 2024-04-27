@@ -5,7 +5,7 @@ template: challenge
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712778223
+updated_at: 1714254447
 challenge_intro:
   -
     type: paragraph
@@ -14,7 +14,7 @@ challenge_intro:
         type: text
         text: 'Intro to this challenge here'
 intro_movie: athens-at-night.jpg
-challenge_intro_text: 'On the final day of the American Constitutional Convention of 1787, as people gathered in colonial Philadelphia to await news of what exactly the founders had crafted, Elizabeth Willing Powel, a well known salonaire of that era and a close confidant of George Washington, inquired of Ben Franklin, “What have we created, Dr. Franklin, a republic or a monarchy?” His famous reply: “A republic…if you can keep it.”'
+challenge_intro_text: 'On the final day of the American Constitutional Convention of 1787, as people gathered in colonial Philadelphia to await news of what exactly the founders had crafted, Elizabeth Willing Powel, a well known salonaire of that era and close confidant of George Washington, inquired of Ben Franklin, “What have we created, Dr. Franklin, a republic or a monarchy?” His famous reply: “A republic…if you can keep it.”'
 parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
 section_builder:
   -
@@ -65,13 +65,13 @@ section_builder:
         content:
           -
             type: text
-            text: 'May we well remember what Winston Churchill famously quoted in November 1947: “'
+            text: 'May we well remember the totem of truth that Winston Churchill famously quoted in November 1947: “'
           -
             type: text
             marks:
               -
                 type: italic
-            text: 'Many forms of Government have been tried, and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.…’'
+            text: 'Many forms of Government have been tried, and will be tried in this world of sin and woe. No one pretends that democracy is perfect or all-wise. Indeed it has been said that democracy is the worst form of Government except for all those other forms that have been tried from time to time.…’”'
       -
         type: paragraph
         content:
