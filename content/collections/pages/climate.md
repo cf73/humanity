@@ -5,7 +5,7 @@ template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714253969
+updated_at: 1714254194
 section_builder:
   -
     id: lu8ulqyv
@@ -94,7 +94,7 @@ section_builder:
     enabled: true
   -
     id: lsp0gq4k
-    quotation: d1d168b1-270e-4fc9-b723-1c65d0552fad
+    quotation: efe8d01e-dcf6-4f48-82f9-7dbc9f2ddd63
     type: quotation
     enabled: true
   -
