@@ -107,10 +107,12 @@ description:
 challenges:
   - kids
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711239793
+updated_at: 1714255350
 collection_type: book
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
 related_content:
   - 6d28b288-2ed8-4983-a206-c1a19b3c1219
+date_published: '1908-01-01'
+link: 'https://www.goodreads.com/book/show/5659.The_Wind_in_the_Willows?from_search=true&from_srp=true&qid=atxBSLiaZ1&rank=1'
 ---
