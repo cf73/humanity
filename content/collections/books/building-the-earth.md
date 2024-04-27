@@ -2,7 +2,7 @@
 id: 0a368d42-7b2a-4dbb-bdda-21a1610add9d
 blueprint: book
 title: 'Building the Earth  (1965)'
-author: 'Pierre Teilhard De Chardin,'
+author: 'Pierre Teilhard De Chardin'
 date_published: '1965-07-04'
 link: 'https://www.goodreads.com/book/show/341099.Building_the_Earth?from_search=true&from_srp=true&qid=PaB5GVGnB4&rank=1'
 image: image-1712797052.jpeg
@@ -21,5 +21,5 @@ related_partner_initiatives:
 related_content:
   - 9f09c216-ae44-4a47-badf-16a8ab75a311
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713035773
+updated_at: 1714256201
 ---
