@@ -43,9 +43,19 @@ description:
       -
         type: hardBreak
 challenges:
-  - war
-  - democracy
+  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707926154
+updated_at: 1714255908
 collection_type: book
+date_published: '1952-01-20'
+link: 'https://www.goodreads.com/book/show/24178.Charlotte_s_Web?from_search=true&from_srp=true&qid=nuNaCm5N4C&rank=1'
+related_partner_initiatives:
+  - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
+  - 8ba26bc5-eaa5-4364-9d6b-3f02ca3158f9
+  - 86161e36-7285-41a6-ba67-5a5f928fb1d1
+related_content:
+  - 46a5ba9a-cc31-41de-ac32-31d0789edadf
+  - cc16a060-6b0e-4fb8-86e6-82941952e7eb
+  - 91d3f85d-1560-4132-940f-029c9e3fabfe
+  - 12d25b96-227c-4eb6-9b38-f298b55533be
 ---
