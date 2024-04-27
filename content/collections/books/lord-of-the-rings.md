@@ -1,7 +1,7 @@
 ---
 id: 3eab0ba8-394a-46fb-bc90-561dd6eeced4
 blueprint: book
-title: 'Lord of the Rings  (1955)'
+title: 'Lord of the Rings  (1954)'
 author: 'J. R. R. Tolkien'
 image: image-1709163951.jpeg
 description:
@@ -51,5 +51,16 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709514300
+updated_at: 1714256814
+date_published: '1954-05-15'
+link: 'https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings?from_search=true&from_srp=true&qid=pnhxHNhKch&rank=3'
+collection_type: book
+related_partner_initiatives:
+  - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
+  - 391fbd26-51ec-4caf-ab95-358cfa395d0b
+related_content:
+  - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
+  - 2de64619-3645-4baf-b709-3a496e3a1553
+  - 7d45b6dd-d378-4301-bb29-365448c71a12
+  - 95201ba0-5657-4f50-a730-29f779b608bb
 ---
