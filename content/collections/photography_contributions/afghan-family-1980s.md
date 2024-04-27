@@ -3,7 +3,6 @@ id: a00717ba-5120-46eb-b2eb-8f374aee92ed
 blueprint: photography_contribution
 title: "Afghan nomad family 1980's"
 photographer_name: 'Luke Powell'
-photographer_website: unknown
 image: luke.jpg
 description:
   -
@@ -16,5 +15,5 @@ collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714241540
+updated_at: 1714241610
 ---
