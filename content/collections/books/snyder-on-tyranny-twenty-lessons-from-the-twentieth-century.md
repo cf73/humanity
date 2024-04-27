@@ -74,7 +74,7 @@ description:
     content:
       -
         type: text
-        text: '*  As reviewed by '
+        text: '(As reviewed by '
       -
         type: text
         marks:
@@ -83,13 +83,15 @@ description:
         text: Goodreads
       -
         type: text
-        text: ', who rated the book at 4.17.'
+        text: .)
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711238895
+updated_at: 1714257180
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
 related_content:
   - fab94cb3-0c49-48a3-af62-e8ea16f88bc3
+date_published: '2017-05-05'
+link: 'https://www.goodreads.com/book/show/33917107-on-tyranny?from_search=true&from_srp=true&qid=f8x6GRazWM&rank=1'
 ---
