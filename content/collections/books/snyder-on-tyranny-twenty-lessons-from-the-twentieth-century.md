@@ -25,7 +25,7 @@ description:
         type: hardBreak
       -
         type: text
-        text: '"Timothy Snyder is one of the most celebrated historians of the Holocaust. In his books '
+        text: '"(Yale University professor) Timothy Snyder is one of the most celebrated historians of the Holocaust. In his books '
       -
         type: text
         marks:
@@ -87,7 +87,7 @@ description:
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714257180
+updated_at: 1714257332
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
 related_content:
