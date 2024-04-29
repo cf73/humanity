@@ -33,16 +33,11 @@ description:
       -
         type: text
         text: "By omitting all political borders, I hope to challenge all of us to have no boundaries in our efforts to honor all life, to work on positive change, each map urging us outward: 'Go, learn, pay attention, listen, be present, enjoy serendipity, make a difference, find humanity!'"
-  -
-    type: paragraph
-    content:
-      -
-        type: hardBreak
 collection_type: photography-contribution
 challenges:
   - democracy
   - inspiration
   - kids
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711551101
+updated_at: 1714415353
 ---
