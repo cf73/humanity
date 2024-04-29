@@ -56,7 +56,7 @@ description:
             type: bold
           -
             type: italic
-        text: 'Bio above is from AncientFaces.com.  The anecdotes below are from Tony Balis, founder of The Humanity Initiative '
+        text: 'Bio above is from AncientFaces.com.  The anecdotes below are from Tony Balis, founder of The Humanity Initiative. '
   -
     type: paragraph
     content:
@@ -149,5 +149,5 @@ collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714423587
+updated_at: 1714423630
 ---
