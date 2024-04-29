@@ -11,16 +11,10 @@ description:
     content:
       -
         type: text
-        text: "I saw this guy riding along side saddle in Antigua and stopped to talk. He thought that a clean-cut white guy might want to buy drugs. I said no, I wanted to photograph him and his donkey. He was delighted. So I asked him to ride out a little into the field next to the road and then turn and charge at me with the machete. That's how I got such a natural smile!"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: ' '
+        text: 'I saw this guy on his way home from cutting cane in the Parish of St. Paul in Antigua and thought "photograph!" He had imagined I was a tourist who might want to buy drugs, so he was surprised and delighted by my request for a photo. I suggested he ride out a little ways into the field next to the road, then turn and charge towards me brandishing the machete.'
 collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712718621
+updated_at: 1714414875
 ---
