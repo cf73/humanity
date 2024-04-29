@@ -305,11 +305,12 @@ article_text:
 collection_type: article
 challenges:
   - democracy
+  - war
 related_partner_initiatives:
   - 391fbd26-51ec-4caf-ab95-358cfa395d0b
   - 61653f39-a1f2-4949-9a50-e72537bfc211
 related_content:
   - 91d3f85d-1560-4132-940f-029c9e3fabfe
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713459611
+updated_at: 1714434384
 ---
