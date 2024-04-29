@@ -4,7 +4,7 @@ blueprint: photography_contribution
 title: 'Rawas River, Sumatra'
 photographer_name: 'Jimmy Nelson'
 photographer_website: www.jimmynelson.com
-image: c51295.jpeg
+image: c51294.jpeg
 description:
   -
     type: paragraph
@@ -17,5 +17,5 @@ challenges:
   - inspiration
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714424771
+updated_at: 1714424952
 ---
