@@ -22,7 +22,7 @@ description:
     content:
       -
         type: text
-        text: "So spoke\_"
+        text: "So spoke\_93-year-old "
       -
         type: text
         marks:
@@ -41,10 +41,10 @@ description:
         marks:
           -
             type: bold
-        text: ' (speaking at COP 24)'
+        text: ' at COP 24'
       -
         type: text
-        text: ", age 93, to\_"
+        text: " to\_"
       -
         type: text
         marks:
@@ -66,7 +66,7 @@ description:
         text: g
       -
         type: text
-        text: ", age 16, when they met over Skype.\_The links here are to their most heart-felt calls to action on the planet-altering threat\_of the\_climate\_crisis.\_"
+        text: ", age 16, when they met for the first time, over Skype.\_The links here are to their heart-felt calls to action on the planet-altering threat\_of our\_climate\_crisis.\_"
 article_text:
   -
     type: paragraph
@@ -82,5 +82,5 @@ related_partner_initiatives:
 related_content:
   - 2de64619-3645-4baf-b709-3a496e3a1553
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714175203
+updated_at: 1714435463
 ---
