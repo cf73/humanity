@@ -12,13 +12,13 @@ description:
     content:
       -
         type: text
-        text: 'So where do we find the most sophisticated insight — something with a strong scientific grounding — on '
+        text: 'This is one of the more sophisticated examinations  —  something with a strong scientific grounding — on'
       -
         type: text
         marks:
           -
             type: bold
-        text: 'possible scenarios for Earth’s future?'
+        text: ' Earth’s future.'
       -
         type: text
         text: ' The Climate Lab at '
@@ -30,7 +30,7 @@ description:
         text: 'The Washington Post'
       -
         type: text
-        text: ' answers the call, presenting 1,200 scenarios, published 12/1/22.'
+        text: ' presents 1,200 possible scenarios, published 12/1/22.'
 article_text:
   -
     type: paragraph
@@ -1101,6 +1101,6 @@ related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
   - 99622b57-8aa7-48d6-8d11-c5de8b413a24
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712594359
+updated_at: 1714436998
 publication: 'The Washington Post'
 ---
