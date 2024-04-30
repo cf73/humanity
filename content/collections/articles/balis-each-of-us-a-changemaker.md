@@ -3,14 +3,6 @@ id: cec12744-472f-4da0-b17a-41b303b4a29e
 blueprint: articles
 title: 'To rescue our humanity'
 image: wall-china-copy.jpeg
-link: none
-description:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Brief essay on the necessity of working together to rescue humanity.'
 article_text:
   -
     type: paragraph
@@ -66,20 +58,6 @@ article_text:
       -
         type: text
         text: "Let us ask ourselves in profound reverence for this fragile, transcendent web of life gifted by the gods, “How deeply do I care about our common future? How can I help make a positive\_difference?”"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '      ~      '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Tony Balis'
-  -
-    type: paragraph
 collection_type: article
 challenges:
   - inspiration
@@ -94,7 +72,7 @@ related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - 8a6167d1-d897-4c80-a069-cb77667b2353
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714498041
+updated_at: 1714514927
 author: 'Tony Balis'
 date_published: '1992-07-24'
 ---
