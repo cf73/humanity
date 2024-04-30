@@ -1,7 +1,7 @@
 ---
 id: 73acba4f-36be-4c72-b0ab-026ab9e66027
 blueprint: articles
-title: "European Union's Defense of Democracy Plan"
+title: "European Union's plan for defending democracy"
 author: E.U.
 date_published: '2023-12-12'
 link: 'https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6453'
@@ -225,5 +225,5 @@ related_content:
   - 877904fd-3029-4a1c-aa0e-33aa2d7f36c6
   - c7c991b5-9dde-4365-9c58-41d73dfee6cb
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713823465
+updated_at: 1714498354
 ---
