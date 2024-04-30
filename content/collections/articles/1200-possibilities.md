@@ -1,8 +1,8 @@
 ---
 id: 0ac2ceeb-3da0-44c4-921b-3897f491e659
 blueprint: articles
-title: 'We looked at 1,200 possibilities for the planet’s future...'
-author: 'Washington Post'
+title: '1,200 possibilities for the planet’s future'
+author: 'Chris Mooney, Naema Ahmed and John Muyskens'
 date_published: '2022-12-01'
 link: 'https://www.washingtonpost.com/climate-environment/interactive/2022/global-warming-1-5-celsius-scenarios/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most&carta-url=https%3A%2F%2Fs2.washingtonpost.com'
 image: man-staring-up-at-aurora-1711980417.jpg
@@ -18,10 +18,10 @@ description:
         marks:
           -
             type: bold
-        text: ' Earth’s future.'
+        text: ' '
       -
         type: text
-        text: ' The Climate Lab at '
+        text: 'Earth’s future. The Climate Lab at '
       -
         type: text
         marks:
@@ -30,7 +30,7 @@ description:
         text: 'The Washington Post'
       -
         type: text
-        text: ' presents 1,200 possible scenarios, published 12/1/22.'
+        text: ' presents 1,200 possible scenarios.'
 article_text:
   -
     type: paragraph
@@ -1101,6 +1101,6 @@ related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
   - 99622b57-8aa7-48d6-8d11-c5de8b413a24
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714436998
+updated_at: 1714498239
 publication: 'The Washington Post'
 ---
