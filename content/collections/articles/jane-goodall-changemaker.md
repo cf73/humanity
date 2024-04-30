@@ -1,7 +1,7 @@
 ---
 id: c4e39c58-982d-4ffa-8cd0-16689135f9c7
 blueprint: articles
-title: 'Jane Goodall, how she redefined humankind'
+title: 'How Jane Goodall redefined humankind'
 author: 'Henry Nicholls'
 date_published: '2014-03-31'
 link: 'https://www.bbc.com/future/article/20140331-the-woman-who-redefined-mankind'
@@ -622,5 +622,5 @@ related_content:
   - a0dafd2a-0d38-4a64-ab95-8584261dd48a
   - e956626e-5095-4572-ba16-35a5918e8a54
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714497955
+updated_at: 1714498421
 ---
