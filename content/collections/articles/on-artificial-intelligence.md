@@ -1,26 +1,72 @@
 ---
 id: 29a151c3-c9be-46b9-977f-e15f1de27554
 blueprint: articles
-title: 'On Artificial Intelligence'
-image: image-1708817001-1711481199.jpeg
-link: misc.
+title: 'On artificial Intelligence'
+image: image-1714436181.jpeg
+link: Li
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Here are five diverse introductions to the promise and uncertainty of AI.'
+        text: "In this powerful, 40-minute presentation, Israeli Professor\_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.youtube.com/watch?v=LWiM-LuRe6w'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Yuri Noah Harari drills deeper'
+      -
+        type: text
+        text: "\_into AI’s potential effect on humanity, in Montreux, Switzerland on April 23, 2023. "
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Tristan Harris and Aza Raskin, co-founders of the Center for Humane Technology, provide a clear and comprehensive introduction to the promise and the threat of AI in this presentation from May 2023:\_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.youtube.com/watch?v=cB0_-qKbal4&t=39s'
+              rel: null
+              target: _blank
+              title: null
+        text: 'The AI Dilemma'
+      -
+        type: text
+        text: ".\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'With 2 more presentations below: a TED conference in July 2023 and an article in '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Foreign Affairs'
+      -
+        type: text
+        text: ' last fall. '
 article_text:
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Artificial intelligence'
+        text: 'Here are the four links mentioned above:'
   -
     type: paragraph
     content:
@@ -67,12 +113,6 @@ article_text:
       -
         type: text
         text: ".\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Milky Way, from the coast of Portugal'
   -
     type: paragraph
     content:
@@ -134,18 +174,7 @@ article_text:
     content:
       -
         type: text
-        text: "“Starry Night” / by Vincent Van Gogh\_"
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '(painted in 1889)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "American journalist Nick Bilton – with elegance and urgency – writes in\_"
+        text: "Also, American journalist Nick Bilton – with elegance and urgency – writes in\_"
       -
         type: text
         marks:
@@ -169,7 +198,7 @@ article_text:
               rel: null
               target: null
               title: null
-        text: 'in October 2023'
+        text: ', October 2023'
       -
         type: text
         text: "\_about the…\_"
@@ -196,24 +225,7 @@ article_text:
     content:
       -
         type: text
-        text: "Here’s the headline:\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'FUTURE TENSE Artificial intelligence may be humanity’s most ingenious invention, unlocking novel forms of creativity, art, and medicine. Depending on whom you ask, it might also wipe out all mankind.'
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "The\_"
+        text: "Finally, here are the\_"
       -
         type: text
         marks:
@@ -237,12 +249,6 @@ article_text:
       -
         type: text
         text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
 collection_type: article
 challenges:
   - inspiration
@@ -252,5 +258,7 @@ related_partner_initiatives:
 related_content:
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711481213
+updated_at: 1714436414
+author: 'Five separate speakers'
+date_published: '2024-04-29'
 ---
