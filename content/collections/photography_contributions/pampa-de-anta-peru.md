@@ -117,7 +117,7 @@ description:
         marks:
           -
             type: italic
-        text: 'When he finally found the address (it was well before GPS), his host greeted him warmly and, with grave concern over his condition, shepherded him into the kitchen for a towel and a hot cup of tea. Before Victor could get a word in, his hosts said,"Oh, you must know. Your package arrived a few hours ago, by taxi." Victor was not expecting a package and had no idea what she was referring to.'
+        text: 'When he finally found the address (it was well before GPS), his host greeted him warmly and, with grave concern over his condition, shepherded him immediately into the kitchen for a towel and a hot cup of tea. Before Victor could get a word in, his hosts said,"Oh, you must know. Your package arrived a few hours ago, by taxi." Victor was not expecting a package and had no idea what she was referring to.'
   -
     type: paragraph
     content:
@@ -126,7 +126,7 @@ description:
         marks:
           -
             type: italic
-        text: "The husband of the couple disappeared for a moment and came back into the room holding Victor's small suitcase, dirty but intact. He opened it speechless and afraid of what he might find, but there inside were all of his negatives and slides, untouched. "
+        text: "The husband of the couple disappeared for a moment and came back into the room holding Victor's small suitcase, dirty but intact. Victor opened it speechless and afraid of what he might find, but there inside were all of his negatives and slides, untouched. "
   -
     type: paragraph
     content:
@@ -149,5 +149,5 @@ collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714423838
+updated_at: 1714448955
 ---
