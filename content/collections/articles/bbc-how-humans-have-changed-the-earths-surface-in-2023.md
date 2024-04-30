@@ -1,7 +1,7 @@
 ---
 id: 20f17fae-af70-4c0a-b474-b9a75f95c1b8
 blueprint: articles
-title: 'How humans have changed the Earth’s surface in 2023'
+title: 'How humans changed the Earth’s surface in 2023'
 image: salt-harvesting-3060093__480-1711585935.jpg
 link: 'https://www.bbc.com/future/article/20231222-how-humans-have-changed-earths-surface-in-2023'
 description:
@@ -626,7 +626,7 @@ related_content:
   - e9537ad7-4c07-499a-b9ac-3bd1c5dbb222
   - 48c9aa4d-9d07-4ee1-b57b-0e4804e22f71
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713811951
+updated_at: 1714498384
 author: 'Richard Gray, features correspondent, BBC'
 date_published: '2023-12-27'
 publication: BBC
