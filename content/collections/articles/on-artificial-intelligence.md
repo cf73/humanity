@@ -1,16 +1,36 @@
 ---
 id: 29a151c3-c9be-46b9-977f-e15f1de27554
 blueprint: articles
-title: 'On artificial Intelligence'
+title: 'The AI Dilemma'
 image: image-1714436181.jpeg
-link: Li
+link: 'https://www.youtube.com/watch?v=xoVJKj8lcNQ&t=2s'
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: "In this powerful, 40-minute presentation, Israeli Professor\_"
+        text: "Tristan Harris and Aza Raskin, co-founders of the Center for Humane Technology, provide a clear and comprehensive introduction to the promise and the threat of AI in this presentation from May 2023:\_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.youtube.com/watch?v=xoVJKj8lcNQ&t=2s'
+              rel: null
+              target: _blank
+              title: null
+        text: 'The AI Dilemma'
+      -
+        type: text
+        text: " \_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "In this 40-minute presentation, Israeli Professor\_"
       -
         type: text
         marks:
@@ -24,27 +44,7 @@ description:
         text: 'Yuri Noah Harari drills deeper'
       -
         type: text
-        text: "\_into AI’s potential effect on humanity, in Montreux, Switzerland on April 23, 2023. "
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Tristan Harris and Aza Raskin, co-founders of the Center for Humane Technology, provide a clear and comprehensive introduction to the promise and the threat of AI in this presentation from May 2023:\_"
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.youtube.com/watch?v=cB0_-qKbal4&t=39s'
-              rel: null
-              target: _blank
-              title: null
-        text: 'The AI Dilemma'
-      -
-        type: text
-        text: ".\_"
+        text: "\_into AI’s potential effect on humanity, in Montreux, Switzerland on April 23, 2023."
   -
     type: paragraph
     content:
@@ -66,7 +66,85 @@ article_text:
     content:
       -
         type: text
-        text: 'Here are the four links mentioned above:'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://web.stanford.edu/~chadj/existentialrisk.pdf'
+              rel: null
+              target: null
+              title: null
+        text: 'The '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://web.stanford.edu/~chadj/existentialrisk.pdf'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: 'AI dilemma'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://web.stanford.edu/~chadj/existentialrisk.pdf'
+              rel: null
+              target: null
+              title: null
+        text: " arises from the rapid advances in artificial intelligence. While these advances have the potential to benefit humanity, there is also a risk that creating an intelligence smarter than humans, which is not aligned with our goals, could lead to existential risks. Researchers warn that if we don't coordinate and align AI development with human values, it could result in tragedy"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://web.stanford.edu/~chadj/existentialrisk.pdf'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: '1'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.humanetech.com/podcast/the-ai-dilemma'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: '2'
+      -
+        type: text
+        text: '. '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://hbsp.harvard.edu/product/ROT495-PDF-ENG'
+              rel: null
+              target: null
+              title: null
+        text: 'Integrating different logics of power, including engineering, social justice, corporate, and government logic, is crucial for ensuring that AI benefits humanity'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Here are the links mentioned above:'
   -
     type: paragraph
     content:
@@ -93,26 +171,6 @@ article_text:
           -
             type: italic
         text: '“AI has hacked the operating system of human civilization: language.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Tristan Harris and Aza Raskin, co-founders of the Center for Humane Technology, provide a clear and comprehensive introduction to the promise and the threat of AI in this hour long presentation from May 2023:\_"
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.youtube.com/watch?v=cB0_-qKbal4&t=39s'
-              rel: null
-              target: null
-              title: null
-        text: 'The AI Dilemma'
-      -
-        type: text
-        text: ".\_"
   -
     type: paragraph
     content:
@@ -174,7 +232,7 @@ article_text:
     content:
       -
         type: text
-        text: "Also, American journalist Nick Bilton – with elegance and urgency – writes in\_"
+        text: "Also, as a bonus piece on AI, American journalist Nick Bilton – with elegance and urgency – writes in\_"
       -
         type: text
         marks:
@@ -258,7 +316,8 @@ related_partner_initiatives:
 related_content:
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714436414
-author: 'Five separate speakers'
-date_published: '2024-04-29'
+updated_at: 1714496227
+author: 'Tristan Harris and Aza Raskin'
+date_published: '2023-03-09'
+publication: 'The Center for Humane Technology'
 ---
