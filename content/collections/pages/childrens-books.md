@@ -6,7 +6,7 @@ challenge_intro_text: 'Children’s non-fiction literature has become increasing
 template: challenge
 parent: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1715215204
+updated_at: 1715215353
 intro_movie: image-1711923706.jpeg
 section_builder:
   -
@@ -19,13 +19,13 @@ section_builder:
         content:
           -
             type: text
-            text: 'As the center of what will become an accessible, fun and instructive oasis for children, here is our collection of the best of children’s literature.  '
+            text: 'As the center of what will become an accessible, fun and instructive oasis for children, here is our collection of the best of children’s non-fiction literature.  '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Also, The Humanity Initiative is currently looking for an intern to help expand this collection across the continents. Please contact peace@humanity.org if you are interested in applying. '
+            text: 'The Humanity Initiative is currently looking for an intern to help expand this collection across the continents. Please contact peace@humanity.org if you are interested. '
   -
     id: lv5kmk2r
     book: 018aee1d-ee9a-4aac-a87f-499d4c6fb333
