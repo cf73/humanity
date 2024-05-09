@@ -6,7 +6,7 @@ challenge_intro_text: 'Children’s non-fiction literature has become increasing
 template: challenge
 parent: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1715215447
+updated_at: 1715215568
 intro_movie: image-1711923706.jpeg
 section_builder:
   -
@@ -40,8 +40,10 @@ section_builder:
     id: lv5ks5f9
     type: article
     enabled: true
+    article: 0ac2ceeb-3da0-44c4-921b-3897f491e659
   -
     id: lug3808p
     type: talks
     enabled: true
+    talks: f9f4f112-845f-467c-900e-c064fb540f9b
 ---
