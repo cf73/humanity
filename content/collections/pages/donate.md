@@ -3,7 +3,7 @@ id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
 title: Donate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1715214366
+updated_at: 1715214482
 intro:
   -
     type: paragraph
@@ -88,7 +88,7 @@ intro:
         marks:
           -
             type: italic
-        text: 'Tony Balis (USA, founder and president), Conrad Fulbrook (England), Kylie Janssens (South Africa), Shashi Tharoor (India), Jacqueline Wigglesworth (England), Wilford Welch (USA).. '
+        text: 'Tony Balis (USA, founder and president), Conrad Fulbrook (England), Kylie Janssens (South Africa), Shashi Tharoor (India), Jacqueline Wigglesworth (England), Wilford Welch (USA). '
   -
     type: paragraph
     content:
