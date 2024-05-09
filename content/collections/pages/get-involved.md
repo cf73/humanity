@@ -4,7 +4,7 @@ blueprint: simple_page
 title: 'Get Involved'
 parent: e2c682f5-04cb-4b69-83f6-50cdbc6f2fa7
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713918491
+updated_at: 1715215640
 intro:
   -
     type: paragraph
