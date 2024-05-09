@@ -4,7 +4,7 @@ blueprint: simple_page
 title: 'Get Involved'
 parent: e2c682f5-04cb-4b69-83f6-50cdbc6f2fa7
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1715215640
+updated_at: 1715216350
 intro:
   -
     type: paragraph
@@ -30,4 +30,27 @@ intro:
       -
         type: text
         text: "Carry onward to the work of our thirty humanitarian partners, finding yourself considering the challenges and successes of these major non-profits who toil in the trenches of necessary change. Consider too their volunteer opportunities. Not least, where and how to make a donation (either directly on our partners' sites or with the ease of an aggregate donation here on www.humanity.org)."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '-----'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'note to file: add the Attenborough video A Life on Our Planet as the header movie:  '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://youtu.be/64R2MYUt394?si=kqPRaQ9zcA73YFqp'
+              rel: null
+              target: null
+              title: null
+        text: 'https://youtu.be/64R2MYUt394?si=kqPRaQ9zcA73YFqp'
 ---
