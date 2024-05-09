@@ -11,6 +11,6 @@ intro:
         type: text
         text: 'Since 1986, The Humanity Initiative has paid close attention to the work of leading humanitarian non-profits across the continents. With the help of Charity Navigator and GuideStar, here are the thirty we recommend most highly for researching positive change.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1715213065
+updated_at: 1715213085
 parent: home
 ---
