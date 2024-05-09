@@ -3,7 +3,7 @@ id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
 title: Donate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1715214619
+updated_at: 1715214703
 intro:
   -
     type: paragraph
@@ -73,7 +73,7 @@ intro:
               rel: 'noreferrer noopener'
               target: _blank
               title: null
-        text: 'Please Donate Here'
+        text: 'Donate Here'
   -
     type: paragraph
     content:
