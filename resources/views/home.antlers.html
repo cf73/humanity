@@ -23,8 +23,38 @@
     <div data-speed="1.25"><a href="/about"><button>About The Humanity Initiative</button></a></div>
 </section>  
 
+
+{{session:set challengeslug="climate"}}
+<section id="introblock" class="mb-60">
+    <div class="container grid grid-cols-3">
+        {{taxonomy:challenges slug:contains="climate"}}
+        <div style="background-image: url('{{main_image}}');" class="bg-red-100 col-span-2 w-full h-[70vh] relative flex items-center bg-cover bg-center pb-32">
+        </div>
+        <div class="flex flex-col space-x-4">
+            {{featured_content}}
+                {{partial:card}}
+            {{/featured_content}}
+        </div>
+        
+        {{/taxonomy:challenges}}
+        <div class="col-span-1">
+            <div class="flex flex-col space-x-6 space-y-2 font-bold text-sm text-softblack tracking-widest uppercase w-2/3 mx-auto flex-wrap justify-center items-baseline">
+                <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></div>
+                <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></div>
+                <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=commencement-speech">{{collection:commencement_speeches challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</a></div>
+                <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=documentaries">{{collection:documentaries challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:documentaries}} Documentaries</a></div>
+                <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=partner-initiative">{{collection:partner_initiatives challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Partner Initiatives</a></div>
+                <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=partner-story">{{collection:partner_stories challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:partner_stories}} Partner Stories</a></div>
+                <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></div>
+                <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
+            </div>
+        </div>
+    </div>
+</section>
+{{/session:set}}
+
 <section id="themes" class="text-white pb-32">
-    {{nav from="themes"}}
+    {{nav from="themes" limit="1"}}
         <div style="background-image: url('{{intro_movie}}');" class="w-full h-[100vh] relative flex items-center bg-cover bg-center pb-32">
             <!-- <video id="earth" src="{{intro_movie}}" autoplay muted loop style="
             position: absolute;

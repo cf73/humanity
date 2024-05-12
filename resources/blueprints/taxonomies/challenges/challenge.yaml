@@ -66,6 +66,26 @@ tabs:
               hide_display: false
               validate:
                 - required
+          -
+            handle: featured_content
+            field:
+              max_items: 7
+              mode: select
+              create: true
+              collections:
+                - articles
+                - books
+                - commencement_speeches
+                - documentaries
+                - talks
+              type: entries
+              display: 'Featured Content'
+              instructions: "This content will show up on the homepage as curated entry points to the core challenges, allowing the user to jump right in to something they're interested in."
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
   sidebar:
     display: Sidebar
     sections:
