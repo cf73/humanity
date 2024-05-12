@@ -28,37 +28,10 @@
 <section id="introblock" class="mb-60">
     <div class="container grid grid-cols-3 relative">
         {{taxonomy:challenges slug:contains="climate"}}
-        <div style="background-image: url('{{main_image}}');" class="bg-red-100 col-span-2 w-full h-[70vh] relative flex items-center bg-cover bg-center pb-32">
-        </div>
-        
-        <div class="absolute left-[30vw] top-[60vh] w-2/3">
-            {{featured_content limit="1"}}
-                {{partial:card}}
-            {{/featured_content}}
-        </div>
-        
-        {{/taxonomy:challenges}}
+        <div style="background-image: url('{{main_image}}');" class="bg-red-100 col-span-2 w-full h-[70vh] relative flex items-center bg-cover bg-center pb-32"></div>
 
-        <div class="col-span-3">
-            <div class="featuredSwiper container mx-auto">
-                <div class="flex flex-row space-x-2 mb-4 relative -left-1 take-action-now opacity-0 mt-[40px]">
-                    <div class="image-swiper-button-prev"></div>
-                    <div class="image-swiper-button-next"></div>
-                </div>
-                <div class="swiper-wrapper">
-                    {{taxonomy:challenges slug:contains="climate"}}
-                        {{featured_content offset="1"}}
-                            <div class="swiper-slide bg-algae" style="height: auto !important;">
-                                {{partial:card}}
-                            </div>
-                        {{/featured_content}}
-                    {{/taxonomy:challenges}}
-                </div>
-            </div>
-        </div>
-        
         <div class="col-span-1">
-            <div class="flex flex-col space-x-6 space-y-2 font-bold text-sm text-softblack tracking-widest uppercase w-2/3 mx-auto flex-wrap justify-center items-baseline">
+            <div class="flex flex-col h-full space-x-6 space-y-2 font-bold text-sm text-softblack tracking-widest uppercase w-2/3 mx-auto flex-wrap justify-center items-baseline">
                 <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></div>
                 <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></div>
                 <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=commencement-speech">{{collection:commencement_speeches challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</a></div>
@@ -67,6 +40,35 @@
                 <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=partner-story">{{collection:partner_stories challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:partner_stories}} Partner Stories</a></div>
                 <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></div>
                 <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
+            </div>
+        </div>
+
+        <div class="col-span-2 col-start-2 -mt-[15vh] z-10">
+            {{featured_content limit="1"}}
+                {{partial:card}}
+            {{/featured_content}}
+        </div>
+        {{/taxonomy:challenges}}
+
+        <div class="col-span-1 col-start-1">
+            <div class="font-thin text-9xl">Saving Climate</div>
+        </div>
+
+        <div class="col-span-3 col-start-2">
+            <div class="featuredSwiper container mx-auto">
+                <div class="flex flex-row space-x-2 mb-4 relative -left-1 take-action-now opacity-0 mt-[40px]">
+                    <div class="image-swiper-button-prev"></div>
+                    <div class="image-swiper-button-next"></div>
+                </div>
+                <div class="swiper-wrapper">
+                    {{taxonomy:challenges slug:contains="climate"}}
+                        {{featured_content offset="1"}}
+                            <div class="swiper-slide" style="height: auto !important;">
+                                {{partial:card}}
+                            </div>
+                        {{/featured_content}}
+                    {{/taxonomy:challenges}}
+                </div>
             </div>
         </div>
     </div>
