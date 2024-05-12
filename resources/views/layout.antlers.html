@@ -46,7 +46,7 @@
         
 
         <!-- Initialize Swiper -->
-        <script>
+        <!-- <script>
             const swiper = new Swiper('.takeActionSwiper', {
                 pagination: {
                     el: '.swiper-pagination',
@@ -60,6 +60,23 @@
                 slidesPerView: 1,
                 spaceBetween: 30,
                 effect: 'fade',
+                speed: '1600',
+            });
+        </script> -->
+        <script>
+            const swiper = new Swiper('.featuredSwiper', {
+                pagination: {
+                    el: '.swiper-pagination',
+                    clickable: true,
+                },
+                navigation: {
+                    nextEl: '.image-swiper-button-next',
+                    prevEl: '.image-swiper-button-prev',
+                    disabledClass: "swiper-button-disabled",
+                },
+                slidesPerView: 3,
+                spaceBetween: 30,
+                effect: 'slide',
                 speed: '1600',
             });
         </script>
