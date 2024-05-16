@@ -26,11 +26,18 @@
 
 {{session:set challengeslug="climate"}}
 <section id="introblock" class="mb-60">
-    <div class="container grid grid-cols-3 relative">
+    <div class="grid grid-cols-12 relative">
         {{taxonomy:challenges slug:contains="climate"}}
-        <div style="background-image: url('{{main_image}}');" class="bg-red-100 col-span-2 w-full h-[70vh] relative flex items-center bg-cover bg-center pb-32"></div>
-
-        <div class="col-span-1">
+        <!-- main photo -->
+        <div class="col-span-8 -mb-[50vh]">
+            <div style="background-image: url('{{main_image:image}}');" class="w-full h-[80vh] relative bg-contain bg-no-repeat bg-left"></div>
+            <div class="flex flex-col ml-20 space-y-0 w-full uppercase tracking-widest font-medium">
+                <div>{{main_image:photographer_name}}</div>
+                <div><a href="{{photographer_website}}" target="_blank">{{main_image:photographer_website}}</a></div>
+            </div>
+        </div>
+        <!-- text to right of photo, currently index of theme content by type -->
+        <div class="col-span-3">
             <div class="flex flex-col h-full space-x-6 space-y-2 font-bold text-sm text-softblack tracking-widest uppercase w-2/3 mx-auto flex-wrap justify-center items-baseline">
                 <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></div>
                 <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></div>
@@ -42,20 +49,20 @@
                 <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
             </div>
         </div>
-
-        <div class="col-span-2 col-start-2 -mt-[15vh] z-10">
+         <!-- theme intro title and text -->
+         <div class="col-span-4 flex flex-col justify-center row-span-2 col-start-2">
+            <div class="font-sans text-8xl">Saving Climate</div>
+        </div>
+        <!-- featured secondary content -->
+        <div data-speed="1.2" class="col-span-6 col-start-6 mb-24 z-10">
             {{featured_content limit="1"}}
-                {{partial:card}}
+                {{partial:cards/featuredCard}}
             {{/featured_content}}
-        </div>
+       
         {{/taxonomy:challenges}}
-
-        <div class="col-span-1 col-start-1">
-            <div class="font-thin text-9xl">Saving Climate</div>
-        </div>
-
-        <div class="col-span-3 col-start-2">
-            <div class="featuredSwiper container mx-auto">
+        <!-- swiper of tirtiary content -->
+        
+            <div class="featuredSwiper">
                 <div class="flex flex-row space-x-2 mb-4 relative -left-1 take-action-now opacity-0 mt-[40px]">
                     <div class="image-swiper-button-prev"></div>
                     <div class="image-swiper-button-next"></div>
@@ -64,7 +71,7 @@
                     {{taxonomy:challenges slug:contains="climate"}}
                         {{featured_content offset="1"}}
                             <div class="swiper-slide" style="height: auto !important;">
-                                {{partial:card}}
+                                {{partial:cards/card}}
                             </div>
                         {{/featured_content}}
                     {{/taxonomy:challenges}}
@@ -77,12 +84,7 @@
 
 
 
-<section class="bg-white w-full relative z-50">
-    <div class="container mx-auto py-16">
-        <h1>How it works</h1>
-        <p>We partner with on-the-ground initiatives all over the world, hand-selected for high impact, and led by individuals.</p>
-    </div>
-</section>
+
 
 
 
