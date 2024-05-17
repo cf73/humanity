@@ -1,23 +1,19 @@
 {{if collection_type:is=article}}
     yoho
 {{else}}
-<div class="flex flex-col rounded h-full overflow-hidden pb-2">
-    <div class="w-full h-80 mb-2 bg-contain bg-no-repeat bg-bottom flex p-2 items-end" style="background-image: url({{image}});">
-        
+<div class="flex flex-col h-full overflow-hidden pb-2">
+    <div class="w-full h-80 mb-2 bg-contain bg-no-repeat bg-bottom flex p-2 items-end" style="background-image: url({{image}});"></div>
+    <div class="font-thin text-center text-xl mt-2 leading-loose">
+        {{collection:title}}
     </div>
-    <div class="flex flex-row flex-wrap justify-center mb-4">
-        {{challenges}}
-            <a href="/index?categories%5B%5D={{slug}}">{{partial:tag label="{{title}}"}}</a> <span class="text-serif text-xs relative top-1.5">|</span>
-        {{/challenges}}
-         <a href="/index?collectiontype%5B%5D={{collection_type:slug}}">{{partial:tag label="{{collection:title}}"}}</a>
-    </div>
-    <div class="py-0 px-8 pb-4 flex flex-col text-center items-center space-y-0">
-        <div class="font-sans leading-tighter text-3xl">{{title}}</div>
+    <div class="py-0 px-4 pb-4 flex flex-col text-center">
+        <a href="{{url}}">
+            <div class="text-2xl font-medium">{{title}}<i class="las la-angle-right text-xl text-red-800"></i></div>
+        </a>
         {{if speaker}}
-            {{speaker}}
+            <div class="pt-2 text-lg prose">{{speaker}}</div>
         {{/if}}
         <!-- <div class="font-serif leading-6 text-base">{{ description }}</div> -->
     </div>
-    <a href="{{url}}" class="mx-auto"><button>Read more</button></a>
 </div>
 {{/if}}
