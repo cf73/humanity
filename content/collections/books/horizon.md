@@ -1,7 +1,7 @@
 ---
 id: 2545b61b-962d-4296-ab2d-767255afbd12
 blueprint: book
-title: Horizon
+title: 'Horizon  (2019)'
 author: 'Barry Lopez'
 date_published: '2019-03-19'
 link: 'https://www.goodreads.com/book/show/15259073-horizon?from_search=true&from_srp=true&qid=umfXriannQ&rank=2'
@@ -65,5 +65,5 @@ related_content:
   - f9f4f112-845f-467c-900e-c064fb540f9b
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1716241516
+updated_at: 1716241563
 ---
