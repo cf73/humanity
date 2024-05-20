@@ -1,7 +1,7 @@
 ---
 id: 0f5b7634-38d6-4846-83bd-b4268a82c3ac
 blueprint: book
-title: 'Vesper Flights'
+title: 'Vesper Flights  (2020)'
 author: 'Helen Macdonald'
 date_published: '2019-12-31'
 link: 'https://www.goodreads.com/book/show/48637750-vesper-flights?from_search=true&from_srp=true&qid=e9eOn5bsVd&rank=1'
@@ -121,5 +121,5 @@ related_content:
   - c4e39c58-982d-4ffa-8cd0-16689135f9c7
   - e956626e-5095-4572-ba16-35a5918e8a54
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1716242767
+updated_at: 1716242791
 ---
