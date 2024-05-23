@@ -1,5 +1,5 @@
 title: Articles
-template: article
+template: contentTemplates/article
 layout: layout
 taxonomies:
   - challenges

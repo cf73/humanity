@@ -120,7 +120,7 @@
         <div class="grid grid-cols-4 gap-6">
             {{if related_partner_initiatives}}
                 {{related_partner_initiatives}}
-                    <a href="{{url}}">{{ partial:card }}</a>
+                    <a href="{{url}}">{{ partial:cards/card }}</a>
                 {{/related_partner_initiatives}}
             {{else}}
                 No related Partner Initiatives yet - add some!
@@ -133,7 +133,7 @@
         <div class="grid grid-cols-4 gap-6">
             {{if related_content}}
                 {{related_content}}
-                <a href="{{url}}">{{ partial:card }}</a>
+                <a href="{{url}}">{{ partial:cards/card }}</a>
                 {{/related_content}}
                 {{else}}
                 No suggested content yet - add some!

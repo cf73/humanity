@@ -26,14 +26,8 @@ description:
       -
         type: text
         text: 'He calls it his “witness statement.” It is a sobering and necessary yet hopeful investigation of the actions to which all of us now must commit our minds and hearts in full measure.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "In his 93 years, David Attenborough has visited every continent on the globe, exploring the wild places of our planet and documenting the living world in all its variety and wonder. Now, for the first time he reflects upon both the defining moments of his lifetime as a naturalist and the devastating changes he has seen. Honest, revealing and urgent, DAVID ATTENBOROUGH: A LIFE ON OUR PLANET is a powerful first-hand account of humanity's impact on nature and a message of hope for future generations."
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1712784721
+updated_at: 1715962891
 collection_type: documentaries
 challenges:
   - climate

@@ -1,0 +1,71 @@
+<section id="themes" class="text-white pb-32">
+    {{nav from="themes" limit="1"}}
+        <div style="background-image: url('{{intro_movie}}');" class="w-full h-[100vh] relative flex items-center bg-cover bg-center pb-32">
+            <!-- <video id="earth" src="{{intro_movie}}" autoplay muted loop style="
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 66vh;
+            object-fit: cover;
+            z-index: 0;"></video> -->
+            <div id="dimmer" class="bg-gradient-to-t from-black to-transparent h-[60vh] absolute z-0 bottom-0 w-full"></div>
+            <div data-speed="1.2" class="container mx-auto flex flex-col relative top-[20vh] z-10 space-y-8 text-warmwhite text-center items-center">
+                <div class="text-7xl font-bold uppercase tracking-wider leading-tight">{{title}}</div>
+                <div class="text-2xl font-serif leading-normal w-9/12">{{challenge_intro_text}}</div>
+
+                <div class="flex flex-row space-x-6 space-y-2 font-bold text-sm text-warmwhite/40 tracking-widest uppercase w-2/3 mx-auto flex-wrap justify-center items-baseline">
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=commencement-speech">{{collection:commencement_speeches challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=documentaries">{{collection:documentaries challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:documentaries}} Documentaries</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=partner-initiative">{{collection:partner_initiatives challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Partner Initiatives</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=partner-story">{{collection:partner_stories challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_stories}} Partner Stories</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></div>
+                    <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
+                </div>
+                <a href="{{url}}"><button class="border-white font-semibold text-lg tracking-widest p-2 px-8 text-warmwhite backdrop-blur-lg">Explore</button></a>
+
+            </div>
+        </div>
+        <div class="related-partner-initiatives w-full mx-auto pb-96 text-black p-20">
+            <div class="takeActionSwiper container mx-auto">
+                <div class="flex flex-row space-x-2 mb-4 relative -left-1 take-action-now opacity-0 mt-[40px]">
+                    <div class="image-swiper-button-prev"></div>
+                    <div class="image-swiper-button-next"></div>
+                </div>
+                <div class="swiper-wrapper">
+                    {{collection:partner_initiatives  challenges:contains="{{slug}}" as="entries"}}
+                        {{entries}}
+                        <div class="swiper-slide bg-algae" style="height: auto !important;">
+                            <div class="grid grid-cols-3 gap-16">
+                                <div class="take-action-now opacity-0">
+                                    <div id="counter" class="font-serif mb-12">
+                                        {{increment from="1"}}
+                                        / {{entries | count}}
+                                    </div>
+                                    <div class="font-bold text-3xl mb-4 tracking-wider uppercase">Take action now</div>
+                                    <div class="prose font-serif pb-8">{{summary}}</div>
+                                    <button>{{call_to_action}}</button>
+                                </div>
+                                <div class="actionExcerpt col-span-2 bg-darkpink h-200 w-full opacity-0 text-warmwhite font-serif text-3xl p-16 relative -top-60 leading-normal">
+                                    {{key_facts_that_make_this_urgent}}
+                                </div>
+                            </div>
+                        </div>
+                        {{/entries}}
+                    {{/collection:partner_initiatives}}
+                </div>
+            </div>
+        </div>
+    {{/nav}}
+</section>
+
+
+
+
+<!-- loop through the challenges that card entries may be tagged with -->
+{{challenges}}
+    <a href="/index?categories%5B%5D={{slug}}">{{partial:tag label="{{title}}"}}</a> <span class="text-serif text-xs relative top-1.5">|</span>
+{{/challenges}}
+    <a href="/index?collectiontype%5B%5D={{collection_type:slug}}">{{partial:tag label=""}}</a>

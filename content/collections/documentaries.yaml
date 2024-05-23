@@ -1,5 +1,5 @@
 title: Documentaries
-template: default
+template: contentTemplates/documentary
 layout: layout
 taxonomies:
   - challenges
