@@ -1,7 +1,7 @@
 ---
 id: c4e39c58-982d-4ffa-8cd0-16689135f9c7
 blueprint: articles
-title: 'Jane Goodall, how she redefined humankind'
+title: 'How Jane Goodall redefined humankind'
 author: 'Henry Nicholls'
 date_published: '2014-03-31'
 link: 'https://www.bbc.com/future/article/20140331-the-woman-who-redefined-mankind'
@@ -13,50 +13,8 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Jane Goodall, changemaker'
+        text: 'Primatologist Jane Goodall taught the world that animals have feelings. At age 80, in this detailed and exceptionally personal interview, she tells Henry Nicholls the inside story on how she transformed our understanding of chimpanzees, what it means to be human, and the controversy and condescension she has faced in her influential career.'
 article_text:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Jane Goodall: How she redefined mankind'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '31 March 2014'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'By Henry Nicholls,'
-      -
-        type: text
-        text: ' features correspondent'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Primatologist Jane Goodall, turning 80 this week, tells Henry Nicholls the inside story on how she transformed our understanding of chimpanzees, what it means to be human, and the controversy and condescension she faced in her influential career.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '                                                       ***'
   -
     type: paragraph
     content:
@@ -458,12 +416,6 @@ article_text:
     content:
       -
         type: text
-        text: 'Chimpanzee at Gombe National Park (Thinkstock)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: '“When I looked down,” she recalls of one visit, “it was so totally shocking to see our little oasis of Gombe… It looked like a dust bowl: completely bare hills, overfarmed, more people living there than the land could support.”'
   -
     type: paragraph
@@ -547,12 +499,6 @@ article_text:
       -
         type: text
         text: 'Goodall herself is flying to Germany in a few hours. “I’m going to Düsseldorf, then Vienna, then back to Munich… It still amazes me. Children write to me and say, ‘You taught me, you did it, I can do it too.’ So this is why I have to go on going around. Because it’s making a difference.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Goodall with her stuffed toy "Mr H" (Getty Images)'
   -
     type: paragraph
     content:
@@ -652,26 +598,7 @@ article_text:
         marks:
           -
             type: italic
-        text: ', and reproduced under a Creative Commons licence. For more Mosaic'
-      -
-        type: text
-        text: ' articles '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'http://www.mosaicscience.com/'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: bold
-        text: 'click here'
-      -
-        type: text
-        text: .
+        text: ', and reproduced under a Creative Commons licence. '
   -
     type: paragraph
   -
@@ -689,9 +616,11 @@ related_partner_initiatives:
   - 6f9195fc-1c72-4935-be44-e6b912bbba06
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
 related_content:
-  - edff29da-96b0-4f4a-a60b-2d774fe2103f
-  - 8c206ac9-1b59-49e5-9e1d-6454a86204c5
   - 8a6167d1-d897-4c80-a069-cb77667b2353
+  - 88759a51-a4d2-4521-bb58-457a631cf773
+  - ed9cb6f6-8d38-4b46-a0fc-dcc9583f1375
+  - a0dafd2a-0d38-4a64-ab95-8584261dd48a
+  - e956626e-5095-4572-ba16-35a5918e8a54
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713300199
+updated_at: 1714498421
 ---

@@ -15,7 +15,7 @@ challenges:
   - war
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713300339
+updated_at: 1715107241
 article_text:
   -
     type: paragraph
@@ -146,7 +146,15 @@ article_text:
     content:
       -
         type: text
+        text: 'Team Humanity'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'THE HUMANITY INITIATIVE * PEACE@HUMANITY.ORG'
+  -
+    type: paragraph
   -
     type: paragraph
     content:
@@ -155,7 +163,7 @@ article_text:
         marks:
           -
             type: bold
-        text: 'Suggestions for quotations'
+        text: '              Suggestions for quotations'
   -
     type: paragraph
     content:
@@ -572,13 +580,15 @@ article_text:
         text: Yoda
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Suggestions for music'
+        text: '              Suggestions for music'
   -
     type: paragraph
     content:
@@ -701,13 +711,15 @@ article_text:
         text: "Solfeggio Frequencies -\_"
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Suggestions for videos / films / meditations'
+        text: '              Suggestions for videos / films / meditations'
   -
     type: paragraph
     content:
@@ -895,13 +907,15 @@ article_text:
         text: .
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Suggestions for books'
+        text: '              Suggestions for books'
   -
     type: paragraph
     content:
@@ -1165,7 +1179,7 @@ related_content:
 link: misc.
 author: 'The Humanity Initiative'
 date_published: '2024-04-30'
-publication: THI
+publication: 'The Humanity Initiative'
 content:
   -
     type: paragraph

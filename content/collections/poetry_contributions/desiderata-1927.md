@@ -9,7 +9,7 @@ collection_type: poetry-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713590210
+updated_at: 1716260890
 content:
   -
     type: paragraph
@@ -20,8 +20,6 @@ content:
           -
             type: bold
         text: '      Desiderata'
-  -
-    type: paragraph
   -
     type: paragraph
     content:
@@ -82,9 +80,4 @@ content:
       -
         type: text
         text: '     And whether or not it is clear to you, no doubt the universe is unfolding as it should. Therefore be at peace with God, whatever you conceive Him to be. And whatever your labors and aspirations, in the noisy confusion of life, keep peace in your soul. With all its sham, drudgery and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy.'
-  -
-    type: paragraph
-    content:
-      -
-        type: hardBreak
 ---

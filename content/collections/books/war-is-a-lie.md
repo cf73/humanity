@@ -11,13 +11,28 @@ description:
     content:
       -
         type: text
-        text: 'War Is A Lie is a thorough refutation of every major argument used to justify wars, drawing on evidence from numerous past wars, with a focus on those that have been most widely defended as just and good. '
+        marks:
+          -
+            type: italic
+        text: 'War Is A Lie'
+      -
+        type: text
+        text: ' is a thorough refutation of every major argument used to justify wars, drawing on evidence from numerous past wars, with a focus on those that have been most widely defended as just and good. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: "This is a handbook of sorts, an engaging, always informative manual that can be used to debunk future lies before the wars they're deployed to justify have any chance to begin. Veteran antiwar activist Daniel Ellsberg calls War Is A Lie \"a terrific tool for recognizing and resisting war lies before it's too late.\"\_"
+        text: "This is a handbook of sorts, an engaging, always informative manual that can be used to debunk future lies before the wars they're deployed to justify have any chance to begin. Veteran antiwar activist Daniel Ellsberg calls "
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'War Is A Lie'
+      -
+        type: text
+        text: " \"a terrific tool for recognizing and resisting war lies before it's too late.\"\_"
   -
     type: paragraph
     content:
@@ -37,6 +52,6 @@ related_content:
   - 9439b4e3-6212-403d-8003-fcd1b7d0e291
   - ba850df4-c102-43cf-a7f7-0c66ed1f60d7
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713036403
+updated_at: 1714438322
 date_published: '2010-01-01'
 ---

@@ -4,7 +4,7 @@ blueprint: book
 title: 'How Democracies Die  (2018)'
 author: 'Steven Levitsky and Daniel Ziblatt'
 image: image-1710454145.jpeg
-link: 'Drawing on decades of research and a wide range of historical and global examples, from 1930s Europe to contemporary Hungary, Turkey, and Venezuela, to the American South during Jim Crow, Levitsky and Ziblatt show how democracies die--and how ours can be saved.'
+link: 'https://www.goodreads.com/book/show/35356384-how-democracies-die?from_search=true&from_srp=true&qid=bTpHyDSxhS&rank=1'
 description:
   -
     type: paragraph
@@ -35,5 +35,6 @@ related_partner_initiatives:
 related_content:
   - a92555a1-da6e-4db9-9054-ca26749a9664
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710454411
+updated_at: 1714256339
+date_published: '2018-04-15'
 ---

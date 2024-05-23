@@ -3,7 +3,7 @@ id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
 title: Donate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713919172
+updated_at: 1715214766
 intro:
   -
     type: paragraph
@@ -35,13 +35,13 @@ intro:
     content:
       -
         type: text
-        text: 'Since 1984, THI’s mission has been to encourage us to understand this planet as our common home  –  and to act on that necessary enlightenment.'
+        text: 'Since 1984, THI’s mission has been to encourage us to understand this planet as our common home. Now, more than ever, we must act on that necessary enlightenment.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We offer this digital oasis both as insight on Earth’s major challenges and as inspiration to tune our personal journeys towards helping solve them. Consider this a town meeting for the planet, a conversation with the world.'
+        text: 'We offer this digital oasis both as insight on Earth’s major challenges and as inspiration to fine tune our personal journeys towards helping solve them. Consider this an emergency town meeting for the planet, a crucial conversation with the world.'
   -
     type: paragraph
     content:
@@ -59,7 +59,7 @@ intro:
     content:
       -
         type: text
-        text: 'Please join us in expanding our worldwide outreach.'
+        text: 'Please join us in fostering understanding and action, in rescuing our humanity!'
   -
     type: paragraph
     content:
@@ -73,7 +73,7 @@ intro:
               rel: 'noreferrer noopener'
               target: _blank
               title: null
-        text: 'Please Donate Here'
+        text: 'Donate Here'
   -
     type: paragraph
     content:
@@ -88,7 +88,7 @@ intro:
         marks:
           -
             type: italic
-        text: 'Tony Balis (USA, founder and president), Conrad Fulbrook (England), Kylie Janssens (South Africa), Sheila Kinkade (USA), Shashi Tharoor (India), Jacqueline Wigglesworth, England. '
+        text: 'Tony Balis (USA, founder and president), Conrad Fulbrook (England), Kylie Janssens (South Africa), Shashi Tharoor (India), Jacqueline Wigglesworth (England), Wilford Welch (USA). '
   -
     type: paragraph
     content:

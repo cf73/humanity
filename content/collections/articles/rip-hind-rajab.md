@@ -19,19 +19,19 @@ description:
     content:
       -
         type: text
-        text: '"Please come save me."'
+        text: '"Please come save me. Quickly."'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Soon, she and two arriving medics, who had been given permission to rescue her, are killed outright by soldiers. '
+        text: 'Soon, she and two arriving medics, promised clearance to rescue her, are killed outright by soldiers. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Her plea is humanity's demand to end war. "
+        text: "Her plea...is humanity's demand to end war. "
   -
     type: paragraph
     content:
@@ -1394,5 +1394,5 @@ related_content:
   - ee249176-0024-4fca-a366-9b5d515d29d4
   - 5b23ff39-cc44-49fa-9ced-97b78abc74b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713474463
+updated_at: 1714494848
 ---

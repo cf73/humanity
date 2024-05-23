@@ -3,7 +3,6 @@ id: d04d86ab-57cf-48ff-b23d-7136a25fec97
 blueprint: photography_contribution
 title: "Afghanistan 1980's"
 photographer_name: 'Luke Powell'
-photographer_website: unknown
 image: luke-powell-afghan....jpeg.webp
 description:
   -
@@ -11,10 +10,10 @@ description:
     content:
       -
         type: text
-        text: Afghanistan
+        text: "Luke Powell, an American photographer from North Carolina, spent six years photographing in the Fertile Crescent  --  birthplace of agriculture and domestication  --  from the late 1970's to the early 1980's, creating his famous Afghan Folio. Luke was a master of the golden mean and, not least, he was one of the few image-makers who still made his own dye-transfer prints, which he exhibited widely across the planet. "
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713376452
+updated_at: 1714241581
 collection_type: photography-contribution
 ---

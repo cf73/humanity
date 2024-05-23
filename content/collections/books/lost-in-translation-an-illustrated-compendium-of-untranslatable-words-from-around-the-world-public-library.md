@@ -2,7 +2,7 @@
 id: bb741d00-8673-47f0-8869-cd36c404c92e
 blueprint: book
 title: 'Lost in Translation: An Illustrated Compendium of Unatranslatable Words from Around the World (2014)'
-author: '*** Ella Frances Sanders'
+author: 'Ella Frances Sanders'
 image: image-1709142589.png
 collection_type: book
 description:
@@ -142,8 +142,14 @@ description:
   -
     type: paragraph
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709652337
+updated_at: 1714438179
 challenges:
   - war
   - democracy
+date_published: '2014-09-16'
+link: 'https://www.amazon.com/s?k=Lost+in+Translation&i=stripbooks&crid=1FB2JVVWW11QG&sprefix=lost+in+translation%2Cstripbooks%2C172&ref=nb_sb_noss_1'
+related_partner_initiatives:
+  - 8ba26bc5-eaa5-4364-9d6b-3f02ca3158f9
+related_content:
+  - cc16a060-6b0e-4fb8-86e6-82941952e7eb
 ---
