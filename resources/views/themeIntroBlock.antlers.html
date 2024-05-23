@@ -1,0 +1,59 @@
+{{session:set challengeslug="{challengeslugpassed}"}}
+<section id="introblock" class="mb-60">
+    <div class="grid grid-cols-12 relative">
+        {{taxonomy:challenges slug:contains="{challengeslug}"}}
+        <!-- main photo -->
+        <div class="col-span-8">
+            <div style="background-image: url('{{main_image:image}}');" class="w-full h-[80vh] relative bg-contain bg-no-repeat bg-left-bottom mb-4"></div>
+        </div>
+        <div class="row-start-2 col-start-2 col-span-8">
+            <a href="/index?collectiontype%5B%5D={{collection_type:slug}}" class="font-thin text-xl mt-2 leading-loose border-t-8 border-red-300 pt-4 z-50 relative">Photography</a>
+            <div class="font-medium w-1/3 leading-tight relative z-10">
+                <a class="text-2xl" href="{{main_image:url}}">{{main_image:title}} <i class="las la-angle-right text-xl text-red-800"></i></a><br>
+                <a class="text-lg" href="{{main_image:url}}">{{main_image:photographer_name}}</a> 
+            </div>
+        </div>
+        <!-- text to right of photo, currently index of theme content by type -->
+        <div data-speed=".8" class="col-start-9 h-full row-start-1 col-span-4 flex flex-col justify-center p-16 font-thin text-2xl leading-normal tracking-wide">{{intro_text}}</div>
+        <!-- theme intro title and text -->
+        <div class="col-span-7 -mt-[20vh] flex flex-col justify-center space-y-8 row-start-2 row-span-2 col-start-2">
+            <div class="font-sans leading-tighter opacity-5 text-9xl">{{title_text}}</div>
+            <!-- <div class="font-medium leading-snug text-lg">{{intro_text}}</div> -->
+        </div>
+        <!-- featured secondary content -->
+        <div data-speed="1.2" class="col-span-6 row-start-2 col-start-6 -mt-[40vh] mb-24 z-10">
+            {{featured_content limit="1"}}
+                {{partial:cards/featuredCard}}
+            {{/featured_content}}
+       
+        {{/taxonomy:challenges}}
+        <!-- swiper of tirtiary content -->
+        
+            <div class="featuredSwiper">
+                <div class="flex flex-row justify-end space-x-2 relative -left-1 take-action-now opacity-0 mt-[40px]">
+                    <div class="image-swiper-button-prev"></div>
+                    <div class="image-swiper-button-next"></div>
+                </div>
+                <div class="swiper-wrapper">
+                    {{taxonomy:challenges slug:contains="{challengeslug}"}}
+                        {{featured_content offset="1"}}
+                            <div class="swiper-slide" style="height: auto !important;">
+                                {{partial:cards/card}}
+                            </div>
+                        {{/featured_content}}
+                        
+                        <div class="swiper-slide flex flex-col justify-center" style="height: auto !important;">
+                            <a href="/index?categories%5B%5D={{challengeslug}}" class="flex flex-col justify-center items-center space-y-4">
+                                <i class="las la-redo-alt opacity-30 text-8xl"></i>
+                                <div class="text-2xl font-medium">Show more</div>
+                            </a>
+                        </div>
+                        
+                    {{/taxonomy:challenges}}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{/session:set}}

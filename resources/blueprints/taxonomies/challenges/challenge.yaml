@@ -30,6 +30,20 @@ tabs:
               validate:
                 - required
           -
+            handle: title_text
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Title text'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
             handle: intro_text
             field:
               buttons:
@@ -64,6 +78,7 @@ tabs:
               hide_display: false
               validate:
                 - required
+              instructions: 'A brief description of what is featured in this challenge'
           -
             handle: featured_content
             field:

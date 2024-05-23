@@ -1,7 +1,7 @@
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1715894176
+updated_at: 1716344492
 blueprint: challenge
 main_image: 04d26642-9471-434a-acd3-1b9979b4ecdf
 intro_text:
@@ -10,22 +10,11 @@ intro_text:
     content:
       -
         type: text
-        text: 'Humankind continues to reshape the surface of the planet — so often at the expense of our future.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'People worldwide are worried about climate change (59% are very or extremely worried and 84% are at least moderately worried). More than 50% report feeling sad, anxious, angry, powerless, helpless, and guilty. And more than 45% say their feelings about climate change negatively affect their daily life and functioning.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'What can we do?'
+        text: 'Earth’s climate is in flux. As global temperatures rise, weather patterns shift, and ecosystems respond, we find ourselves at a pivotal moment. We invite you to explore the science, impact, and urgency of climate change.'
 featured_content:
   - bf9f3139-9543-45e3-a174-e1910cff4e4f
   - 20f17fae-af70-4c0a-b474-b9a75f95c1b8
   - 094f509c-6dba-4c63-a475-22cbd0c2f879
   - 5d85beb0-2e22-4a87-8b15-6b37397f50cd
   - 263accbc-caa0-48eb-964e-dccc457c29cc
+title_text: 'Climate-change insights from science, the arts, and policy'
