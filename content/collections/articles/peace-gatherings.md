@@ -2,7 +2,7 @@
 id: e1912d5b-c259-42ca-aa14-01faa3424173
 blueprint: articles
 collection_type: article
-title: 'THI blueprint for peace gatherings'
+title: "THI's blueprint for peace gatherings"
 image: palestine-luke.jpeg
 description:
   -
@@ -10,12 +10,12 @@ description:
     content:
       -
         type: text
-        text: 'Help your community end war; host a contagious peace gathering.'
+        text: 'Urge your community to help end war: host a contagious peace gathering!'
 challenges:
   - war
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1715107241
+updated_at: 1716577042
 article_text:
   -
     type: paragraph
@@ -25,7 +25,7 @@ article_text:
         marks:
           -
             type: bold
-        text: 'Suggestions for creating a peace ceremony in your neighborhood'
+        text: 'Suggestions for creating a peace ceremony in your neighborhood:'
   -
     type: paragraph
     content:
@@ -69,7 +69,13 @@ article_text:
     content:
       -
         type: text
-        text: "Also, as people universally connect over a cup of tea, THI (working with Harney & Sons) has created a custom blend of rooibus, white cinnamon and hibiscus for our peace gatherings. Called\_"
+        text: 'Another idea is the Native American tradition of having a ‘talking stick’ to pass around.. It is a decorated piece of wood (or could be crystal or stone or whatever feels right). Whoever is holding the talking stick is the only person allowed to speak, while others listen attentively. It can be passed around clockwise or to whomever wishes to speak next. This keeps some order and a sense of ceremony throughout.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In addition, honoring the universal tradition of connecting over a cup of tea, THI is working with Alex Harney of Harney & Sons to create six new blends of tea under the name Infusions of Peace. Our first will be called '
       -
         type: text
         marks:
@@ -78,33 +84,13 @@ article_text:
         text: Ahimsa
       -
         type: text
-        text: "\_-- meaning no one has the right to harm a sentient being. It is\_"
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.harney.com/search?q=aHIMSA'
-              rel: null
-              target: null
-              title: null
-        text: 'available here'
-      -
-        type: text
-        text: ".\_"
+        text: '  --   meaning no one has the right to harm a sentient being. It is a blend designed for our peace gatherings, made of  rooibus, white cinnamon and hibiscus.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Another idea is the Native American tradition of having a ‘talking stick’ to pass around in gatherings. It is a decorated piece of wood (or could be crystal or stone or whatever feels right). Whoever is holding the talking stick is the only person allowed to speak, while others listen attentively. It can be passed around clockwise or to whomever wishes to speak next. This keeps some order and a sense of ceremony throughout.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "We recommend that the person facilitating the ceremony read\_"
+        text: "Also, we recommend that the person facilitating the ceremony read\_"
       -
         type: text
         marks:
@@ -137,22 +123,28 @@ article_text:
         marks:
           -
             type: italic
-        text: peace@humanity.org
+        text: peace@ourhumanity.org
       -
         type: text
-        text: ".\_We also will soon offer the opportunity to help expand this peaceful revolution by signing a peace petition and becoming a member of The Humanity Initiative.\_"
+        text: ".\_We soon will offer the opportunity to help expand this peaceful revolution by signing a peace petition, becoming a member of The Humanity Initiative.\_"
   -
     type: paragraph
     content:
       -
         type: text
+        text: '        ~   '
+      -
+        type: text
+        marks:
+          -
+            type: bold
         text: 'Team Humanity'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'THE HUMANITY INITIATIVE * PEACE@HUMANITY.ORG'
+        text: '     PEACE@OURHUMANITY.ORG'
   -
     type: paragraph
   -
@@ -169,7 +161,25 @@ article_text:
     content:
       -
         type: text
-        text: "“Seeking and finding peace within, were it done by everyone, could end all wars, eliminate conflict and bring everlasting peace.”\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"
+        text: '“I am not only a pacifist but a militant pacifist. I am willingly to fight for peace. Nothing will end war unless the people themselves refuse to go to war.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "~ Albert\_"
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Einstein
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '“If we have no peace, it is because we have forgotten that we belong to each other.”'
   -
     type: paragraph
     content:
@@ -181,25 +191,7 @@ article_text:
         marks:
           -
             type: italic
-        text: 'Neale Donald Walsh'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "“If we don’t end war. War will end us.”\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'H G Wells'
+        text: 'Mother Teresa'
   -
     type: paragraph
     content:
@@ -218,42 +210,6 @@ article_text:
           -
             type: italic
         text: 'Martin Luther King Jr'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "“We must continue to pray for peace and to act for peace in whatever way we can, we must continue to speak for peace and to live the way of peace; to inspire others, we must continue to think of peace and to know that peace is possible. What we dwell upon we help bring into manifestation.”\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Peace Pilgrim'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '“Nothing can bring you peace but yourself.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Ralph Waldo Emerson'
   -
     type: paragraph
     content:
@@ -290,6 +246,96 @@ article_text:
           -
             type: italic
         text: 'Albert Schweitzer'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "“Seeking and finding peace within, were it done by everyone, could end all wars, eliminate conflict and bring everlasting peace.”\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "~\_\_"
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Neale Donald Walsh'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '“The only way to abolish war is to make peace heroic.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "~\_\_"
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'James Hinton'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "“If we don’t end war. War will end us.”\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "~\_\_"
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'H G Wells'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "“We must continue to pray for peace and to act for peace in whatever way we can, we must continue to speak for peace and to live the way of peace; to inspire others, we must continue to think of peace and to know that peace is possible. What we dwell upon we help bring into manifestation.”\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "~\_\_"
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Peace Pilgrim'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '“Nothing can bring you peace but yourself.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "~\_\_"
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Ralph Waldo Emerson'
   -
     type: paragraph
     content:
@@ -367,24 +413,6 @@ article_text:
     content:
       -
         type: text
-        text: '“I am not only a pacifist but a militant pacifist. I am willingly to fight for peace. Nothing will end war unless the people themselves refuse to go to war.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~ Albert\_"
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: Einstein
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: '“War does not determine who is right. Only who is left.”'
   -
     type: paragraph
@@ -416,24 +444,6 @@ article_text:
           -
             type: italic
         text: Spinoza
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '“If we have no peace, it is because we have forgotten that we belong to each other.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Mother Teresa'
   -
     type: paragraph
     content:
@@ -475,24 +485,6 @@ article_text:
     content:
       -
         type: text
-        text: '“The only way to abolish war is to make peace heroic.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'James Hinton'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: '“I will never go to a war protest. Invite me to a peace rally and I’ll come.”'
   -
     type: paragraph
@@ -529,43 +521,7 @@ article_text:
     content:
       -
         type: text
-        text: '“If there was nothing wrong in the world there wouldn’t be anything for us to do.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'George Bernard Shaw'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '“Peace is more precious than diamonds, silver or gold.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Martin Luther King Jr'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "“Wars not make one great.”\_J"
+        text: "“Wars not make one great.”\_"
   -
     type: paragraph
     content:
@@ -589,6 +545,18 @@ article_text:
           -
             type: bold
         text: '              Suggestions for music'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Bach Cello Suite No 1 in G Major - Yo Yo Ma'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Gabriel’s Oboe, from ‘The Mission.’ - Ennio Morricone'
   -
     type: paragraph
     content:
@@ -619,18 +587,6 @@ article_text:
       -
         type: text
         text: 'Miserere Mei - Allegri'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Gabriel’s Oboe, from ‘The Mission.’ - Ennio Morricone'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'No 1 in G Major - Yo Yo Ma'
   -
     type: paragraph
     content:
@@ -672,7 +628,7 @@ article_text:
     content:
       -
         type: text
-        text: 'Very thought of you - Wanton Marcellus'
+        text: 'Very Thought of You - Wanton Marcellus'
   -
     type: paragraph
     content:
@@ -702,13 +658,13 @@ article_text:
     content:
       -
         type: text
-        text: "Crystal bowls -\_"
+        text: "Crystal bowls \_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Solfeggio Frequencies -\_"
+        text: "Solfeggio Frequencies \_"
   -
     type: paragraph
   -
@@ -1176,10 +1132,9 @@ related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
   - ba850df4-c102-43cf-a7f7-0c66ed1f60d7
-link: misc.
 author: 'The Humanity Initiative'
 date_published: '2024-04-30'
-publication: 'The Humanity Initiative'
+publication: 'The Humanity Initiative, curated by Jacqueline Wigglesworth'
 content:
   -
     type: paragraph
