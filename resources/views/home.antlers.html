@@ -37,9 +37,53 @@
 
 {{partial:themeIntroBlock challengeslugpassed="climate"}}
 
+<section class="py-48 space-y-8 text-white bg-black relative z-50">
+    <div class="font-thin text-8xl text-center leading-tight px-36">
+        "Don't look for hope.<br>Look for <span class="font-bold">action</span>."
+    </div>
+    <div class="font-bold text-center uppercase tracking-wider">
+        &mdash; Greta Thunberg
+    </div>
+</section>
+
 {{partial:themeIntroBlock challengeslugpassed="democracy"}}
 
-
+<section id="commencements" class="bg-blue-800">
+    <!-- heroSwiper -->
+    <div class="commencementsHeroSwiper">
+        <div class="swiper-wrapper">
+            {{nav title:contains="home"}}
+                {{commencement_speeches_hero_images}}
+                <div class="swiper-slide h-[80vh] w-full bg-no-repeat bg-cover bg-center" style="background-image: url({{image}});"></div>
+                {{/commencement_speeches_hero_images}}
+             {{/nav}}
+        </div>
+    </div>
+    <div class="container mx-auto space-y-16">
+        <div class="text-sand text-8xl uppercase font-semibold tracking-wider leading-tighter">Commencement Speeches</div>
+        
+        <div class="commencementsSwiper">
+            <div class="flex flex-row justify-end space-x-2 relative -left-1 take-action-now opacity-0 mt-[40px]">
+                <div class="image-swiper-button-prev"></div>
+                <div class="image-swiper-button-next"></div>
+            </div>
+            <div class="swiper-wrapper">
+                {{collection:commencement_speeches limit="3"}}
+                    <div class="swiper-slide flex flex-col justify-center" style="height: auto !important;">
+                        {{partial:cards/card}}
+                    </div>
+                 {{/collection:commencement_speeches}}
+                <div class="swiper-slide flex flex-col justify-center border-l-[1px] border-earth" style="height: auto !important;">
+                    <div class="">
+                        <div class="flex flex-col h-full pl-8 space-x-6 space-y-2 font-medium text-2xl tracking-wide text-softblack mx-auto flex-wrap justify-center items-baseline">
+                            <div class="font-thin text-2xl mb-4">Explore more...</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 
@@ -53,8 +97,3 @@
     </div>
 </section>
 
-<section id="commencements" class="mt-32 relative z-50">
-    <div class="container mx-auto space-y-16">
-        <h2 class="text-white">Commencement Speeches</h2>
-    </div>
-</section>

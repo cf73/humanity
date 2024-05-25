@@ -18,3 +18,22 @@
         </nav>
     </div>
 </header>
+
+
+<div class="h-[100vh] w-[100vw] fixed top-0 left-0 bg-red-300 z-50">
+    <div class="flex flex-col justify-center p-16">
+        <nav class="space-x-12 text-white/60 font-bold text-sm tracking-widest">
+            <ul>
+                {{ nav:left_nav }}
+                <li class="text-4xl mb-16">
+                    <a href="{{url}}">
+                        {{title}}
+                    </a>
+                </li>
+            {{/nav:left_nav}}
+            </ul>
+            
+        </nav>
+    </div>
+    <div class="flex flex-col justify-center p-16"></div>
+</div>
