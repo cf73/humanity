@@ -20,28 +20,6 @@ article_text:
     content:
       -
         type: text
-        text: 'April 18, 2023'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://substack.com/@heathercoxrichardson'
-              rel: null
-              target: null
-              title: null
-          -
-            type: bold
-        text: 'HEATHER COX RICHARDSON'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         marks:
           -
             type: bold
@@ -274,10 +252,6 @@ article_text:
               target: null
               title: null
         text: 'https://apnews.com/article/northern-ireland-george-mitchell-peace-envoy-cbf2416bb5721f753fb21b2296ed3196'
-  -
-    type: paragraph
-  -
-    type: paragraph
 collection_type: article
 challenges:
   - war
@@ -288,5 +262,5 @@ related_content:
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
   - 12d25b96-227c-4eb6-9b38-f298b55533be
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717071379
+updated_at: 1717071432
 ---
