@@ -80,6 +80,50 @@ tabs:
               hide_display: false
               validate:
                 - required
+          -
+            handle: commencement_speeches_title
+            field:
+              input_type: text
+              character_limit: 60
+              antlers: false
+              type: text
+              display: 'Commencement Speeches Title'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: commencement_speeches_brief_introduction
+            field:
+              character_limit: '400'
+              antlers: false
+              type: textarea
+              display: 'Commencement Speeches brief introduction'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: featured_commencement_speeches
+            field:
+              max_items: 7
+              mode: select
+              create: true
+              collections:
+                - commencement_speeches
+              type: entries
+              display: 'Featured Commencement Speeches'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
   sidebar:
     display: Sidebar
     sections:

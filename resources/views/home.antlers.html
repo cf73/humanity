@@ -9,11 +9,10 @@
     z-index: 0;"></video> -->
     <div id="earth" data-speed="2.5" style="background-image: url('{{hero_images | random}}');"
     class="bg-no-repeat bg-center bg-cover h-screen w-full absolute top-0 left-0 opacity-1">
-        <div id="dimmer" class="bg-gradient-to-t from-black to-transparent h-[60vh] absolute z-0 bottom-0 w-full"></div>
     </div>
     <div id="herotext" data-speed="1.5" class="col-start-2 col-span-10 flex flex-col top-[20vh] space-y-16 relative z-20 w-full text-left space-y-4">
-        <div id="counting" class="text-warmwhite text-8xl font-thin opacity-0">2024 and counting</div>
-        <div id="itstime" class="text-green text-8xl font-thin opacity-0">It's time to rescue our humanity</div>
+        <div id="counting" class="text-warmwhite text-8xl font-thin opacity-1">2024 and counting</div>
+        <div id="itstime" class="text-green text-8xl font-thin opacity-1">It's time to rescue our humanity</div>
     </div>
 </div>
 
@@ -48,7 +47,7 @@
 
 {{partial:themeIntroBlock challengeslugpassed="democracy"}}
 
-<section id="commencements" class="bg-blue-800">
+<section id="commencements" class="bg-[#3aafcb78]">
     <!-- heroSwiper -->
     <div class="commencementsHeroSwiper">
         <div class="swiper-wrapper">
@@ -59,24 +58,33 @@
              {{/nav}}
         </div>
     </div>
-    <div class="container mx-auto space-y-16">
-        <div class="text-sand text-8xl uppercase font-semibold tracking-wider leading-tighter">Commencement Speeches</div>
-        
-        <div class="commencementsSwiper">
-            <div class="flex flex-row justify-end space-x-2 relative -left-1 take-action-now opacity-0 mt-[40px]">
-                <div class="image-swiper-button-prev"></div>
-                <div class="image-swiper-button-next"></div>
-            </div>
-            <div class="swiper-wrapper">
-                {{collection:commencement_speeches limit="3"}}
-                    <div class="swiper-slide flex flex-col justify-center" style="height: auto !important;">
-                        {{partial:cards/card}}
-                    </div>
-                 {{/collection:commencement_speeches}}
-                <div class="swiper-slide flex flex-col justify-center border-l-[1px] border-earth" style="height: auto !important;">
-                    <div class="">
-                        <div class="flex flex-col h-full pl-8 space-x-6 space-y-2 font-medium text-2xl tracking-wide text-softblack mx-auto flex-wrap justify-center items-baseline">
-                            <div class="font-thin text-2xl mb-4">Explore more...</div>
+    <div class="container mx-auto space-y-16 grid grid-cols-12">
+        <div data-speed=".8" class="col-span-3 -mt-[20vh] flex flex-col justify-center space-y-8 row-start-2 row-span-2 col-start-2">
+            <div class="font-thin leading-tighter tracking-wide text-7xl">{{commencement_speeches_title}}</div>
+        </div>        
+        <div data-speed=".8" class="col-start-9 h-full row-start-1 col-span-4 flex flex-col justify-center p-16 font-thin text-2xl leading-normal tracking-wide">{{commencement_speeches_brief_introduction}}</div>
+
+        <div data-speed="1.2" class="col-span-6 row-start-2 col-start-6 -mt-[40vh] mb-24 z-10">
+            <div class="commencementsSwiper">
+                <div class="flex flex-row justify-end space-x-2 relative -left-1 take-action-now opacity-0 mt-[40px]">
+                    <div class="image-swiper-button-prev"></div>
+                    <div class="image-swiper-button-next"></div>
+                </div>
+                <div class="swiper-wrapper">
+                    {{featured_commencement_speeches}}
+                        <div class="swiper-slide flex flex-col justify-center" style="height: auto !important;">
+                            {{if video_id}}
+                            <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                            {{else}}
+                            <img src="{{image}}" alt="{{title}}" class="w-full">
+                            {{/if}}
+                        </div>
+                    {{/featured_commencement_speeches}}
+                    <div class="swiper-slide flex flex-col justify-center border-l-[1px] border-earth" style="height: auto !important;">
+                        <div class="">
+                            <div class="flex flex-col h-full pl-8 space-x-6 space-y-2 font-medium text-2xl tracking-wide text-softblack mx-auto flex-wrap justify-center items-baseline">
+                                <div class="font-thin text-2xl mb-4">Explore more...</div>
+                            </div>
                         </div>
                     </div>
                 </div>

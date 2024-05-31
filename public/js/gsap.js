@@ -1,23 +1,23 @@
 //introduce the main image and hero text
-var tl = gsap.timeline({});
+// var tl = gsap.timeline({});
 
-tl.to('#hero-area',{
-    duration: 1, opacity: 1,
-});
-tl.to('#counting',{
-    duration: .4, delay: 0, opacity: 1,
-},
+// tl.to('#hero-area',{
+//     duration: 1, opacity: 1,
+// });
+// tl.to('#counting',{
+//     duration: .4, delay: 0, opacity: 1,
+// },
 
-);
-tl.to('#itstime',{
-    duration: .4, delay: .8, opacity: 1,
-},
+// );
+// tl.to('#itstime',{
+//     duration: .4, delay: .8, opacity: 1,
+// },
 
-);
+// );
 
 
 //fade out the hero text on scroll
-gsap.to('#herotext', {
+tl.to('#herotext', {
     scrollTrigger: {
     trigger: "#intro",
     start: "top bottom",
