@@ -1,18 +1,13 @@
-<div class="relative bg-gradient-to-r from-lightgreen to-transparent grid grid-cols-3 gap-16 py-32 px-32 ">
-    
-    <!-- image -->
-    <div data-speed="1.3" class="absolute z-0 mx-auto top-80 right-20 w-[45vw] opacity-75">
-        <img src="{{image}}" alt="" >
-       
-    </div>
+<!-- image -->
+<div class="w-full h-[80vh] bg-no-repeat bg-cover bg-center" style="background-image: url({{image}});"></div>
 
-    <!-- main column -->
-    <div class="col-span-2 space-y-8 flex flex-col items-center relative z-10">
-        <div class="font-serif text-darkblack text-center relative z-50 mb-16 text-9xl">{{title}}</div>
+<article class="bg-softblack">    
+    <!-- top area -->
+    <div class="space-y-8 flex flex-col px-32">
+        <div class="font-thin text-darkblack relative z-50 text-7xl">{{title}}</div>
 
-        <div class="prose text-darkblack font-medium text-xl text-center">{{description}}</div>
-          
-        <div class="space-y-2 flex flex-col items-center">
+        <!-- article metadata  -->
+        <div class="space-y-2 flex flex-col">
             <div id="author">
                 <span class="uppercase font-medium tracking-wider">Author: </span>
                 <span class="font-serif">{{author}}</span>
@@ -28,27 +23,32 @@
         </div>
 
         
-        <div class="prose font-serif mx-auto">{{article_text}}</div>
-    </div>
 
-    <!-- side column -->
-    <div data-speed="1.2" class="col-span-1 mt-[80vh] relative z-10">
-        <!-- <div class="uppercase tracking-wider text-softblack">Related Partner Initiatives</div> -->
-        <div class="grid grid-cols-1 gap-16">
+        <div class="prose text-darkblack font-medium text-xl">{{description}}</div>
+
+        <div class="prose prose-invert">{{article_text}}</div>
+    </div>
+</article>
+
+<aside class="container mx-auto">
+    <!-- related content -->
+    <div data-speed="1.2" class="bg-sand">
+        <div class="tracking-wide mb-16 text-softblack text-3xl font-semibold text-center">Related Partner Initiatives</div>
+        <div class="grid grid-cols-2 gap-16 mb-32">
             {{if related_partner_initiatives}}
                 {{related_partner_initiatives}}
-                    <a href="{{url}}">{{ partial:cards/card }}</a>
+                    <div class="mb-8"><a href="{{url}}">{{ partial:cards/card }}</a></div>
                 {{/related_partner_initiatives}}
             {{else}}
                 No related Partner Initiatives yet - add some!
             {{/if}}
         </div>
 
-    
-        <div class="grid grid-cols-1 gap-16">
+        <div class="tracking-wide mb-16 text-softblack text-3xl font-semibold text-center">Related Content</div>
+        <div class="grid grid-cols-2 gap-16">
             {{if related_content}}
                 {{related_content}}
-                <a href="{{url}}">{{ partial:cards/card }}</a>
+                <div class="mb-8"><a href="{{url}}">{{ partial:cards/card }}</a></div>
                 {{/related_content}}
                 {{else}}
                 No suggested content yet - add some!
@@ -56,5 +56,4 @@
         </div>
 
     </div>
-</div>
-
+</aside>

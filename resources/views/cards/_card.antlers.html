@@ -1,17 +1,18 @@
-{{if collection_type:is=article}}
+{{if collection_type:is=article}} 
+
     yoho
 {{else}}
-<div class="flex flex-col h-full overflow-hidden pb-2">
+<div class="h-full overflow-hidden text-center">
     <div class="w-full h-80 mb-2 bg-contain bg-no-repeat bg-bottom flex p-2 items-end" style="background-image: url({{image}});"></div>
-    <div class="font-thin text-center text-xl mt-2 leading-loose">
+    <div class="font-thin text-xl leading-loose tracking-widest border-t-[24px] border-highlighter pt-2 z-50 inline-block relative -mt-5">
         {{collection:title}}
     </div>
-    <div class="py-0 px-4 pb-4 flex flex-col text-center">
+    <div class="py-0 px-4 flex flex-col text-center">
         <a href="{{url}}">
-            <div class="text-2xl font-medium">{{title}}<i class="las la-angle-right text-xl text-red-800"></i></div>
+            <div class="text-2xl tracking-wide font-medium">{{title}}<i class="las la-angle-right text-xl"></i></div>
         </a>
         {{if speaker}}
-            <div class="pt-2 text-lg prose">{{speaker}}</div>
+            <div class="pt-2 text-lg tracking-wide prose">{{speaker}}</div>
         {{/if}}
         <!-- <div class="font-serif leading-6 text-base">{{ description }}</div> -->
     </div>
