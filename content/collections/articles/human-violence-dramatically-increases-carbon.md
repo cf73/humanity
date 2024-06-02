@@ -1,0 +1,836 @@
+---
+id: e1391e3d-01ec-49eb-bb17-b1bda88e5129
+blueprint: articles
+title: 'Human violence dramatically increases carbon'
+author: 'Nina Lakhani, Climate justice reporter, The Guardian'
+date_published: '2024-01-09'
+link: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1'
+publication: 'The Guardian'
+image: image-1717335736.jpeg
+description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'One of the less noticed effects of the continued violence of the human species is to dramatically effect carbon release into the Earth’s atmosphere, as in this recent '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Guardian '
+      -
+        type: text
+        text: 'report on the Mid-East war (1/10/24).'
+article_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Emissions from Israel’s war in Gaza have ‘immense’ effect on climate catastrophe'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Exclusive: First months of conflict produced more planet-warming gases than 20 climate-vulnerable nations do in a year, study shows'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.theguardian.com/commentisfree/2024/jan/09/emission-from-war-military-gaza-ukraine-climate-change'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: 'The climate costs of war and militaries can no longer be ignored'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.theguardian.com/profile/nina-lakhani'
+              rel: author
+              target: null
+              title: null
+          -
+            type: bold
+          -
+            type: italic
+        text: 'Nina Lakhani'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: '    '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Climate justice reporter'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Tue 9 Jan 2024 '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The planet-warming emissions generated during the first two months of the war in '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.theguardian.com/world/gaza'
+              rel: null
+              target: null
+              title: null
+        text: Gaza
+      -
+        type: text
+        text: ' were greater than the annual carbon footprint of more than 20 of the world’s most climate-vulnerable nations, new research reveals.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.theguardian.com/environment/2023/dec/05/no-climate-justice-without-peace-gaza-becomes-flashpoint-for-climate-activists'
+              rel: null
+              target: null
+              title: null
+        text: '‘No climate justice without peace’: Gaza becomes flashpoint for climate activists'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.theguardian.com/environment/2023/dec/05/no-climate-justice-without-peace-gaza-becomes-flashpoint-for-climate-activists'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: 'Read more'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The vast majority (over 99%) of the 281,000 metric tonnes of carbon dioxide (CO2 equivalent) estimated to have been generated in the first 60 days following the 7 October Hamas attack can be attributed to Israel’s aerial bombardment and ground invasion of Gaza, according to a first-of-its-kind analysis by researchers in the UK and US.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'According to the study, which is based on only a handful of carbon-intensive activities and is therefore probably a significant underestimate, the climate cost of the first 60 days of Israel’s military response was equivalent to burning at least 150,000 tonnes of coal.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The analysis, which is yet to be peer reviewed, includes CO2 from aircraft missions, tanks and fuel from other vehicles, as well as emissions generated by making and exploding the bombs, artillery and rockets. It does not include other planet-warming gases such as methane. Almost half the total CO2 emissions were down to US cargo planes flying military supplies to Israel.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hamas rockets fired into Israel during the same period generated about 713 tonnes of CO2, which is equivalent to approximately 300 tonnes of coal – underscoring the asymmetry of each side’s war machinery.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1#img-2'
+              rel: null
+              target: null
+              title: null
+        text: 'View image in fullscreen'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Fire and smoke erupt after Israeli bombardment in Rafah in the southern Gaza Strip on 14 December 2023.Photograph: Mahmud Hams/AFP/Getty Images'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The data, shared exclusively with the Guardian, provides the first, albeit conservative estimate of the carbon cost of the current conflict in Gaza, which is causing unprecedented human suffering, infrastructure damage and environmental catastrophe.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'It comes amid growing calls for greater accountability of military greenhouse gas emissions, which play an outsize role in the climate crisis but are largely kept secret and unaccounted for in the annual UN negotiations on climate action.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '“This study is only a snapshot of the larger military boot print of war … a partial picture of the massive carbon emissions and wider toxic pollutants that will remain long after the fighting is over,” said Benjamin Neimark, a senior lecturer at Queen Mary, University of London (QMUL), and co-author of the research published on Tuesday on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://ssrn.com/abstract=4684768'
+              rel: null
+              target: null
+              title: null
+        text: 'Social Science Research Network.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The video player is currently playing an ad. You can skip the ad in 5 sec with a mouse or keyboard'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://ceobs.org/wp-content/uploads/2021/02/Under-the-radar_the-carbon-footprint-of-the-EUs-military-sectors.pdf'
+              rel: null
+              target: null
+              title: null
+        text: 'Previous studies'
+      -
+        type: text
+        text: ' suggest the true carbon footprint could be five to eight times higher – if emissions from the entire war supply chain were included.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '“The military’s environmental exceptionalism allows them to pollute with impunity, as if the carbon emissions spitting from their tanks and fighter jets don’t count. This has to stop, to tackle the climate crisis we need accountability,” added Neimark, who partnered with researchers at University of Lancaster and the Climate and Community Project (CCP), a US-based climate policy thinktank.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Israel’s '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.972mag.com/mass-assassination-factory-israel-calculated-bombing-gaza/'
+              rel: null
+              target: null
+              title: null
+        text: 'unprecedented bombardment'
+      -
+        type: text
+        text: ' of Gaza since Hamas killed as many as 1,200 Israelis has caused widespread death and destruction. According to the Gaza health authority, almost 23,000 Palestinians – mostly women and children – have been killed, with thousands more buried under the rubble presumed dead. About 85% of the population has been forcibly displaced and faces life-threatening food and water shortages, according to UN agencies. More than 100 Israeli hostages remain captive in Gaza and hundreds of Israeli soldiers have been killed.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In addition to the immediate suffering, the conflict is exacerbating the global climate emergency, which goes far beyond the CO2 emissions from bombs and planes.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The new research calculates that the carbon cost of rebuilding Gaza’s '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.bbc.co.uk/news/world-middle-east-67565872'
+              rel: null
+              target: null
+              title: null
+        text: '100,000 damaged buildings'
+      -
+        type: text
+        text: ' using contemporary construction techniques will generate at least 30m metric tonnes of warming gases. This is on a par with New Zealand’s annual CO2 emissions and '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.worldometers.info/co2-emissions/co2-emissions-by-country/'
+              rel: null
+              target: null
+              title: null
+        text: 'higher than 135 other countries and territories'
+      -
+        type: text
+        text: ' including Sri Lanka, Lebanon and Uruguay.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'David Boyd, the UN special rapporteur for human rights and the environment, said: “This research helps us understand the immense magnitude of military emissions – from preparing for war, carrying out war and rebuilding after war. Armed conflict pushes humanity even closer to the precipice of climate catastrophe, and is an idiotic way to spend our shrinking carbon budget.”'
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Climate consequences including sea level rise, drought and extreme heat were already threatening water supplies and food security in Palestine. The environmental situation in Gaza is now catastrophic, as much of the farmland, energy and water infrastructure has been destroyed or polluted, with devastating health implications probably for decades to come, experts have warned. '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.scientificamerican.com/article/inside-the-satellite-tech-revealing-gazas-destruction/'
+              rel: null
+              target: null
+              title: null
+        text: 'Between 36% and 45% of Gaza’s buildings'
+      -
+        type: text
+        text: ' – homes, schools, mosques, hospitals, shops – have so far been destroyed or damaged, and construction is a major driver of global heating.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1#img-3'
+              rel: null
+              target: null
+              title: null
+        text: 'View image in fullscreen'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Palestinians next to the rubble of a buildings destroyed by Israeli attacks in Deir al-Balah, Gaza, on 5 January.Photograph: Anadolu/Getty Images'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '“The catastrophic aerial attack on Gaza will not fade when a ceasefire comes,” said Zena Agha, policy analyst at Al-Shabaka, the Palestinian Policy Network, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://al-shabaka.org/briefs/climate-change-the-occupation-and-a-vulnerable-palestine/'
+              rel: null
+              target: null
+              title: null
+        text: 'who writes about the climate crisis and the Israeli occupation'
+      -
+        type: text
+        text: '. “The military detritus will continue to live in the soil, the earth, the sea and the bodies of the Palestinians living in Gaza – just as it does in other postwar contexts such as Iraq.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'An opaque military carbon footprint'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Overall, the climate consequences of war and occupation are poorly understood. Thanks in large part to pressure from the US, reporting military emissions is voluntary, and only four countries '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://militaryemissions.org/'
+              rel: null
+              target: null
+              title: null
+        text: 'submit some incomplete'
+      -
+        type: text
+        text: ' data to the UN Framework Convention on Climate Change (UNFCCC), which organises the annual climate talks.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://ceobs.org/wp-content/uploads/2022/11/SGR-CEOBS_Estimating_Global_MIlitary_GHG_Emissions.pdf'
+              rel: null
+              target: null
+              title: null
+        text: 'Even without comprehensive data, one recent study'
+      -
+        type: text
+        text: ' found that militaries account for almost 5.5% of global greenhouse gas emissions annually – more than the aviation and shipping industries combined. This makes the global military carbon footprint – even without factoring in conflict-related emission spikes – the fourth largest after only the US, China and India.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'At Cop28 in Dubai last month, the unfolding humanitarian and environmental catastrophe in Gaza and Ukraine put war, security and the climate crisis on the agenda, but did not lead to any meaningful steps towards increasing transparency and accountability for armed forces or the military industry.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.theguardian.com/commentisfree/2024/jan/09/emission-from-war-military-gaza-ukraine-climate-change'
+              rel: null
+              target: null
+              title: null
+        text: 'The climate costs of war and militaries can no longer be ignored'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.theguardian.com/commentisfree/2024/jan/09/emission-from-war-military-gaza-ukraine-climate-change'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: 'Read more'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Israeli delegation was mostly promoting its burgeoning climate tech industry in areas such as carbon capture and storage, water harvesting and plant-based meat alternatives. “Israel’s biggest contribution to the climate crisis comes in the form of the solutions,” said Gideon Behar, special envoy for climate change and sustainability.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Ran Peleg, Israel’s director of Middle East economic relations, told the Guardian that the question of calculating greenhouse gas emissions from IDF operations – current or previous – had not been discussed. “This is actually the first time this issue has been raised, and I’m not aware that there are any ways to count these kinds of things.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hadeel Ikhmais, head of the climate change office at the Palestinian Environmental Quality Authority, said: “We are trying to do our part on the climate crisis but even before the war in Gaza, it is hard to adapt and mitigate when we cannot access water or land or any technologies without Israel’s permission.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Neither the Israel government nor Palestinian authorities appear to have ever reported military emissions figures to the UNFCCC.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Using its defence budget as a proxy, the new study estimates that Israel’s annual baseline military carbon footprint – without accounting for conflict – was almost 7m metric tonnes of CO2 equivalent in 2019. This is about equivalent to the CO2 emitted by the entire nation of Cyprus, and 55% more emissions than the whole of Palestine.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1#img-4'
+              rel: null
+              target: null
+              title: null
+        text: 'View image in fullscreen'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Israeli army Merkava battle tanks deploy along the border with the Gaza Strip in southern Israel on 13 October 2023. Photograph: Jack Guez/AFP/Getty Images'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'No comparable military emissions calculation was possible for Palestine, due to Hamas’s ad hoc offensive capabilities, according to researchers.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'But the Israel-Palestine situation was unique even before 7 October. In occupied Gaza, most Palestinians already faced significant food, water and energy insecurity due to the Israeli occupation, blockade, population density and the worsening climate crisis. Israelis meanwhile have long lived under the threat of rocket fire.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In order to capture some of the climate consequences of this militarized setting, researchers calculated the carbon footprint of war-related concrete infrastructure – walls and tunnels – constructed by Hamas and Israel since 2007.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Constructing the Gaza Metro – the 500km underground network of tunnels used to move and hide everything from basic supplies to weapons, Hamas fighters and hostages – generated an estimated 176,000 tonnes of greenhouse gas emissions, more than the island nation of Tonga emits annually, according to the study.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Building Israel’s iron wall, which runs 65km along most of its border with Gaza and features surveillance cameras, underground sensors, razor wire, a 20ft high metal fence and large concrete barriers, contributed almost 274,000 tonnes of CO2. This is almost on par with the entire 2022 emissions by Central African Republic, one of the most climate vulnerable countries in the world.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'The role of the US'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The US plays an oversized role in military carbon emissions – and supplies Israel with billions of dollars of military aid, weapons and other equipment that it deploys in Gaza and the West Bank.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'By 4 December, at least '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.timesofisrael.com/liveblog_entry/244-us-cargo-planes-20-ships-deliver-over-10000-tons-of-military-equipment-to-israel-report/'
+              rel: null
+              target: null
+              title: null
+        text: '200 American cargo flights were reported'
+      -
+        type: text
+        text: ' to have delivered 10,000 tonnes of military equipment to Israel. The study found that the flights guzzled around 50m litres of aviation fuel, spewing an estimated 133,000 tonnes of carbon dioxide into the atmosphere – more than the entire island of Grenada last year.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '“The role of the US in the human and environmental destruction of Gaza cannot be overstated,” said co-author Patrick Bigger, research director at the thinktank CCP.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1#img-5'
+              rel: null
+              target: null
+              title: null
+        text: 'View image in fullscreen'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'An Israeli soldier carries a heavy shell near a battle tank deployed at a position along the border with the Gaza Strip and southern Israel on 31 December 2023.Photograph: Menahem Kahana/AFP/Getty Images'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'And not just in Gaza. In 2022, the US military reported that it generated an estimated 48m metric tonnes of CO2 , according to separate research by Neta Crawford, author of The Pentagon, Climate Change and War.'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: ' '
+      -
+        type: text
+        text: 'This baseline military carbon footprint, which excludes emissions generated by attacks on Islamic State oil infrastructure in 2022, was higher than the annual emissions of 150 individual countries and territories '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://edgar.jrc.ec.europa.eu/report_2023?vis=co2tot#emissions_table'
+              rel: null
+              target: null
+              title: null
+        text: 'including Norway, Ireland and Azerbaijan'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'According to Crawford, about 20% of the US military’s annual operational emissions go towards protecting fossil fuel interests in the Gulf region – a '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021RG000762'
+              rel: null
+              target: null
+              title: null
+        text: 'climate change hotspot, warming twice as fast'
+      -
+        type: text
+        text: ' as the rest of the inhabited world. Yet the US – like other Nato countries – is mostly focused on the climate crisis as a national security risk, rather than on its contribution to it.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '“Quite simply we’re preparing for the wrong risks by putting too many of our eggs in the military basket, when actually we have a much more dire emergency facing all of us. Moving military resources into the [energy] transition is low-hanging fruit,” said Crawford, who is the Montague Burton professor of International Relations at Oxford University.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Responding to the carbon analysis, Lior Haiat, a spokesperson for the Israeli ministry of foreign affairs, said: “Israel did not want this war. It was imposed on us by the Hamas terror organization that killed, murdered, executed hundreds of people and kidnapped over 240 including children, women and the elderly.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '“Among all the problems facing the state of Palestine in the coming decades, climate change is the most immediate and certain – and this has been amplified by the occupation and war on Gaza since the 7 October,” said Ikhmais, the Palestinian climate director. “The carbon emissions from the military attacks contradict the UNFCCC and Paris agreement goal … recognizing the environmental impact of war is crucial.”'
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+collection_type: article
+challenges:
+  - war
+  - climate
+related_partner_initiatives:
+  - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
+  - 61653f39-a1f2-4949-9a50-e72537bfc211
+related_content:
+  - e0cc1c13-879b-4700-98ad-95db62c4a942
+  - 3eab0ba8-394a-46fb-bc90-561dd6eeced4
+  - 6dce87aa-d0d3-4ceb-b19a-3a59322fa98e
+  - b6267639-94e6-40a5-8471-d1dc63559112
+  - f74e61ed-bc0b-412d-8cbf-8d635097efe8
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1717336455
+---
