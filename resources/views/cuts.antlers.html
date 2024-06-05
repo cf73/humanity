@@ -74,3 +74,15 @@
 
 
     
+
+
+    <div class="tracking-wide mb-16 text-softblack text-3xl font-semibold text-center">Related Partner Initiatives</div>
+        <div class="grid grid-cols-2 gap-16 mb-32">
+            {{if related_partner_initiatives}}
+                {{related_partner_initiatives}}
+                    <div class="mb-8"><a href="{{url}}">{{ partial:cards/card }}</a></div>
+                {{/related_partner_initiatives}}
+            {{else}}
+                No related Partner Initiatives yet - add some!
+            {{/if}}
+        </div>
