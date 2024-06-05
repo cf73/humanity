@@ -24,7 +24,7 @@ description:
         text: '198 profoundly possible methods of non-violent action'
       -
         type: text
-        text: ' were gifted to humanity by the Albert Einstein Institution and its founder, Dr. Gene Sharp, in 1973. He researched and catalogued them, providing a rich selection of historical examples in his seminal work, '
+        text: ' were gifted to humanity by the Albert Einstein Institution and its founder, Dr. Gene Sharp, way back in 1973. He researched and catalogued them, providing a rich selection of historical examples in his seminal work, '
       -
         type: text
         marks:
@@ -71,13 +71,16 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713473651
+updated_at: 1717617206
 article_text:
   -
     type: paragraph
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'The Methods of Nonviolent Protest and Persuasion'
   -
     type: paragraph
@@ -424,6 +427,9 @@ article_text:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'The Methods of Social Noncooperation'
   -
     type: paragraph
@@ -531,6 +537,9 @@ article_text:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'The Methods of Economic Noncooperation: Economic Boycotts'
   -
     type: paragraph
@@ -709,6 +718,9 @@ article_text:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'The Methods of Economic Noncooperation: The Strike'
   -
     type: paragraph
@@ -879,6 +891,9 @@ article_text:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'The Methods of Political Noncooperation'
   -
     type: paragraph
@@ -1117,6 +1132,9 @@ article_text:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'The Methods of Nonviolent Intervention'
   -
     type: paragraph
@@ -1522,11 +1540,6 @@ article_text:
                       target: null
                       title: null
                 text: "198 Methods of Nonviolent Action (Handout), K Gandhi Institute for Nonviolence and Albert Einstein Institute (PDF – 66 pgs)\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: hardBreak
 collection_type: article
 related_partner_initiatives:
   - 86161e36-7285-41a6-ba67-5a5f928fb1d1
