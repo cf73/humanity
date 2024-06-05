@@ -83,7 +83,7 @@ em {
     font-family: 'RaporMediumItalic', 'sans-serif';
 }
 strong {
-    font-family: 'RaporBold', 'sans-serif';;
+    font-weight: 600;
 }
 h1 {
     font-size: 7rem;

@@ -1,32 +1,32 @@
 <!-- image -->
 <div class="w-full h-[80vh] bg-no-repeat bg-cover bg-center" style="background-image: url({{image}});"></div>
 
-<article class="bg-softblack">    
+<article class="bg-sand -top-20 relative mx-32">    
     <!-- top area -->
-    <div class="space-y-8 flex flex-col px-32">
-        <div class="font-thin text-darkblack relative z-50 text-7xl">{{title}}</div>
+    <div class="space-y-8 flex flex-col px-16 py-8">
+        <div class="font-thin text-darkblack relative z-50 text-8xl">{{title}}</div>
 
         <!-- article metadata  -->
-        <div class="space-y-2 flex flex-col">
+        <div class="space-y-2 flex flex-col prose prose-zinc">
             <div id="author">
-                <span class="uppercase font-medium tracking-wider">Author: </span>
+                <span class="uppercase font-semibold tracking-widest">Author: </span>
                 <span class="font-serif">{{author}}</span>
             </div>
             <div id="date">
-                <span class="uppercase font-medium tracking-wider">Date Published: </span>
+                <span class="uppercase font-semibold tracking-widest">Date Published: </span>
                 <span class="font-serif">{{date_published}}</span>
             </div>
             <div id="location">
-                <span class="uppercase font-medium tracking-wider">Originally published on: </span>
+                <span class="uppercase font-semibold tracking-widest">Originally published on: </span>
                 <span class="font-serif"><a href="{{link}}" target="_blank">{{publication}}</a></span>
             </div>
         </div>
 
         
 
-        <div class="prose text-darkblack font-medium text-xl">{{description}}</div>
+        <div class="font-medium tracking-wider prose lg:prose-2xl prose-zinc">{{description}}</div>
 
-        <div class="prose prose-invert">{{article_text}}</div>
+        <div class="font-serif prose prose-zinc lg:prose-xl">{{article_text}}</div>
     </div>
 </article>
 
