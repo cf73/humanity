@@ -2,7 +2,7 @@
 id: e1391e3d-01ec-49eb-bb17-b1bda88e5129
 blueprint: articles
 title: 'Human violence dramatically increases carbon'
-author: 'Nina Lakhani, Climate justice reporter, The Guardian'
+author: 'Nina Lakhani, climate justice reporter'
 date_published: '2024-01-09'
 link: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1'
 publication: 'The Guardian'
@@ -95,7 +95,7 @@ article_text:
     content:
       -
         type: text
-        text: 'Tue 9 Jan 2024 '
+        text: '9 Jan 2024 '
   -
     type: paragraph
     content:
@@ -135,22 +135,6 @@ article_text:
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.theguardian.com/environment/2023/dec/05/no-climate-justice-without-peace-gaza-becomes-flashpoint-for-climate-activists'
-              rel: null
-              target: null
-              title: null
-          -
-            type: bold
-        text: 'Read more'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'The vast majority (over 99%) of the 281,000 metric tonnes of carbon dioxide (CO2 equivalent) estimated to have been generated in the first 60 days following the 7 October Hamas attack can be attributed to Israel’s aerial bombardment and ground invasion of Gaza, according to a first-of-its-kind analysis by researchers in the UK and US.'
   -
     type: paragraph
@@ -170,20 +154,6 @@ article_text:
       -
         type: text
         text: 'Hamas rockets fired into Israel during the same period generated about 713 tonnes of CO2, which is equivalent to approximately 300 tonnes of coal – underscoring the asymmetry of each side’s war machinery.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1#img-2'
-              rel: null
-              target: null
-              title: null
-        text: 'View image in fullscreen'
   -
     type: paragraph
     content:
@@ -219,12 +189,6 @@ article_text:
               target: null
               title: null
         text: 'Social Science Research Network.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The video player is currently playing an ad. You can skip the ad in 5 sec with a mouse or keyboard'
   -
     type: paragraph
     content:
@@ -316,8 +280,6 @@ article_text:
         text: 'David Boyd, the UN special rapporteur for human rights and the environment, said: “This research helps us understand the immense magnitude of military emissions – from preparing for war, carrying out war and rebuilding after war. Armed conflict pushes humanity even closer to the precipice of climate catastrophe, and is an idiotic way to spend our shrinking carbon budget.”'
   -
     type: paragraph
-  -
-    type: paragraph
     content:
       -
         type: text
@@ -336,20 +298,6 @@ article_text:
       -
         type: text
         text: ' – homes, schools, mosques, hospitals, shops – have so far been destroyed or damaged, and construction is a major driver of global heating.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1#img-3'
-              rel: null
-              target: null
-              title: null
-        text: 'View image in fullscreen'
   -
     type: paragraph
     content:
@@ -447,22 +395,6 @@ article_text:
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.theguardian.com/commentisfree/2024/jan/09/emission-from-war-military-gaza-ukraine-climate-change'
-              rel: null
-              target: null
-              title: null
-          -
-            type: bold
-        text: 'Read more'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'The Israeli delegation was mostly promoting its burgeoning climate tech industry in areas such as carbon capture and storage, water harvesting and plant-based meat alternatives. “Israel’s biggest contribution to the climate crisis comes in the form of the solutions,” said Gideon Behar, special envoy for climate change and sustainability.'
   -
     type: paragraph
@@ -488,20 +420,6 @@ article_text:
       -
         type: text
         text: 'Using its defence budget as a proxy, the new study estimates that Israel’s annual baseline military carbon footprint – without accounting for conflict – was almost 7m metric tonnes of CO2 equivalent in 2019. This is about equivalent to the CO2 emitted by the entire nation of Cyprus, and 55% more emissions than the whole of Palestine.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1#img-4'
-              rel: null
-              target: null
-              title: null
-        text: 'View image in fullscreen'
   -
     type: paragraph
     content:
@@ -584,20 +502,6 @@ article_text:
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1#img-5'
-              rel: null
-              target: null
-              title: null
-        text: 'View image in fullscreen'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'An Israeli soldier carries a heavy shell near a battle tank deployed at a position along the border with the Gaza Strip and southern Israel on 31 December 2023.Photograph: Menahem Kahana/AFP/Getty Images'
   -
     type: paragraph
@@ -666,158 +570,6 @@ article_text:
       -
         type: text
         text: '“Among all the problems facing the state of Palestine in the coming decades, climate change is the most immediate and certain – and this has been amplified by the occupation and war on Gaza since the 7 October,” said Ikhmais, the Palestinian climate director. “The carbon emissions from the military attacks contradict the UNFCCC and Paris agreement goal … recognizing the environmental impact of war is crucial.”'
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
 collection_type: article
 challenges:
   - war
@@ -832,5 +584,5 @@ related_content:
   - b6267639-94e6-40a5-8471-d1dc63559112
   - f74e61ed-bc0b-412d-8cbf-8d635097efe8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717336554
+updated_at: 1717619861
 ---
