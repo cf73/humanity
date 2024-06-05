@@ -10,7 +10,7 @@ export default {
 
     theme: {
         fontFamily: {
-            'serif': ['BaskervilleRegular', 'serif'],
+            'serif': ['Spectral', 'serif'],
             'thin': ['RaporThin', 'sans-serif'],
             'sans': ['RaporRegular', 'sans-serif'],
             'medium': ['RaporMedium', 'sans-serif'],
