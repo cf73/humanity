@@ -545,10 +545,10 @@ challenges:
 related_partner_initiatives:
   - f80aa9dd-80ba-474c-acaa-cc772f395ca7
 related_content:
-  - e9537ad7-4c07-499a-b9ac-3bd1c5dbb222
   - 48c9aa4d-9d07-4ee1-b57b-0e4804e22f71
+  - 6186f811-7d50-4f30-bf66-af4c31a3a525
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717619315
+updated_at: 1717619369
 author: 'Richard Gray'
 date_published: '2023-12-27'
 publication: 'BBC Future'
