@@ -1,7 +1,7 @@
 ---
 id: 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
 blueprint: articles
-title: '198 methods of non-violent action for ending war...'
+title: '198 methods of non-violent action for ending war'
 image: image-1713472601.png
 link: 'https://www.aeinstein.org/198-methods-of-nonviolent-action'
 description:
@@ -53,7 +53,16 @@ description:
         text: 'Jamila Raqib'
       -
         type: text
-        text: ', born in Afghanistan, references these methods as she convincingly makes the case for making war obsolete ('
+        text: ', born in Afghanistan, references these methods as she convincingly makes the case for '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'making war obsolete'
+      -
+        type: text
+        text: ' ('
       -
         type: text
         marks:
@@ -71,7 +80,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717617206
+updated_at: 1717617799
 article_text:
   -
     type: paragraph
