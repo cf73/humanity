@@ -80,7 +80,7 @@ body {
     overflow-x: hidden;
 }
 em {
-    font-family: 'RaporMediumItalic', 'sans-serif';
+    font-style: italic;
 }
 strong {
     font-weight: 600;
