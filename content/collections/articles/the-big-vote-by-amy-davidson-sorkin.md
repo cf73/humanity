@@ -15,7 +15,7 @@ description:
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717615719
+updated_at: 1717615850
 article_text:
   -
     type: paragraph
@@ -259,6 +259,7 @@ article_text:
         text: ', with the headline “The Big Vote.”'
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
+  - e418c09e-390d-4f38-987d-3a3731bb70b5
 related_content:
   - 741d99a2-6da4-4429-979e-90df32a30949
   - 6dce87aa-d0d3-4ceb-b19a-3a59322fa98e
