@@ -17,24 +17,6 @@ article_text:
     content:
       -
         type: text
-        text: '27 December 2023'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'By Richard Gray,'
-      -
-        type: text
-        text: ' features correspondent, @chalkmark'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'There are few places on the Earth where humans have not left a mark of some kind. An estimated '
       -
         type: text
@@ -145,18 +127,6 @@ article_text:
     content:
       -
         type: text
-        text: 'Maxar Technologies'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Pearson Reef was just a tiny speck of land at the tip of a submerged reef in April 2021 (Credit: Maxar Technologies)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'The development of Pearson Island is just one of a number land-building projects that Vietnam has undertaken in the Spratly Islands since 2021. A number of nations, including China, the Philippines and Taiwan, have claimed the islands, and they are now at the centre of '
       -
         type: text
@@ -243,12 +213,6 @@ article_text:
     content:
       -
         type: text
-        text: 'Maxar Technologies'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: "The Cauchari-Olaroz lithium mine in Argentina's Jujuy Province was one of a number of new operations to open in 2023 amid growing demand for the metal (Credit: Maxar Technologies)"
   -
     type: paragraph
@@ -293,12 +257,6 @@ article_text:
     content:
       -
         type: text
-        text: 'EU/Copernicus Sentinel-2'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Floating farms have dramatically decreased the surface areas of Inle Lake in Myanmar (Credit: EU/Copernicus Sentinel-2)'
   -
     type: paragraph
@@ -327,12 +285,6 @@ article_text:
     content:
       -
         type: text
-        text: 'Maxar Technologies'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'The Quebrada Blanca open pit copper mine in the Tarapacá region of northern Chile expanded its operations in 2023 (Credit: Maxar Technologies)'
   -
     type: paragraph
@@ -356,12 +308,6 @@ article_text:
       -
         type: text
         text: ' from it.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Getty Images'
   -
     type: paragraph
     content:
@@ -427,12 +373,6 @@ article_text:
     content:
       -
         type: text
-        text: Nasa
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Following the dam breach, the water behind the Kakhovka dam rushed downstream as the reservoir emptied (Credit: Nasa)'
   -
     type: paragraph
@@ -493,12 +433,6 @@ article_text:
     content:
       -
         type: text
-        text: 'Maxar Technologies'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'The Al Dhafra Solar Power Project in the UAE spans more than 20 sq km (7.7 sq miles) of desert (Credit: Maxar Technologies)'
   -
     type: paragraph
@@ -522,12 +456,6 @@ article_text:
       -
         type: text
         text: ', which is capable of generating enough electricity for almost 200,000 homes.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Maxar Technologies'
   -
     type: paragraph
     content:
@@ -577,12 +505,6 @@ article_text:
     content:
       -
         type: text
-        text: 'Getty Images'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Construction has started on The Line in Neom, Saudi Arabia (Credit: Getty Images)'
   -
     type: paragraph
@@ -626,8 +548,8 @@ related_content:
   - e9537ad7-4c07-499a-b9ac-3bd1c5dbb222
   - 48c9aa4d-9d07-4ee1-b57b-0e4804e22f71
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714498384
-author: 'Richard Gray, features correspondent, BBC'
+updated_at: 1717619315
+author: 'Richard Gray'
 date_published: '2023-12-27'
-publication: BBC
+publication: 'BBC Future'
 ---
