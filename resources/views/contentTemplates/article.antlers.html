@@ -1,59 +1,51 @@
-<!-- image -->
-<div class="w-full h-[80vh] bg-no-repeat bg-cover bg-center" style="background-image: url({{image}});"></div>
-
-<article class="bg-sand -top-20 relative mx-32">    
-    <!-- top area -->
-    <div class="space-y-8 flex flex-col px-16 py-8">
-        <div class="font-thin text-darkblack relative z-50 text-8xl">{{title}}</div>
-
-        <!-- article metadata  -->
-        <div class="space-y-2 flex flex-col prose prose-zinc">
-            <div id="author">
-                <span class="uppercase font-semibold tracking-widest">Author: </span>
-                <span class="font-serif">{{author}}</span>
-            </div>
-            <div id="date">
-                <span class="uppercase font-semibold tracking-widest">Date Published: </span>
-                <span class="font-serif">{{date_published}}</span>
-            </div>
-            <div id="location">
-                <span class="uppercase font-semibold tracking-widest">Originally published on: </span>
-                <span class="font-serif"><a href="{{link}}" target="_blank">{{publication}}</a></span>
-            </div>
-        </div>
-
-        
-
-        <div class="font-medium tracking-wider prose lg:prose-2xl prose-zinc">{{description}}</div>
-
-        <div class="font-serif prose prose-zinc lg:prose-xl">{{article_text}}</div>
+<section>
+    <div class="px-16 py-8 w-2/3 mx-auto mt-20 space-y-8 text-center">
+        <div class="font-thin prose prose-zinc leading-tighter text-8xl">{{title}}</div>
+        <div class="font-medium tracking-wider prose prose-zinc lg:prose-2xl">{{description}}</div>
     </div>
-</article>
 
-<aside class="container mx-auto">
-    <!-- related content -->
-    <div data-speed="1.2" class="bg-sand">
-        <div class="tracking-wide mb-16 text-softblack text-3xl font-semibold text-center">Related Partner Initiatives</div>
-        <div class="grid grid-cols-2 gap-16 mb-32">
-            {{if related_partner_initiatives}}
-                {{related_partner_initiatives}}
+    <!-- image -->
+    <div class="w-full h-[80vh] bg-no-repeat bg-cover bg-center mt-20" style="background-image: url({{image}});"></div>
+    
+    <article class="bg-sand -top-8 w-2/3 mx-auto">
+        <!-- top area -->
+        <div class="space-y-16 flex flex-col px-16 py-8">
+    
+            <!-- article metadata  -->
+            <div class="space-y-2 flex flex-col prose prose-zinc text-center mx-auto">
+                <div id="author">
+                    <span class="uppercase font-semibold tracking-widest">Author: </span>
+                    <span class="font-serif">{{author}}</span>
+                </div>
+                <div id="date">
+                    <span class="uppercase font-semibold tracking-widest">Date Published: </span>
+                    <span class="font-serif">{{date_published}}</span>
+                </div>
+
+                <div id="location">
+                    <span class="uppercase font-semibold tracking-widest">Originally published on: </span>
+                    <span class="font-serif"><a href="{{link}}" target="_blank">{{publication}}</a></span>
+                </div>
+            </div>
+    
+            <div class="font-serif prose prose-zinc mx-auto lg:prose-xl">{{article_text}}</div>
+        </div>
+    </article>
+    
+    <aside class="container mx-auto">
+        <!-- related content -->
+        <div data-speed="1.2">
+            <div class="tracking-wide mb-16 text-softblack text-3xl font-semibold text-center">Related Content</div>
+            <div class="grid grid-cols-2 gap-16">
+                {{if related_content}}
+                    {{related_content}}
                     <div class="mb-8"><a href="{{url}}">{{ partial:cards/card }}</a></div>
-                {{/related_partner_initiatives}}
-            {{else}}
-                No related Partner Initiatives yet - add some!
-            {{/if}}
+                    {{/related_content}}
+                    {{else}}
+                    No suggested content yet - add some!
+                {{/if}}
+            </div>
+    
         </div>
-
-        <div class="tracking-wide mb-16 text-softblack text-3xl font-semibold text-center">Related Content</div>
-        <div class="grid grid-cols-2 gap-16">
-            {{if related_content}}
-                {{related_content}}
-                <div class="mb-8"><a href="{{url}}">{{ partial:cards/card }}</a></div>
-                {{/related_content}}
-                {{else}}
-                No suggested content yet - add some!
-            {{/if}}
-        </div>
-
-    </div>
-</aside>
+    </aside>
+</section>
