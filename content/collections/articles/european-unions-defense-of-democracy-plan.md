@@ -2,7 +2,7 @@
 id: 73acba4f-36be-4c72-b0ab-026ab9e66027
 blueprint: articles
 title: "European Union's plan for defending democracy"
-author: E.U.
+author: 'European Union (EU)'
 date_published: '2023-12-12'
 link: 'https://ec.europa.eu/commission/presscorner/detail/en/ip_23_6453'
 publication: 'European Democracy Action Plan'
@@ -58,7 +58,13 @@ article_text:
         text: 'Recommendation on inclusive and resilient electoral processes in the Union and enhancing the European nature and efficient conduct of the elections to the European Parliament'
       -
         type: text
-        text: " aims to promote high democratic standards for elections in the EU, supporting high voter turnouts, inclusive participation and making it easier to exercise one's electoral rights. The Recommendation also addresses the protection and cybersecurity of election-related infrastructure and proposes measures to minimise risks of interference from third countries through funding of political parties, political foundations, campaign organisations and candidates. A free and fair democratic debate relies on legality and fair play. The Recommendation stresses that surveillance tools should never be used to interfere with the democratic debate and deploying such tools to target political actors and journalists for political gain is unacceptable."
+        text: " aims to promote high democratic standards for elections in the EU, supporting high voter turnouts, inclusive participation and making it easier to exercise one's electoral rights. The Recommendation also addresses the protection and cybersecurity of election-related infrastructure and proposes measures to minimise risks of interference from third countries through funding of political parties, political foundations, campaign organisations and candidates. "
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'A free and fair democratic debate relies on legality and fair play. The Recommendation stresses that surveillance tools should never be used to interfere with the democratic debate and deploying such tools to target political actors and journalists for political gain is unacceptable.'
   -
     type: paragraph
     content:
@@ -107,7 +113,13 @@ article_text:
         text: "Recommendation on promoting the engagement\_ of citizens and civil society organisations in public policy-making processes"
       -
         type: text
-        text: " aims to create and maintain a safe and enabling environment for civil society organisations and human rights defenders, allowing them to effectively participate in democratic policy-making. It also encourages Member States to develop a structured approach to participation processes through predictable, accessible, transparent and inclusive frameworks. With a similar intention to enhance its framework for citizens' participation, the Commission, as a follow-up to the Conference on the Future of Europe, has now embedded European Citizens' Panels in its policy-making process. In early 2024, the Commission will launch a revamped Have Your Say portal, as a new online one-stop-shop for Citizens' Engagement."
+        text: ' aims to create and maintain a safe and enabling environment for civil society organisations and human rights defenders, allowing them to effectively participate in democratic policy-making. It also encourages Member States to develop a structured approach to participation processes through predictable, accessible, transparent and inclusive frameworks. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "With a similar intention to enhance its framework for citizens' participation, the Commission, as a follow-up to the Conference on the Future of Europe, has now embedded European Citizens' Panels in its policy-making process. In early 2024, the Commission will launch a revamped Have Your Say portal, as a new online one-stop-shop for Citizens' Engagement."
   -
     type: paragraph
     content:
@@ -225,5 +237,5 @@ related_content:
   - 877904fd-3029-4a1c-aa0e-33aa2d7f36c6
   - c7c991b5-9dde-4365-9c58-41d73dfee6cb
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714498354
+updated_at: 1717619061
 ---
