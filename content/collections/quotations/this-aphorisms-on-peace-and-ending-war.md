@@ -86,7 +86,6 @@ quotation: |-
   Either war is obsolete, or men are.
         ~       R. Buckminster Fuller
 
-
   There is no way to peace. Peace is the way. 
         ~       A. J. Muste
 
@@ -101,7 +100,6 @@ quotation: |-
 
   I cannot believe that war is the best solution. No one won the last war, and no one will win the next war.
         ~       Eleanor Roosevelt
-
 
   You cannot simultaneously prevent and prepare for war. 
         ~       Albert Einstein
@@ -133,5 +131,5 @@ collection_type: talk
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713582256
+updated_at: 1717703545
 ---
