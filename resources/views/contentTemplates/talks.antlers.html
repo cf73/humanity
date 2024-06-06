@@ -7,23 +7,24 @@
     {{if video_id}}
     <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     {{else}}
-    <img src="{{image}}" alt="{{title}}" class="w-1/2">
+    <img src="{{image}}" alt="{{title}}" class="w-full">
     {{/if}}
 
     <div class="space-y-2 flex flex-col items-center">
         <div>
-            <span class="textMeta">Directed by: </span>
-            <span class="textSecondary">{{director}}</span>
+            <span class="textMeta">Speaker: </span>
+            <span class="textSecondary">{{speaker}}</span>
         </div>
         <div>
-            <span class="textMeta">Date released: </span>
-            <span class="textSecondary">{{date_released}}</span>
+            <span class="textMeta">Date: </span>
+            <span class="textSecondary">{{date_of_talk}}</span>
         </div>
-    </div>
-
-    <div class="flex flex-row space-x-4">
-        <button>Buy it here</button>
-        <button>Watch it here</button>
+        <div>
+            <span class="textMeta">Location: </span>
+            <span class="textSecondary">{{location_or_event}}</span>
+        </div>  
     </div>
 
 </div>
+
+{{partial:exploreMore}}

@@ -1,10 +1,9 @@
-<div class="bg-cover bg-darkblack bg-no-repeat bg-center h-[75vh] w-full z-0 absolute">
+<div class="container mx-auto flex flex-col items-center space-y-8 pt-48 relative">
+    <div class="text-center flex flex-col items-center">
+        <h1>{{title}}</h1>
+        <h3>{{description}}</h3>
+    </div>
 
-</div>
-
-<div class="flex flex-col items-center space-y-8 pt-48 relative">
-    <div class="text-9xl font-thin text-warmwhite mb-4">{{title}}</div>
-    
     {{if video_id}}
     <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     {{else}}
@@ -13,22 +12,20 @@
 
     <div class="space-y-2 flex flex-col items-center">
         <div>
-            <span class="uppercase font-medium tracking-wider">Speaker: </span>
-            <span class="font-serif">{{speaker}}</span>
+            <span class="textMeta">Speaker: </span>
+            <span class="textSecondary">{{speaker}}</span>
         </div>
         <div>
-            <span class="uppercase font-medium tracking-wider">Date: </span>
-            <span class="font-serif">{{date_of_speech}}</span>
+            <span class="textMeta">Date: </span>
+            <span class="textSecondary">{{date_of_speech}}</span>
         </div>
         <div>
-            <span class="uppercase font-medium tracking-wider">Location: </span>
-            <span class="font-serif">{{location}}</span>
+            <span class="textMeta">Location: </span>
+            <span class="textSecondary">{{location}}</span>
         </div>  
     </div>
 
-    <div class="w-2/3 mx-auto text-darkblack leading-normal font-bold text-center text-4xl py-32">{{description}}</div>
-    <div class="bg-warmwhite w-full p-32 pt-16">
-        <div class="prose mx-auto text-xl">{{transcript}}</div>
-    </div>
+    <div class="textMain pt-8">{{transcript}}</div>
 </div>
-    {{partial:exploreMore}}
+
+{{partial:exploreMore}}
