@@ -1,7 +1,7 @@
 <section>
     <div class="px-16 py-8 w-2/3 mx-auto mt-20 space-y-8 text-center">
-        <div class="font-thin prose prose-zinc leading-tighter text-8xl">{{title}}</div>
-        <div class="font-medium tracking-wider prose prose-zinc lg:prose-2xl">{{description}}</div>
+        <h1>{{title}}</h1>
+        <h3>{{description}}</h3>
     </div>
 
     <!-- image -->
@@ -14,21 +14,21 @@
             <!-- article metadata  -->
             <div class="space-y-2 flex flex-col prose prose-zinc text-center mx-auto">
                 <div id="author">
-                    <span class="uppercase font-semibold tracking-widest">Author: </span>
-                    <span class="font-serif">{{author}}</span>
+                    <span class="metaTitle">Author: </span>
+                    <span class="textSecondary">{{author}}</span>
                 </div>
                 <div id="date">
-                    <span class="uppercase font-semibold tracking-widest">Date Published: </span>
-                    <span class="font-serif">{{date_published}}</span>
+                    <span class="metaTitle">Date Published: </span>
+                    <span class="textSecondary">{{date_published}}</span>
                 </div>
 
                 <div id="location">
-                    <span class="uppercase font-semibold tracking-widest">Originally published on: </span>
-                    <span class="font-serif"><a href="{{link}}" target="_blank">{{publication}}</a></span>
+                    <span class="metaTitle">Originally published on: </span>
+                    <span class="textSecondary"><a href="{{link}}" target="_blank">{{publication}}</a></span>
                 </div>
             </div>
     
-            <div class="font-serif prose prose-zinc mx-auto lg:prose-xl">{{article_text}}</div>
+            <div class="textMain">{{article_text}}</div>
         </div>
     </article>
     

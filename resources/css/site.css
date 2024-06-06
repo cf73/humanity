@@ -4,6 +4,35 @@
 
 /* This is all you. */
 
+
+@layer base {
+    h1 {
+        @apply font-thin prose prose-zinc leading-tight tracking-wide antialiased text-6xl;
+    }
+    h2 {
+        @apply text-5xl tracking-wide font-semibold prose prose-zinc mb-4 antialiased
+    }
+    h3 {
+        @apply text-3xl tracking-wide font-medium prose prose-zinc subpixel-antialiased;
+    }
+    h4 {
+        @apply text-2xl tracking-wide font-medium;
+    }
+    h5 {
+        
+    }
+    .metaTitle {
+        @apply uppercase font-medium tracking-widest antialiased;
+    }
+    .textMain {
+        @apply font-serif prose prose-zinc mx-auto lg:prose-xl;
+    }
+    .textSecondary {
+        @apply font-serif prose prose-zinc antialiased tracking-wide;
+    }
+}
+
+/* fonts */
 @font-face {
     font-family: 'BaskervilleRegular';
     src: url('/public/assets/fonts/Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
@@ -67,42 +96,15 @@
     font-style: normal;
     font-display: swap;
 }
-.shadows-into-light-regular {
-    font-family: "Shadows Into Light", cursive;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
 
-body {
-    font-family: 'RaporRegular', sans-serif;
-    margin-bottom: 1rem;
-    overflow-x: hidden;
-}
+  
 em {
     font-style: italic;
 }
 strong {
     font-weight: 600;
 }
-h1 {
-    font-size: 7rem;
-    line-height: 6rem;
-    font-family: 'RaporThin', sans-serif;
-}
-h2 {
-    font-family: 'RaporThin', sans-serif;
-    font-size: 3rem;
-    line-height: 3rem;
-}
-h3 {
-    font-family: 'RaporBold', sans-serif;
-    font-size: 2rem;
-    line-height: 2rem;
-}
-p {
-    margin-bottom: 1rem;
-}
+
 button {
     background-color: none;
     color: black;
@@ -117,12 +119,7 @@ button {
     font-size: .75em;
 }
 
-.container {
-    padding: 0 2em;
-}
-
-
-
+/* SWIPER */
 
 .image-swiper-button-next,
 .image-swiper-button-prev {
@@ -132,7 +129,6 @@ button {
   width: 36px;
   height: 36px;
 }
-
 .image-swiper-button-next {
   background-image: url('/public/assets/icons/next.svg');
   left: 8em;
@@ -145,7 +141,6 @@ button {
   background-image: url('/public/assets/icons/next.svg');
   transform: rotate(180deg);
 }
-
 .swiper-button-disabled {
     opacity: .3;
 }

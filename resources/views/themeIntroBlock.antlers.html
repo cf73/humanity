@@ -8,16 +8,16 @@
             </div>
             <div class="row-start-2 col-start-2 col-span-8 mt-1">
                 <a href="/index?collectiontype%5B%5D={{collection_type:slug}}" class="font-sans text-xl prose prose-zinc tracking-wider antialiased leading-loose border-t-[24px] border-highlighter pt-4 z-50 relative">Photography</a>
-                <div class="font-medium w-2/3">
-                    <a class="text-3xl tracking-wide font-medium prose prose-zinc subpixel-antialiased" href="{{main_image:url}}">{{main_image:title}} <i class="las la-angle-right text-xl"></i></a><br>
-                    <a class="font-serif prose prose-zinc antialiased" href="{{main_image:url}}">{{main_image:photographer_name}}</a> 
+                <div class="font-medium w-1/2">
+                    <a href="{{main_image:url}}"><h3>{{main_image:title}} <i class="las la-angle-right text-xl"></i></h3></a><br>
+                    <a class="textSecondary" href="{{main_image:url}}">{{main_image:photographer_name}}</a> 
                 </div>
             </div>
             <!-- text to right of photo, currently index of theme content by type -->
             <div data-speed=".8" class="col-start-9 h-full row-start-1 col-span-4 flex flex-col justify-center p-16 font-sans text-2xl prose prose-zinc tracking-wider antialiased">{{intro_text}}</div>
             <!-- theme intro title and text -->
             <div data-speed=".8" class="col-span-3 -mt-[20vh] flex flex-col justify-center space-y-8 row-start-2 row-span-2 col-start-2">
-                <div class="font-thin leading-tight tracking-wide antialiased text-6xl">{{title_text}}</div>
+                <h1>{{title_text}}</h1>
                 <button>Explore...</button>
                 <!-- <div class="font-medium leading-snug text-lg">{{intro_text}}</div> -->
             </div>
