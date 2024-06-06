@@ -15,7 +15,7 @@ challenges:
   - war
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1716577042
+updated_at: 1717702747
 article_text:
   -
     type: paragraph
@@ -215,7 +215,7 @@ article_text:
     content:
       -
         type: text
-        text: '“World Peace must develop from inner peace.”'
+        text: '“World peace must develop from inner peace.”'
   -
     type: paragraph
     content:
