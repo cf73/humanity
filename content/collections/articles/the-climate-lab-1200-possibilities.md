@@ -1,7 +1,7 @@
 ---
 id: 0ac2ceeb-3da0-44c4-921b-3897f491e659
 blueprint: articles
-title: '1,200 possibilities for the planet’s future'
+title: "1,200 possibilities for Earth's future"
 author: 'Chris Mooney, Naema Ahmed and John Muyskens'
 date_published: '2022-12-01'
 link: 'https://www.washingtonpost.com/climate-environment/interactive/2022/global-warming-1-5-celsius-scenarios/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most&carta-url=https%3A%2F%2Fs2.washingtonpost.com'
@@ -12,16 +12,7 @@ description:
     content:
       -
         type: text
-        text: 'This is one of the more sophisticated examinations  —  something with a strong scientific grounding — on'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: ' '
-      -
-        type: text
-        text: 'Earth’s future. The Climate Lab at '
+        text: 'The Climate Lab at '
       -
         type: text
         marks:
@@ -30,7 +21,16 @@ description:
         text: 'The Washington Post'
       -
         type: text
-        text: ' presents 1,200 possible scenarios.'
+        text: " presents 1,200 possible scenarios. This is one of the more sophisticated examinations of Earth's future; it has a strong scientific grounding and is wonderfully precise and clear in its presentations. (n.b. It is worth reading the original article in "
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Post'
+      -
+        type: text
+        text: ' itself to benefit by all the easy-to-grasp charts.)'
 article_text:
   -
     type: paragraph
@@ -181,18 +181,6 @@ article_text:
     content:
       -
         type: text
-        text: '1°C1.5°C2°C3°C4°C5°C above preindustrial levels2020203020502100'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Draw this chart again'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Each of these thin strands is based on sophisticated computer simulations that calculate how fast the economy and the population will grow, how quickly climate technology will advance, how rapidly'
       -
         type: text
@@ -237,12 +225,6 @@ article_text:
     content:
       -
         type: text
-        text: 'Story continues below advertisement'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'So we first filtered these out, based on a formula provided by the Potsdam Institute researchers. The researchers also added a few other rules to prevent very unlikely'
       -
         type: text
@@ -259,18 +241,6 @@ article_text:
       -
         type: text
         text: 'Next, we take out the scenarios that conflict with near-term reality, leaving 112 paths that get us to 1.5°C by 2100.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '1°C1.5°C2°C above preindustrial levels2020203020502100All pathsFour pathsNo path leftLow or no overshootHigh overshootLow or no overshoot (26 paths)High overshoot (86 paths)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Draw this chart again'
   -
     type: paragraph
     content:
@@ -310,18 +280,6 @@ article_text:
     content:
       -
         type: text
-        text: '1°C1.5°C2°C above preindustrial levels2020203020502100All pathsFour pathsNo path leftLow or no overshootHigh overshootLow or no overshoot (26 paths)High overshoot (86 paths)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Draw this chart again'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'So it is worth focusing on those 26 scenarios that allow for only a “low” overshoot (or none at all).'
       -
         type: text
@@ -352,12 +310,6 @@ article_text:
     content:
       -
         type: text
-        text: '-15Net zero2040 billion tons CO₂202020502100'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         marks:
           -
             type: bold
@@ -381,12 +333,6 @@ article_text:
       -
         type: text
         text: 'developed by the Potsdam Institute researchers and their international colleagues to filter scenarios based on the kinds of future developments they anticipate and the speed of progress they show happening.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Story continues below advertisement'
   -
     type: paragraph
     content:
@@ -501,7 +447,7 @@ article_text:
     content:
       -
         type: text
-        text: 'When we change the assumption to reasonable for carbon dioxide removal and storage underground, four paths to 1.5°C remain on the chart. And when we look at only reasonable assumptions, there isno path left.'
+        text: 'When we change the assumption to reasonable for carbon dioxide removal and storage underground, four paths to 1.5°C remain on the chart. And when we look at only reasonable assumptions, there is no path left.'
   -
     type: paragraph
     content:
@@ -562,18 +508,6 @@ article_text:
       -
         type: text
         text: Reasonable
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '1°C1.5°C2°C above preindustrial levels2020203020502100All pathsFour pathsNo path leftLow or no overshootHigh overshootLow or no overshoot (26 paths)High overshoot (86 paths)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Draw this chart again'
   -
     type: paragraph
     content:
@@ -666,18 +600,6 @@ article_text:
       -
         type: text
         text: Challenging
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '1°C1.5°C2°C above preindustrial levels2020203020502100All pathsFour pathsNo path leftLow or no overshootHigh overshootLow or no overshoot (26 paths)High overshoot (86 paths)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Draw this chart again'
   -
     type: paragraph
     content:
@@ -819,18 +741,6 @@ article_text:
     content:
       -
         type: text
-        text: '1°C1.5°C1.6°C1.8°C2°C above preindustrial levels2020203020502100All pathsFour pathsNo path leftLow or no overshootHigh overshootLow or no overshoot (26 paths)High overshoot (86 paths)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Draw this chart again'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'How do these scenarios work? They still use carbon dioxide removal and storage, but at lower amounts — a few billion tons per year in coming decades from all sources. That’s out to the year 2050 — but to drive temperatures back down again in the second half of the century, the need for these interventions can be extremely large.'
   -
     type: paragraph
@@ -849,67 +759,43 @@ article_text:
     content:
       -
         type: text
-        text: 'Story continues below advertisement'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Not everybody will agree with these models — or, the cutoffs imposed by the Potsdam Institute researchers. Some experts are more optimistic about technology and humanity’s ability to innovate. Others point out that it is easy to imagine countries failing to achieve what is necessary to stay below 2C at all.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'In the end, these are simply'
-      -
-        type: text
         marks:
           -
             type: bold
-        text: ' '
-      -
-        type: text
-        text: 'well-informed models of how the world will work.'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: ' '
-      -
-        type: text
-        text: 'What’s more,'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: ' '
-      -
-        type: text
-        text: 'we still have a limited understanding of how the climate system will respond to emissions.'
+        text: 'In the end, these are simply well-informed models of how the world will work. What’s more, we still have a limited understanding of how the climate system will respond to emissions.'
   -
     type: paragraph
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'At the U.N. Climate Change Conference late last month, world leaders reaffirmed the 1.5C goal. But these scenarios show that without dramatic action — action the leaders did not commit to taking — it most likely will not be possible.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Or at least, not without a major overshoot first.'
+        marks:
+          -
+            type: bold
+        text: 'Or at least, not without a major overshoot first. That is where the world is currently heading.'
+  -
+    type: paragraph
+    content:
       -
         type: text
         marks:
           -
             type: bold
-        text: ' '
-      -
-        type: text
-        text: 'That is where the world is currently heading.'
+        text: '--------'
   -
     type: paragraph
     content:
@@ -1087,11 +973,6 @@ article_text:
       -
         type: text
         text: 'Edward Byers, Volker Krey, Elmar Kriegler, Keywan Riahi, Roberto Schaeffer, Jarmo Kikstra, Robin Lamboll, Zebedee Nicholls, Marit Sanstad, Chris Smith, Kaj-Ivar van der Wijst, Alaa Al Khourdajie, Franck Lecocq, Joana Portugal-Pereira, Yamina Saheb, Anders Strømann, Harald Winkler, Cornelia Auer, Elina Brutschin, Matthew Gidden, Philip Hackstock, Mathijs Harmsen, Daniel Huppmann, Peter Kolp, Claire Lepault, Jared Lewis, Giacomo Marangoni, Eduardo Müller-Casseres, Ragnhild Skeie, Michaela Werning, Katherine Calvin, Piers Forster, Celine Guivarch, Tomoko Hasegawa, Malte Meinshausen, Glen Peters, Joeri Rogelj, Bjorn Samset, Julia Steinberger, Massimo Tavoni, Detlef van Vuuren. AR6 Scenarios Database hosted by IIASA, International Institute for Applied Systems Analysis, 2022.'
-  -
-    type: paragraph
-    content:
-      -
-        type: hardBreak
 collection_type: article
 challenges:
   - inspiration
@@ -1101,6 +982,6 @@ related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
   - 99622b57-8aa7-48d6-8d11-c5de8b413a24
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714498275
+updated_at: 1717632464
 publication: 'The Washington Post'
 ---

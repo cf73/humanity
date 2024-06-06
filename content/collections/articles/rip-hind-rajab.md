@@ -1,8 +1,8 @@
 ---
 id: 91d3f85d-1560-4132-940f-029c9e3fabfe
 blueprint: articles
-title: "Each of us must hear six-year-old Hind Rajab's cry for her life."
-author: 'Meg Kelley, Washington Post'
+title: "We must hear six-year-old Hind Rajab's cry for life."
+author: 'Meg Kelley'
 date_published: '2024-04-16'
 link: 'https://www.washingtonpost.com/world/interactive/2024/hind-rajab-israel-gaza-killing-timeline/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most&carta-url=https%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3d69d6e%2F661ea5be0ab0880fad371910%2F5a3aa40bade4e25c8f8dfb67%2F9%2F52%2F661ea5be0ab0880fad371910'
 publication: 'Washington Post'
@@ -31,7 +31,16 @@ description:
     content:
       -
         type: text
-        text: "Her plea...is humanity's demand to end war. "
+        text: "Her plea...is humanity's demand..."
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'to end war.'
+      -
+        type: text
+        text: ' '
   -
     type: paragraph
     content:
@@ -44,8 +53,6 @@ description:
       -
         type: text
         text: ' (Voltaire)'
-  -
-    type: paragraph
 article_text:
   -
     type: paragraph
@@ -120,7 +127,7 @@ article_text:
     content:
       -
         type: text
-        text: 'April 16, 2024 at 5:00 a.m.'
+        text: 'April 16, 2024 '
   -
     type: paragraph
     content:
@@ -801,12 +808,6 @@ article_text:
     content:
       -
         type: text
-        text: '(Palestine Red Crescent Society)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'None of the six munitions experts interviewed by The Post could say definitively what munition caused the damage or killed the paramedics based on the ambulance alone because of the time elapsed and the complexity of urban combat. They agreed, however, the damage to the ambulance was consistent with the potential use of a round fired from Israeli tanks that match the vehicles captured in satellite imagery in the area that day.'
   -
     type: paragraph
@@ -822,12 +823,16 @@ article_text:
         text: '“All that mattered to us at that moment was to retrieve them and bury them in a decent way.”'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: '-------'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'About this story'
+        text: 'About this story:'
   -
     type: paragraph
     content:
@@ -840,12 +845,6 @@ article_text:
       -
         type: text
         text: 'Satellite imagery provided by Planet Labs. Graphics by Jarrett Ley. Design and development by Irfan Uraizee.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Israel-Gaza war'
   -
     type: paragraph
     content:
@@ -1182,8 +1181,6 @@ article_text:
         text: .
   -
     type: paragraph
-  -
-    type: paragraph
     content:
       -
         type: text
@@ -1274,7 +1271,7 @@ article_text:
         text: 'Meg Kelly'
       -
         type: text
-        text: "Meg Kelly is a video reporter for The Washington Post's Visual Forensics team. "
+        text: " is a video reporter for The Washington Post's Visual Forensics team. "
       -
         type: text
         marks:
@@ -1302,7 +1299,7 @@ article_text:
         text: 'Louisa Loveluck'
       -
         type: text
-        text: "Louisa Loveluck is a London-based correspondent, covering global crises. She was the paper's Baghdad bureau chief from 2019-2023, and before that, covered the war in Syria from Beirut."
+        text: "  is a London-based correspondent, covering global crises. She was the paper's Baghdad bureau chief from 2019-2023, and before that, covered the war in Syria from Beirut."
       -
         type: text
         marks:
@@ -1330,7 +1327,7 @@ article_text:
         text: 'Miriam Berger'
       -
         type: text
-        text: 'Miriam Berger is a staff writer reporting on foreign news for The Washington Post from Washington, D.C. Before joining The Post in 2019 she was based in Jerusalem and Cairo and freelance reported around the Middle East, as well as parts of Africa and Central Asia. '
+        text: ' is a staff writer reporting on foreign news for The Washington Post from Washington, D.C. Before joining The Post in 2019 she was based in Jerusalem and Cairo and freelance reported around the Middle East, as well as parts of Africa and Central Asia. '
       -
         type: text
         marks:
@@ -1358,7 +1355,7 @@ article_text:
         text: 'Cate Brown'
       -
         type: text
-        text: "Cate Brown is a researcher for The Post's International Investigations team."
+        text: " is a researcher for The Post's International Investigations team."
       -
         type: text
         marks:
@@ -1394,5 +1391,5 @@ related_content:
   - ee249176-0024-4fca-a366-9b5d515d29d4
   - 5b23ff39-cc44-49fa-9ced-97b78abc74b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714494848
+updated_at: 1717632573
 ---

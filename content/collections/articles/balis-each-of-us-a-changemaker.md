@@ -1,7 +1,7 @@
 ---
 id: cec12744-472f-4da0-b17a-41b303b4a29e
 blueprint: articles
-title: 'To rescue our humanity'
+title: 'Time to rescue our humanity'
 image: wall-china-copy.jpeg
 article_text:
   -
@@ -72,7 +72,15 @@ related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - 8a6167d1-d897-4c80-a069-cb77667b2353
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714514927
+updated_at: 1717623788
 author: 'Tony Balis'
 date_published: '1992-07-24'
+publication: 'The Humanity Initiative'
+description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Tony Balis, founder of The Humanity Initiative (in 1984), offers some perspective on rescuing our humanity. '
 ---

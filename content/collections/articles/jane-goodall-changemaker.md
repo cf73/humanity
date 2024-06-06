@@ -5,7 +5,7 @@ title: 'How Jane Goodall redefined humankind'
 author: 'Henry Nicholls'
 date_published: '2014-03-31'
 link: 'https://www.bbc.com/future/article/20140331-the-woman-who-redefined-mankind'
-publication: BBC
+publication: 'BBC Future'
 image: p01wk236.jpg.webp
 description:
   -
@@ -392,7 +392,7 @@ article_text:
         marks:
           -
             type: bold
-        text: 'A capacity for seeing the bigger picture may go some way to explaining her success as an activist. She pinpoints her transformation to 1986, and a chimpanzee conference organised by the Chicago Academy of Sciences to coincide with the publication of The Chimpanzees of Gombe. By then, she’d spent more than 25 years in the field, completed her PhD, established the Gombe Stream Research Center, got married, raised a son and made further groundbreaking observations on chimpanzee society – including insights into chimp communication, sex, mother–infant bonding, inter-community warfare and cannibalism. But at the age of 52, she walked away from the field and turned to a life on the road. “How ridiculous, really, when you think about it,” she says. “What did I think I could do, trotting around Africa with an exhibit of old pictures blown up, and bits of rock and stick?”'
+        text: 'A capacity for seeing the bigger picture may go some way to explaining her success as an activist. She pinpoints her transformation to 1986, and a chimpanzee conference organised by the Chicago Academy of Sciences to coincide with the publication of The Chimpanzees of Gombe. By then, she’d spent more than 25 years in the field, completed her PhD, established the Gombe Stream Research Center, got married, raised a son and made further groundbreaking observations on chimpanzee society  –  including insights into chimp communication, sex, mother–infant bonding, inter-community warfare and cannibalism. But at the age of 52, she walked away from the field and turned to a life on the road. “How ridiculous, really, when you think about it,” she says. “What did I think I could do, trotting around Africa with an exhibit of old pictures blown up, and bits of rock and stick?”'
   -
     type: paragraph
     content:
@@ -571,6 +571,8 @@ article_text:
         text: '“Chimpanzees don’t say goodbye,” she says. I walk to the door, trying to fathom what to make of this. I turn and call out another farewell, but Goodall doesn’t reply. She has turned away from me and doesn’t look back.'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
@@ -599,15 +601,6 @@ article_text:
           -
             type: italic
         text: ', and reproduced under a Creative Commons licence. '
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: hardBreak
 collection_type: article
 challenges:
   - inspiration
@@ -622,5 +615,5 @@ related_content:
   - a0dafd2a-0d38-4a64-ab95-8584261dd48a
   - e956626e-5095-4572-ba16-35a5918e8a54
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714498421
+updated_at: 1717619560
 ---

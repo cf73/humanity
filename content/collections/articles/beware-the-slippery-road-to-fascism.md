@@ -13,16 +13,14 @@ description:
     content:
       -
         type: text
-        text: 'ShashiTharoor warns us that the worldwide backlash against globalization is only likely to further accelerate in the post-COVID world. '
+        text: 'Shashi Tharoor of India warns us that the worldwide backlash against globalization is only likely to further accelerate in the post-COVID world. '
 article_text:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Beware The slippery Road to Fascism! I MEAN WHAT I SAY by Shashi Tharoor 01 June 2023'
-      -
-        type: hardBreak
+        text: 'The Humanity Initiative was unable to download the original text, but you can read the full article directly at: '
       -
         type: text
         marks:
@@ -34,6 +32,9 @@ article_text:
               target: null
               title: null
         text: 'https://english.mathrubhumi.com/columns/i-mean-what-i-say/beware-the-slippery-road-to-fascism-shashi-tharoor-column-1.8605703'
+      -
+        type: text
+        text: .
 collection_type: article
 challenges:
   - democracy
@@ -45,5 +46,5 @@ related_content:
   - 741cddf8-5aaf-421c-849d-4093cfa50766
   - f9f4f112-845f-467c-900e-c064fb540f9b
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717420407
+updated_at: 1717617543
 ---

@@ -1,7 +1,7 @@
 ---
 id: 2b7a011d-4794-44d8-a8fe-388d925553d6
 blueprint: articles
-title: 'Sudan marks grim anniversary of civil war in shadow of other conflicts'
+title: 'Sudan marks grim anniversary of civil war'
 author: 'Ishaan Tharoor, Washington Post'
 date_published: '2024-04-15'
 link: 'https://s2.washingtonpost.com/camp-rw/?trackId=5a3aa40bade4e25c8f8dfb67&s=661ca773d1cd185a0c665c52&linknum=2&linktot=71'
@@ -13,7 +13,7 @@ description:
     content:
       -
         type: text
-        text: 'We must keep our minds and hearts on countering the inhumanity of man  --  no matter how overwhelming the current tragedy may be, as in this clear-eyed reporting this morning (April 15, 2024) on Sudan. '
+        text: 'Humankind must keep our minds and hearts on countering the inhumanity of man  --  no matter how overwhelming the current tragedy may be, as in this clear-eyed reporting on Sudan (April 15, 2024). '
   -
     type: paragraph
     content:
@@ -21,26 +21,6 @@ description:
         type: text
         text: 'Not least, we can support those utterly selfless and courageous people who work dawn to dusk to provide care and dignity in the worst of circumstances: most notably Doctors Without Borders, the International Rescue Committee, Oxfam International, Catholic Relief Services, and Care International. '
 article_text:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.washingtonpost.com//world/2024/04/15/sudan-one-year-anniversary-gaza-ukraine/?utm_medium=email&utm_source=newsletter&wpisrc=nl_todayworld&utm_campaign=wp_todays_worldview&carta-url=https%3A%2F%2Fs2.washingtonpost.com%2Fcar-ln-tr%2F3d667a4%2F661ca773d1cd185a0c665c52%2F5a3aa40bade4e25c8f8dfb67%2F8%2F71%2F'
-              rel: null
-              target: null
-              title: null
-        text: 'Sudan marks grim anniversary of civil war in shadow of other conflicts'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Sudanese refugees gather as teams from Doctors Without Borders assist the war-wounded from West Darfur, Sudan, in Adre hospital, Chad, in June. (Mohammad Ghannam/MSF/Reuters)'
   -
     type: paragraph
     content:
@@ -231,18 +211,6 @@ article_text:
     content:
       -
         type: text
-        text: ADVERTISEMENT
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'International organizations complain that it’s logistically impossible to service much of the country. “Constraints to humanitarian access are severely impeding the delivery of life-saving assistance, and humanitarian funding needs have gone largely unmet,” '
       -
         type: text
@@ -257,7 +225,7 @@ article_text:
         text: 'noted a report'
       -
         type: text
-        text: 'by the International Rescue Committee. By February, food prices in Sudan had spiked by more than 110 percent since the war began. In ramshackle refugee camps in neighboring Chad and South Sudan, aid groups say a dearth of funding may see food distribution cease imminently.'
+        text: ' by the International Rescue Committee. By February, food prices in Sudan had spiked by more than 110 percent since the war began. In ramshackle refugee camps in neighboring Chad and South Sudan, aid groups say a dearth of funding may see food distribution cease imminently.'
   -
     type: paragraph
     content:
@@ -335,12 +303,6 @@ article_text:
     content:
       -
         type: text
-        text: 'Women prepare a meager meal on Feb. 18 in the yard of a former primary school, one of the numerous sites where thousands displaced by the war are seeking shelter in Sirba, a town north of El Geneina. (Diana Zeyneb Alhindawi for The Washington Post/for The Washington Post)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         marks:
           -
             type: bold
@@ -376,18 +338,6 @@ article_text:
     content:
       -
         type: text
-        text: ADVERTISEMENT
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: '“The alternative is grim to contemplate, as the country teeters on the brink of chaos, mass starvation and a war that could spread across its borders to a troubled region,” '
       -
         type: text
@@ -414,5 +364,5 @@ related_content:
   - 7e00de5e-d35e-4430-a7bf-fc16eecb030a
   - d94c4a1a-f5be-410b-bb1c-7e74967f4226
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714435041
+updated_at: 1717632415
 ---

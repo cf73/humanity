@@ -1,7 +1,7 @@
 ---
 id: 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
 blueprint: articles
-title: '198 methods of non-violent action for ending war...'
+title: '198 non-violent methods for ending war'
 image: image-1713472601.png
 link: 'https://www.aeinstein.org/198-methods-of-nonviolent-action'
 description:
@@ -24,7 +24,7 @@ description:
         text: '198 profoundly possible methods of non-violent action'
       -
         type: text
-        text: ' were gifted to humanity by the Albert Einstein Institution and its founder, Dr. Gene Sharp, in 1973. He researched and catalogued them, providing a rich selection of historical examples in his seminal work, '
+        text: ' were gifted to humanity by the Albert Einstein Institution and its founder, Dr. Gene Sharp, way back in 1973. He researched and catalogued them, providing a rich selection of historical examples in his seminal work, '
       -
         type: text
         marks:
@@ -53,7 +53,16 @@ description:
         text: 'Jamila Raqib'
       -
         type: text
-        text: ', born in Afghanistan, references these methods as she convincingly makes the case for making war obsolete ('
+        text: ', born in Afghanistan, references these methods as she convincingly makes the case for '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'making war obsolete'
+      -
+        type: text
+        text: ' ('
       -
         type: text
         marks:
@@ -71,13 +80,16 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713473651
+updated_at: 1717632518
 article_text:
   -
     type: paragraph
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'The Methods of Nonviolent Protest and Persuasion'
   -
     type: paragraph
@@ -424,6 +436,9 @@ article_text:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'The Methods of Social Noncooperation'
   -
     type: paragraph
@@ -531,6 +546,9 @@ article_text:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'The Methods of Economic Noncooperation: Economic Boycotts'
   -
     type: paragraph
@@ -709,6 +727,9 @@ article_text:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'The Methods of Economic Noncooperation: The Strike'
   -
     type: paragraph
@@ -879,6 +900,9 @@ article_text:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'The Methods of Political Noncooperation'
   -
     type: paragraph
@@ -1117,6 +1141,9 @@ article_text:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'The Methods of Nonviolent Intervention'
   -
     type: paragraph
@@ -1522,11 +1549,6 @@ article_text:
                       target: null
                       title: null
                 text: "198 Methods of Nonviolent Action (Handout), K Gandhi Institute for Nonviolence and Albert Einstein Institute (PDF – 66 pgs)\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: hardBreak
 collection_type: article
 related_partner_initiatives:
   - 86161e36-7285-41a6-ba67-5a5f928fb1d1

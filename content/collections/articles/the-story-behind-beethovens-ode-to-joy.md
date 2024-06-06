@@ -1,7 +1,7 @@
 ---
 id: 6161f9fc-b922-44da-8c44-f6c1ad2a6a14
 blueprint: articles
-title: 'The Story Behind Beethoven’s “Ode to Joy”'
+title: 'The amazing story of Beethoven’s “Ode to Joy”'
 author: 'Maria Popova'
 date_published: '2024-05-08'
 link: 'https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/?mc_cid=a8e777fb17&mc_eid=8287507462'
@@ -13,13 +13,30 @@ description:
     content:
       -
         type: text
-        text: 'Trial, Triumph, and the Art of the Possible: The Remarkable Story Behind Beethoven’s “Ode to Joy”'
+        text: '"Here, in the unassailable message of ''Ode to Joy,''" writes Mara Popova, "was a clarion call to humanity to discard all the false gods that had fueled a century of unremitting wars and millennia of inequality — the divisions of nation and rank, the oppressions of dogma and tradition — and band together in universal sympathy and solidarity."'
   -
     type: paragraph
     content:
       -
         type: text
-        text: '"Here, in the unassailable message of “Ode to Joy,” was a clarion call to humanity to discard all the false gods that had fueled a century of unremitting wars and millennia of inequality — the divisions of nation and rank, the oppressions of dogma and tradition — and band together in universal sympathy and solidarity."'
+        marks:
+          -
+            type: bold
+        text: 'Now '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: "there's"
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' a theme song for rescuing our humanity!'
 article_text:
   -
     type: paragraph
@@ -106,26 +123,6 @@ article_text:
       -
         type: text
         text: 'Across the epochs, “Ode to Joy” rises vast and eternal, transcending all of spacetime and at the same time compacting it into something so intimate, so immediate, that nothing seems to exist outside this singularity of all-pervading possibility. Inside its total drama, a total tranquility; inside its revolt, an oasis of refuge. The story of its making is as vitalizing as the masterpiece itself — or, rather, its story is the very reason for its vitality.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Beethoven by Josef Willibrord Mähler circa 1804-1805. (Available as '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://society6.com/product/beethoven-by-josef-willibrord-maehler-circa-1804-1805_print?curator=brainpicker'
-              rel: noopener
-              target: _blank
-              title: null
-        text: 'a print'
-      -
-        type: text
-        text: .)
   -
     type: paragraph
     content:
@@ -224,35 +221,6 @@ article_text:
       -
         type: text
         text: '. He grew estranged from one of his brothers, who married a woman Beethoven disliked. His other brother died. He entered an endless legal combat over guardianship of his young nephew. He spent a year bedridden with a mysterious illness he called “an inflammatory fever,” riddled with skull-splitting headaches. His hearing almost completely deteriorated. He grew repulsed by the trendy mysticism of new musical developments, which made no room for the raw human emotion that was to him both the truest material and truest product of art.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'One of William Blake’s paintings for '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Book of Job'
-      -
-        type: text
-        text: ', 1806. (Available '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://society6.com/product/job-and-his-family-restored-to-prosperity-by-william-blake-1805_print?sku=s6-21832017p4a1v1?curator=brainpicker'
-              rel: noopener
-              target: _blank
-              title: null
-        text: 'as a print'
-      -
-        type: text
-        text: .)
   -
     type: paragraph
     content:
@@ -467,6 +435,9 @@ article_text:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'After the final chord of “Ode to Joy” resounded, the gasping silence broke into a scream of applause. People leapt to their feet, waving their handkerchiefs and chanting his name. Beethoven, still facing the orchestra and still waving his arms to the delayed internal time of music only he could hear, noticed none of it, until Karoline Unger stood up, took his arm, and gently turned him around.'
   -
     type: paragraph
@@ -591,14 +562,18 @@ article_text:
         text: 'I ride into the spring night, singing. This, in the end, might be the truest translation of “joy” — this ecstatic fusion of presence and possibility.'
 collection_type: article
 challenges:
-  - war
+  - inspiration
 related_partner_initiatives:
-  - 8e78665e-26d1-400e-8f6f-2391b9bfec84
+  - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
+  - 643b298b-448c-44d4-841f-cdbcd7b03dcd
+  - 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
+  - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
 related_content:
   - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
   - 9f09c216-ae44-4a47-badf-16a8ab75a311
   - f0946d8d-1bf3-476d-8b40-f1f2b7db91c3
+  - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1715218664
+updated_at: 1717632621
 ---

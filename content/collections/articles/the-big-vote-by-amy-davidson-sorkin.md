@@ -11,11 +11,11 @@ description:
     content:
       -
         type: text
-        text: 'Here is democracy in action, 2024, in all its worldwide variations and unpredictability...'
+        text: 'Here, throughout 2024, is democracy in action, in all its worldwide variations and built-in unpredictability...'
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714436498
+updated_at: 1717615850
 article_text:
   -
     type: paragraph
@@ -229,13 +229,15 @@ article_text:
         text: "The obvious question is: Of these dozens of elections, which is the most important? We might be inclined to say that ours is, because we are the United States, and because of all that Trump might do. But we don’t know what crises and triumphs will result from elections elsewhere, or what going to the polls might mean for another nation’s rise, even as we contemplate where our country is in the arc of its world significance. We don’t know what the effect will be—demoralizing, unsettling, or inspiring—of month after month of election news. Most of all, in a good many places, we don’t know who is going to win.\_♦"
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         marks:
           -
             type: italic
-        text: 'Published in the print edition of the '
+        text: 'Published in the print edition of '
       -
         type: text
         marks:
@@ -254,9 +256,10 @@ article_text:
         marks:
           -
             type: italic
-        text: ', issue, with the headline “The Big Vote.”'
+        text: ', with the headline “The Big Vote.”'
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
+  - e418c09e-390d-4f38-987d-3a3731bb70b5
 related_content:
   - 741d99a2-6da4-4429-979e-90df32a30949
   - 6dce87aa-d0d3-4ceb-b19a-3a59322fa98e
