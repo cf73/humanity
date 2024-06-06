@@ -1,7 +1,7 @@
 ---
 id: 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
 blueprint: articles
-title: '198 methods of non-violent action for ending war'
+title: '198 non-violent methods for ending war'
 image: image-1713472601.png
 link: 'https://www.aeinstein.org/198-methods-of-nonviolent-action'
 description:
@@ -80,7 +80,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717617799
+updated_at: 1717632518
 article_text:
   -
     type: paragraph
