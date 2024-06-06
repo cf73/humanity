@@ -1,7 +1,7 @@
 ---
 id: 6161f9fc-b922-44da-8c44-f6c1ad2a6a14
 blueprint: articles
-title: 'The remarkable story behind Beethoven’s “Ode to Joy”'
+title: 'The amazing genesis of Beethoven’s “Ode to Joy”'
 author: 'Maria Popova'
 date_published: '2024-05-08'
 link: 'https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/?mc_cid=a8e777fb17&mc_eid=8287507462'
@@ -575,5 +575,5 @@ related_content:
   - f0946d8d-1bf3-476d-8b40-f1f2b7db91c3
   - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717623590
+updated_at: 1717632382
 ---
