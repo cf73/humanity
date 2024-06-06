@@ -2,7 +2,7 @@
 id: ac220561-aa8b-48ce-a11d-d0ee99b3cab4
 blueprint: articles
 collection_type: article
-title: "The Iberá Wetlands: Argentina's answer to Yellowstone"
+title: "Iberá: Argentina's answer to Yellowstone"
 image: p0fn17jk.jpg.webp
 link: 'https://www.bbc.com/travel/article/20230614-the-iber-wetlands-argentinas-answer-to-yellowstone'
 description:
@@ -15,7 +15,7 @@ description:
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717614987
+updated_at: 1717632663
 related_partner_initiatives:
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
 related_content:
