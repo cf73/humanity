@@ -61,8 +61,6 @@ tabs:
             handle: description
             field:
               buttons:
-                - bold
-                - italic
                 - removeformat
               smart_typography: false
               save_html: false
@@ -218,5 +216,13 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
+              validate:
+                - required
+          -
+            handle: date
+            field:
+              type: date
+              required: true
+              default: now
               validate:
                 - required

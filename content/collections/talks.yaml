@@ -1,5 +1,5 @@
 title: Talks
-template: entry
+template: contentTemplates/talks
 layout: layout
 taxonomies:
   - collection_type

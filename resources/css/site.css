@@ -19,16 +19,22 @@
         @apply text-2xl tracking-wide font-medium;
     }
     h5 {
-        
+        @apply font-sans text-2xl prose prose-zinc tracking-wider antialiased;
     }
-    .metaTitle {
-        @apply uppercase font-medium tracking-widest antialiased;
+    a {
+        @apply text-red-400;
+    }
+    .textMeta {
+        @apply uppercase prose prose-zinc font-medium tracking-widest antialiased;
     }
     .textMain {
         @apply font-serif prose prose-zinc mx-auto lg:prose-xl;
     }
     .textSecondary {
         @apply font-serif prose prose-zinc antialiased tracking-wide;
+    }
+    button {
+        @apply font-sans text-2xl prose prose-zinc tracking-wider antialiased border-2 border-current rounded-full px-8 py-2 hover:bg-red-400 inline-block;
     }
 }
 
@@ -105,19 +111,6 @@ strong {
     font-weight: 600;
 }
 
-button {
-    background-color: none;
-    color: black;
-    border-radius: 2em;
-    border: solid thin black;
-    display: inline-block;
-    width: auto;
-    padding: .25rem 2rem;
-    align-self: flex-start;
-    margin-bottom: 1rem;
-    font-family: 'BaskervilleRegular', 'serif';
-    font-size: .75em;
-}
 
 /* SWIPER */
 

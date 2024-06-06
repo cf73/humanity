@@ -27,7 +27,7 @@ export default {
                 'algae2': '#c4d6c6',
                 'algae3': '#fff6e4',
                 'sand': '#ffebbf',
-                'sand2': '#fff5df',
+                'sand2': '#f6eede',
                 
                 'darkpink': 'rgb(168 145 161 / 90%)',
                 'khaki': '#859d44',
