@@ -4,7 +4,7 @@ blueprint: photography_contribution
 title: 'Valley of the Gods'
 photographer_name: 'Tony Balis'
 collection_type: photography-contribution
-photographer_website: www.humanity.org
+photographer_website: www.ourhumanity.org
 image: img_3248-2048x687.jpg
 description:
   -
@@ -17,5 +17,5 @@ challenges:
   - inspiration
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714068369
+updated_at: 1717721929
 ---
