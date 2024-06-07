@@ -11,10 +11,10 @@ description:
     content:
       -
         type: text
-        text: "Jimmy was visiting a school in this northern province of China. His innate skill at achieving images in which the camera is a witness, not a participant, was aided and abetted by his wife for this happy shot. She was standing to Jimmy's left and had just mentioned to the kids how funny her husband looks with his totally bald head. "
+        text: "Jimmy was visiting a school in this northern province of China. His innate skill at achieving images in which the camera is a witness, not a participant, was aided and abetted by his wife for this happy shot. She was standing to Jimmy's left and had just mentioned to all the kids how funny her husband looks with his totally bald head. "
 collection_type: photography-contribution
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714425703
+updated_at: 1717724982
 ---
