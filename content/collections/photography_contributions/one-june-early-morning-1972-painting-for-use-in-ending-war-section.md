@@ -1,7 +1,7 @@
 ---
 id: d7a43560-9be9-426b-b413-e6b9d9276318
 blueprint: photography_contribution
-title: 'One June Early Morning - 1972. (painting)'
+title: 'One June Early Morning - 1972 (painting)'
 photographer_name: 'Guy de Montlaur'
 photographer_website: 'https://www.nationalww2museum.org/media/media-resources/75th-anniversary-d-day-media-resources/memory-what-i-cannot-say-media'
 collection_type: photography-contribution
@@ -28,5 +28,5 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717722064
+updated_at: 1717722082
 ---
