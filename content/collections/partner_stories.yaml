@@ -1,5 +1,5 @@
 title: 'Partner Stories'
-template: partnerstory
+template: contentTemplates/partnerStories
 layout: layout
 taxonomies:
   - challenges
