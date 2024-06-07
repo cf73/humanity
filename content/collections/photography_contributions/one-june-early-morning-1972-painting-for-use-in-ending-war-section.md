@@ -12,7 +12,7 @@ description:
     content:
       -
         type: text
-        text: '“One June Early Morning,” 1972. It was inspired by the Normandy invasion, on June 6, 1944. Credit...The National WWII Museum/Estate of Guy de Montlaur'
+        text: '“One June Early Morning,” 1972. It was inspired by the Normandy invasion, on June 6, 1944. Credit...The National WW II Museum/Estate of Guy de Montlaur'
   -
     type: paragraph
     content:
@@ -28,5 +28,5 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711561061
+updated_at: 1717720935
 ---
