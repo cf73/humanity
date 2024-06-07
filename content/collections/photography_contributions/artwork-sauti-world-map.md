@@ -17,13 +17,10 @@ description:
         marks:
           -
             type: italic
-        text: Sauti/voice.
-  -
-    type: paragraph
-    content:
+        text: 'Sauti/voice ('
       -
         type: text
-        text: 'https://www.sautifilm.org'
+        text: 'https://www.sautifilm.org).'
   -
     type: paragraph
     content:
@@ -50,7 +47,7 @@ description:
         marks:
           -
             type: italic
-        text: '      ~    Charlotte Bassin, Denver, Colorado'
+        text: '      ~    Charlotte Bassin'
   -
     type: paragraph
     content:
@@ -60,5 +57,5 @@ collection_type: photography-contribution
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712595089
+updated_at: 1717721774
 ---
