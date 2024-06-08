@@ -2,7 +2,6 @@
 id: 741cddf8-5aaf-421c-849d-4093cfa50766
 blueprint: articles
 title: 'Democracy needs champions'
-author: 'Heather Cox Richardson'
 date_published: '2023-04-19'
 link: 'https://open.substack.com/pub/heathercoxrichardson/p/april-18-2023?utm_campaign=post&utm_medium=email'
 publication: 'Letters From an American'
@@ -267,6 +266,7 @@ related_partner_initiatives:
 related_content:
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
   - 12d25b96-227c-4eb6-9b38-f298b55533be
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717618388
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717883676
+articleauthor: 'Heather Cox Richardson'
 ---

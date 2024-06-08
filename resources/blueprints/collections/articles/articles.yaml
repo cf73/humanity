@@ -13,12 +13,12 @@ tabs:
               validate:
                 - required
           -
-            handle: author
+            handle: articleauthor
             field:
               input_type: text
               antlers: false
               type: text
-              display: Author
+              display: 'Article Author'
               listable: hidden
               instructions_position: above
               visibility: visible

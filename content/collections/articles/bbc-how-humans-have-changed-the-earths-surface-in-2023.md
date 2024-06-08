@@ -547,9 +547,9 @@ related_partner_initiatives:
 related_content:
   - 48c9aa4d-9d07-4ee1-b57b-0e4804e22f71
   - 6186f811-7d50-4f30-bf66-af4c31a3a525
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717619369
-author: 'Richard Gray'
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717883708
 date_published: '2023-12-27'
 publication: 'BBC Future'
+articleauthor: 'Richard Gray'
 ---

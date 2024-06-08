@@ -2,7 +2,6 @@
 id: 0ac2ceeb-3da0-44c4-921b-3897f491e659
 blueprint: articles
 title: "1,200 possibilities for Earth's future"
-author: 'Chris Mooney, Naema Ahmed and John Muyskens'
 date_published: '2022-12-01'
 link: 'https://www.washingtonpost.com/climate-environment/interactive/2022/global-warming-1-5-celsius-scenarios/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most&carta-url=https%3A%2F%2Fs2.washingtonpost.com'
 image: man-staring-up-at-aurora-1711980417.jpg
@@ -981,7 +980,8 @@ related_partner_initiatives:
 related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
   - 99622b57-8aa7-48d6-8d11-c5de8b413a24
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717632464
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717883641
 publication: 'The Washington Post'
+articleauthor: 'Chris Mooney, Naema Ahmed and John Muyskens'
 ---
