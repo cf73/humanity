@@ -80,8 +80,8 @@
 }
 @font-face {
     font-family: 'RaporSemibold';
-    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Semibold.woff2') format('woff2'),
-         url('/public/assets/fonts/RAPORWOFF/Rapor-Semibold.woff') format('woff');
+    src: url('/public/assets/fonts/RAPORWOFF2/Semibold.woff2') format('woff2'),
+         url('/public/assets/fonts/RAPORWOFF/Semibold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
