@@ -34,7 +34,7 @@
         @apply font-serif prose prose-zinc antialiased tracking-wide;
     }
     button {
-        @apply font-sans text-2xl prose prose-zinc tracking-wider antialiased border-2 border-current rounded-full px-8 py-2 hover:bg-red-400 inline-block;
+        @apply font-sans text-2xl prose prose-zinc tracking-wider antialiased border-2 border-current rounded-full px-8 py-2 hover:bg-red-400 w-fit;
     }
 }
 
@@ -124,11 +124,11 @@ strong {
 }
 .image-swiper-button-next {
   background-image: url('/public/assets/icons/next.svg');
-  left: 8em;
+
 }
 .image-swiper-button-next_white {
     background-image: url('/public/assets/icons/next-wetwhite.svg');
-    left: 8em;
+
   }
 .image-swiper-button-prev {
   background-image: url('/public/assets/icons/next.svg');
@@ -137,3 +137,9 @@ strong {
 .swiper-button-disabled {
     opacity: .3;
 }
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+ 

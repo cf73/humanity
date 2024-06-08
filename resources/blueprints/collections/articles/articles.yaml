@@ -233,9 +233,9 @@ tabs:
                 - articles
                 - books
                 - commencement_speeches
-                - partner_stories
                 - talks
                 - poetry_contributions
+                - partner_stories
               type: entries
               display: 'Related Content'
               instructions: 'Other content from THI that relates to this piece, allowing visitors to follow their own path.'

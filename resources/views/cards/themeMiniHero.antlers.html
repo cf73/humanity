@@ -1,0 +1,20 @@
+<div class="container mx-auto flex flex-row gap-8">
+    {{challenges}}
+    <div class="w-full bg-repeat-norepeat bg-cover bg-center flex flex-col items-center p-20 bg-red-300 rounded" style="background-image: url('{{main_image}}');">
+      <h2 class="text-center">{{title_text}}</h2>
+      <h5 class="text-center">{{intro_text}}</h5>
+      <img src="{{main_image:image}}" width="100%" alt="">
+      <div class="textMain text-center my-8">
+          <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></div>
+          <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></div>
+          <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=commencement-speech">{{collection:commencement_speeches challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</a></div>
+          <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=documentaries">{{collection:documentaries challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:documentaries}} Documentaries</a></div>
+          <!-- <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=partner-initiative">{{collection:partner_initiatives challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Partner Initiatives</a></div> -->
+          <!-- <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=partner-story">{{collection:partner_stories challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:partner_stories}} Partner Stories</a></div> -->
+          <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></div>
+          <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
+      </div>
+      <button>View all content</button>
+    </div>
+    {{/challenges}}
+  </div>

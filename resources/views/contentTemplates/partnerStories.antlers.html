@@ -1,10 +1,11 @@
 <div class="px-16 py-8 w-2/3 mx-auto mt-20 space-y-8 text-center">
+    <img src="{{partner:logo}}" class="mx-auto" width="100px" alt="{{partner:title}}">
     <h1>{{title}}</h1>
     <h3>{{description}}</h3>
 </div>
 
 <!-- image -->
-<div class="w-full h-[80vh] bg-no-repeat bg-cover bg-center mt-20" style="background-image: url({{image}});"></div>
+<img src="{{image}}" width="auto" class="mx-auto" alt="">
 
 <article class="w-2/3 mx-auto">
     <!-- top area -->
@@ -27,13 +28,13 @@
             </div>
         </div>
 
-        <div class="textMain">{{article_text}}</div>
-        
+        <div class="textMain">{{story_text}}</div>
+        <a class="mx-auto" href="{{link}}" target="_blank"><button>Read more on {{publication}}</button></a>
     </div>
 </article>
 
 {{partial:contentTemplates/relatedContent}}
 
-
+{{partial:exploreMore}}
 
 {{partial:cards/themeMiniHero}}

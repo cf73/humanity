@@ -1,3 +1,4 @@
+{{scope:contentEntry}}
 <div class="container mx-auto flex flex-col items-center space-y-8 pt-48 relative">
     <div class="text-center flex flex-col items-center">
         <h1>{{title}}</h1>
@@ -28,4 +29,24 @@
     <div class="textMain pt-8">{{transcript}}</div>
 </div>
 
-{{partial:exploreMore}}
+<!-- Explore more -->
+<div class="py-16 space-y-8 flex flex-col items-center bg-algae mt-20">
+    <h3>Explore more {{collection_type:title}}...</h3>
+    <div class="swiper exploreMoreSwiper">
+        <div class="flex flex-row justify-end space-x-2 relative -left-1 mt-[40px] mb-8 mr-8 swiper-pagination">
+            <div class="image-swiper-button-prev"></div>
+            <div class="image-swiper-button-next"></div>
+        </div>
+        <div class="swiper-wrapper">
+            {{collection:commencement_speeches}}
+                <div class="swiper-slide" style="height: auto !important;">
+                    {{partial:cards/card showCollectionType="no"}}
+                </div>
+            {{/collection:commencement_speeches}}
+        </div>
+    </div>
+</div>
+
+{{partial:cards/themeMiniHero}}
+
+{{/scope:contentEntry}}

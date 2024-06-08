@@ -13,7 +13,21 @@ tabs:
               validate:
                 - required
           -
-            handle: date
+            handle: author
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Author
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: date_published
             field:
               mode: single
               inline: false
@@ -23,14 +37,37 @@ tabs:
               time_enabled: false
               time_seconds_enabled: false
               type: date
-              display: Date
+              display: 'Date Published'
               listable: hidden
               instructions_position: above
               visibility: visible
               replicator_preview: true
               hide_display: false
-              validate:
-                - required
+          -
+            handle: link
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: URL
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: publication
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Publication
+              instructions: 'The NAME of the original source of the article, NOT the URL.'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
           -
             handle: image
             field:
@@ -51,13 +88,22 @@ tabs:
               validate:
                 - required
           -
+            handle: link
+            field:
+              antlers: false
+              type: textarea
+              display: Link
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
             handle: description
             field:
               buttons:
-                - bold
-                - italic
-                - unorderedlist
-                - orderedlist
                 - removeformat
               smart_typography: false
               save_html: false
@@ -78,7 +124,7 @@ tabs:
               collapse: false
               previews: true
               type: bard
-              display: Description
+              display: 'Short Description'
               listable: hidden
               instructions_position: above
               visibility: visible
@@ -86,12 +132,38 @@ tabs:
               hide_display: false
               validate:
                 - required
+              character_limit: 600
           -
-            handle: link
+            handle: story_text
             field:
+              buttons:
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - removeformat
+                - anchor
+                - image
+              smart_typography: false
+              save_html: false
+              inline: false
+              toolbar_mode: fixed
+              reading_time: false
+              word_count: false
+              fullscreen: true
+              allow_source: true
+              enable_input_rules: true
+              enable_paste_rules: true
+              remove_empty_nodes: false
               antlers: false
-              type: textarea
-              display: Link
+              link_noopener: false
+              link_noreferrer: false
+              target_blank: false
+              always_show_set_button: false
+              collapse: false
+              previews: true
+              type: bard
+              display: 'Story text'
               listable: hidden
               instructions_position: above
               visibility: visible
