@@ -108,7 +108,7 @@ description:
     content:
       -
         type: text
-        text: "Official biographies capture only the facts, ma'm; they so often hardly touch the surface of someone's soul, depth, or, as in the case of Linus Pauling, his incredible contributions to humanity. But you can find much of that in this video..."
+        text: "Official biographies capture only the facts, ma'm; they hardly touch the surface of someone's soul, depth, or, as in the case of Linus Pauling, his incredible contributions to humanity. But you can begin to find much of his magnificent life and attitude in this video..."
 collection_type: documentaries
 challenges:
   - war
@@ -119,5 +119,5 @@ related_partner_initiatives:
 related_content:
   - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717863122
+updated_at: 1717863887
 ---
