@@ -10,7 +10,7 @@
         @apply font-thin prose prose-zinc leading-tight tracking-wide antialiased text-6xl;
     }
     h2 {
-        @apply text-5xl tracking-wide font-semibold prose prose-zinc mb-4 antialiased
+        @apply text-5xl tracking-wide font-bold prose prose-zinc mb-4 antialiased
     }
     h3 {
         @apply text-3xl tracking-wide font-medium prose prose-zinc subpixel-antialiased;
