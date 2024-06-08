@@ -21,13 +21,19 @@ description:
         text: ' '
       -
         type: text
-        text: 'This 2021 Australian film does just that, with awesome beauty and wisdom.'
+        text: 'This 2021 Australian film does just that, with awesome beauty and quiet wisdom.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "It is an exploration of the timeless relationship between human civilization and Earth's rivers. Spanning six continents, this visual and musical tour-de-force is by turns celebratory, cautionary, and ultimately hopeful that we are beginning to understand rivers in all their complexity and fragility. Narrated by Oscar Nominee Willem Dafoe. With music by the Australian Chamber Orchestra and Radiohead."
+        text: "It is an exploration of the timeless relationship between human civilization and Earth's rivers. Spanning six continents, this visual and musical tour-de-force is by turns celebratory, cautionary, and ultimately hopeful that we are beginning to understand rivers in all their complexity and fragility. "
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Narrated by Oscar Nominee Willem Dafoe. With music by the Australian Chamber Orchestra and Radiohead.'
 collection_type: documentaries
 challenges:
   - climate
@@ -36,5 +42,5 @@ related_partner_initiatives:
 related_content:
   - 6186f811-7d50-4f30-bf66-af4c31a3a525
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1716820293
+updated_at: 1717863191
 ---
