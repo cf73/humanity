@@ -14,8 +14,8 @@ description:
         text: 'Three decades ago, Iberá (which means "shining waters" in the indigenous Guaraní language) was a degraded backwater that was virtually unknown outside Argentina. Years of commercial foresting, illegal hunting and cattle ranching had taken a toll on the land and thrown the ecosystem off balance. Today, thanks to a transformational rewilding initiative, it has become one of South America''s premier wildlife-watching destinations.'
 challenges:
   - climate
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717632663
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717883733
 related_partner_initiatives:
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
 related_content:
@@ -383,7 +383,7 @@ article_text:
       -
         type: text
         text: '-----'
-author: 'Daniel Allen'
 date_published: '2023-06-15'
 publication: 'BBC Travel'
+articleauthor: 'Daniel Allen'
 ---

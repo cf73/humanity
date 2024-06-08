@@ -2,7 +2,6 @@
 id: e1391e3d-01ec-49eb-bb17-b1bda88e5129
 blueprint: articles
 title: 'Human violence dramatically increases carbon'
-author: 'Nina Lakhani, climate justice reporter'
 date_published: '2024-01-09'
 link: 'https://www.theguardian.com/world/2024/jan/09/emissions-gaza-israel-hamas-war-climate-change?CMP=oth_b-aplnews_d-1'
 publication: 'The Guardian'
@@ -583,6 +582,7 @@ related_content:
   - 6dce87aa-d0d3-4ceb-b19a-3a59322fa98e
   - b6267639-94e6-40a5-8471-d1dc63559112
   - f74e61ed-bc0b-412d-8cbf-8d635097efe8
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717619912
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717883725
+articleauthor: 'Nina Lakhani, climate justice reporter'
 ---

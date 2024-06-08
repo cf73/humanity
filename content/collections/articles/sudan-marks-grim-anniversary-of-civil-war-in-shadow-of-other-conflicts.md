@@ -2,7 +2,6 @@
 id: 2b7a011d-4794-44d8-a8fe-388d925553d6
 blueprint: articles
 title: 'Sudan marks grim anniversary of civil war'
-author: 'Ishaan Tharoor, Washington Post'
 date_published: '2024-04-15'
 link: 'https://s2.washingtonpost.com/camp-rw/?trackId=5a3aa40bade4e25c8f8dfb67&s=661ca773d1cd185a0c665c52&linknum=2&linktot=71'
 publication: 'Washington Post'
@@ -363,6 +362,7 @@ related_content:
   - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
   - 7e00de5e-d35e-4430-a7bf-fc16eecb030a
   - d94c4a1a-f5be-410b-bb1c-7e74967f4226
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717632415
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717883739
+articleauthor: 'Ishaan Tharoor, Washington Post'
 ---

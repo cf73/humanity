@@ -14,8 +14,8 @@ description:
         text: 'Here, throughout 2024, is democracy in action, in all its worldwide variations and built-in unpredictability...'
 challenges:
   - democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717615850
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717883755
 article_text:
   -
     type: paragraph
@@ -264,9 +264,9 @@ related_content:
   - 741d99a2-6da4-4429-979e-90df32a30949
   - 6dce87aa-d0d3-4ceb-b19a-3a59322fa98e
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
-author: 'Amy Davidson Sorkin'
 publication: 'The New Yorker'
 date_published: '2024-01-07'
+articleauthor: 'Amy Davidson Sorkin'
 content:
   -
     type: paragraph

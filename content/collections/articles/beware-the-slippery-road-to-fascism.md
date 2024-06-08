@@ -2,7 +2,6 @@
 id: 316cef6f-bed8-4917-8527-20c95d947ddb
 blueprint: articles
 title: 'Beware the slippery road to fascism.'
-author: 'Shashi Tharoor'
 date_published: '2023-06-01'
 link: 'https://english.mathrubhumi.com/columns/i-mean-what-i-say/beware-the-slippery-road-to-fascism-shashi-tharoor-column-1.8605703'
 publication: mathrubhumi.com
@@ -45,6 +44,7 @@ related_content:
   - 51726be6-7905-46a5-b6aa-c62d0c96eec7
   - 741cddf8-5aaf-421c-849d-4093cfa50766
   - f9f4f112-845f-467c-900e-c064fb540f9b
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717617543
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717883654
+articleauthor: 'Shashi Tharoor'
 ---

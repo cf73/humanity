@@ -71,9 +71,8 @@ related_content:
   - 741d99a2-6da4-4429-979e-90df32a30949
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - 8a6167d1-d897-4c80-a069-cb77667b2353
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717623788
-author: 'Tony Balis'
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717883768
 date_published: '1992-07-24'
 publication: 'The Humanity Initiative'
 description:
@@ -83,4 +82,5 @@ description:
       -
         type: text
         text: 'Tony Balis, founder of The Humanity Initiative (in 1984), offers some perspective on rescuing our humanity. '
+articleauthor: 'Tony Balis'
 ---

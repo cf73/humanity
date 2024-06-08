@@ -78,10 +78,10 @@ related_content:
   - 2fee77f1-f8b6-466d-8c94-25ad7c372778
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
   - 91d3f85d-1560-4132-940f-029c9e3fabfe
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717622029
-author: 'BBC.com; history.com; one.org.'
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717883794
 date_published: '2023-03-07'
 link: 'https://www.bbc.co.uk/newsround/428 72803,    https://www.one.org/us/stories/womens-history-list/,  https://www.history.com/news/bold-women-who-changed-the-world.'
 publication: 'Amazing women who have changed the world'
+articleauthor: 'BBC.com; history.com; one.org'
 ---
