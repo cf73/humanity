@@ -12,7 +12,103 @@ description:
     content:
       -
         type: text
-        text: mmm
+        marks:
+          -
+            type: bold
+        text: '"Linus Pauling'
+      -
+        type: text
+        text: ' (born February 28, 1901, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.britannica.com/place/Portland-Oregon'
+              rel: null
+              target: null
+              title: null
+        text: Portland
+      -
+        type: text
+        text: ', '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.britannica.com/place/Oregon-state'
+              rel: null
+              target: null
+              title: null
+        text: Oregon
+      -
+        type: text
+        text: ', U.S.—died August 19, 1994, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.britannica.com/place/Big-Sur-region-California'
+              rel: null
+              target: null
+              title: null
+        text: 'Big Sur'
+      -
+        type: text
+        text: ', California) was an American '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.britannica.com/dictionary/theoretical'
+              rel: null
+              target: null
+              title: null
+        text: theoretical
+      -
+        type: text
+        text: ' physical chemist who became the only person to have won two unshared '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.britannica.com/topic/Nobel-Prize'
+              rel: null
+              target: null
+              title: null
+        text: 'Nobel Prize'
+      -
+        type: text
+        text: 's. His first prize (1954) was awarded for research into the nature of the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.britannica.com/science/chemical-bonding'
+              rel: null
+              target: null
+              title: null
+        text: 'chemical bond'
+      -
+        type: text
+        text: ' and its use in elucidating molecular structure; his second (1962) recognized his efforts to ban the testing of nuclear weapons."   (from Britannica)'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Official biographies capture only the facts, ma'm; they so often hardly touch the surface of someone's soul, depth, or, as in the case of Linus Pauling, his incredible contributions to humanity. But you can find much of that in this video..."
 collection_type: documentaries
 challenges:
   - war
@@ -23,5 +119,5 @@ related_partner_initiatives:
 related_content:
   - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717862669
+updated_at: 1717863122
 ---
