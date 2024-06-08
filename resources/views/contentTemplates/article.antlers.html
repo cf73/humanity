@@ -13,26 +13,27 @@
         <!-- article metadata  -->
         <div class="space-y-2 flex flex-col prose prose-zinc text-center mx-auto">
             <div id="author">
-                <span class="metaTitle">Author: </span>
+                <span class="textMeta">Author: </span>
                 <span class="textSecondary">{{author}}</span>
             </div>
             <div id="date">
-                <span class="metaTitle">Date Published: </span>
+                <span class="textMeta">Date Published: </span>
                 <span class="textSecondary">{{date_published}}</span>
             </div>
 
             <div id="location">
-                <span class="metaTitle">Originally published on: </span>
+                <span class="textMeta">Originally published on: </span>
                 <span class="textSecondary"><a href="{{link}}" target="_blank">{{publication}}</a></span>
             </div>
         </div>
 
         <div class="textMain">{{article_text}}</div>
+        
     </div>
 </article>
 
 {{partial:contentTemplates/relatedContent}}
 
-{{partial:exploreMore}}
+
 
 {{partial:cards/themeMiniHero}}

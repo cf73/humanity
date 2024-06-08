@@ -1,16 +1,16 @@
 <div class="py-16 space-y-8 flex flex-col items-center bg-algae mt-20">
-    <h3>Explore more {{collection_type:title}}...</h3>
-    <div class="exploreMoreSwiper">
-        <div class="flex flex-row justify-end space-x-2 relative -left-1 take-action-now opacity-0 mt-[40px]">
+    <h3>Explore more in {{collection_type:title}}...</h3>
+    <div class="swiper exploreMoreSwiper">
+        <div class="flex flex-row justify-end space-x-2 relative -left-1 mt-[40px] swiper-pagination">
             <div class="image-swiper-button-prev"></div>
             <div class="image-swiper-button-next"></div>
         </div>
         <div class="swiper-wrapper">
-            {{collection:commencement_speeches}}
+            {{collection:{collection_type:slug}s}}
                 <div class="swiper-slide" style="height: auto !important;">
                     {{partial:cards/card}}
                 </div>
-            {{/collection:commencement_speeches}}
+            {{/collection:{collection_type:slug}s}}
         </div>
     </div>
 </div>
