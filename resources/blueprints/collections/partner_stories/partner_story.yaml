@@ -46,15 +46,16 @@ tabs:
           -
             handle: link
             field:
-              input_type: text
               antlers: false
-              type: text
-              display: URL
+              type: textarea
+              display: Link
               listable: hidden
               instructions_position: above
               visibility: visible
               replicator_preview: true
               hide_display: false
+              validate:
+                - required
           -
             handle: publication
             field:
@@ -88,22 +89,11 @@ tabs:
               validate:
                 - required
           -
-            handle: link
-            field:
-              antlers: false
-              type: textarea
-              display: Link
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
-              validate:
-                - required
-          -
             handle: description
             field:
               buttons:
+                - bold
+                - italic
                 - removeformat
               smart_typography: false
               save_html: false
@@ -228,5 +218,13 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
+              validate:
+                - required
+          -
+            handle: date
+            field:
+              type: date
+              required: true
+              default: now
               validate:
                 - required

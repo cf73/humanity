@@ -91,6 +91,8 @@ tabs:
             handle: description
             field:
               buttons:
+                - bold
+                - italic
                 - removeformat
               smart_typography: false
               save_html: false
@@ -214,7 +216,7 @@ tabs:
           -
             handle: related_content
             field:
-              max_items: 5
+              max_items: 10
               mode: select
               create: false
               collections:

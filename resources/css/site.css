@@ -15,6 +15,9 @@
     h3 {
         @apply text-3xl tracking-wide font-medium prose prose-zinc subpixel-antialiased;
     }
+    h6 {
+        @apply text-2xl tracking-wide font-serif leading-normal prose prose-zinc subpixel-antialiased;
+    }
     h4 {
         @apply text-2xl tracking-wide font-medium;
     }

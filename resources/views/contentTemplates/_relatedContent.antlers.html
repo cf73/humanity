@@ -1,14 +1,21 @@
 {{if related_content}}
-<aside class="container mx-auto">
-    <!-- related content -->
-    <div data-speed="1.2" class="space-y-8">
-        <div class="textMeta mx-auto text-center">Related Content</div>
-        <div class="grid grid-cols-2 gap-16">
-                {{related_content}}
-                <div class="mb-8"><a href="{{url}}">{{ partial:cards/card }}</a></div>
-                {{/related_content}}
+<div class="pt-16 pb-24 pl-16 mb-20 space-y-8 flex flex-col bg-algae mt-20">
+    <div class="swiper relatedContentSwiper">
+        <div class="flex flex-row items-center justify-between w-full mb-8">
+            <h1>You might also be interested in...</h1>
+            <div class="flex flex-row justify-end space-x-2 relative -left-1 mt-[40px] mb-8 mr-8 swiper-pagination">
+                <div class="image-swiper-button-prev"></div>
+                <div class="image-swiper-button-next"></div>
+            </div>
         </div>
 
+        <div class="swiper-wrapper">
+            {{related_content | shuffle}}
+                <div class="swiper-slide" style="height: auto !important;">
+                    {{partial:cards/card}}
+                </div>
+            {{/related_content}}
+        </div>
     </div>
-</aside>
+</div>
 {{/if}}
