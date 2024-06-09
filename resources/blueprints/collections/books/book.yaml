@@ -27,18 +27,6 @@ tabs:
               validate:
                 - required
           -
-            handle: author
-            field:
-              input_type: text
-              antlers: false
-              type: text
-              display: Author
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
-          -
             handle: date_published
             field:
               mode: single
