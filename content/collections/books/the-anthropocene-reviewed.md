@@ -4,7 +4,7 @@ blueprint: book
 title: 'The Anthropocene Reviewed  (2021)'
 date_published: '2021-05-18'
 link: 'https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed?from_choice=true'
-image: image-1715872603.jpeg
+image: thanthropocenereviewed.jpeg
 description:
   -
     type: paragraph
@@ -66,6 +66,6 @@ related_content:
   - 1c000538-36cf-4ba4-b129-f70a7a8ba51b
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717959279
+updated_at: 1717961872
 book_author: 'John Green'
 ---
