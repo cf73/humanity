@@ -2,7 +2,7 @@
 id: 624887a3-6175-410f-a842-95a1b502dd20
 blueprint: articles
 title: 'The illusion of a trillion trees'
-articleauthor: 'Alexandra Heal'
+articleauthor: 'Alexandra Heal, The Financial Times'
 date_published: '2023-04-23'
 link: 'https://ig.ft.com/one-trillion-trees/?emailId=54f742b1-147d-41f1-9bd4-b01b9ef83b76&segmentId=13b7e341-ed02-2b53-e8c0-d9cb59be8b3b'
 publication: 'The Financial Times'
@@ -13,7 +13,7 @@ description:
     content:
       -
         type: text
-        text: 'This is a spectacularly well researched and presented investigation into the goal of corporations planting a trillion trees, no less!'
+        text: 'This is a spectacularly well researched and presented investigation into the stated goal of corporations to plant a trillion trees  --  no less!'
 article_text:
   -
     type: paragraph
@@ -1343,5 +1343,5 @@ related_content:
   - 8c206ac9-1b59-49e5-9e1d-6454a86204c5
   - 239a38c6-1348-452c-b8d1-8136b4dd3c89
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717948548
+updated_at: 1717952003
 ---
