@@ -13,6 +13,20 @@ tabs:
               validate:
                 - required
           -
+            handle: book_author
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Book Author'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
             handle: author
             field:
               input_type: text
@@ -24,8 +38,6 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
-              validate:
-                - required
           -
             handle: date_published
             field:
@@ -175,7 +187,7 @@ tabs:
           -
             handle: related_content
             field:
-              max_items: 5
+              max_items: 10
               mode: select
               create: false
               collections:

@@ -2,7 +2,6 @@
 id: c7c991b5-9dde-4365-9c58-41d73dfee6cb
 blueprint: book
 title: "The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics  (2011)"
-author: 'Bruce Bueno de Mesquita and Alastair Smith'
 image: image-1707921200.png
 description:
   -
@@ -25,13 +24,7 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: W
-      -
-        type: text
-        text: 'hen I watched a '
+        text: 'When I watched a '
       -
         type: text
         marks:
@@ -208,9 +201,21 @@ description:
         text: 'There are two problems. First, the book is underpinned by the notion that politicians are self-interested rational actors whose choices are fixed and predictable. Economists used to think the same about consumers but behavioural science proved them wrong. Second, though students of politics, the authors assume the affectations of scientists and, in the cause of "impartiality", create a work of such galactic cynicism that it made me flinch on more than one occasion. "When addressing politics," they state, "we must accustom ourselves to think about the actions and interests of specific leaders rather than thinking and talking about fuzzy ideas like the national interest, the common good, and the general welfare."'
   -
     type: paragraph
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707921236
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717959504
 collection_type: book
 challenges:
   - democracy
+book_author: 'Bruce Bueno de Mesquita and Alastair Smith'
+date_published: '2012-07-31'
+link: 'https://www.amazon.com/Dictators-Handbook-Behavior-Almost-Politics/dp/1610391845'
+related_partner_initiatives:
+  - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
+related_content:
+  - 316cef6f-bed8-4917-8527-20c95d947ddb
+  - 741cddf8-5aaf-421c-849d-4093cfa50766
+  - f9f4f112-845f-467c-900e-c064fb540f9b
+  - eda9251c-69f9-4ae7-aa71-af6fa93e1920
+  - 2146f352-fcfe-4029-a2f5-40c160800c23
+  - 92a684c9-ec52-4217-812f-186112d01ac0
 ---

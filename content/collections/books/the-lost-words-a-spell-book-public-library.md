@@ -1,8 +1,7 @@
 ---
 id: 9ecc06b8-0849-409a-8bd5-e6f6c0805014
 blueprint: book
-title: 'The Lost Words: A Spell Book (2017)'
-author: 'Robert Macfarlane'
+title: 'The Lost Words'
 image: image-1709142270.png
 collection_type: book
 description:
@@ -137,10 +136,13 @@ description:
 challenges:
   - kids
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1710395107
+updated_at: 1717959647
 related_partner_initiatives:
   - f80aa9dd-80ba-474c-acaa-cc772f395ca7
 related_content:
   - 9f745ca2-f7b3-4cdb-b90d-d53a51262b7e
   - 33d5bca9-594d-474a-a22f-acca11802672
+book_author: 'Robert Macfarlane'
+date_published: '2018-10-02'
+link: 'https://www.amazon.com/Lost-Words-Robert-Macfarlane/dp/1487005385'
 ---

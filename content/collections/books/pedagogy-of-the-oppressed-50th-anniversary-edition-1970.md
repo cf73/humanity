@@ -2,7 +2,6 @@
 id: c8ac07dc-80e2-45b7-b423-7c566a266555
 blueprint: book
 title: 'Pedagogy of the Oppressed: 50th Anniversary Edition  (1970)'
-author: 'Paulo Freire'
 date_published: '1968-05-15'
 link: 'https://www.amazon.com/Pedagogy-Oppressed-Anniversary-Paulo-Freire-dp-1501314130/dp/1501314130/ref=dp_ob_title_bk'
 image: image-1716238891.jpeg
@@ -60,6 +59,7 @@ related_content:
   - 69de13ef-fc4b-4ae8-98f6-78f51af2e03f
   - b2ff7ad9-8bbe-4d9c-84b8-f2bd8b6ae601
   - e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1716238918
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717958579
+book_author: 'Paulo Freire'
 ---
