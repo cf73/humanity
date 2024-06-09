@@ -2,7 +2,6 @@
 id: 5c7b32fd-778b-47fe-be6d-1cb2a4b433e1
 blueprint: book
 title: 'Sapiens  (2011)'
-author: 'Yuval Noah Harari'
 image: image-1707921623.png
 description:
   -
@@ -33,7 +32,16 @@ challenges:
   - war
   - democracy
   - climate
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1707921696
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717958979
 collection_type: book
+book_author: 'Yuval Noah Harari'
+date_published: '2015-02-10'
+link: 'https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095'
+related_partner_initiatives:
+  - 8e78665e-26d1-400e-8f6f-2391b9bfec84
+  - 5b08c208-5356-4878-b3be-a9b91e1f383c
+related_content:
+  - c4e39c58-982d-4ffa-8cd0-16689135f9c7
+  - 20f17fae-af70-4c0a-b474-b9a75f95c1b8
 ---

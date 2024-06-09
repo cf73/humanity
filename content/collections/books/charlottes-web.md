@@ -2,7 +2,6 @@
 id: edff29da-96b0-4f4a-a60b-2d774fe2103f
 blueprint: book
 title: "Charlotte's Web  (1952)"
-author: 'E. B. White'
 image: image-1707925993.png
 description:
   -
@@ -44,8 +43,8 @@ description:
         type: hardBreak
 challenges:
   - inspiration
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714255908
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717958377
 collection_type: book
 date_published: '1952-01-20'
 link: 'https://www.goodreads.com/book/show/24178.Charlotte_s_Web?from_search=true&from_srp=true&qid=nuNaCm5N4C&rank=1'
@@ -58,4 +57,5 @@ related_content:
   - cc16a060-6b0e-4fb8-86e6-82941952e7eb
   - 91d3f85d-1560-4132-940f-029c9e3fabfe
   - 12d25b96-227c-4eb6-9b38-f298b55533be
+book_author: 'E. B. White'
 ---

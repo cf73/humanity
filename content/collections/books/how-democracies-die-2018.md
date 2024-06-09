@@ -2,7 +2,6 @@
 id: bd8e76be-8769-4deb-94d4-3345b5477b38
 blueprint: book
 title: 'How Democracies Die  (2018)'
-author: 'Steven Levitsky and Daniel Ziblatt'
 image: image-1710454145.jpeg
 link: 'https://www.goodreads.com/book/show/35356384-how-democracies-die?from_search=true&from_srp=true&qid=bTpHyDSxhS&rank=1'
 description:
@@ -34,7 +33,8 @@ related_partner_initiatives:
   - e418c09e-390d-4f38-987d-3a3731bb70b5
 related_content:
   - a92555a1-da6e-4db9-9054-ca26749a9664
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714256339
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717958452
 date_published: '2018-04-15'
+book_author: 'Steven Levitsky and Daniel Ziblatt'
 ---

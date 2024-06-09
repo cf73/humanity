@@ -2,7 +2,6 @@
 id: ed9cb6f6-8d38-4b46-a0fc-dcc9583f1375
 blueprint: book
 title: 'Chimpanzee Politics: Power and Sex among Apes   (1982)'
-author: 'Frans de Waal'
 image: image-1707921380.png
 collection_type: book
 description:
@@ -26,12 +25,13 @@ description:
         text: '(Goodreads review)'
 challenges:
   - democracy
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713035981
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717958389
 date_published: '1982-01-01'
 link: 'https://openlibrary.org/books/OL22549738M/Chimpanzee_politics#:~:text=Chimpanzee%20Politics%3A%20Power%20and%20Sex%20among%20Apes%20August,Paperback%20in%20English%20-%2025th%20anniversary%20edition%20edition'
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
 related_content:
   - 88759a51-a4d2-4521-bb58-457a631cf773
+book_author: 'Frans de Waal'
 ---

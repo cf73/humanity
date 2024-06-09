@@ -2,7 +2,6 @@
 id: ce171524-edce-436f-873d-6a863c83f1e6
 blueprint: book
 title: 'The Wind in the Willows  (1908)'
-author: 'Kenneth Grahame'
 image: r.837a0a7653b8c70a5adf03c6c5cc71d2.jpeg
 description:
   -
@@ -106,8 +105,8 @@ description:
     type: paragraph
 challenges:
   - kids
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714255350
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1717960204
 collection_type: book
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
@@ -115,4 +114,5 @@ related_content:
   - 6d28b288-2ed8-4983-a206-c1a19b3c1219
 date_published: '1908-01-01'
 link: 'https://www.goodreads.com/book/show/5659.The_Wind_in_the_Willows?from_search=true&from_srp=true&qid=atxBSLiaZ1&rank=1'
+book_author: 'Kenneth Grahame'
 ---
