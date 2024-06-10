@@ -1,7 +1,7 @@
 ---
 id: 018aee1d-ee9a-4aac-a87f-499d4c6fb333
 blueprint: book
-title: "CHILDREN'S BOOKS"
+title: "CHILDREN'S LITERATURE"
 image: image-1711921094.jpeg
 collection_type: book
 description:
@@ -823,8 +823,8 @@ challenges:
   - war
   - kids
   - inspiration
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717958383
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718059664
 related_partner_initiatives:
   - e418c09e-390d-4f38-987d-3a3731bb70b5
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
