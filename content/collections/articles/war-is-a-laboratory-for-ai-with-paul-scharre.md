@@ -1,11 +1,11 @@
 ---
 id: eebc7242-03b7-4253-8e9d-167b64ba84f4
 blueprint: articles
-title: 'War is a Laboratory for AI with Paul Scharre'
-articleauthor: 'Tristan Harris'
+title: 'War is a Laboratory for AI, with Paul Scharre'
+articleauthor: 'Tristan Harris, Center for Humane Technology'
 date_published: '2024-05-23'
 link: 'https://cdn.prod.website-files.com/5f0e1294f002b1bb26e1f304/6650e1ba108dd84c5045dc7e_89-your-undivided-attention-paul-scharre-transcript.docx.pdf'
-publication: 'Center for Humane Technology | Your Undivided Attention podcast'
+publication: 'Center for Humane Technology "Your Undivided Attention" podcast'
 image: image-1717984971.png
 description:
   -
@@ -19,7 +19,7 @@ description:
     content:
       -
         type: text
-        text: "A few weeks earlier, the Soviets had shot down a South Korean passenger jet that headed straight into its airspace. One day in September, the computers in Petrov's Bunker went on high alert. Five intercontinental ballistic missiles were headed straight towards the USSR."
+        text: "A few weeks earlier, the Soviets had shot down a South Korean passenger jet that headed straight into its airspace. One day in September, the computers in Petrov's Bunker went on high alert. Five intercontinental ballistic missiles were headed straight towards the USSR..."
 article_text:
   -
     type: paragraph
@@ -1616,5 +1616,5 @@ related_content:
   - eda9251c-69f9-4ae7-aa71-af6fa93e1920
   - 8f01cbfc-48f8-4156-acd7-03bef3acce9f
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717984989
+updated_at: 1717985137
 ---
