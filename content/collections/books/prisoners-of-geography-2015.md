@@ -1,7 +1,7 @@
 ---
 id: 48c9aa4d-9d07-4ee1-b57b-0e4804e22f71
 blueprint: book
-title: 'Prisoners of Geography (2015)'
+title: 'Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics (2015)'
 image: image-1707922166.jpeg
 description:
   -
@@ -9,11 +9,67 @@ description:
     content:
       -
         type: text
-        text: 'Review here'
+        text: 'Goodreads review:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In the bestselling tradition of '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Why Nations Fail'
+      -
+        type: text
+        text: ' and '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Revenge of Geography'
+      -
+        type: text
+        text: ', an award-winning journalist uses ten maps of crucial regions to explain the geo-political strategies of the world powers.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'All leaders of nations are constrained by geography. Their choices are limited by mountains, rivers, seas, and concrete. To understand world events, news organizations and other authorities often focus on people, ideas, and political movements, but without geography, we never have the full picture. Now, in the relevant and timely '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Prisoners of Geography'
+      -
+        type: text
+        text: ', seasoned journalist Tim Marshall examines Russia, China, the USA, Latin America, the Middle East, Africa, Europe, Japan and Korea, and Greenland and the Arctic—their weather, seas, mountains, rivers, deserts, and borders—to provide a context often missing from our political reportage: how the physical characteristics of these countries affect their strengths and vulnerabilities and the decisions made by their leaders.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'In ten, up-to-date maps of each region, Marshall explains in clear and engaging prose the complex geo-political strategies of these key parts of the globe. What does it mean that Russia must have a navy, but also has frozen ports six months a year? How does this affect Putin’s treatment of Ukraine? How is China’s future constrained by its geography? Why will Europe never be united? Why will America never be invaded? Shining a light on the unavoidable physical realities that shape all of our aspirations and endeavors, '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Prisoners of Geography'
+      -
+        type: text
+        text: ' is the critical guide to one of the major (and most often overlooked) determining factors in world history.'
 challenges:
   - war
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717958853
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718060564
 collection_type: book
 book_author: 'Tim Marshall'
 date_published: '2016-10-11'
