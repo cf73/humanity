@@ -33,7 +33,7 @@ description:
         text: 'Charlotte’s Web'
       -
         type: text
-        text: ' is an important novel for its important lessons and messages, as well as its vivid descriptions and memorable characters. It is a story that can be enjoyed by both children and adults alike and continues to captivate readers even after almost 70 years.'
+        text: ' is an important novel for its important lessons and messages, as well as its vivid descriptions and memorable characters. It is a story that can be enjoyed by children and adults alike and continues to captivate even after almost 70 years.'
       -
         type: hardBreak
   -
@@ -43,8 +43,8 @@ description:
         type: hardBreak
 challenges:
   - inspiration
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717958377
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718059621
 collection_type: book
 date_published: '1952-01-20'
 link: 'https://www.goodreads.com/book/show/24178.Charlotte_s_Web?from_search=true&from_srp=true&qid=nuNaCm5N4C&rank=1'
