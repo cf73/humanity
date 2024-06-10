@@ -136,7 +136,16 @@ description:
     content:
       -
         type: text
-        text: 'In fact, we are looking for young volunteers, anywhere in the world, who would like to take on the challenge of finding the best books, in any language, and helping develop this section into a place to discover new friends from across the planet. Please write us at peace@humanity.org if interested.'
+        text: 'In fact, we are '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'looking for young volunteers'
+      -
+        type: text
+        text: ', anywhere in the world, who would like to take on the challenge of finding the best books, in any language, and helping develop this section into a place to discover new friends from across the planet. Please write us at peace@humanity.org if interested.'
   -
     type: paragraph
   -
@@ -824,7 +833,7 @@ challenges:
   - kids
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718059664
+updated_at: 1718059829
 related_partner_initiatives:
   - e418c09e-390d-4f38-987d-3a3731bb70b5
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
