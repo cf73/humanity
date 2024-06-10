@@ -65,7 +65,7 @@ related_content:
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
   - 1c000538-36cf-4ba4-b129-f70a7a8ba51b
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717961872
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718063925
 book_author: 'John Green'
 ---
