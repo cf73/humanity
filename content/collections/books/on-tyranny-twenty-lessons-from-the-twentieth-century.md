@@ -1,7 +1,7 @@
 ---
 id: eda9251c-69f9-4ae7-aa71-af6fa93e1920
 blueprint: book
-title: 'On Tyranny: Twenty Lessons from the Twentieth Century'
+title: 'On Tyranny: Twenty Lessons from the Twentieth Century  (2018)'
 date_published: '2017-02-28'
 link: 'https://www.goodreads.com/book/show/33917107-on-tyranny'
 image: image-1714352303.jpeg
@@ -61,7 +61,7 @@ related_content:
   - 51726be6-7905-46a5-b6aa-c62d0c96eec7
   - 69de13ef-fc4b-4ae8-98f6-78f51af2e03f
   - 73acba4f-36be-4c72-b0ab-026ab9e66027
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717958480
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718060207
 book_author: 'Timothy Snyder'
 ---
