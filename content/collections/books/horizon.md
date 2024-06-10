@@ -17,14 +17,14 @@ description:
     content:
       -
         type: text
-        text: 'From the National Book Award-winning author of the now-classic Arctic Dreams, a vivid, poetic, capacious work that recollects the travels around the world and the encounters--human, animal, and natural--that have shaped an extraordinary life.'
+        text: '"From the National Book Award-winning author of the now-classic Arctic Dreams, a vivid, poetic, capacious work that recollects the travels around the world and the encounters--human, animal, and natural--that have shaped an extraordinary life.'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Taking us nearly from pole to pole--from modern megacities to some of the most remote regions on the earth--and across decades of lived experience, Barry Lopez, hailed by the '
+        text: '"Taking us nearly from pole to pole--from modern megacities to some of the most remote regions on the earth--and across decades of lived experience, Barry Lopez, hailed by the '
       -
         type: text
         marks:
@@ -41,7 +41,7 @@ description:
     content:
       -
         type: text
-        text: "As he takes us on these myriad travels, Lopez also probes the long history of humanity's quests and explorations, including the prehistoric peoples who trekked across Skraeling Island in northern Canada, the colonialists who plundered Central Africa, an enlightenment-era Englishman who sailed the Pacific, a Native American emissary who found his way into isolationist Japan, and today's ecotourists in the tropics. Throughout his journeys--to some of the hottest, coldest, and most desolate places on the globe--and via friendships he forges along the way with scientists, archaeologists, artists and local residents, Lopez searches for meaning and purpose in a broken world."
+        text: "\"As he takes us on these myriad travels, Lopez also probes the long history of humanity's quests and explorations, including the prehistoric peoples who trekked across Skraeling Island in northern Canada, the colonialists who plundered Central Africa, an enlightenment-era Englishman who sailed the Pacific, a Native American emissary who found his way into isolationist Japan, and today's ecotourists in the tropics. Throughout his journeys--to some of the hottest, coldest, and most desolate places on the globe--and via friendships he forges along the way with scientists, archaeologists, artists and local residents, Lopez searches for meaning and purpose in a broken world."
       -
         type: hardBreak
   -
@@ -49,7 +49,7 @@ description:
     content:
       -
         type: text
-        text: "Horizon is a revelatory, epic work that voices concern and frustration along with humanity and hope--a book that makes you see the world differently, and that is the crowning achievement by one of America's great thinkers and most humane voices."
+        text: '"Horizon is a revelatory, epic work that voices concern and frustration along with humanity and hope--a book that makes you see the world differently, and that is the crowning achievement by one of America''s great thinkers and most humane voices."'
 collection_type: book
 challenges:
   - climate
@@ -63,7 +63,7 @@ related_content:
   - 46a5ba9a-cc31-41de-ac32-31d0789edadf
   - f9f4f112-845f-467c-900e-c064fb540f9b
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717958446
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718059918
 book_author: 'Barry Lopez'
 ---
