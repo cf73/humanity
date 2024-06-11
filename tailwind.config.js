@@ -28,6 +28,8 @@ export default {
                 'algae3': '#fff6e4',
                 'sand': '#ffebbf',
                 'sand2': '#f6eede',
+                'sky': '#d6f6ff',
+                'skyStrong': '#b5ebfa',
                 
                 'darkpink': 'rgb(168 145 161 / 90%)',
                 'khaki': '#859d44',
