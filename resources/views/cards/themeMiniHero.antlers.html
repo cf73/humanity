@@ -14,7 +14,7 @@
           <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></div>
           <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
       </div>
-      <button>View all content</button>
+      <a href="/challenges/{{slug}}"><button>Explore...</button></a>
     </div>
     {{/challenges}}
   </div>
