@@ -10,14 +10,14 @@ description:
     content:
       -
         type: text
-        text: 'In a time when our relationship to the natural world is ruled by the violence and greed of unbridled consumerism, Wendell Berry speaks out in these prescient essays, drawn from his fifty-year campaign on behalf of American lands and communities.'
+        text: '"In a time when our relationship to the natural world is ruled by the violence and greed of unbridled consumerism, Wendell Berry speaks out in these prescient essays, drawn from his fifty-year campaign on behalf of American lands and communities.'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'The writings gathered in '
+        text: '"The writings gathered in '
       -
         type: text
         marks:
@@ -33,14 +33,14 @@ description:
         type: hardBreak
       -
         type: text
-        text: 'With grace and conviction, Wendell Berry shows that we simply cannot afford to succumb to the mass-produced madness that drives our global economy  --  the natural world will not allow it.'
+        text: '"With grace and conviction, Wendell Berry shows that we simply cannot afford to succumb to the mass-produced madness that drives our global economy  --  the natural world will not allow it.'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Yet he also shares with us a vision of consolation and of hope. We may be locked in an uneven struggle, but we can and must begin to treat our land, our neighbors, and ourselves with respect and care. As Berry urges, we must abandon arrogance and stand in awe.'
+        text: '"Yet he also shares with us a vision of consolation and of hope. We may be locked in an uneven struggle, but we can and must begin to treat our land, our neighbors, and ourselves with respect and care. As Berry urges, we must abandon arrogance and stand in awe."'
   -
     type: paragraph
     content:
@@ -51,8 +51,8 @@ challenges:
   - climate
   - war
   - democracy
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717960256
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718064670
 related_partner_initiatives:
   - 643b298b-448c-44d4-841f-cdbcd7b03dcd
 related_content:
