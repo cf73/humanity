@@ -13,6 +13,21 @@ description:
         marks:
           -
             type: italic
+        text: 'Goodreads '
+      -
+        type: text
+        text: 'review:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '"'
+      -
+        type: text
+        marks:
+          -
+            type: italic
         text: 'War Is A Lie'
       -
         type: text
@@ -22,7 +37,7 @@ description:
     content:
       -
         type: text
-        text: "This is a handbook of sorts, an engaging, always informative manual that can be used to debunk future lies before the wars they're deployed to justify have any chance to begin. Veteran antiwar activist Daniel Ellsberg calls "
+        text: '"This is a handbook of sorts, an engaging, always informative manual that can be used to debunk future lies before the wars they''re deployed to justify have any chance to begin. Veteran antiwar activist Daniel Ellsberg calls '
       -
         type: text
         marks:
@@ -37,7 +52,7 @@ description:
     content:
       -
         type: text
-        text: "This updated and expanded edition outlines lessons from America's most recent wars, what can be done to end warmaking, and an epilogue that analyzes new trends in war lying and in resistance to it. No one to whom you give this book can claim they haven't been warned!"
+        text: '"This updated and expanded edition outlines lessons from America''s most recent wars, what can be done to end warmaking, and an epilogue that analyzes new trends in war lying and in resistance to it. No one to whom you give this book can claim they haven''t been warned!"'
 collection_type: book
 challenges:
   - war
@@ -50,8 +65,8 @@ related_content:
   - 68c5ad00-6ff3-497d-a231-6789aed33965
   - 9439b4e3-6212-403d-8003-fcd1b7d0e291
   - ba850df4-c102-43cf-a7f7-0c66ed1f60d7
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717960292
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718064794
 date_published: '2010-01-01'
 book_author: 'David Swanson'
 ---
