@@ -1,4 +1,25 @@
+
+
 {{session:set challengeslug="{challengeslugpassed}"}}
+
+    <div data-speed=".5" class="relative -z-50 bg-no-repeat bg-center bg-cover h-[90vh] py-60 w-full opacity-20" style="background-image: url('{{ collection:photography_contributions challenges:contains='{challengeslugpassed}' sort='random' limit='1' }}{{image}}{{ /collection:photography_contributions }}');"></div>
+        <div data-speed="2" class="flex flex-col justify-center items-center h-full p-16">
+            {{ collection:quotations challenges:contains="{{challengeslugpassed}}" sort="random" limit="1" }}
+                <h3 class="mb-4 text-center">{{quotation}}</h3>
+                <div class="textMeta text-center">{{attribution}}</div>
+            {{/collection:quotations}}
+        </div>
+    
+
+<!-- <section class="py-48 space-y-8 text-white bg-black relative z-50">
+    <div class="font-thin text-8xl text-center leading-tight px-36">
+        "Don't look for hope.<br>Look for <span class="font-bold">action</span>."
+    </div>
+    <div class="font-bold text-center uppercase tracking-wider">
+        &mdash; Greta Thunberg
+    </div>
+</section> -->
+
 <section id="introblock" class="mb-16">
     <div class="grid grid-cols-12 relative">
         {{taxonomy:challenges slug:contains="{challengeslug}"}}
@@ -7,7 +28,7 @@
                 <div style="background-image: url('{{main_image:image}}');" class="w-full h-[80vh] relative bg-contain bg-no-repeat bg-left-bottom mb-4"></div>
             </div>
             <div class="row-start-2 col-start-2 col-span-8 mt-1">
-                <a href="/index?collectiontype%5B%5D={{collection_type:slug}}" class="font-sans text-xl prose prose-zinc tracking-wider antialiased leading-loose border-t-[24px] border-highlighter pt-4 z-50 relative">Photography</a>
+                <a href="/index?collectiontype%5B%5D={{collection_type:slug}}" class="font-sans text-xl prose prose-zinc tracking-wider antialiased leading-loose border-t-[24px] border-skyStrong pt-4 z-50 relative">Photography</a>
                 <div class="font-medium w-1/2 relative z-10">
                     <a href="{{main_image:url}}"><h3>{{main_image:title}} <i class="las la-angle-right text-xl"></i></h3></a>
                     <a class="textSecondary" href="{{main_image:url}}">{{main_image:photographer_name}}</a> 
