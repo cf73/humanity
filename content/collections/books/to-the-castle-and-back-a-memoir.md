@@ -10,19 +10,53 @@ description:
     content:
       -
         type: text
-        text: "From the former president of the Czech Republic comes this first-hand account of his years in office and the transition to democracy following the fall of Communism.\_"
+        marks:
+          -
+            type: bold
+        text: 'Goodreads review:'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "A renowned playwright, Václav Havel became one of Czechoslovakia's most prominent dissidents under Communist rule – and the president after the Velvet Revolution, making him a key player in European politics. Here we see first-hand the challenges of creating a new government, tempered with Havel's revealing insights into the difficulties posed by an era of increased globalization and conflict. "
-  -
-    type: paragraph
-    content:
+        text: '"An astonishingly candid memoir from the acclaimed, dissident playwright elected President after the dramatic Czechoslovakian Velvet Revolution — one of the most respected political figures of our time.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: 'He discusses not only the situation in his own country, but also such pressing issues as the future of the European Union, the war in Iraq, and the role of the United States in contemporary affairs. Written with an eye towards both the political and the personal and a witty, well-honed eloquence, To the Castle and Back is a rare glimpse into the minds of one of the most important political figures of modern times.'
+        text: '"As writer and statesman, Václav Havel played an essential part in the profound changes that occurred in Central Europe in the last decades of the twentieth century. In this most intimate memoir, he writes about his transition from outspoken dissident and political prisoner to a player on the international stage in 1989 as newly elected president of Czechoslovakia after the ousting of the Soviet Union, and, in l993, as president of the newly formed Czech Republic.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '"Havel gives full rein to his impassioned stance against the devastation wrought by communism, but the scope of his concern in this engrossing memoir extends far beyond the circumstances he faced in his own country. The book is full of anecdotes of his interactions with world figures: offering a peace pipe to Mikhail Gorbachev, meditating with the Dali Lama, confessing to Pope John Paul II and partying with Bill and Hilary Clinton. Havel shares his thoughts on the future of the European Union and the role of national identity in today’s world. He explains why he has come to change his mind about the war in Iraq, and he discusses the political and personal reverberations he faces because of his initial support of the invasion. He writes with equal intelligence and candour about subjects as diverse as the arrogance of western power politics, the death of his first wife and his own battle with lung cancer.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '"Woven through are internal memos he wrote during his presidency that take us behind the scenes of the Prague Castle – the government’s seat of power – showing the internal workings of the office and revealing Havel’s mission to act as his country’s conscience, and even, at times, its chief social convenor. '
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '"Written with characteristic eloquence, wit and well-honed irony combined with an unfailing sense of wonder at the course his life has taken, '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'To the Castle and Back '
+      -
+        type: text
+        text: 'is a revelation of one of the most important political figures of our time."'
 collection_type: book
 challenges:
   - democracy
@@ -32,8 +66,8 @@ related_content:
   - 3cc8f4c1-bcca-4142-8664-e0572beb84ea
   - fab94cb3-0c49-48a3-af62-e8ea16f88bc3
   - 427cfc9b-95f5-48a7-a80e-38dc04beb6e2
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717960265
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718065396
 date_published: '2007-01-01'
 book_author: 'Václav Havel'
 ---
