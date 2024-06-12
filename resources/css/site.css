@@ -13,10 +13,10 @@
         @apply font-josephin font-extralight tracking-tight leading-none text-6xl;
     }
     h2 {
-        @apply text-4xl font-josephin font-extrabold antialiased;
+        @apply text-4xl font-josephin font-extrabold leading-snug antialiased;
     }
     h3 {
-        @apply text-2xl font-josephin font-bold antialiased;
+        @apply text-2xl font-josephin font-bold leading-normal antialiased;
     }
     h6 {
         @apply text-2xl tracking-wide text-yellow-600 font-serif leading-normal prose prose-zinc subpixel-antialiased;
