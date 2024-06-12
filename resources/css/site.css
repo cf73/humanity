@@ -7,10 +7,10 @@
 
 @layer base {
     h1 {
-        @apply font-thin prose prose-zinc leading-tight tracking-wide antialiased text-6xl;
+        @apply font-sans leading-none antialiased text-7xl text-[#3f3f47];
     }
     h2 {
-        @apply text-5xl tracking-wide font-bold prose prose-zinc mb-4 antialiased;
+        @apply text-5xl tracking-wide font-bold prose prose-zinc mb-4 antialiased text-skyStrong2;
     }
     h3 {
         @apply text-3xl tracking-wide font-medium prose prose-zinc subpixel-antialiased;
@@ -19,13 +19,13 @@
         @apply text-2xl tracking-wide font-serif leading-normal prose prose-zinc subpixel-antialiased;
     }
     h4 {
-        @apply text-2xl tracking-wide font-medium;
+        @apply text-2xl tracking-wide font-semibold text-skyStrong2;
     }
     h5 {
-        @apply font-sans text-2xl prose prose-zinc tracking-wider antialiased;
+        @apply font-sans text-2xl prose prose-zinc tracking-wide antialiased;
     }
     a {
-        @apply text-red-400;
+        
     }
     .textMeta {
         @apply uppercase prose prose-zinc font-medium tracking-widest antialiased;
@@ -33,11 +33,18 @@
     .textMain {
         @apply font-serif prose prose-zinc mx-auto lg:prose-xl;
     }
+    .textMainSans {
+        @apply font-sans tracking-wider antialiased prose prose-zinc mx-auto lg:prose-xl;
+    }
+    .textMainSans2 {
+        @apply font-semibold tracking-wider antialiased prose prose-zinc mx-auto leading-snug text-xl;
+    }
+
     .textSecondary {
         @apply font-serif prose prose-zinc antialiased tracking-wide;
     }
     button {
-        @apply font-sans text-2xl prose prose-zinc tracking-wider antialiased border-2 border-current rounded-full px-8 py-2 hover:bg-red-400 w-fit;
+        @apply font-sans text-2xl prose prose-zinc tracking-wider antialiased border-2 border-current rounded-full px-8 py-2 hover:bg-skyStrong2 hover:text-warmwhite w-fit;
     }
 }
 
