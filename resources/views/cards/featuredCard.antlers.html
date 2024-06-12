@@ -4,12 +4,12 @@
     </div>
     
     <div class="pb-4 mt-3">
-        <a href="/index?collectiontype%5B%5D={{collection_type:slug}}" class="textMainSans leading-loose border-t-[24px] border-tape pt-4 z-50 relative inline">{{collection:title}}</a>
-        <a href="{{url}}">
-            <h4>{{title}} <i class="las la-angle-right text-xl"></i></h4>
-        </a>
-        <div class="textMainSans2" >{{description}}</div>
-        
-        <!-- <div class="font-serif leading-6 text-base">{{ description }}</div> -->
+        {{partial:cards/tape passedValue="{{collection:title}}"}}
+        <div class="mt-3">
+            <a href="{{url}}">
+                <h2>{{title}} <i class="las la-angle-right text-xl"></i></h2>
+            </a>
+            <div class="textMainSans">{{description}}</div>
+        </div>
     </div>
 </div>

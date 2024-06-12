@@ -2,15 +2,13 @@
 <div class="h-full overflow-hidden text-center">
     <a href="{{url}}"><div class="w-full h-80 mb-2 bg-contain bg-no-repeat bg-bottom flex p-2 items-end" style="background-image: url({{image}});"></div></a>
 
-    <div class="textMainSans2 border-t-[24px] border-tape pt-2 mb-4 z-50 inline-block relative -mt-5">
-        {{collection:title}}
-       
-    </div>
 
    
-    <div class="py-0 px-4 flex flex-col items-center text-center">
+    <div class="py-0 px-4 mt-5 flex flex-col items-center text-center">
+        {{partial:cards/tape passedValue="{{collection:title}}"}}
+
         <a href="{{url}}">
-            <h4>{{title}}<i class="las la-angle-right text-xl"></i></h4>
+            <h3>{{title}}<i class="las la-angle-right text-xl"></i></h3>
         </a>
         {{if speaker}}
             <span class="textSecondary">{{speaker}}</span>

@@ -28,10 +28,10 @@
                 <div style="background-image: url('{{main_image:image}}');" class="w-full h-[80vh] relative bg-contain bg-no-repeat bg-left-bottom mb-4"></div>
             </div>
             <div class="row-start-2 col-start-2 col-span-8 mt-1">
-                <a href="/index?collectiontype%5B%5D={{collection_type:slug}}" class="textMainSans leading-loose border-t-[24px] border-tape pt-4 z-50 relative">Photography</a>
-                <div class="font-medium w-1/3 relative z-10">
-                    <a href="{{main_image:url}}"><h4>{{main_image:title}} <i class="las la-angle-right text-xl"></i></h4></a>
-                    <a class="textMainSans2" href="{{main_image:url}}">{{main_image:photographer_name}}</a> 
+                {{partial:cards/tape passedValue="Photography"}}
+                <div class="w-1/3 relative z-10">
+                    <a href="{{main_image:url}}"><h3>{{main_image:title}} <i class="las la-angle-right text-xl"></i></h3></a>
+                    <a class="textMainSans" href="{{main_image:url}}">{{main_image:photographer_name}}</a> 
                 </div>
             </div>
             <!-- text to right of photo, currently index of theme content by type -->
@@ -39,7 +39,7 @@
             <!-- theme intro title and text -->
             <div data-speed=".8" class="col-span-3 -mt-[20vh] flex flex-col justify-center space-y-8 row-start-2 row-span-2 col-start-2">
                 <h1>{{title_text}}</h1>
-                <a href="/challenges/{{slug}}"><button>Explore...</button></a>
+                <a href="/challenges/{{slug}}"><button class="btn-primary">Explore...</button></a>
                 <!-- <div class="font-medium leading-snug text-lg">{{intro_text}}</div> -->
             </div>
             <!-- featured secondary content -->
@@ -67,17 +67,17 @@
                             <div class="">
                                 
                                 <div class="flex flex-col h-full pl-8 space-x-6 space-y-2 font-medium text-2xl tracking-wide text-softblack mx-auto flex-wrap justify-center items-baseline">
-                                    <div class="font-thin text-2xl mb-4">Explore more...</div>
-                                    <h4><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></h4>
-                                    <h4><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></h4>
-                                    <h4><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=commencement-speech">{{collection:commencement_speeches challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</a></h4>
-                                    <h4><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=documentaries">{{collection:documentaries challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:documentaries}} Documentaries</a></h4>
+                                    <h3 class="mb-4">Explore more...</h3>
+                                    <h4><a href="/challenges/{{challengeslug}}?&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></h4>
+                                    <h4><a href="/challenges/{{challengeslug}}?&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></h4>
+                                    <h4><a href="/challenges/{{challengeslug}}?&collectiontype%5B%5D=commencement-speech">{{collection:commencement_speeches challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</a></h4>
+                                    <h4><a href="/challenges/{{challengeslug}}?&collectiontype%5B%5D=documentaries">{{collection:documentaries challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:documentaries}} Documentaries</a></h4>
                                     <!-- <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=partner-initiative">{{collection:partner_initiatives challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Partner Initiatives</a></div> -->
                                     <!-- <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=partner-story">{{collection:partner_stories challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:partner_stories}} Partner Stories</a></div> -->
-                                    <h4><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></h4>
-                                    <h4><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></h4>
+                                    <h4><a href="/challenges/{{challengeslug}}?&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></h4>
+                                    <h4><a href="/challenges/{{challengeslug}}?&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></h4>
                                 </div>
-                                <a href="/challenges/{{slug}}" class="pl-12"><button>Explore</button></a>
+                                <a href="/challenges/{{slug}}" class="pl-12"><button class="btn-primary">Explore</button></a>
 
                             </div>
                         </div>

@@ -1,7 +1,7 @@
 <div class="container mx-auto flex flex-col items-center space-y-8 pt-48 relative">
     <div class="text-center flex flex-col items-center">
         <h1>{{title}}</h1>
-        <h6>{{description}}</h6>
+        <div class="textMainSans">{{description}}</div>
     </div>
 
     {{if video_id}}
@@ -22,8 +22,8 @@
     </div>
 
     <div class="flex flex-row space-x-4">
-        <button>Buy it here</button>
-        <button>Watch it here</button>
+        <button class="btn-secondary">Buy it here</button>
+        <button class="btn-secondary">Watch it here</button>
     </div>
 
 </div>
