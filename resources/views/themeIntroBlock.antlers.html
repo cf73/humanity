@@ -2,13 +2,13 @@
 
 {{session:set challengeslug="{challengeslugpassed}"}}
 
-    <div data-speed=".5" class="relative -z-50 bg-no-repeat bg-center bg-cover h-[90vh] py-60 w-full opacity-20" style="background-image: url('{{ collection:photography_contributions challenges:contains='{challengeslugpassed}' sort='random' limit='1' }}{{image}}{{ /collection:photography_contributions }}');"></div>
+    <!-- <div data-speed=".5" class="relative -z-50 bg-no-repeat bg-center bg-cover h-[90vh] py-60 w-full opacity-20" style="background-image: url('{{ collection:photography_contributions challenges:contains='{challengeslugpassed}' sort='random' limit='1' }}{{image}}{{ /collection:photography_contributions }}');"></div>
         <div data-speed="2" class="flex flex-col justify-center items-center h-full p-16">
             {{ collection:quotations challenges:contains="{{challengeslugpassed}}" sort="random" limit="1" }}
                 <h3 class="mb-4 text-center">{{quotation}}</h3>
                 <div class="textMeta text-center">{{attribution}}</div>
             {{/collection:quotations}}
-        </div>
+        </div> -->
     
 
 <!-- <section class="py-48 space-y-8 text-white bg-black relative z-50">
@@ -28,14 +28,14 @@
                 <div style="background-image: url('{{main_image:image}}');" class="w-full h-[80vh] relative bg-contain bg-no-repeat bg-left-bottom mb-4"></div>
             </div>
             <div class="row-start-2 col-start-2 col-span-8 mt-1">
-                <a href="/index?collectiontype%5B%5D={{collection_type:slug}}" class="font-sans text-xl prose prose-zinc tracking-wider antialiased leading-loose border-t-[24px] border-skyStrong pt-4 z-50 relative">Photography</a>
-                <div class="font-medium w-1/2 relative z-10">
-                    <a href="{{main_image:url}}"><h3>{{main_image:title}} <i class="las la-angle-right text-xl"></i></h3></a>
-                    <a class="textSecondary" href="{{main_image:url}}">{{main_image:photographer_name}}</a> 
+                <a href="/index?collectiontype%5B%5D={{collection_type:slug}}" class="textMainSans leading-loose border-t-[24px] border-tape pt-4 z-50 relative">Photography</a>
+                <div class="font-medium w-1/3 relative z-10">
+                    <a href="{{main_image:url}}"><h4>{{main_image:title}} <i class="las la-angle-right text-xl"></i></h4></a>
+                    <a class="textMainSans2" href="{{main_image:url}}">{{main_image:photographer_name}}</a> 
                 </div>
             </div>
             <!-- text to right of photo, currently index of theme content by type -->
-            <div data-speed=".8" class="col-start-9 h-full row-start-1 col-span-4 flex flex-col justify-center p-16"><h5>{{intro_text}}</h5></div>
+            <div data-speed=".8" class="col-start-9 h-full row-start-1 col-span-4 flex flex-col justify-center pr-16 pl-8"><h5>{{intro_text}}</h5></div>
             <!-- theme intro title and text -->
             <div data-speed=".8" class="col-span-3 -mt-[20vh] flex flex-col justify-center space-y-8 row-start-2 row-span-2 col-start-2">
                 <h1>{{title_text}}</h1>
@@ -68,15 +68,17 @@
                                 
                                 <div class="flex flex-col h-full pl-8 space-x-6 space-y-2 font-medium text-2xl tracking-wide text-softblack mx-auto flex-wrap justify-center items-baseline">
                                     <div class="font-thin text-2xl mb-4">Explore more...</div>
-                                    <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></div>
-                                    <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></div>
-                                    <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=commencement-speech">{{collection:commencement_speeches challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</a></div>
-                                    <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=documentaries">{{collection:documentaries challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:documentaries}} Documentaries</a></div>
+                                    <h4><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></h4>
+                                    <h4><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></h4>
+                                    <h4><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=commencement-speech">{{collection:commencement_speeches challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</a></h4>
+                                    <h4><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=documentaries">{{collection:documentaries challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:documentaries}} Documentaries</a></h4>
                                     <!-- <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=partner-initiative">{{collection:partner_initiatives challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Partner Initiatives</a></div> -->
                                     <!-- <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=partner-story">{{collection:partner_stories challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:partner_stories}} Partner Stories</a></div> -->
-                                    <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></div>
-                                    <div><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
+                                    <h4><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></h4>
+                                    <h4><a href="/index?categories%5B%5D={{challengeslug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></h4>
                                 </div>
+                                <a href="/challenges/{{slug}}" class="pl-12"><button>Explore</button></a>
+
                             </div>
                         </div>
                         

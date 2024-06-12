@@ -22,14 +22,18 @@ export default {
         extend: {
             colors: {
                 'highlighter': 'rgb(255 254 0 / 88%)',
+                'tape': '#ff0061',
                 'warmwhite': '#fffff4',
                 'algae': '#f8f4ec',
                 'algae2': '#c4d6c6',
                 'algae3': '#fff6e4',
                 'sand': '#ffebbf',
-                'sand2': '#f6eede',
+                'sand2': '#f1ebde',
+                'sand3': '#eceae5',
+                
                 'sky': '#d6f6ff',
                 'skyStrong': '#b5ebfa',
+                'skyStrong2': '#3f75b1',
                 
                 'darkpink': 'rgb(168 145 161 / 90%)',
                 'khaki': '#859d44',
