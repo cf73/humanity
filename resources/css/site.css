@@ -6,45 +6,53 @@
 
 
 @layer base {
+    body {
+        color: #3f3f47;
+    }
     h1 {
-        @apply font-sans leading-none antialiased text-7xl text-[#3f3f47];
+        @apply font-josephin font-extralight tracking-tight leading-none text-6xl;
     }
     h2 {
-        @apply text-5xl tracking-wide font-bold prose prose-zinc mb-4 antialiased text-skyStrong2;
+        @apply text-4xl font-josephin font-extrabold antialiased;
     }
     h3 {
-        @apply text-3xl tracking-wide font-medium prose prose-zinc subpixel-antialiased;
+        @apply text-2xl font-josephin font-bold antialiased;
     }
     h6 {
-        @apply text-2xl tracking-wide font-serif leading-normal prose prose-zinc subpixel-antialiased;
+        @apply text-2xl tracking-wide text-yellow-600 font-serif leading-normal prose prose-zinc subpixel-antialiased;
     }
     h4 {
-        @apply text-2xl tracking-wide font-semibold text-skyStrong2;
+        @apply text-xl font-josephin tracking-wider antialiased w-fit;
     }
     h5 {
-        @apply font-sans text-2xl prose prose-zinc tracking-wide antialiased;
+        @apply font-josephin font-light text-2xl leading-normal;
     }
     a {
-        
+        @apply text-tape hover:underline underline-offset-8;
     }
     .textMeta {
-        @apply uppercase prose prose-zinc font-medium tracking-widest antialiased;
+        @apply uppercase font-josephin font-extrabold tracking-widest prose prose-zinc;
     }
     .textMain {
         @apply font-serif prose prose-zinc mx-auto lg:prose-xl;
     }
     .textMainSans {
-        @apply font-sans tracking-wider antialiased prose prose-zinc mx-auto lg:prose-xl;
+        @apply font-josephin font-light subpixel-antialiased prose prose-zinc mx-auto leading-normal text-xl;
     }
     .textMainSans2 {
-        @apply font-semibold tracking-wider antialiased prose prose-zinc mx-auto leading-snug text-xl;
+        @apply font-josephin font-light text-yellow-600 subpixel-antialiased prose prose-zinc mx-auto leading-normal text-xl;
     }
-
     .textSecondary {
         @apply font-serif prose prose-zinc antialiased tracking-wide;
     }
-    button {
-        @apply font-sans text-2xl prose prose-zinc tracking-wider antialiased border-2 border-current rounded-full px-8 py-2 hover:bg-skyStrong2 hover:text-warmwhite w-fit;
+}
+
+@layer components {
+    .btn-primary {
+        @apply font-josephin font-semibold text-xl prose prose-zinc tracking-wider border-2 border-current rounded-full px-8 py-2 bg-highlighter hover:tracking-widest transition-all w-fit;
+    }
+    .btn-secondary {
+        @apply font-josephin font-semibold text-xl prose prose-zinc tracking-wider border-2 border-current rounded-full px-8 py-2 hover:tracking-widest hover:bg-highlighter transition-all w-fit;
     }
 }
 
