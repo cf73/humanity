@@ -17,6 +17,7 @@ preferences:
         commencement_speeches:
           display: 'commencement speeches'
           query: 'Commencement speeches'
+      after_save: create_another
   assets:
     assets:
       mode: grid
