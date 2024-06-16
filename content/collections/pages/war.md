@@ -5,7 +5,7 @@ title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713465367
+updated_at: 1718561302
 section_builder:
   -
     id: ludi5o3a
@@ -39,13 +39,13 @@ section_builder:
         content:
           -
             type: text
-            text: 'We began to posses land. To own things. Then began arguing about who owned what. War soon became a bad habit, a profound insult to what should be our dominant human qualities: kindness, common sense, and creativity. '
+            text: 'We began to posses land. To own things. Then began arguing about who owned what. War soon became a bad habit, a profound insult to what should be our dominant human qualities: kindness, respect, common sense, and creativity. '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Now it’s up to us, each of us, to work our way out of war, to learn to own little and share much, like water and food and, yes, land. It’s time to recognize that it is indeed insanity to still be murdering each other, not least ruining life on Earth in the process, treating civilized existence as a given, not a choice.   TB'
+            text: 'Now it’s up to us, each of us, to work our way out of war, to learn to own little and share much  —  like water and food  —  and, yes, land. It’s time to recognize that it is indeed insanity to still be murdering each other, not least ruining life on Earth in the process, treating civilized existence as a given, not a choice.   TB'
   -
     id: lsgttcyk
     quotation: 8d69ad34-4655-456c-a998-21d71086ceb0
