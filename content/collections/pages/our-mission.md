@@ -4,17 +4,8 @@ blueprint: simple_page
 title: 'Our Mission'
 parent: e2c682f5-04cb-4b69-83f6-50cdbc6f2fa7
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718580614
+updated_at: 1718581602
 intro:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'AN OASIS WITH A MISSION'
   -
     type: paragraph
     content:
@@ -26,29 +17,38 @@ intro:
     content:
       -
         type: text
-        text: "     This is an oasis with a mission, custom-designed for we the people to linger, to investigate how best to rescue our humanity.\_"
+        text: "     This is an oasis with a mission, custom-designed for we the people to linger, to investigate how best to rescue our humanity. \_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: "     We hope the insights and inspirations throughout\_this site  --\_\_presented on the wings of essays, photographs, speeches, artwork, film, literature, poetry, and music  --  move you to initiate or re-imagine a personal pathway to making a positive difference in this world, helping to fan the aspirational breezes of our shared humanity into the winds of change that we so urgently need.\_"
+        text: "     We hope the insights and inspirations throughout  --\_\_presented on the wings of essays, photographs, speeches, artwork, film, literature, poetry, and music  --  move you to initiate or re-imagine a personal pathway towards making a positive difference in this world, helping fan the aspirational breezes of our shared humanity into the winds of change we so "
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: urgently
+      -
+        type: text
+        text: " need.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: "      We have chosen hundreds of inspiring voices to guide and encourage each of us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as a changemaker, for our community, our country, or our home planet.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "     We begin with investigating humanity’s most crucial challenges: ending war, saving democracy, and solving climate change. We then introduce the world’s thirty most respected non-profits and the opportunity to contribute to their life-saving work.\_"
+        text: "       We begin with investigating humanity’s most crucial challenges: ending war, saving democracy, and solving climate change. We then introduce the world’s thirty most respected non-profits and the opportunity to contribute to their life-saving work.\_"
   -
     type: paragraph
     content:
       -
         type: text
         text: "     Not least, we include our popular thirty-year-old archive of empowering Commencement Speeches, as well as our blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "     We have chosen almost 300 women and men, from all ages and cultures, to guide and inspire this journey of becoming a changemaker  --  for community, country, or home planet.\_So please join us. Again, the world urgently needs you! "
 ---
