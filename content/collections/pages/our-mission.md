@@ -4,7 +4,7 @@ blueprint: simple_page
 title: 'Our Mission'
 parent: e2c682f5-04cb-4b69-83f6-50cdbc6f2fa7
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713467616
+updated_at: 1718573840
 intro:
   -
     type: paragraph
@@ -32,13 +32,13 @@ intro:
     content:
       -
         type: text
-        text: "     This is an oasis with a mission, custom-designed for we the people to linger, to consider how to rescue our humanity.\_"
+        text: "     This is an oasis with a mission, custom-designed for we the people to consider how to rescue our humanity.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: "     To do so, THI has chosen hundreds of inspiring voices to guide and encourage each of\_\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as a changemaker, for our community, our country, or our planet.\_"
+        text: "     To do so, THI has chosen hundreds of inspiring voices to guide and encourage each of us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as a changemaker, for our community, our country, or our planet.\_"
   -
     type: paragraph
     content:
@@ -56,7 +56,7 @@ intro:
     content:
       -
         type: text
-        text: "     We hope the insights and inspirations throughout this humanitarian oasis\_\_--\_\_presented on the wings of essays, photographs, speeches, artwork, film, literature, poetry, and music\_\_--\_\_move you to help fan the aspirational breezes of our shared humanity into the winds of change that we so urgently need.\_"
+        text: "     We hope the insights and inspirations throughout\_\_--\_\_presented on the wings of essays, photographs, speeches, artwork, film, literature, poetry, and music\_\_--\_\_move you to choose a personal pathway to making a positive difference, helping to fan the aspirational breezes of our shared humanity into winds of change that we so urgently need.\_"
   -
     type: paragraph
     content:
