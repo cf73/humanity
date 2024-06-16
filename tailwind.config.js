@@ -24,6 +24,7 @@ export default {
                 'sand': '#ffebbf',
                 'sand2': '#f1ebde',
                 'sand3': '#eceae5',
+                'sandOG': '#F7FBF1',
                 
                 'sky': '#d6f6ff',
                 'skyStrong': '#b5ebfa',
