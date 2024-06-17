@@ -7,7 +7,7 @@ challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718064239
+updated_at: 1718630889
 image: politicsofnonviolentaction.jpeg
 description:
   -
@@ -49,6 +49,8 @@ related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
 related_content:
   - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
+  - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
+  - e71cada1-c778-4d4c-9e7a-38cb78d50428
 book_author: 'Gene Sharp'
 date_published: '1973-01-01'
 link: 'https://www.amazon.com/Politics-Nonviolent-Action-Gene-Sharp-ebook/dp/B08FXKNLJG'
