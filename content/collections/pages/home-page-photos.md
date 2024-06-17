@@ -17,7 +17,7 @@ intro:
         type: text
         text: 'In this online oasis, The Humanity Initiative offers clarity and insight on our most crucial challenges, providing compelling inspiration for each of us to join in fostering a resurgent new voice of humanity.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718627849
+updated_at: 1718627876
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -41,5 +41,6 @@ featured_commencement_speeches:
   - d70e59e2-caa6-4c93-8964-a4c699612b28
   - 582161a7-ea07-4374-abac-40154bb36abe
   - 628a23b7-fe57-4f55-93ae-11bdabccff59
+  - c53fa4c5-dd91-4357-982f-dffd2296d749
 commencement_speeches_title: 'Dreams unleashed: Every day is graduation day'
 ---
