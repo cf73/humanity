@@ -184,7 +184,7 @@ description:
         type: text
         text: '), published shortly before Sanders turned twenty-one.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718630251
+updated_at: 1718630291
 challenges:
   - inspiration
 date_published: '2014-09-16'
@@ -196,5 +196,6 @@ related_content:
   - cc16a060-6b0e-4fb8-86e6-82941952e7eb
   - 67a3611f-21d4-47dd-9a87-89be7db4df11
   - 9ecc06b8-0849-409a-8bd5-e6f6c0805014
+  - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
 book_author: 'Ella Frances Sanders'
 ---
