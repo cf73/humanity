@@ -16,10 +16,19 @@ description:
         marks:
           -
             type: italic
-        text: ' The Marginalian. '
+        text: ' '
       -
         type: text
-        text: 'It highlights other great sources of untranslatable words...'
+        text: "Maria Popova's "
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Marginalian.'
+      -
+        type: text
+        text: ' highlighting other wonderful sources of untranslatable words. '
   -
     type: paragraph
     content:
@@ -161,7 +170,7 @@ description:
         type: text
         text: '), published shortly before Sanders turned twenty-one.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718620134
+updated_at: 1718620409
 challenges:
   - inspiration
 date_published: '2014-09-16'
