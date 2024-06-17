@@ -46,7 +46,7 @@ description:
         text: 'War Is A Lie'
       -
         type: text
-        text: " \"a terrific tool for recognizing and resisting war lies before it's too late.\"\_"
+        text: " 'a terrific tool for recognizing and resisting war lies before it's too late.'\_"
   -
     type: paragraph
     content:
@@ -66,7 +66,7 @@ related_content:
   - 9439b4e3-6212-403d-8003-fcd1b7d0e291
   - ba850df4-c102-43cf-a7f7-0c66ed1f60d7
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718064794
+updated_at: 1718625257
 date_published: '2010-01-01'
 book_author: 'David Swanson'
 ---
