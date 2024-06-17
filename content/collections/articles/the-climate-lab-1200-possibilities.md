@@ -96,7 +96,7 @@ article_text:
         text: 'avoid further destabilizing'
       -
         type: text
-        text: 'Antarctica and Greenland, staving off dramatic sea level rise.'
+        text: ' Antarctica and Greenland, staving off dramatic sea level rise.'
   -
     type: paragraph
     content:
@@ -981,7 +981,7 @@ related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
   - 99622b57-8aa7-48d6-8d11-c5de8b413a24
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718618413
+updated_at: 1718618528
 publication: 'The Washington Post'
 articleauthor: 'Chris Mooney, Naema Ahmed and John Muyskens'
 ---
