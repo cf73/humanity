@@ -30,9 +30,9 @@ intro:
     content:
       -
         type: text
-        text: 'We do so with the aid of almost 300 women and men across the continents  --  cross-referencing their diverse contributions specifically to help launch your search for the best way to take action, to discover or re-imagine your personal path into positive change.'
+        text: 'We do so with the aid of almost 300 brilliant women and men from across the ages and the continents  --  cross-referencing their diverse contributions specifically to help in your search for the best way to take action, to discover or re-imagine your personal path into positive change.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718628214
+updated_at: 1718628285
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
