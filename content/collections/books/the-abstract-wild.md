@@ -10,14 +10,14 @@ description:
     content:
       -
         type: text
-        text: 'If anything is endangered in America it is our experience of wild nature — gross contact. There is knowledge only the wild can give us, knowledge specific to it, knowledge specific to the experience of it. These are its gifts to us.'
+        text: '"If anything is endangered in America it is our experience of wild nature — gross contact. There is knowledge only the wild can give us, knowledge specific to it, knowledge specific to the experience of it. These are its gifts to us.'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'How wild is wilderness and how wild are our experiences in it, asks Jack Turner in the pages of '
+        text: '"How wild is wilderness and how wild are our experiences in it, asks Jack Turner in the pages of '
       -
         type: text
         marks:
@@ -33,14 +33,14 @@ description:
         type: hardBreak
       -
         type: text
-        text: 'Natural resource managers, conservation biologists, environmental economists, park rangers, zoo directors, and environmental activists: Turner''s new book takes aim at these and all others who labor in the name of preservation. He argues for a new conservation ethic that focuses less on preserving things and more on preserving process and "leaving things be." He takes off after zoos and wilderness tourism with a vengeance, and he cautions us to resist language that calls a tree "a resource" and wilderness "a management unit."'
+        text: '"Natural resource managers, conservation biologists, environmental economists, park rangers, zoo directors, and environmental activists: Turner''s new book takes aim at these and all others who labor in the name of preservation. He argues for a new conservation ethic that focuses less on preserving things and more on preserving process and "leaving things be." He takes off after zoos and wilderness tourism with a vengeance, and he cautions us to resist language that calls a tree "a resource" and wilderness "a management unit."'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Eloquent and fast-paced, '
+        text: '"Eloquent and fast-paced, '
       -
         type: text
         marks:
@@ -56,13 +56,13 @@ description:
         type: hardBreak
       -
         type: text
-        text: 'We hunger for a kind of experience deep enough to change our selves, our form of life, writes Turner. Readers who take his words to heart will find, if not their selves, their perspectives on the natural world recast in ways that are hard to ignore and harder to forget.'
+        text: '"We hunger for a kind of experience deep enough to change our selves, our form of life, writes Turner. Readers who take his words to heart will find, if not their selves, their perspectives on the natural world recast in ways that are hard to ignore and harder to forget."'
   -
     type: paragraph
     content:
       -
         type: text
-        text: '(This is the Amazon.com review)'
+        text: '(n.b. This is the Amazon.com review)'
 collection_type: book
 challenges:
   - climate
@@ -72,7 +72,7 @@ related_partner_initiatives:
 related_content:
   - abe90cd8-e74f-48d1-95cb-1c141bf6adb3
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718619354
+updated_at: 1718619426
 book_author: 'Jack Turner'
 date_published: '1996-09-01'
 ---
