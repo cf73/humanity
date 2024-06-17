@@ -25,10 +25,10 @@ description:
         marks:
           -
             type: italic
-        text: 'The Marginalian.'
+        text: 'The Marginalian, '
       -
         type: text
-        text: ' highlighting other wonderful sources of untranslatable words. '
+        text: 'not least highlighting several other wonderful sources of untranslatable words. '
   -
     type: paragraph
     content:
@@ -86,7 +86,13 @@ description:
         text: 'strongly worded opinion on translation'
       -
         type: text
-        text: '. Indeed, this immeasurably complex yet vastly underappreciated art of multilingual gymnastics, which helps words belong to each other and '
+        text: '. Indeed, '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'this immeasurably complex yet vastly underappreciated art of multilingual gymnastics, which helps words belong to each other and '
       -
         type: text
         marks:
@@ -97,10 +103,18 @@ description:
               rel: null
               target: null
               title: null
+          -
+            type: bold
         text: 'can reveal volumes about the human condition'
       -
         type: text
-        text: ', is often best illuminated through the negative space around it — those foreign words so rich and layered in meaning that the English language, despite its own '
+        marks:
+          -
+            type: bold
+        text: ','
+      -
+        type: text
+        text: ' is often best illuminated through the negative space around it — those foreign words so rich and layered in meaning that the English language, despite its own '
       -
         type: text
         marks:
@@ -170,7 +184,7 @@ description:
         type: text
         text: '), published shortly before Sanders turned twenty-one.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718620975
+updated_at: 1718630251
 challenges:
   - inspiration
 date_published: '2014-09-16'
