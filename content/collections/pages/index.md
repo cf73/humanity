@@ -26,6 +26,6 @@ intro:
         type: text
         text: 'To that end, we have cross-referenced all of our content, inviting you to engage (or re-engage) your personal discovery of the best way to take action, to contribute your necessary piece of the puzzle towards ending war, solving climate change and saving democracy, be it working alone or in partnership. '
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718628786
+updated_at: 1718628792
 parent: home
 ---
