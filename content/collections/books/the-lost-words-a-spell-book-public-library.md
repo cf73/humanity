@@ -162,14 +162,15 @@ description:
         type: text
         text: 'Each word occupies three lavishly illustrated spreads: a poetic “summoning spell” in the form of an acrostic to conjure back the lost word in a rhythmic incantation composed to be read aloud, a wordless visual eulogy for its vanishment, and a typographic botany of letters spelling it “back into language, hearts, minds and landscape.”'
 challenges:
-  - kids
+  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718620788
+updated_at: 1718620888
 related_partner_initiatives:
   - f80aa9dd-80ba-474c-acaa-cc772f395ca7
 related_content:
   - 9f745ca2-f7b3-4cdb-b90d-d53a51262b7e
   - 33d5bca9-594d-474a-a22f-acca11802672
+  - bb741d00-8673-47f0-8869-cd36c404c92e
 book_author: 'Robert Macfarlane'
 date_published: '2018-10-02'
 link: 'https://www.amazon.com/Lost-Words-Robert-Macfarlane/dp/1487005385'
