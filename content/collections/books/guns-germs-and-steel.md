@@ -17,7 +17,16 @@ description:
         type: hardBreak
       -
         type: text
-        text: 'In this "artful, informative, and delightful" (William H. McNeill, New York Review of Books) book, Jared Diamond convincingly argues that geographical and environmental factors shaped the modern world. Societies that had a head start in food production advanced beyond the hunter-gatherer stage, and then developed writing, technology, government, and organized religion—as well as nasty germs and potent weapons of war—and adventured on sea and land to conquer and decimate preliterate cultures. A major advance in our understanding of human societies, '
+        text: 'In this "artful, informative, and delightful" book (William H. McNeill, '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'New York Review of Books'
+      -
+        type: text
+        text: '), Jared Diamond convincingly argues that geographical and environmental factors shaped the modern world. Societies that had a head start in food production advanced beyond the hunter-gatherer stage, and then developed writing, technology, government, and organized religion—as well as nasty germs and potent weapons of war—and adventured on sea and land to conquer and decimate preliterate cultures. A major advance in our understanding of human societies, '
       -
         type: text
         marks:
@@ -141,8 +150,8 @@ description:
         text: 'https://www.nybooks.com/articles/1997/06/26/guns-germs-and-steel/'
 challenges:
   - war
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717958439
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718618894
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
 related_content:
