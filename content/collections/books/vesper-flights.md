@@ -98,7 +98,19 @@ description:
         text: 'Vesper Flights'
       -
         type: text
-        text: " Helen Macdonald brings together a collection of her best loved essays, along with new pieces on topics ranging from nostalgia for a vanishing countryside to the tribulations of farming ostriches to her own private vespers while trying to fall asleep. Meditating on notions of captivity and freedom, immigration and flight, Helen invites us into her most intimate experiences: observing songbirds from the Empire State Building as they migrate through the Tribute of Light, watching tens of thousands of cranes in Hungary, seeking the last golden orioles in Suffolk's poplar forests. She writes with heart-tugging clarity about wild boar, swifts, mushroom hunting, migraines, the strangeness of birds' nests, and the unexpected guidance and comfort we find when watching wildlife. By one of this century's most important and insightful nature writers, "
+        text: ' Helen Macdonald brings together a collection of her best loved essays, along with new pieces on topics ranging from nostalgia for a vanishing countryside to the tribulations of farming ostriches to her own private vespers while trying to fall asleep. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Meditating on notions of captivity and freedom, immigration and flight, Helen invites us into her most intimate experiences: observing songbirds from the Empire State Building as they migrate through the Tribute of Light, watching tens of thousands of cranes in Hungary, seeking the last golden orioles in Suffolk's poplar forests. "
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "She writes with heart-tugging clarity about wild boar, swifts, mushroom hunting, migraines, the strangeness of birds' nests, and the unexpected guidance and comfort we find when watching wildlife. By one of this century's most important and insightful nature writers, "
       -
         type: text
         marks:
@@ -120,6 +132,6 @@ related_content:
   - c4e39c58-982d-4ffa-8cd0-16689135f9c7
   - e956626e-5095-4572-ba16-35a5918e8a54
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718625368
+updated_at: 1718625459
 book_author: 'Helen Macdonald'
 ---
