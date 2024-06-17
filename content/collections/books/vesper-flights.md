@@ -14,7 +14,7 @@ description:
         marks:
           -
             type: bold
-        text: 'Goodreads Choice Award:'
+        text: 'A "Goodreads Choice Award." Here''s their review:'
   -
     type: paragraph
     content:
@@ -119,7 +119,7 @@ related_content:
   - 2545b61b-962d-4296-ab2d-767255afbd12
   - c4e39c58-982d-4ffa-8cd0-16689135f9c7
   - e956626e-5095-4572-ba16-35a5918e8a54
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717960285
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718625368
 book_author: 'Helen Macdonald'
 ---
