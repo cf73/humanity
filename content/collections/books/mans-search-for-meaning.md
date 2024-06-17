@@ -11,7 +11,13 @@ description:
     content:
       -
         type: text
-        text: 'The book you’d hope every person on earth would read. About how even in the face of the unimaginable terror and inhumanity – the Holocaust — we still have a choice about how we respond. Here is Frankl’s own experience and conviction that we can still hold on to our dignity and humanity even when facing almost certain death.  (Jane Sloane)'
+        text: 'The book you’d hope every person on earth would read. About how even in the face of the unimaginable terror and inhumanity  --  the Holocaust  --  we still have a choice about how we respond. Here is Frankl’s own experience and conviction that we can still hold on to our dignity and humanity even when facing almost certain death.  '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '(Comment from my favorite Australian bibliophile and humanitarian, Jane Sloane. TB)'
 collection_type: book
 challenges:
   - war
@@ -19,7 +25,7 @@ related_partner_initiatives:
   - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
 related_content:
   - 360862f3-318f-4ecc-804e-8baf0d2558cd
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717958473
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718627393
 book_author: 'Victor Frankl'
 ---
