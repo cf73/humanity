@@ -23,6 +23,9 @@ description:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'A Version of Homer That Dares to Match Him Line for Line'
   -
     type: paragraph
@@ -31,7 +34,7 @@ description:
         type: text
         marks:
           -
-            type: bold
+            type: italic
         text: 'By Gregory Hays, Dec. 5, 2017'
   -
     type: paragraph
@@ -44,17 +47,7 @@ description:
         text: 'THE ODYSSEY  '
       -
         type: text
-        text: 'By Homer '
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Translated by Emily Wilson '
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '582 pp. W. W. Norton & Company'
+        text: 'By Homer, translated by Emily Wilson '
   -
     type: paragraph
     content:
@@ -437,7 +430,7 @@ challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718631916
+updated_at: 1718632442
 collection_type: book
 related_partner_initiatives:
   - 86161e36-7285-41a6-ba67-5a5f928fb1d1
