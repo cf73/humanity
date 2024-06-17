@@ -61,7 +61,8 @@ related_content:
   - 51726be6-7905-46a5-b6aa-c62d0c96eec7
   - 69de13ef-fc4b-4ae8-98f6-78f51af2e03f
   - 73acba4f-36be-4c72-b0ab-026ab9e66027
+  - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718060207
+updated_at: 1718627627
 book_author: 'Timothy Snyder'
 ---
