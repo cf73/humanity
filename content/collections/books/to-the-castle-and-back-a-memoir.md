@@ -61,13 +61,14 @@ collection_type: book
 challenges:
   - democracy
 related_partner_initiatives:
-  - 8e78665e-26d1-400e-8f6f-2391b9bfec84
+  - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
 related_content:
   - 3cc8f4c1-bcca-4142-8664-e0572beb84ea
   - fab94cb3-0c49-48a3-af62-e8ea16f88bc3
   - 427cfc9b-95f5-48a7-a80e-38dc04beb6e2
+  - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718065396
+updated_at: 1718627706
 date_published: '2007-01-01'
 book_author: 'Václav Havel'
 ---
