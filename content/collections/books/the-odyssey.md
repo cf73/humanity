@@ -418,12 +418,26 @@ description:
     content:
       -
         type: text
-        text: "For comparison, here is The Guardian's review three days later. "
+        text: "For comparison, here is The Guardian's review three days later: "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.theguardian.com/books/2017/dec/08/the-odyssey-translated-emily-wilson-review'
+              rel: null
+              target: null
+              title: null
+        text: 'https://www.theguardian.com/books/2017/dec/08/the-odyssey-translated-emily-wilson-review'
+      -
+        type: text
+        text: '. '
 challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718631752
+updated_at: 1718631791
 collection_type: book
 related_partner_initiatives:
   - 86161e36-7285-41a6-ba67-5a5f928fb1d1
