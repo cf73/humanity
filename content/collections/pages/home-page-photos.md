@@ -9,15 +9,30 @@ intro:
     content:
       -
         type: text
-        text: 'We urgently need a more profound commitment to working together, with respect and imagination, with kindness and love.'
+        text: 'We '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: urgently
+      -
+        type: text
+        text: ' need a more profound commitment to working together, with respect and imagination, with kindness and love.'
   -
     type: paragraph
     content:
       -
         type: text
         text: 'In this online oasis, The Humanity Initiative offers clarity and insight on our most crucial challenges, providing compelling inspiration for each of us to join in fostering a resurgent new voice of humanity.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'We do so with the aid of almost 300 women and men across the continents  --  cross-referencing their diverse contributions specifically to help launch your search for the best way to take action, to discover your own path into positive change.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718627876
+updated_at: 1718628169
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
