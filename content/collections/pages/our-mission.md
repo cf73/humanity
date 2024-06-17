@@ -4,7 +4,7 @@ blueprint: simple_page
 title: 'Our Mission'
 parent: e2c682f5-04cb-4b69-83f6-50cdbc6f2fa7
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718581602
+updated_at: 1718584247
 intro:
   -
     type: paragraph
@@ -50,5 +50,5 @@ intro:
     content:
       -
         type: text
-        text: "     We have chosen almost 300 women and men, from all ages and cultures, to guide and inspire this journey of becoming a changemaker  --  for community, country, or home planet.\_So please join us. Again, the world urgently needs you! "
+        text: "     We have chosen almost 300 women and men, from all ages and cultures, to guide and inspire this journey of becoming a changemaker  --  for community, country, or home planet.\_Please join us. Again, the world urgently needs you! "
 ---
