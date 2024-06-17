@@ -21,11 +21,15 @@ description:
 collection_type: book
 challenges:
   - war
+  - inspiration
 related_partner_initiatives:
   - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
 related_content:
   - 360862f3-318f-4ecc-804e-8baf0d2558cd
+  - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
+  - 9f09c216-ae44-4a47-badf-16a8ab75a311
+  - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718627393
+updated_at: 1718627525
 book_author: 'Victor Frankl'
 ---
