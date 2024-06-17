@@ -16,14 +16,19 @@ intro:
       -
         type: text
         text: 'In this online oasis, The Humanity Initiative offers clarity and insight on our most crucial challenges, providing compelling inspiration for each of us to join in fostering a resurgent new voice of humanity.'
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717000256
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718586232
 hero_images:
-  - image-1707487061.jpeg
   - image-1707483801.jpeg
-  - image-1707512137.jpeg
   - gandhi.jpeg
-  - c512911.jpeg
+  - humanity-first-cover.jpeg
+  - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
+  - c56715-1718585835.jpeg
+  - man-staring-up-at-aurora-1718585869.jpg
+  - bingwallpaper-copy-1718585898.jpg
+  - earth-photo-for-mission-page-1718585929.jpg
+  - 'girl-w:-dog.jpeg'
+  - three-sisters-1718586205.jpeg
 challenge:
   main_image: _132560870_nima-sarikhani.jpg-2.webp
 commencement_speeches_hero_images:
