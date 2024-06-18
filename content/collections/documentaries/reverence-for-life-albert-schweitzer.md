@@ -5,7 +5,7 @@ title: 'Reverence for Life: Albert Schweitzer'
 date_released: '2024-06-15'
 director: mmm
 url_to_watch: 'https://www.youtube.com/watch?v=-FAhL-lNLY0&t=3383s'
-image: image-1718716006.jpeg
+image: image-1718716094.jpeg
 description:
   -
     type: paragraph
@@ -24,13 +24,13 @@ description:
     content:
       -
         type: text
-        text: 'Twenty years ago (a decade after launching The Humanity Initiative), in reading a dozen books by and about Dr. Schweitzer, my research for writing a play about him, I realized that bringing his deep humanitarianism and wisdom back to the forefront of our consciousness  might well be the best contribution I could possibly make. '
+        text: 'Twenty years ago, a decade after launching The Humanity Initiative, in reading a dozen books by and about Dr. Schweitzer (research for writing a play about him), I realized that bringing his deep humanitarianism and wisdom back to the forefront of our consciousness might well be the best contribution I could possibly make. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'I still believe that. So I urge everyone who comes across ourhumanity.org to watch this film as easy introduction to a man embodied "reverence for life." And I must add that the film misses the important subtlety that the German word for reverence, errfrucht, also means "awe". Dr. Scheweitzer was making the case, recommending both "reverence" and "awe," for each one of us to recognize the immense gift that life is and how we must act to preserve it, for each of us, every day. '
+        text: 'I still believe that. So I urge you to watch this film as easy introduction to a man who embodied "reverence for life." And I must add that the film misses the important subtlety that the German word for reverence, as errfrucht, also means "awe". Dr. Scheweitzer was making the case, recommending both "reverence" and "awe," for each one of us to recognize the immense gift that life is and how we must act to preserve it, for each of us, every day. '
   -
     type: paragraph
     content:
@@ -51,5 +51,5 @@ related_content:
   - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
   - 12d25b96-227c-4eb6-9b38-f298b55533be
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718716015
+updated_at: 1718716232
 ---
