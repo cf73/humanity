@@ -30,7 +30,7 @@ description:
     content:
       -
         type: text
-        text: 'I still believe that. So I urge you to watch this film as easy introduction to a man who embodied "reverence for life." And I must add that the film misses the important subtlety that the German word for reverence, as errfrucht, also means "awe". Dr. Scheweitzer was making the case, recommending both "reverence" and "awe," for each one of us to recognize the immense gift that life is and how we must act to preserve it, for each of us, every day. '
+        text: 'I still believe that. So I urge you to watch this film as easy introduction to a man who embodied "reverence for life." And I must add that the film misses an important subtlety: the German word for reverence, ehrfurcht, also means "awe". Dr. Scheweitzer was making the case  -  recommending both "reverence" and "awe"  --  for each of us to embrace the immense gift that life is and to act to preserve it, for all sentient beings, everywhere, every day. '
   -
     type: paragraph
     content:
@@ -51,5 +51,5 @@ related_content:
   - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
   - 12d25b96-227c-4eb6-9b38-f298b55533be
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718716232
+updated_at: 1718716515
 ---
