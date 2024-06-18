@@ -3,7 +3,7 @@ id: ebb8266c-725e-42b6-8d35-db2b3622e36e
 blueprint: documentary
 title: 'Reverence for Life: Albert Schweitzer'
 date_released: '2024-06-15'
-director: mmm
+director: 'Jeroen Krabbe'
 url_to_watch: 'https://www.youtube.com/watch?v=-FAhL-lNLY0&t=3383s'
 image: image-1718716094.jpeg
 description:
@@ -51,5 +51,5 @@ related_content:
   - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
   - 12d25b96-227c-4eb6-9b38-f298b55533be
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718716515
+updated_at: 1718716620
 ---
