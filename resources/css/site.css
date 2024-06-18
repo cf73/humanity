@@ -10,13 +10,13 @@
         color: #3f3f47;
     }
     h1 {
-        @apply font-josephin font-extralight tracking-tight leading-none text-6xl;
+        @apply font-josephin font-extralight tracking-tight leading-tight text-6xl ;
     }
     h2 {
         @apply text-4xl font-josephin font-extrabold leading-snug antialiased;
     }
     h3 {
-        @apply text-2xl font-josephin font-bold leading-normal antialiased;
+        @apply text-3xl font-josephin font-semibold leading-tight antialiased;
     }
     h6 {
         @apply text-2xl tracking-wide text-yellow-600 font-serif leading-normal prose prose-zinc subpixel-antialiased;
@@ -28,10 +28,10 @@
         @apply font-josephin font-light text-2xl leading-normal;
     }
     a {
-        @apply text-tape hover:underline underline-offset-8;
+        @apply text-skyStrong2 hover:underline underline-offset-8;
     }
     .textMeta {
-        @apply uppercase font-josephin font-extrabold tracking-widest prose prose-zinc;
+        @apply uppercase font-josephin text-xs font-bold text-skyStrong2 tracking-widest w-fit;
     }
     .textMain {
         @apply font-serif prose prose-zinc mx-auto lg:prose-xl;
@@ -49,10 +49,10 @@
 
 @layer components {
     .btn-primary {
-        @apply font-josephin font-semibold text-xl prose prose-zinc tracking-wider border-2 border-current rounded-full px-8 py-2 bg-highlighter hover:tracking-widest transition-all w-fit;
+        @apply font-josephin font-semibold text-xl text-white tracking-wider border-2 border-current rounded-full px-8 py-2 bg-skyStrong2 hover:tracking-widest transition-all w-fit;
     }
     .btn-secondary {
-        @apply font-josephin font-semibold text-xl prose prose-zinc tracking-wider border-2 border-current rounded-full px-8 py-2 hover:tracking-widest hover:bg-highlighter transition-all w-fit;
+        @apply font-josephin font-semibold text-xl text-white tracking-wider border-2 border-current rounded-full px-8 py-2 hover:tracking-widest hover:bg-skyStrong2 transition-all w-fit;
     }
 }
 

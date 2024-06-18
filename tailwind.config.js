@@ -28,7 +28,8 @@ export default {
                 
                 'sky': '#d6f6ff',
                 'skyStrong': '#b5ebfa',
-                'skyStrong2': '#3f75b1',
+                'skyStrong2': '#0072ff',
+                'cloud': '#eef8f8',
                 
                 'darkpink': 'rgb(168 145 161 / 90%)',
                 'khaki': '#859d44',
