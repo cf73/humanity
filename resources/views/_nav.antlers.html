@@ -1,4 +1,4 @@
-<header id="ribbon" class="w-full h-20 fixed z-50 backdrop-blur-lg bg-darkblack">
+<!-- <header id="ribbon" class="w-full h-20 fixed z-50 backdrop-blur-lg bg-darkblack">
     <div class="container h-full mx-auto items-center grid grid-cols-3 h-16">
         <nav class="space-x-12 text-white/60 font-bold text-sm uppercase tracking-widest">
             {{ nav:left_nav }}
@@ -17,23 +17,43 @@
             <a href="{{url}}"><button class="border-white mb-0 font-semibold text-lg tracking-widest p-2 px-8 text-warmwhite backdrop-blur-lg">Donate</button></a>
         </nav>
     </div>
-</header>
+</header> -->
 
 
-<div class="h-[100vh] w-[100vw] fixed top-0 left-0 bg-red-300 z-50">
-    <div class="flex flex-col justify-center p-16">
-        <nav class="space-x-12 text-white/60 font-bold text-sm tracking-widest">
-            <ul>
-                {{ nav:left_nav }}
-                <li class="text-4xl mb-16">
-                    <a href="{{url}}">
-                        {{title}}
-                    </a>
-                </li>
-            {{/nav:left_nav}}
-            </ul>
-            
+<div class="h-[30vh] w-[100vw] fixed top-0 left-0 bg-cloud z-50 grid grid-cols-3">
+    <div class="flex flex-col p-16">
+        <nav class="space-x-12 font-bold text-sm tracking-widest">
+            <a href="/"><img src="assets/humanity-logo.png" alt="Humanity Logo"></a>
         </nav>
     </div>
-    <div class="flex flex-col justify-center p-16"></div>
+    <div class="flex flex-col p-16">
+        <nav class="space-x-12 font-bold text-sm tracking-widest">
+            <div class="textMeta">Challenges</div>
+            {{ nav:left_nav }}
+                <a href="{{url}}">
+                    <h2>{{title}}</h2>
+                </a>
+            {{/nav:left_nav}}
+        </nav>
+    </div>
+    <div class="flex flex-col p-16">
+        <nav class="space-x-12 font-bold text-sm tracking-widest">
+            <div class="textMeta">Sections</div>
+            {{ nav:sections_nav }}
+                <a href="{{url}}">
+                    <h2>{{title}}</h2>
+                </a>
+            {{/nav:sections_nav}}
+        </nav>
+    </div>
+    <div class="flex flex-col p-16">
+        <nav class="space-x-12 font-bold text-sm tracking-widest">
+            <div class="textMeta">Take Action</div>
+            {{ nav:action_nav }}
+                <a href="{{url}}">
+                    <h2>{{title}}</h2>
+                </a>
+            {{/nav:action_nav}}
+        </nav>
+    </div>
 </div>
