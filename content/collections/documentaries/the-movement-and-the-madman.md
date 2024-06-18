@@ -13,6 +13,24 @@ description:
     content:
       -
         type: text
+        text: 'As introduced on PBS American Experience:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '"The Movement and the “Madman” shows how two antiwar protests in the fall of 1969 — the largest the country had ever seen — pressured President Nixon to cancel what he called his “madman” plans for a massive escalation of the U.S. war in Vietnam, including a threat to use nuclear weapons. At the time, protestors had no idea how influential they could be and how many lives they may have saved.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '"Told through remarkable archival footage and firsthand accounts from movement leaders, Nixon administration officials, historians, and others, the film explores how the leaders of the antiwar movement mobilized disparate groups from coast to coast to create two massive protests that changed history."'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'HOW TO SEE THE FILM NOW (a note from Steve Talbot):'
   -
     type: paragraph
@@ -55,5 +73,5 @@ related_partner_initiatives:
 related_content:
   - f74e61ed-bc0b-412d-8cbf-8d635097efe8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717863363
+updated_at: 1718710652
 ---
