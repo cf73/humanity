@@ -1,7 +1,7 @@
 ---
 id: ebb8266c-725e-42b6-8d35-db2b3622e36e
 blueprint: documentary
-title: 'Reverence for Life: Albert Schweitzer'
+title: 'Albert Schweitzer:  Reverence for Life'
 date_released: '2024-06-15'
 director: 'Gavin Millar'
 url_to_watch: 'https://www.youtube.com/watch?v=-FAhL-lNLY0&t=3383s'
@@ -18,13 +18,13 @@ description:
     content:
       -
         type: text
-        text: 'Twenty years ago, a decade after launching The Humanity Initiative, in reading a dozen books by and about Dr. Schweitzer (research for writing a play about him), I realized that bringing his voice, his deep humanitarianism and wisdom, back to the forefront of our consciousness would be a worthy contribution to humanity.'
+        text: "In 2001, fifteen years after launching The Humanity Initiative, while researching for a play about him, I decided that trying to bring the Good Doctor's voice  --  his deep humanitarianism and wisdom  --  back to the forefront of humanity's consciousness would be a worthy effort."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'I still believe that and urge you to watch this well-produced film as easy introduction to a man who embodied "reverence for life," the well-known hallmark of his philosophy.'
+        text: 'I still believe that and urge you to watch this well-produced film as easy introduction to a man who embodied "reverence for life," that well-known hallmark of his philosophy.'
   -
     type: paragraph
     content:
@@ -51,5 +51,5 @@ related_content:
   - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
   - 12d25b96-227c-4eb6-9b38-f298b55533be
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718724594
+updated_at: 1718725185
 ---
