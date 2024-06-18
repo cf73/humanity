@@ -40,7 +40,16 @@ description:
     content:
       -
         type: text
-        text: "First published in Portuguese in 1968, Pedagogy of the Oppressed was translated and published in English in 1970. Paulo Freire's work has helped to empower countless people throughout the world and has taken on special urgency in the United States and Western Europe, where the creation of a permanent underclass among the underprivileged and minorities in cities and urban centers is ongoing."
+        text: 'First published in Portuguese in 1968, Pedagogy of the Oppressed was translated and published in English in 1970. '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "Paulo Freire's work has helped to empower countless people throughout the world"
+      -
+        type: text
+        text: ' and has taken on special urgency in the United States and Western Europe, where the creation of a permanent underclass among the underprivileged and minorities in cities and urban centers is ongoing.'
       -
         type: hardBreak
       -
@@ -59,7 +68,8 @@ related_content:
   - 69de13ef-fc4b-4ae8-98f6-78f51af2e03f
   - b2ff7ad9-8bbe-4d9c-84b8-f2bd8b6ae601
   - e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717958579
+  - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718630506
 book_author: 'Paulo Freire'
 ---

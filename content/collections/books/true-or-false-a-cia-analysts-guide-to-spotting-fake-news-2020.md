@@ -22,7 +22,7 @@ description:
         marks:
           -
             type: italic
-        text: '--The Washington Post'
+        text: '-- The Washington Post'
 collection_type: book
 challenges:
   - democracy
@@ -33,8 +33,9 @@ related_content:
   - 3b334a81-f6d2-4f3b-ab0f-d09bb350cb09
   - a92555a1-da6e-4db9-9054-ca26749a9664
   - e54b2bff-1b54-4253-b275-546153a9f6cd
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717960277
+  - bd8e76be-8769-4deb-94d4-3345b5477b38
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718625661
 date_published: '2020-01-01'
 book_author: 'Cindy L. Otis'
 ---

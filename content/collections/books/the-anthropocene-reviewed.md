@@ -60,12 +60,13 @@ challenges:
   - war
 related_partner_initiatives:
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
+  - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
 related_content:
   - 0ac2ceeb-3da0-44c4-921b-3897f491e659
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
   - 1c000538-36cf-4ba4-b129-f70a7a8ba51b
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718063925
+updated_at: 1718630025
 book_author: 'John Green'
 ---

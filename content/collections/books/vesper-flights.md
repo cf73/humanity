@@ -14,7 +14,7 @@ description:
         marks:
           -
             type: bold
-        text: 'Goodreads Choice Award:'
+        text: 'A "Goodreads Choice Award." Here''s their review:'
   -
     type: paragraph
     content:
@@ -98,7 +98,19 @@ description:
         text: 'Vesper Flights'
       -
         type: text
-        text: " Helen Macdonald brings together a collection of her best loved essays, along with new pieces on topics ranging from nostalgia for a vanishing countryside to the tribulations of farming ostriches to her own private vespers while trying to fall asleep. Meditating on notions of captivity and freedom, immigration and flight, Helen invites us into her most intimate experiences: observing songbirds from the Empire State Building as they migrate through the Tribute of Light, watching tens of thousands of cranes in Hungary, seeking the last golden orioles in Suffolk's poplar forests. She writes with heart-tugging clarity about wild boar, swifts, mushroom hunting, migraines, the strangeness of birds' nests, and the unexpected guidance and comfort we find when watching wildlife. By one of this century's most important and insightful nature writers, "
+        text: ' Helen Macdonald brings together a collection of her best loved essays, along with new pieces on topics ranging from nostalgia for a vanishing countryside to the tribulations of farming ostriches to her own private vespers while trying to fall asleep. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Meditating on notions of captivity and freedom, immigration and flight, Helen invites us into her most intimate experiences: observing songbirds from the Empire State Building as they migrate through the Tribute of Light, watching tens of thousands of cranes in Hungary, seeking the last golden orioles in Suffolk's poplar forests. "
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "She writes with heart-tugging clarity about wild boar, swifts, mushroom hunting, migraines, the strangeness of birds' nests, and the unexpected guidance and comfort we find when watching wildlife. By one of this century's most important and insightful nature writers, "
       -
         type: text
         marks:
@@ -111,6 +123,7 @@ description:
 collection_type: book
 challenges:
   - inspiration
+  - climate
 related_partner_initiatives:
   - 643b298b-448c-44d4-841f-cdbcd7b03dcd
 related_content:
@@ -119,7 +132,7 @@ related_content:
   - 2545b61b-962d-4296-ab2d-767255afbd12
   - c4e39c58-982d-4ffa-8cd0-16689135f9c7
   - e956626e-5095-4572-ba16-35a5918e8a54
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717960285
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718625519
 book_author: 'Helen Macdonald'
 ---

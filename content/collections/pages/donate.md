@@ -1,10 +1,55 @@
 ---
 id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
-title: Donate
+title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1715214766
+updated_at: 1718585286
 intro:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "We have dedicated every nuance of this site to creating comprehensive and urgent action around humanity’s major challenges. As THI’s more than 290 contributors and 30 partners express here in so many compelling ways, each of us must act\_ --\_ and we must do so\_"
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: now!
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Our goal is to bring this message to every community and village across the continents, not only through this web site, but also through our peace gatherings, partnerships, and both traditional and social media, engendering a planet-wide enlightenment of understanding and action.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'We need your help to create this necessary outreach, so here’s our plea, personally delivered by Jacqueline (of TeamHumanity) a few weeks ago in Glastonbury, England, at the heart chakra of the planet:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '(see attached video)'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please donate now. '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Please help us engage this urgent effort to rescue our humanity and our home planet. '
+      -
+        type: text
+        text: 'Thank you!'
   -
     type: paragraph
     content:
@@ -13,87 +58,30 @@ intro:
         marks:
           -
             type: bold
-        text: 'THE HUMANITY INITIATIVE'
+        text: "TeamHumanity\_\_"
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:peace@humanity.org'
-              rel: 'noreferrer noopener'
-              target: _blank
-              title: null
-          -
-            type: italic
-        text: peace@humanity.org
+        text: 'Tony Balis (USA), Conrad Fulbrook (England), Kylie Janssens (South Africa), Jacqueline Wigglesworth (England). '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Since 1984, THI’s mission has been to encourage us to understand this planet as our common home. Now, more than ever, we must act on that necessary enlightenment.'
+        text: 'THI is a 501(c)(3), so all donations are tax deductible in the United States..'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We offer this digital oasis both as insight on Earth’s major challenges and as inspiration to fine tune our personal journeys towards helping solve them. Consider this an emergency town meeting for the planet, a crucial conversation with the world.'
+        text: "\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Throughout this site, as we highlight the inspiring efforts of those in the trenches of positive change and at the forefront of civilization, we also champion those who make quieter but equally positive changes every day in every distant neighborhood.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Not least, recognizing that humanity’s most critical challenge is to end war, we have designed a blueprint for grass roots peace gatherings across the continents  --  intent, not least, on countering fascism at every turn with resolute and engaging humanism.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Please join us in fostering understanding and action, in rescuing our humanity!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.paypal.com/donate/?hosted_button_id=GSUQHNBGQUE52'
-              rel: 'noreferrer noopener'
-              target: _blank
-              title: null
-        text: 'Donate Here'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Thank you for your kindness and generosity.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Tony Balis (USA, founder and president), Conrad Fulbrook (England), Kylie Janssens (South Africa), Shashi Tharoor (India), Jacqueline Wigglesworth (England), Wilford Welch (USA). '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The Humanity Initiative is a 501(c)(3). Your donations are fully tax-deductible in the United States.'
+        text: "\_"
 parent: home
 ---

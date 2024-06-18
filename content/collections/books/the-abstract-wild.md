@@ -10,35 +10,59 @@ description:
     content:
       -
         type: text
-        text: 'If anything is endangered in America it is our experience of wild nature—gross contact. There is knowledge only the wild can give us, knowledge specific to it, knowledge specific to the experience of it. These are its gifts to us.'
+        text: '"If anything is endangered in America it is our experience of wild nature — gross contact. There is knowledge only the wild can give us, knowledge specific to it, knowledge specific to the experience of it. These are its gifts to us.'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: "How wild is wilderness and how wild are our experiences in it, asks Jack Turner in the pages of The Abstract Wild. His answer: not very wild. National parks and even so-called wilderness areas fall far short of offering the primal, mystic connection possible in wild places. And this is so, Turner avows, because any managed land, never mind what it's called, ceases to be wild. Moreover, what little wildness we have left is fast being destroyed by the very systems designed to preserve it."
+        text: '"How wild is wilderness and how wild are our experiences in it, asks Jack Turner in the pages of '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Abstract Wild'
+      -
+        type: text
+        text: ". His answer: not very wild. National parks and even so-called wilderness areas fall far short of offering the primal, mystic connection possible in wild places. And this is so, Turner avows, because any managed land, never mind what it's called, ceases to be wild. Moreover, what little wildness we have left is fast being destroyed by the very systems designed to preserve it."
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Natural resource managers, conservation biologists, environmental economists, park rangers, zoo directors, and environmental activists: Turner''s new book takes aim at these and all others who labor in the name of preservation. He argues for a new conservation ethic that focuses less on preserving things and more on preserving process and "leaving things be." He takes off after zoos and wilderness tourism with a vengeance, and he cautions us to resist language that calls a tree "a resource" and wilderness "a management unit."'
+        text: '"Natural resource managers, conservation biologists, environmental economists, park rangers, zoo directors, and environmental activists: Turner''s new book takes aim at these and all others who labor in the name of preservation. He argues for a new conservation ethic that focuses less on preserving things and more on preserving process and "leaving things be." He takes off after zoos and wilderness tourism with a vengeance, and he cautions us to resist language that calls a tree "a resource" and wilderness "a management unit."'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Eloquent and fast-paced, The Abstract Wild takes a long view to ask whether ecosystem management isn''t "a bit of a sham" and the control of grizzlies and wolves "at best a travesty." Next, the author might bring his readers up-close for a look at pelicans, mountain lions, or Shamu the whale. From whatever angle, Turner stirs into his arguments the words of dozens of other American writers including Thoreau, Hemingway, Faulkner, and environmentalist Doug Peacock.'
+        text: '"Eloquent and fast-paced, '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Abstract Wild'
+      -
+        type: text
+        text: ' takes a long view to ask whether ecosystem management isn''t "a bit of a sham" and the control of grizzlies and wolves "at best a travesty." Next, the author might bring his readers up-close for a look at pelicans, mountain lions, or Shamu the whale. From whatever angle, Turner stirs into his arguments the words of dozens of other American writers including Thoreau, Hemingway, Faulkner, and environmentalist Doug Peacock.'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'We hunger for a kind of experience deep enough to change our selves, our form of life, writes Turner. Readers who take his words to heart will find, if not their selves, their perspectives on the natural world recast in ways that are hard to ignore and harder to forget.'
+        text: '"We hunger for a kind of experience deep enough to change our selves, our form of life, writes Turner. Readers who take his words to heart will find, if not their selves, their perspectives on the natural world recast in ways that are hard to ignore and harder to forget."'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '(n.b. This is the Amazon.com review)'
 collection_type: book
 challenges:
   - climate
@@ -47,8 +71,8 @@ related_partner_initiatives:
   - 643b298b-448c-44d4-841f-cdbcd7b03dcd
 related_content:
   - abe90cd8-e74f-48d1-95cb-1c141bf6adb3
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717959269
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718619426
 book_author: 'Jack Turner'
 date_published: '1996-09-01'
 ---

@@ -9,6 +9,15 @@ description:
     content:
       -
         type: text
+        marks:
+          -
+            type: italic
+        text: 'The amazon.com review:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.” '
   -
     type: paragraph
@@ -32,8 +41,8 @@ challenges:
   - war
   - democracy
   - climate
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717958979
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718632084
 collection_type: book
 book_author: 'Yuval Noah Harari'
 date_published: '2015-02-10'
