@@ -3,7 +3,7 @@ id: 7b3bacfd-6f96-43ba-8058-e39965628705
 blueprint: documentary
 title: 'The Movement and the Madman'
 date_released: '2023-06-15'
-director: 'Steve Talbot (Wesleyan 1970!)'
+director: 'Steve Talbot (Wesleyan 1970 classmate!)'
 url_to_watch: 'https://www.youtube.com/watch?v=PfhHcq-IUQo&t=2s'
 url_to_buy: 'https://www.movementandthemadman.com'
 image: image-1716855629.jpeg
@@ -73,5 +73,5 @@ related_partner_initiatives:
 related_content:
   - f74e61ed-bc0b-412d-8cbf-8d635097efe8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718710652
+updated_at: 1718710857
 ---
