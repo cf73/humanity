@@ -12,13 +12,7 @@ description:
     content:
       -
         type: text
-        text: '"You''re right. Maybe I am in the wrong century." Albert Schweitzer ponders in the midst of this biopic. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Ah, no, Dr. Schweiter, I would reply, it is the century that is listening to the wrong voices. '
+        text: '"You''re right. Maybe I am in the wrong century." Albert Schweitzer ponders in the midst of this biopic. Ah, no, Dr. Schweiter, I would reply, it is the century that is listening to the wrong voices. '
   -
     type: paragraph
     content:
@@ -30,13 +24,13 @@ description:
     content:
       -
         type: text
-        text: 'I still believe that and I urge you to watch this film as easy introduction to a man who embodied "reverence for life." I must add that the film misses an important subtlety: the German word for reverence, ehrfurcht, also means "awe." '
+        text: 'I still believe that and urge you to watch this well-produced film as easy introduction to a man who embodied "reverence for life," the well-known hallmark of his philosophy.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Dr. Scheweitzer was making the crucial case for each of us to embrace the immense gift that life is and to act to preserve it, for all sentient beings, everywhere, every day. '
+        text: 'But the film does miss an important subtlety: the German word for reverence, ehrfurcht, also means "awe." Dr. Schweitzer was making the crucial case for each of us to embrace the immense gift that life is and to act to preserve it, for all sentient beings, everywhere, every day. '
   -
     type: paragraph
     content:
@@ -57,5 +51,5 @@ related_content:
   - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
   - 12d25b96-227c-4eb6-9b38-f298b55533be
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718716967
+updated_at: 1718717556
 ---
