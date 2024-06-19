@@ -8,7 +8,8 @@ collection_type: poetry-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718797748
+updated_at: 1718799343
+poets_website: 'https://www.poetryfoundation.org/articles/70274/in-search-of-desiderata'
 content:
   -
     type: paragraph
