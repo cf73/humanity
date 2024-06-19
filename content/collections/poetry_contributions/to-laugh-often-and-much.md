@@ -3,13 +3,12 @@ id: a01f7e10-c6ea-496b-ac1d-ef939cdf3425
 blueprint: poetry_contribution
 title: 'To Laugh Often And Much'
 poets_name: 'Ralph Waldo Emerson'
-poets_website: unknown
 image: image-1716261149.jpeg
 collection_type: poetry-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1716261393
+updated_at: 1718798076
 content:
   -
     type: paragraph
