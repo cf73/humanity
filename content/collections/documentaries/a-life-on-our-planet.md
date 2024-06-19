@@ -26,8 +26,8 @@ description:
       -
         type: text
         text: 'He calls it his “witness statement.” It is a sobering and necessary yet hopeful investigation of the actions to which all of us now must commit our minds and hearts in full measure.'
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1715962891
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718836115
 collection_type: documentaries
 challenges:
   - climate
@@ -36,5 +36,8 @@ related_partner_initiatives:
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
 related_content:
   - 88759a51-a4d2-4521-bb58-457a631cf773
-  - 8c206ac9-1b59-49e5-9e1d-6454a86204c5
+  - 0ac2ceeb-3da0-44c4-921b-3897f491e659
+  - 9f09c216-ae44-4a47-badf-16a8ab75a311
+  - 263accbc-caa0-48eb-964e-dccc457c29cc
+  - b6024468-0b3f-4752-9de3-f5141560c0f6
 ---
