@@ -3,13 +3,13 @@ id: 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
 blueprint: poetry_contribution
 title: 'A Conference in Time'
 poets_name: 'Ursula K. le Guin'
-image: image-1710114430.jpeg
+image: image-1718799127.jpeg
 collection_type: poetry-contribution
 challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718797461
+updated_at: 1718799144
 content:
   -
     type: paragraph
