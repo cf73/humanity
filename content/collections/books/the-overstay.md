@@ -12,7 +12,7 @@ description:
         marks:
           -
             type: bold
-        text: 'Review by Barbara Kingsolver, April 9, 2018'
+        text: 'Review by Barbara Kingsolver, April 9, 2018:'
   -
     type: paragraph
     content:
@@ -80,8 +80,8 @@ description:
         text: (continued)
 challenges:
   - climate
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717960094
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718822773
 related_partner_initiatives:
   - 5b08c208-5356-4878-b3be-a9b91e1f383c
 related_content:
