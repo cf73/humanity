@@ -7,8 +7,7 @@ image: image-1708996604.jpeg
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718797315
-poets_website: unk
+updated_at: 1718797336
 collection_type: poetry-contribution
 content:
   -
