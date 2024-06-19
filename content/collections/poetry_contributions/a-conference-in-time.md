@@ -9,7 +9,8 @@ challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718799144
+updated_at: 1718799163
+poets_website: 'https://www.poetryfoundation.org/poets/ursula-k-le-guin'
 content:
   -
     type: paragraph
