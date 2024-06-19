@@ -8,7 +8,7 @@ collection_type: poetry-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718797690
+updated_at: 1718797713
 content:
   -
     type: paragraph
@@ -27,10 +27,14 @@ content:
         text: '     Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         text: '     Speak your truth quietly and clearly; and listen to others, even to the dull and the ignorant; they too have their story.'
+  -
+    type: paragraph
   -
     type: paragraph
     content:
