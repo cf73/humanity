@@ -3,12 +3,13 @@ id: 74933fc9-1205-456b-b9c3-562b941d6a46
 blueprint: poetry_contribution
 title: 'Love After Love'
 poets_name: 'Derek Walcott'
-image: image-1708996604.jpeg
+image: image-1718799758.jpeg
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718797336
+updated_at: 1718799766
 collection_type: poetry-contribution
+poets_website: 'https://www.poetryfoundation.org/poets/derek-walcott'
 content:
   -
     type: paragraph
