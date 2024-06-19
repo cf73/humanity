@@ -9,7 +9,8 @@ challenges:
   - inspiration
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718798172
+updated_at: 1718800530
+poets_website: 'https://www.poetryfoundation.org/poets/rabindranath-tagore'
 content:
   -
     type: paragraph
