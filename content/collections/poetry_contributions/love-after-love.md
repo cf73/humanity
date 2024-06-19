@@ -7,7 +7,7 @@ image: image-1708996604.jpeg
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712595208
+updated_at: 1718797315
 poets_website: unk
 collection_type: poetry-contribution
 content:
@@ -16,6 +16,9 @@ content:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'Love After Love'
   -
     type: paragraph
@@ -23,6 +26,8 @@ content:
       -
         type: text
         text: 'By Derek Walcott'
+  -
+    type: paragraph
   -
     type: paragraph
     content:
