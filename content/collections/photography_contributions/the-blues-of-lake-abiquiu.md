@@ -1,9 +1,9 @@
 ---
 id: 6ee9b5c9-6951-42ea-8b72-740b29d9fd59
 blueprint: photography_contribution
-title: 'The Blues of Lake Abiquiu, New Mexico'
+title: 'The blues of Lake Abiquiu, New Mexico'
 photographer_name: 'Tony Balis'
-photographer_website: www.humanity.org
+photographer_website: www.ourhumanity.org
 image: image-1707926577.jpeg
 collection_type: photography-contribution
 description:
@@ -16,5 +16,5 @@ description:
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711563416
+updated_at: 1718840568
 ---
