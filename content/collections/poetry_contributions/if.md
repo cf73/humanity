@@ -3,12 +3,12 @@ id: 10ee1f27-171d-4e41-8dbb-16f4c788d07a
 blueprint: poetry_contribution
 title: If
 poets_name: 'Rudyard Kipling'
-image: man-staring-up-at-aurora-1716550840.jpg
+image: image-1718799459.jpeg
 collection_type: poetry-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718799400
+updated_at: 1718799491
 poets_website: 'https://www.poetryfoundation.org/poets/rudyard-kipling'
 content:
   -
