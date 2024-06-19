@@ -11,7 +11,7 @@ description:
     content:
       -
         type: text
-        text: 'On a cold December evening in the back streets of Beijing, it took me two or three tries to successfully encourage this woman to smile and indicate to me it was okay to take her photo. '
+        text: 'On a cold December evening in the back streets of Beijing, it took me two or three tries to successfully encourage this woman to smile, to indicate it was okay to take her photo. '
   -
     type: paragraph
     content:
@@ -22,5 +22,5 @@ collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718840757
+updated_at: 1718840788
 ---
