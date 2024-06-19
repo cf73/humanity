@@ -7,7 +7,7 @@ image: unknown-1.jpeg
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718797938
+updated_at: 1718798001
 collection_type: poetry-contribution
 content:
   -
@@ -129,6 +129,8 @@ content:
           -
             type: italic
         text: 'It tolls for thee.'
+  -
+    type: paragraph
   -
     type: paragraph
     content:
