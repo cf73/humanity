@@ -19,7 +19,7 @@ description:
     content:
       -
         type: text
-        text: 'The world is fortunate for the wise and heartfelt voice of this 94-year-old naturalist, broadcaster and humanist. He not only clarifies Earth’s climate crisis; he also delineates clear solutions, as in his must-see film, A Life on the Planet.'
+        text: 'The world is fortunate for the wise and heartfelt voice of this now 98-year-old naturalist, broadcaster and humanist. He not only clarifies Earth’s climate crisis; he also delineates clear solutions, as in his must-see film, A Life on the Planet.'
   -
     type: paragraph
     content:
@@ -27,7 +27,7 @@ description:
         type: text
         text: 'He calls it his “witness statement.” It is a sobering and necessary yet hopeful investigation of the actions to which all of us now must commit our minds and hearts in full measure.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718839770
+updated_at: 1718839996
 collection_type: documentaries
 challenges:
   - climate
