@@ -1,7 +1,7 @@
 ---
 id: 81b4fdda-a144-4f7b-82fe-d0a51dc8a90f
 blueprint: photography_contribution
-title: 'Ode to Humanity'
+title: "Jimmy Nelson's Homage to Humanity"
 photographer_name: 'Jimmy Nelson'
 photographer_website: www.jimmynelson.com
 image: c51292-1718891500.jpeg
@@ -17,10 +17,10 @@ description:
     content:
       -
         type: text
-        text: 'His now famous record of vanishing tribes across the planet is called "Ode to Humanity."  He even has invented a Humanity Game:  https://jimmynelsonfoundation.com/news/the-humanity-game/.'
+        text: 'His now famous record of vanishing tribes across the planet is called Homage to Humanity (https://www.youtube.com/watch?v=_4kvHRNQ1Zg). He even has invented a Humanity Game:  https://jimmynelsonfoundation.com/news/the-humanity-game/.'
 collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718892242
+updated_at: 1718892448
 ---
