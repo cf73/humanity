@@ -12,7 +12,13 @@ description:
     content:
       -
         type: text
-        text: 'ON A QUEST FOR INSPIRATION'
+        text: "In Charlotte's words:"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'A QUEST FOR INSPIRATION'
   -
     type: paragraph
     content:
@@ -48,5 +54,5 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1709756479
+updated_at: 1718842017
 ---
