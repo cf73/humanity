@@ -7,19 +7,22 @@
 
 @layer base {
     body {
-        color: #3f3f47;
+        @apply text-cetaceanBlue font-josephin font-normal;
+    }
+    .display {
+        @apply font-josephin font-extralight tracking-tight leading-tight text-9xl text-atomicTangerine;
     }
     h1 {
-        @apply font-josephin font-extralight tracking-tight leading-tight text-6xl ;
+        @apply font-josephin font-semibold leading-tight text-5xl;
     }
     h2 {
-        @apply text-4xl font-josephin font-extrabold leading-snug antialiased;
+        @apply text-5xl font-josephin font-medium leading-tight antialiased;
     }
     h3 {
-        @apply text-3xl font-josephin font-semibold leading-tight antialiased;
+        @apply text-2xl font-josephin font-semibold leading-tight antialiased;
     }
     h6 {
-        @apply text-2xl tracking-wide text-yellow-600 font-serif leading-normal prose prose-zinc subpixel-antialiased;
+        @apply text-2xl tracking-wide text-yellow-600 font-serif leading-normal prose prose-sky subpixel-antialiased;
     }
     h4 {
         @apply text-xl font-josephin tracking-wider antialiased w-fit;
@@ -28,106 +31,36 @@
         @apply font-josephin font-light text-2xl leading-normal;
     }
     a {
-        @apply text-skyStrong2 hover:underline underline-offset-8;
+        @apply text-buttonBlue hover:underline underline-offset-8;
     }
     .textMeta {
-        @apply uppercase font-josephin text-xs font-bold text-skyStrong2 tracking-widest w-fit;
+        @apply uppercase font-josephin text-xs font-medium antialiased text-spaceCadet tracking-widest w-fit;
     }
     .textMain {
-        @apply font-serif prose prose-zinc mx-auto lg:prose-xl;
+        @apply font-serif prose prose-sky mx-auto lg:prose-xl;
     }
     .textMainSans {
-        @apply font-josephin font-light subpixel-antialiased prose prose-zinc mx-auto leading-normal text-xl;
+        @apply font-josephin font-light subpixel-antialiased prose prose-sky mx-auto leading-normal text-xl;
     }
     .textMainSans2 {
-        @apply font-josephin font-light text-yellow-600 subpixel-antialiased prose prose-zinc mx-auto leading-normal text-xl;
+        @apply font-josephin font-light text-yellow-600 subpixel-antialiased prose prose-sky mx-auto leading-normal text-xl;
     }
     .textSecondary {
-        @apply font-serif prose prose-zinc antialiased tracking-wide;
+        @apply font-serif text-spaceCadet antialiased tracking-wide;
     }
 }
 
 @layer components {
     .btn-primary {
-        @apply font-josephin font-semibold text-xl text-white tracking-wider border-2 border-current rounded-full px-8 py-2 bg-skyStrong2 hover:tracking-widest transition-all w-fit;
+        @apply font-josephin font-semibold text-xl text-white tracking-wider rounded-full px-8 py-2 bg-buttonBlue hover:tracking-widest transition-all w-fit;
     }
     .btn-secondary {
-        @apply font-josephin font-semibold text-xl text-white tracking-wider border-2 border-current rounded-full px-8 py-2 hover:tracking-widest hover:bg-skyStrong2 transition-all w-fit;
+        @apply font-josephin font-semibold text-xl text-white tracking-wider bg-atomicTangerine rounded-full px-8 py-2 hover:tracking-widest transition-all w-fit;
     }
-}
-
-/* fonts */
-@font-face {
-    font-family: 'BaskervilleRegular';
-    src: url('/public/assets/fonts/Baskerville/LibreBaskerville-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'RaporThin';
-    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Thin.woff2') format('woff2'),
-         url('/public/assets/fonts/RAPORWOFF/Rapor-Thin.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'RaporRegular';
-    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Regular.woff2') format('woff2'),
-         url('/public/assets/fonts/RAPORWOFF/Rapor-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'RaporMedium';
-    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Medium.woff2') format('woff2'),
-         url('/public/assets/fonts/RAPORWOFF/Rapor-Medium.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'RaporMediumItalic';
-    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-MediumItalic.woff2') format('woff2'),
-         url('/public/assets/fonts/RAPORWOFF/Rapor-MediumItalic.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'RaporSemibold';
-    src: url('/public/assets/fonts/RAPORWOFF2/Semibold.woff2') format('woff2'),
-         url('/public/assets/fonts/RAPORWOFF/Semibold.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'RaporBold';
-    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-Bold.woff2') format('woff2'),
-         url('/public/assets/fonts/RAPORWOFF/Rapor-Bold.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'RaporExtraBold';
-    src: url('/public/assets/fonts/RAPORWOFF2/Rapor-ExtraBold.woff2') format('woff2'),
-         url('/public/assets/fonts/RAPORWOFF/Rapor-ExtraBold.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
 }
 
   
-em {
-    font-style: italic;
-}
-strong {
-    font-weight: 600;
-}
+
 
 
 /* SWIPER */

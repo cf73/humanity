@@ -1,20 +1,12 @@
-<div id="hero-area" class="w-full h-[100vh] -mb-[30vh] z-10 grid grid-cols-12 relative flex flex-col items-center justify-center top-0 opacity-1">
-    <!-- <video id="earth" src="/assets/earth.mp4" autoplay muted loop style="
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    object-fit: cover;
-    z-index: 0;"></video> -->
-    <div id="earth" data-speed="2.5" style="background-image: url('{{hero_images | random}}');"
-    class="bg-no-repeat bg-center bg-cover h-screen w-full absolute top-0 left-0 opacity-1">
-    </div>
-    <div id="herotext" data-speed="2.5" class="col-start-2 col-span-10 flex flex-col top-[0vh] space-y-16 relative z-20 w-full text-left space-y-4">
-        <h2 id="counting" class="text-warmwhite">2024 and counting</h2>
-        <h2 id="itstime" class="text-green">It's time to rescue our humanity</h2>
-    </div>
+<div id="earth" data-speed="2.5" style="background-image: url('{{hero_images | random}}');"
+        class="bg-no-repeat bg-center bg-cover h-screen w-full flex flex-col justify-end">
+        <div class="p-16 relative z-20 text-center">
+            <h1 id="counting" class="text-diamond">2024 and counting.</h1>
+            <h1 id="itstime" class="text-atomicTangerine">It's time to rescue our humanity.</h1>
+        </div>
+        <div id="dimmer" class="bg-gradient-to-t from-black to-transparent h-[60vh] absolute z-0 bottom-0 w-full"></div>
 </div>
+ 
 
 <div id="intro"></div>
 <!-- <section id="intro" class="w-full py-[25vh] bg-warmwhite relative z-10 flex flex-col items-center justify-center space-y-8">
