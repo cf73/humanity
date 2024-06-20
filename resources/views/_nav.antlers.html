@@ -1,26 +1,14 @@
-<!-- <header id="ribbon" class="w-full h-20 fixed z-50 backdrop-blur-lg bg-darkblack">
-    <div class="container h-full mx-auto items-center grid grid-cols-3 h-16">
-        <nav class="space-x-12 text-white/60 font-bold text-sm uppercase tracking-widest">
-            {{ nav:left_nav }}
-                <a href="{{url}}">
-                    {{title | lower}}
-                </a>
-            {{/nav:left_nav}}
-        </nav>
-        <a href="/" class="mx-auto"><img src="/assets/humanity-logo.png" width="205.5px" alt="Humanity Logo"></a>
-        <nav class="space-x-12 text-white/60 font-bold text-sm text-right uppercase tracking-widest">
-            {{ nav:right_nav }}
-                <a href="{{url}}">
-                    {{title | lower}}
-                </a>
-            {{/nav:right_nav}}
-            <a href="{{url}}"><button class="border-white mb-0 font-semibold text-lg tracking-widest p-2 px-8 text-warmwhite backdrop-blur-lg">Donate</button></a>
-        </nav>
+<div  class="flex flex-row grid grid-cols-3 text-center fixed top-8 w-full z-30">
+    <div class="col-span-1 col-start-2">
+        <i id="openNav" class="las la-grip-lines w-fit text-black text-3xl cursor-pointer bg-white/40 hover:bg-white/90 backdrop-blur-lg rounded-full p-4"></i>
     </div>
-</header> -->
-
-<div  class="flex flex-col items-center fixed top-8 w-full z-30">
-    <i id="openNav" class="las la-grip-lines text-black text-3xl cursor-pointer bg-white/40 hover:bg-white/90 backdrop-blur-lg rounded-full p-4"></i>
+    <div class="col-span-1 col-start-3 flex flex-row justify-center items-center space-x-4">
+        {{challenges}}
+            <a href="/challenges/{{slug}}">
+                <div class="bg-white/40 hover:bg-white/90 backdrop-blur-lg cursor-pointer rounded-lg h-fit px-4 py-2 textMeta">{{title}}</div>
+            </a>
+        {{/challenges}}
+    </div>
 </div>
 
 <div id="navigation" class="h-[100vh] w-[100vw] fixed -top-[100vh] left-0 bg-diamond/90 backdrop-blur-md z-40 grid grid-cols-3">
