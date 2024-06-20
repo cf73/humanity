@@ -11,10 +11,10 @@ description:
     content:
       -
         type: text
-        text: "The hallmark of Jimmy's career is his devotion to humanity, to understanding and wholeheartedly respecting those he photographs. He is deeply devoted to honoring their dignity, their traditions, and the integrity of their lives. He always manages, even under the most difficult circumstances, to access their humanity. We used his attached image of three Indonesian sisters on the home page of our web site for fifteen years. "
+        text: 'The hallmark of Jimmy''s career is his devotion to humanity, to understanding and wholeheartedly respecting those he photographs. He is deeply devoted to honoring their dignity, their traditions, and the integrity of their lives. He always manages, even under the most difficult circumstances, to access their humanity. We used his attached image of three Indonesian sisters on the home page of our web site for fifteen years. His now famous record of vanishing tribes across the planet is called "Ode to Humanity."'
 collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718891782
+updated_at: 1718891949
 ---
