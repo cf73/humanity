@@ -11,10 +11,10 @@ description:
     content:
       -
         type: text
-        text: 'One of the iconic photographs Sebastião Salgado took in the Serra Pelada gold mine in Brazil back in 1986.'
+        text: 'One of the iconic photographs Sebastião Salgado took in 1986 at the Serra Pelada gold mine in Brazil, documenting the spontaneous choreography of 52,000 miners working together to try to better their lives.'
 collection_type: photography-contribution
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718914309
+updated_at: 1718914591
 ---
