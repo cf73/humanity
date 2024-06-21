@@ -11,10 +11,10 @@ description:
     content:
       -
         type: text
-        text: 'Always good to know they are there.'
+        text: 'Always good to know the angels are there.'
 collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718840369
+updated_at: 1718984442
 ---
