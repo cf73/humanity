@@ -1,7 +1,7 @@
 ---
 id: 5b08c208-5356-4878-b3be-a9b91e1f383c
 blueprint: partner_initiative
-title: 'Donate to help Earth Law Center create a voice for our planet.'
+title: 'Help Earth Law Center create a voice for our planet.'
 collection_type: partner-initiative
 description:
   -
@@ -48,7 +48,8 @@ challenges:
   - climate
 partner: earth-law-center
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711407694
+updated_at: 1718980738
 summary: "Be a steward of the Earth. Help us protect it. We speak for an environment that can't speak for itself. Your support pays for a dream team of Earth lawyers to defend Nature in the United States and internationally through cutting edge-legal movements, including the Rights of Nature."
 call_to_action: "Defend your planet. It can't speak for itself."
+key_facts_that_make_this_urgent: 'Help give voice to the wild.'
 ---
