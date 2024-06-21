@@ -45,19 +45,19 @@ article_text:
     content:
       -
         type: text
-        text: "Yet it seems a grace too far, too often still foundering on the greed and selfishness and myopia of the few, not raising the hopes and prospects of the many.\_"
+        text: "Yet it seems a grace too far, too often still foundering on the greed and selfishness and myopia of the few, not wholeheartedly raising the hopes and prospects of the many.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'As our universal, intertwined fate becomes closer and more commanding  --  endlessly examined in our journals and debating chambers, in our barber shops and coffee houses  --  may leaders from all communities and nations again tilt world towards the side of the angels, finding new ways to tackle together war, poverty, famine, injustice and disease. '
+        text: 'As our universal, intertwined fate becomes closer and more commanding  --  well examined in our journals and debating chambers, in our barber shops and coffee houses  --  may leaders from all communities and nations again tilt the world towards the side of the angels, finding new and encompassing ways to tackle together war, poverty, famine, injustice and disease. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Let us ask ourselves in profound reverence for this fragile, transcendent web of life gifted by the gods, “How deeply do I care about our common future? How can I help make a positive\_difference?”"
+        text: "Most urgently, let us ask ourselves in profound reverence for this fragile, transcendent web of life gifted by the gods, “How deeply do I care about our common future? How can I help make a positive\_difference?”"
 collection_type: article
 challenges:
   - inspiration
@@ -71,8 +71,8 @@ related_content:
   - 741d99a2-6da4-4429-979e-90df32a30949
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - 8a6167d1-d897-4c80-a069-cb77667b2353
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717883768
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718974538
 date_published: '1992-07-24'
 publication: 'The Humanity Initiative'
 description:
@@ -81,6 +81,7 @@ description:
     content:
       -
         type: text
-        text: 'Tony Balis, founder of The Humanity Initiative (in 1984), offers some perspective on rescuing our humanity. '
+        text: 'Tony Balis, founder of The Humanity Initiative (1984), makes the urgent case for each us to join in rescuing our humanity. '
 articleauthor: 'Tony Balis'
+link: www.ourhumanity.org
 ---
