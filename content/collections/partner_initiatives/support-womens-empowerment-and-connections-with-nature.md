@@ -96,7 +96,7 @@ challenges:
   - climate
 partner: treesisters
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713376824
+updated_at: 1718982163
 summary: |-
   RESTORE & REFOREST.
   We are value-led. Our approach and impact go far beyond the number of trees in the ground. They intend to rebalance power dynamics, support connections with Nature, empower women and champion the knowledge of those working directly with the natural environment they inhabit. All while reforesting and restoring our incredible natural world.
