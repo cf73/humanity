@@ -1,39 +1,51 @@
-<header id="ribbon" class="w-full h-20 fixed z-50 backdrop-blur-lg bg-darkblack">
-    <div class="container h-full mx-auto items-center grid grid-cols-3 h-16">
-        <nav class="space-x-12 text-white/60 font-bold text-sm uppercase tracking-widest">
+<div  class="flex flex-row grid grid-cols-3 text-center fixed top-8 w-full z-30">
+    <div class="col-span-1 col-start-2">
+        <i id="openNav" class="las la-grip-lines w-fit text-black text-3xl cursor-pointer bg-white/40 hover:bg-white/90 backdrop-blur-lg rounded-full p-4"></i>
+    </div>
+    <div class="col-span-1 col-start-3 flex flex-row justify-center items-center space-x-4">
+        {{challenges}}
+            <a href="/challenges/{{slug}}">
+                <div class="bg-white/40 hover:bg-white/90 backdrop-blur-lg cursor-pointer rounded-lg h-fit px-4 py-2 textMeta">{{title}}</div>
+            </a>
+        {{/challenges}}
+    </div>
+</div>
+
+<div id="navigation" class="h-[100vh] w-[100vw] fixed -top-[100vh] left-0 bg-diamond/90 backdrop-blur-md z-40 grid grid-cols-3">
+    <div  class="flex flex-col items-center absolute top-8 w-full z-30">
+        <i id="closeNav" class="opacity-0 las la-times text-black text-3xl cursor-pointer bg-white/40 hover:bg-white/90 rounded-full p-4"></i>
+    </div>
+    <div id="logo" class="flex flex-col w-full col-span-3 items-center pt-40 opacity-0">
+            <a href="/"><img src="/assets/humanity-logo.png" alt="Humanity Logo"></a>
+    </div>
+    <div class="flex flex-col row-start-2 p-16">
+        <nav class="font-bold text-sm tracking-widest">
+            <div class="textMeta menu-title mb-6">Priorities</div>
             {{ nav:left_nav }}
-                <a href="{{url}}">
-                    {{title | lower}}
+                <a class="menu-item mb-6 block" href="{{url}}">
+                    <h3>{{title}}</h3>
                 </a>
             {{/nav:left_nav}}
         </nav>
-        <a href="/" class="mx-auto"><img src="/assets/humanity-logo.png" width="205.5px" alt="Humanity Logo"></a>
-        <nav class="space-x-12 text-white/60 font-bold text-sm text-right uppercase tracking-widest">
-            {{ nav:right_nav }}
-                <a href="{{url}}">
-                    {{title | lower}}
+    </div>
+    <div class="flex flex-col row-start-2 p-16">
+        <nav class="font-bold text-sm tracking-widest">
+            <div class="textMeta menu-title2 mb-6">Sections</div>
+            {{ nav:sections_nav }}
+                <a class="menu-item2 mb-6 block" href="{{url}}">
+                    <h3>{{title}}</h3>
                 </a>
-            {{/nav:right_nav}}
-            <a href="{{url}}"><button class="border-white mb-0 font-semibold text-lg tracking-widest p-2 px-8 text-warmwhite backdrop-blur-lg">Donate</button></a>
+            {{/nav:sections_nav}}
         </nav>
     </div>
-</header>
-
-
-<div class="h-[100vh] w-[100vw] fixed top-0 left-0 bg-red-300 z-50">
-    <div class="flex flex-col justify-center p-16">
-        <nav class="space-x-12 text-white/60 font-bold text-sm tracking-widest">
-            <ul>
-                {{ nav:left_nav }}
-                <li class="text-4xl mb-16">
-                    <a href="{{url}}">
-                        {{title}}
-                    </a>
-                </li>
-            {{/nav:left_nav}}
-            </ul>
-            
+    <div class="flex flex-col row-start-2 p-16">
+        <nav class="font-bold text-sm tracking-widest">
+            <div class="textMeta menu-title3 mb-6">Take Action</div>
+            {{ nav:action_nav }}
+                <a class="menu-item3 mb-6 block" href="{{url}}">
+                    <h3>{{title}}</h3>
+                </a>
+            {{/nav:action_nav}}
         </nav>
     </div>
-    <div class="flex flex-col justify-center p-16"></div>
 </div>

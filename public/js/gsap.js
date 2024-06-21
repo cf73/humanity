@@ -29,18 +29,7 @@ tl.to('#herotext', {
     duration: 3,
     opacity: 0
 });
-gsap.to('#earth', {
-    scrollTrigger: {
-    trigger: "#invisibleScrollController",
-    start: "top top",
-    end: "bottom top",
-    toggleActions: "restart none reverse reset",
-    scrub: true,
-    // markers: true,
-    },
-    duration: 2,
-    opacity: 0.3
-});
+
 
 // fade up intro text
 gsap.to('#introprose', {

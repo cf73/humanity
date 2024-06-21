@@ -1,37 +1,32 @@
-<div class="px-16 py-8 w-2/3 mx-auto mt-20 space-y-8 text-center">
+<div class="px-16 pt-20 w-2/3 mx-auto mt-20 space-y-8 text-center">
     <div class="text-center flex flex-col items-center">
         <h1>{{title}}</h1>
-        <div class="textMainSans">{{description}}</div>
+        <div class="prose prose-sky prose-xl mt-4 mx-auto">{{description}}</div>
     </div>
 </div>
 
 <!-- image -->
-<div class="w-full h-[80vh] bg-no-repeat bg-cover bg-center mt-20" style="background-image: url({{image}});"></div>
+<div class="w-full h-[80vh] bg-no-repeat bg-cover bg-center mt-8" style="background-image: url({{image}});"></div>
 
-<article class="w-2/3 mx-auto">
-    <!-- top area -->
-    <div class="space-y-16 flex flex-col px-16 py-8">
-
-        <!-- article metadata  -->
-        <div class="space-y-2 flex flex-col prose prose-zinc text-center mx-auto">
-            <div id="author">
-                <span class="textMeta">Author: </span>
-                <span class="textSecondary">{{author}}</span>
-            </div>
-            <div id="date">
-                <span class="textMeta">Date Published: </span>
-                <span class="textSecondary">{{date_published}}</span>
-            </div>
-
-            <div id="location">
-                <span class="textMeta">Originally published on: </span>
-                <span class="textSecondary"><a href="{{link}}" target="_blank">{{publication}}</a></span>
-            </div>
+<article class="mt-8">
+    <!-- article metadata  -->
+    <div class="space-y-2 mb-16 flex flex-col prose prose-sky text-center mx-auto">
+        <div id="author">
+            <span class="textMeta">Author: </span>
+            <span class="textSecondary">{{author}}</span>
+        </div>
+        <div id="date">
+            <span class="textMeta">Date Published: </span>
+            <span class="textSecondary">{{date_published}}</span>
         </div>
 
-        <div class="textMain">{{article_text}}</div>
-        
+        <div id="location">
+            <span class="textMeta">Originally published on: </span>
+            <span class="textSecondary"><a href="{{link}}" target="_blank">{{publication}}</a></span>
+        </div>
     </div>
+
+    <div class="textMain">{{article_text}}</div>  
 </article>
 
 {{partial:contentTemplates/relatedContent}}
