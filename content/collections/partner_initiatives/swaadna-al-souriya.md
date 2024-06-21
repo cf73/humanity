@@ -92,9 +92,11 @@ description:
         text: 'Finally, tying all of these efforts together is a long-term strategy to ensure Peace Direct itself is a strong, dynamic and inclusive organisation. Otherwise, we won’t be equipped to achieve our mission.'
 image: edu.jpg
 challenges:
-  - democracy
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710029809
+updated_at: 1718981839
 partner: peace-direct
+summary: mmm
+call_to_action: mmm
+key_facts_that_make_this_urgent: mmm
 ---
