@@ -26,7 +26,6 @@ description:
 collection_type: book
 challenges:
   - democracy
-  - inspiration
 related_partner_initiatives:
   - e418c09e-390d-4f38-987d-3a3731bb70b5
 related_content:
@@ -35,7 +34,7 @@ related_content:
   - e54b2bff-1b54-4253-b275-546153a9f6cd
   - bd8e76be-8769-4deb-94d4-3345b5477b38
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718625661
+updated_at: 1718976902
 date_published: '2020-01-01'
 book_author: 'Cindy L. Otis'
 ---
