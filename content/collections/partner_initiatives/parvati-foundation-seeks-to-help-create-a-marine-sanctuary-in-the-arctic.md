@@ -27,10 +27,9 @@ image: image-1710029042.jpeg
 collection_type: partner-initiative
 challenges:
   - climate
-  - war
 partner: parvati-foundation
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713372191
+updated_at: 1718981486
 summary: 'Supporting the establishment of a Marine Sanctuary in the Artic Ocean.'
 call_to_action: 'Donate to help Parvati Foundation establish an  Arctic Marine Sanctuary.'
 key_facts_that_make_this_urgent: |-
