@@ -1,7 +1,7 @@
 ---
 id: febbe503-e66f-4e77-ab5c-5077e60a7544
 blueprint: photography_contribution
-title: "Afghan goat herder  --  1980's"
+title: "Afghan goat herder 1980's"
 photographer_name: 'Luke Powell'
 image: luke-1710772762.jpeg
 description:
@@ -15,5 +15,5 @@ collection_type: photography-contribution
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718984081
+updated_at: 1718984193
 ---
