@@ -6,9 +6,8 @@ quotation: '“World citizenship is impossible when the powerful define their hu
 attribution: 'Martha Nussbaum, American philosopher'
 image: image-1708784401.jpeg
 challenges:
-  - war
-  - inspiration
+  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718905309
+updated_at: 1718989324
 collection_type: quotation
 ---
