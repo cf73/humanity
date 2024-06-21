@@ -829,11 +829,9 @@ description:
         type: text
         text: "We hope you enjoy sharing World Changers with a child who inspires you. We know they'll be encouraged to grow in generosity and compassion. From your friends at charity: water"
 challenges:
-  - war
-  - kids
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718059829
+updated_at: 1718975740
 related_partner_initiatives:
   - e418c09e-390d-4f38-987d-3a3731bb70b5
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
