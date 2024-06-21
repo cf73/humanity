@@ -7,9 +7,7 @@ attribution: 'Toni Morrison, commencement address at Wellesley College, 2004'
 image: unknown-1713740484.jpeg
 collection_type: quotation
 challenges:
-  - democracy
   - war
-  - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718967207
+updated_at: 1718989497
 ---
