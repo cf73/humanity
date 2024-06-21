@@ -571,7 +571,6 @@ article_text:
         text: '“Among all the problems facing the state of Palestine in the coming decades, climate change is the most immediate and certain – and this has been amplified by the occupation and war on Gaza since the 7 October,” said Ikhmais, the Palestinian climate director. “The carbon emissions from the military attacks contradict the UNFCCC and Paris agreement goal … recognizing the environmental impact of war is crucial.”'
 collection_type: article
 challenges:
-  - war
   - climate
 related_partner_initiatives:
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
@@ -582,7 +581,7 @@ related_content:
   - 6dce87aa-d0d3-4ceb-b19a-3a59322fa98e
   - b6267639-94e6-40a5-8471-d1dc63559112
   - f74e61ed-bc0b-412d-8cbf-8d635097efe8
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717883725
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718973412
 articleauthor: 'Nina Lakhani, climate justice reporter'
 ---
