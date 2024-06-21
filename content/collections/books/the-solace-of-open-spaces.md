@@ -77,7 +77,7 @@ related_content:
   - b6024468-0b3f-4752-9de3-f5141560c0f6
   - a27d7f2c-bd60-4e6e-874c-5a971fb2d9e3
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718630815
+updated_at: 1718976585
 date_published: '1976-01-01'
 book_author: 'Gretel Ehrlich'
 ---
