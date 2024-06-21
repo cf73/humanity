@@ -15,8 +15,8 @@ description:
         text: "Meet fellow philanthropists and advocates and join the fight against global poverty at one of CARE'S many events and trips."
 collection_type: partner-initiative
 challenges:
-  - war
+  - inspiration
 partner: care-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718980092
+updated_at: 1718980516
 ---
