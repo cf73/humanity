@@ -36,51 +36,10 @@ description:
         text: .
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'In a 2016 TED talk, '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.youtube.com/watch?v=OIpgrZ8yS-Q&t=530s'
-              rel: null
-              target: null
-              title: null
-        text: 'Jamila Raqib'
-      -
-        type: text
-        text: ', born in Afghanistan, references these methods as she convincingly makes the case for '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'making war obsolete'
-      -
-        type: text
-        text: ' ('
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.youtube.com/watch?v=OIpgrZ8yS-Q&t=2s'
-              rel: null
-              target: null
-              title: null
-        text: 'https://www.youtube.com/watch?v=OIpgrZ8yS-Q&t=2s'
-      -
-        type: text
-        text: ).
 challenges:
   - war
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717883648
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718971168
 article_text:
   -
     type: paragraph
