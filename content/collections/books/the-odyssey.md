@@ -428,9 +428,8 @@ description:
         text: '. '
 challenges:
   - war
-  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718632442
+updated_at: 1718976394
 collection_type: book
 related_partner_initiatives:
   - 86161e36-7285-41a6-ba67-5a5f928fb1d1
