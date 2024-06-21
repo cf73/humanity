@@ -7,7 +7,7 @@ image: 0b5426c6-8756-4a75-b27f-281861d64d5a_338.jpeg.webp.jpeg.webp
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718984225
+updated_at: 1718984251
 collection_type: photography-contribution
 description:
   -
