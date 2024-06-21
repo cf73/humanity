@@ -51,7 +51,7 @@ article_text:
     content:
       -
         type: text
-        text: 'As our universal, intertwined fate becomes closer and more commanding  --  well examined in our journals and debating chambers, in our barber shops and coffee houses  --  may leaders from all communities and nations again tilt the world towards the side of the angels, finding new and encompassing ways to tackle together war, poverty, famine, injustice and disease. '
+        text: 'As our universal, intertwined fate becomes closer and more commanding  --  well examined in our journals and debating chambers, in our barber shops and coffee houses  --  may leaders from all communities and nations again tilt the world towards the side of the angels, finding new and encompassing ways to end war, poverty, famine, injustice and disease. '
   -
     type: paragraph
     content:
@@ -72,7 +72,7 @@ related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - 8a6167d1-d897-4c80-a069-cb77667b2353
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718974824
+updated_at: 1718975376
 date_published: '1992-07-24'
 publication: 'The Humanity Initiative'
 description:
