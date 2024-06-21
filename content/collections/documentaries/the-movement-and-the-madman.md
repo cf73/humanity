@@ -66,12 +66,11 @@ description:
         text: ') where it has nearly 100,000 views."'
 collection_type: documentaries
 challenges:
-  - war
   - democracy
 related_partner_initiatives:
   - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
 related_content:
   - f74e61ed-bc0b-412d-8cbf-8d635097efe8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718710857
+updated_at: 1718979677
 ---
