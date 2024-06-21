@@ -36,7 +36,7 @@ description:
     content:
       -
         type: text
-        text: 'But the film does miss important subtleties. Among them are that the German word for reverence  --  ehrfurcht  --  also means "awe." Dr. Schweitzer was indeed making the crucial case for each of us to embrace the immense gift that life is and to act to preserve it, for all sentient beings, everywhere, every day. '
+        text: 'But the film does miss important subtleties. Among them are that the German word for reverence  --  ehrfurcht  --  also means "awe." Dr. Schweitzer was indeed making the crucial case for each of us to embrace the immense gift of life and to act to honor and preserve it, for all sentient beings, everywhere, every day. '
   -
     type: paragraph
     content:
@@ -53,8 +53,8 @@ related_content:
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
   - f0946d8d-1bf3-476d-8b40-f1f2b7db91c3
   - 68c5ad00-6ff3-497d-a231-6789aed33965
-  - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
   - 12d25b96-227c-4eb6-9b38-f298b55533be
+  - 78f9ff1b-ba15-43d0-bc9b-cbd69e7d2776
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718979566
+updated_at: 1718988803
 ---
