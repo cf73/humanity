@@ -55,9 +55,7 @@ description:
         text: '"The Anthropocene is the current geological age, in which human activity has profoundly shaped the planet and its biodiversity. In this remarkable symphony of essays adapted and expanded from his ground-breaking, critically acclaimed podcast, John Green reviews different facets of the human-centered planet - from the QWERTY keyboard and Halley''s Comet to Penguins of Madagascar - on a five-star scale."'
 collection_type: book
 challenges:
-  - inspiration
   - climate
-  - war
 related_partner_initiatives:
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
   - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
@@ -67,6 +65,6 @@ related_content:
   - 1c000538-36cf-4ba4-b129-f70a7a8ba51b
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718630025
+updated_at: 1718976184
 book_author: 'John Green'
 ---
