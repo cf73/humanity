@@ -404,9 +404,8 @@ description:
         text: 'Rule of Law Program'
 collection_type: partner-initiative
 challenges:
-  - democracy
-  - inspiration
+  - war
 partner: the-carter-center
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713283977
+updated_at: 1718981729
 ---
