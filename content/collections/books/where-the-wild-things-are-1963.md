@@ -13,7 +13,7 @@ description:
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718625148
+updated_at: 1718977020
 collection_type: book
 related_partner_initiatives:
   - f80aa9dd-80ba-474c-acaa-cc772f395ca7
