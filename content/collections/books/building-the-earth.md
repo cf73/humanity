@@ -14,12 +14,12 @@ description:
         text: 'Pierre Teilhard de Chardin was a visionary French Jesuit, paleontologist, biologist, and philosopher, who spent the bulk of his life trying to integrate religious experience with natural science, most specifically Christian theology with theories of evolution. In this endeavor he became enthralled with the possibilities for humankind, which he saw as heading for an exciting convergence of systems, an "Omega point" where the coalescence of consciousness will lead us to a new state of peace and planetary unity. Long before ecology was fashionable, he saw this unity as being based intrinsically upon the spirit of the Earth. Studied in England. Traveled to numerous countries, including China, as missionary.'
 collection_type: book
 challenges:
-  - democracy
+  - inspiration
 related_partner_initiatives:
   - 643b298b-448c-44d4-841f-cdbcd7b03dcd
 related_content:
   - 9f09c216-ae44-4a47-badf-16a8ab75a311
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717958370
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1718975672
 book_author: 'Pierre Teilhard De Chardin'
 ---
