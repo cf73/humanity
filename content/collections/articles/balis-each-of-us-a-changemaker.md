@@ -70,13 +70,13 @@ related_partner_initiatives:
   - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
   - 8ba26bc5-eaa5-4364-9d6b-3f02ca3158f9
 related_content:
+  - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
   - fab94cb3-0c49-48a3-af62-e8ea16f88bc3
   - 741d99a2-6da4-4429-979e-90df32a30949
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
-  - 8a6167d1-d897-4c80-a069-cb77667b2353
-  - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
+  - a01f7e10-c6ea-496b-ac1d-ef939cdf3425
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719065865
+updated_at: 1719066044
 date_published: '1992-07-24'
 publication: 'The Humanity Initiative'
 description:
