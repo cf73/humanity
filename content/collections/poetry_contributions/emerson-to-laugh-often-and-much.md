@@ -8,7 +8,7 @@ collection_type: poetry-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718800403
+updated_at: 1719065925
 poets_website: 'https://allpoetry.com/poem/14327880-To-Laugh-Often-And-Much-by-Ralph-Waldo-Emerson'
 content:
   -
