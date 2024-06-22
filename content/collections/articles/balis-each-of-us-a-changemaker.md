@@ -57,7 +57,7 @@ article_text:
     content:
       -
         type: text
-        text: "Most urgently, let us ask ourselves in profound reverence for this fragile, transcendent web of life gifted by the gods, “How deeply do I care about our common future? How can I help make a positive\_difference?”"
+        text: "Most urgently...let us ask ourselves...in profound reverence for this fragile, transcendent web of life gifted by the gods...“How deeply do I care about our common future? How can I help make a positive\_difference?”"
 collection_type: article
 challenges:
   - inspiration
@@ -74,7 +74,7 @@ related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - 8a6167d1-d897-4c80-a069-cb77667b2353
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719065110
+updated_at: 1719065240
 date_published: '1992-07-24'
 publication: 'The Humanity Initiative'
 description:
@@ -83,7 +83,7 @@ description:
     content:
       -
         type: text
-        text: 'Tony Balis, founder of The Humanity Initiative (1984), makes the urgent case for each us to join in rescuing our humanity. '
+        text: 'Tony Balis, founder of The Humanity Initiative (1984), makes the urgent case for each of us to join in rescuing our humanity. '
 articleauthor: 'Tony Balis'
 link: www.ourhumanity.org
 ---
