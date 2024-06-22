@@ -30,6 +30,7 @@ description:
         text: 'For us, it was a perfect result for our watch words of youth, travel, optimism, and independence. It holds an innately positive feeling about the journey and the moment, and it had the bonus of music. We happily chose to print it without the usual magazine overlay, not wanting to compromise its eloquence.   TB'
 challenges:
   - climate
+  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717721501
+updated_at: 1719066446
 ---
