@@ -33,6 +33,8 @@ description:
         text: '"Her lived-in face, full of character and cracks, speaks of a life which has been led with purpose and that now possesses the tales embedded in its appearance."'
 challenges:
   - inspiration
+  - war
+  - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717720799
+updated_at: 1719066195
 ---
