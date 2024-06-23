@@ -1,11 +1,11 @@
-<div  class="flex flex-row grid grid-cols-3 text-center fixed top-8 w-full z-30">
+<div  class="flex flex-row grid grid-cols-3 text-center px-16 fixed top-8 w-full z-30">
     <div class="col-span-1 col-start-2">
         <i id="openNav" class="las la-grip-lines w-fit text-black text-3xl cursor-pointer bg-white/40 hover:bg-white/90 backdrop-blur-lg rounded-full p-4"></i>
     </div>
-    <div class="col-span-1 col-start-3 flex flex-row justify-center items-center space-x-4">
+    <div class="col-span-1 col-start-3 flex flex-row justify-end items-center space-x-4">
         {{challenges}}
-            <a href="/challenges/{{slug}}">
-                <div class="bg-white/40 hover:bg-white/90 backdrop-blur-lg cursor-pointer rounded-lg h-fit px-4 py-2 textMeta">{{title}}</div>
+            <a href="/challenges/{{slug}}" style="text-decoration: none;">
+                <div class="bg-white/40 hover:bg-white/90 backdrop-blur-lg cursor-pointer rounded-lg h-fit px-4 py-2"><span class="textMeta">{{title}}</span></div>
             </a>
         {{/challenges}}
     </div>
@@ -20,7 +20,7 @@
     </div>
     <div class="flex flex-col row-start-2 p-16">
         <nav class="font-bold text-sm tracking-widest">
-            <div class="textMeta menu-title mb-6">Priorities</div>
+            <div class="textMeta menu-title mb-6">Challenges</div>
             {{ nav:left_nav }}
                 <a class="menu-item mb-6 block" href="{{url}}">
                     <h3>{{title}}</h3>
