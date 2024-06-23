@@ -9,15 +9,6 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Who we are:'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: "All around the world, people are waking up to the deepening crisis of nature loss. We’re experiencing a growing realization that nature is our life-support system and that no one will be spared from the impacts of its loss.\_"
   -
     type: paragraph
@@ -89,5 +80,8 @@ challenges:
   - climate
 partner: world-wide-fund-for-nature
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1710002008
+updated_at: 1719176572
+summary: 'Our mission Is to stop the degradation of the earth’s natural environment and to build a future in which humans live in harmony with nature by: conserving the world’s biological diversity; ensuring that the use of renewable natural resources is sustainable; promoting the reduction of pollution and wasteful consumption.'
+call_to_action: 'All around the world, people are waking up to the deepening crisis of nature loss.'
+key_facts_that_make_this_urgent: 'We collaborate with local communities to conserve the natural resources we all depend on and build a future in which people and nature thrive. Together with partners at all levels, we transform markets and policies toward sustainability, tackle the threats driving the climate crisis, and protect and restore wildlife and their habitats.'
 ---
