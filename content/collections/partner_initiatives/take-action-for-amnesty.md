@@ -173,7 +173,7 @@ challenges:
   - war
 partner: amnesty-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718980005
+updated_at: 1719166315
 summary: |-
   Amnesty International seeks to re-examine the Universal Declaration of Human Rights:  
 
