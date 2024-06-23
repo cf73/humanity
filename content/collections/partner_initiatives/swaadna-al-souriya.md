@@ -94,9 +94,9 @@ image: edu.jpg
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718982115
+updated_at: 1719173784
 partner: peace-direct
-summary: mmm
+summary: 'We work in partnership with local peacebuilders and other allies to shift power and resources for sustainable peace. Discover the strategic approach we take to make that mission a reality.'
 call_to_action: mmm
 key_facts_that_make_this_urgent: mmm
 ---
