@@ -10,20 +10,6 @@ description:
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'https://www.oxfamamerica.org/about-us/'
-              rel: null
-              target: null
-              title: null
-        text: 'https://www.oxfamamerica.org/about-us/'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
             type: bold
         text: "Oxfam's mission and vision"
   -
@@ -106,6 +92,30 @@ description:
       -
         type: text
         text: '. Join Oxfam today and let’s build a more equal future—together."'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'How to get started: A menu of ideas'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "Want to do something to fight poverty and hunger, but don't know where to start? Explore this list of time-tested action ideas for individuals and groups."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In keeping with Oxfam’s belief that everyone has a part to play in the fight against poverty and injustice, Oxfam Toolkits are designed for individuals and groups looking for a hands-on way to join the effort. These practical how-to guides collect ideas and advice from Oxfam’s experts as well as supporters around the country. Oxfam Toolkits represent an entry point into the world of activism—building a grassroots movement for change, one person at a time.'
 image: image-1710860924.jpeg
 collection_type: partner-initiative
 challenges:
@@ -114,6 +124,11 @@ challenges:
   - inspiration
 partner: oxfam-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711411868
-summary: "Oxfam's supporters are fighting to guarantee a life of dignity for every person in crisis"
+updated_at: 1719172954
+summary: 'Take action. Change the world. We believe in the power of people to create a more equal world. All of us—those living in poverty and those who are not—have a role to play.'
+call_to_action: 'Building a grassroots movement for change, one person at a time.'
+key_facts_that_make_this_urgent: |-
+  Oxfam is a global organization that fights inequality to end poverty and injustice. We offer lifesaving support in times of crisis and advocate for economic justice, gender equality, and climate action. We demand equal rights and equal treatment so that everyone can thrive, not just survive. The future is equal. 
+
+  Inequality is the most pressing issue of our time. And for 80 years, people like you have fueled our mission to end poverty and injustice.
 ---
