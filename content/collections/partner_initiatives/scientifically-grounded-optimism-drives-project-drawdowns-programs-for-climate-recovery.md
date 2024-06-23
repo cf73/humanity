@@ -1,7 +1,7 @@
 ---
 id: 643b298b-448c-44d4-841f-cdbcd7b03dcd
 blueprint: partner_initiative
-title: "Help fund Project Drawdown's scientifically engaged programs for climate recovery"
+title: "Participate in Project Drawdown's scientifically engaged programs for climate recovery"
 description:
   -
     type: paragraph
@@ -115,7 +115,8 @@ challenges:
   - climate
 partner: project-drawdown
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711411614
+updated_at: 1719166094
 summary: 'Project Drawdown sponsors all manner of scientific engagement around solving climate change.'
-call_to_action: 'Project Drawdown needs donations to expand its programs.'
+call_to_action: 'Project Drawdown seeks public participation'
+key_facts_that_make_this_urgent: '"Public engagement strengthens our understanding and advancement of climate solutions."'
 ---
