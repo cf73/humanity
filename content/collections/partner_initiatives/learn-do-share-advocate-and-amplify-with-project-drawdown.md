@@ -3,12 +3,7 @@ id: 8ba26bc5-eaa5-4364-9d6b-3f02ca3158f9
 blueprint: partner_initiative
 title: 'Learn, do, share, advocate, and amplify with Project Drawdown.'
 image: image-1713310264.jpeg
-summary: |-
-  Project Drawdown’s mission is to help the world stop climate change—as quickly, safely, and equitably as possible.
-
-  We do this by advancing effective, science-based climate solutions and strategies; fostering bold, new climate leadership; and promoting new climate narratives and new voices.
-
-  Get involved: https://drawdown.org/get-involved.
+summary: 'Project Drawdown’s mission is to help the world stop climate change—as quickly, safely, and equitably as possible. We do this by advancing effective, science-based climate solutions and strategies; fostering bold, new climate leadership; and promoting new climate narratives and new voices.'
 call_to_action: 'Step up with Project Drawdown'
 key_facts_that_make_this_urgent: |-
   The most important climate solution is YOU.
@@ -489,5 +484,5 @@ challenges:
   - climate
 partner: project-drawdown
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718981767
+updated_at: 1719173226
 ---
