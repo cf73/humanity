@@ -29,8 +29,8 @@ challenges:
   - climate
 partner: parvati-foundation
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719166949
-summary: 'MAPS protects the Arctic Ocean, an ecosystem that acts as our planet’s life support system. In so doing, it safeguards our homes, food and water supplies, global immunity, economic balance, social stability, and world peace.'
+updated_at: 1719167031
+summary: 'A Marine Arctic Peace Sanctuary (MAPS) protects the Arctic Ocean, an ecosystem that acts as our planet’s life support system. In so doing, it safeguards our homes, food and water supplies, global immunity, economic balance, social stability, and world peace.'
 call_to_action: 'Help Parvati Foundation establish an Arctic Marine Sanctuary.'
 key_facts_that_make_this_urgent: |-
   Make Your Voice Heard
