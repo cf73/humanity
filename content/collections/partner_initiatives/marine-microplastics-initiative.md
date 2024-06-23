@@ -139,7 +139,7 @@ image: microplastics-in-the-food-chain-illustration-1024x583.png
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719166495
+updated_at: 1719175397
 partner: woods-hole-oceanographic-institution
 collection_type: partner-initiative
 summary: 'WHOI launched a marine microplastics program in 2017, convening an international workshop to identify key knowledge gaps and research questions, while also building a long-term, collaborative, interdisciplinary research program to provide better understanding of microplastics and possible solutions.'
