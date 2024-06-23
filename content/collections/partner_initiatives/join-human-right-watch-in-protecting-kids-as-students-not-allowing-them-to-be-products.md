@@ -3,57 +3,57 @@ id: ce164af0-5a10-4e47-bff7-56edb91100ca
 blueprint: partner_initiative
 title: 'Support Human Right Watch in protecting students from online surveillance.'
 image: oip.ho6sn69-i1rfazlf9ximdqhae7.jpeg
-summary: |-
-  We think our kids are safe in school online. But many of them are being surveilled, and parents have often been kept in the dark. Kids are priceless, not products.
-
-  https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments
+summary: 'We think our kids are safe in school online. But many of them are being surveilled, and parents have often been kept in the dark. Kids are priceless, not products.'
 call_to_action: 'Human Rights Watch monitors educational tech data.'
-key_facts_that_make_this_urgent: |-
-  On school days, 9-year-old Rodin wakes up every morning at 8 a.m. in Istanbul, Turkey. 
-  Unbeknownst to him, an invisible swarm of tracking technologies surveil his online interactions throughout his day. Within milliseconds of Rodin logging into class, his school’s online learning platform begins tracking his physical location. The virtual whiteboard passes along information about his doodling habits to advertising technology (AdTech). When Rodin’s math class is over, trackers follow him outside of his virtual classroom and to the different apps and sites he visits across the internet. The social media platform he uses to post his homework silently accesses his phone’s contact list and downloads personal details about his family and friends. Sophisticated algorithms review this trove of data, enough to piece together an intimate portrait of Rodin in order to figure out how he might be easily influenced.
+key_facts_that_make_this_urgent: 'On school days, 9-year-old Rodin wakes up every morning at 8 a.m. in Istanbul, Turkey. He eats a bowl of chocolate cereal for breakfast; his mother reminds him, as she always does, to brush his teeth afterwards. By 9 a.m., he logs into class and waves hello to his teacher and to his classmates. He hopes that no one can tell that he’s a little sleepy, or that he’s behind on his homework.  (continued...)'
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Children depend on technology to learn, more than ever.'
+        text: 'During breaks between classes, Rodin reads chat messages from his classmates and idly doodles on the virtual whiteboard that his teacher leaves open. He watches his best friend draw a cat; he thinks his friend is much better at drawing than he is. Later in the afternoon, Rodin opens up a website to watch the nationally televised math class for that day. At the end of each day, he posts a picture of his homework to his teacher’s social media page.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Bedrooms and kitchens turned into classrooms overnight, as Covid-19 plunged children, parents, and teachers into online learning so kids could continue to learn safely.'
+        text: 'Unbeknownst to him, an invisible swarm of tracking technologies surveil Rodin’s online interactions throughout his day. Within milliseconds of Rodin logging into class in the morning, his school’s online learning platform begins tracking Rodin’s physical location—at home in his family’s living room, where he has spent most of his days during the pandemic lockdown. The virtual whiteboard passes along information about his doodling habits to advertising technology (AdTech) and other companies; when Rodin’s math class is over, trackers follow him outside of his virtual classroom and to the different apps and sites he visits across the internet. The social media platform Rodin uses to post his homework silently accesses his phone’s contact list and downloads personal details about his family and friends. Sophisticated algorithms review this trove of data, enough to piece together an intimate portrait of Rodin in order to figure out how he might be easily influenced.'
   -
     type: paragraph
     content:
+      -
+        type: text
+        text: 'Neither Rodin nor his mother were aware that this was going on. They were only told by his teacher that he had to use these platforms every day to be marked as attending school during the Covid-19 pandemic.'
       -
         type: text
         marks:
           -
-            type: bold
-        text: 'Six months into the pandemic, the amount of time kids around the world spent in education apps increased '
-      -
-        type: text
-        text: 90%
+            type: link
+            attrs:
+              href: 'https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments#_ftn1'
+              rel: null
+              target: null
+              title: ''
+        text: '[1]'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Governments rapidly endorsed the use of education technologies (EdTech).'
+        text: 'This report is a global investigation of the education technology (EdTech) endorsed by 49 governments for children’s education during the pandemic. Based on technical and policy analysis of 163 EdTech products, Human Rights Watch finds that governments’ endorsements of the majority of these online learning platforms put at risk or directly violated children’s privacy and other children’s rights, for purposes unrelated to their education.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'But in the rush to connect kids to virtual classrooms, many governments failed to check that their EdTech recommendations were safe for children to use.'
+        text: 'The coronavirus pandemic upended the lives and learning of children around the world. Most countries pivoted to some form of online learning, replacing physical classrooms with EdTech websites and apps; this helped fill urgent gaps in delivering some form of education to many children.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'As a result, children whose families were able to afford access to the internet and connected devices, or who made hard sacrifices in order to do so, were exposed to the privacy practices of the EdTech products they were told or required to use during Covid-19 school closures.'
+        text: 'But in their rush to connect children to virtual classrooms, few governments checked whether the EdTech they were rapidly endorsing or procuring for schools were safe for children. As a result, children whose families were able to afford access to the internet and connected devices, or who made hard sacrifices in order to do so, were exposed to the privacy practices of the EdTech products they were told or required to use during Covid-19 school closures.'
   -
     type: paragraph
     content:
@@ -155,5 +155,5 @@ challenges:
   - democracy
 partner: human-rights-watch
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718982137
+updated_at: 1719175222
 ---
