@@ -2,8 +2,7 @@
 id: 5e642029-8246-4d13-ae20-7c6d9ff36812
 blueprint: photography_contribution
 title: 'Mahatma Gandhi'
-photographer_name: 'Henri Cartier-Bresson'
-photographer_website: 'Magnum Photos'
+photographer_name: 'Henri Cartier-Bresson, Magnum Photos'
 image: r.6cd87990f57f486d0ed8b0013344e03c-1707873432.jpeg
 collection_type: photography-contribution
 description:
@@ -103,5 +102,5 @@ challenges:
   - democracy
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719231778
+updated_at: 1719231917
 ---
