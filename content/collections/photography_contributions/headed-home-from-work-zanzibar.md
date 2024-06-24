@@ -11,7 +11,7 @@ description:
     content:
       -
         type: text
-        text: "Lisa's introduction:"
+        text: "Lisa's poetic aside:"
   -
     type: paragraph
     content:
@@ -39,5 +39,5 @@ collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719231262
+updated_at: 1719231402
 ---
