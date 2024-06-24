@@ -10,12 +10,6 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Bio: '
-      -
-        type: text
         text: 'Victor Englebert was a Belgian-born anthropologist, explorer, and author who dedicated his life to studying and documenting the cultures and traditions of remote and little-known peoples around the world. '
   -
     type: paragraph
@@ -149,5 +143,5 @@ collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714448970
+updated_at: 1719234530
 ---
