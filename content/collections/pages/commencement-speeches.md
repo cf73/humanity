@@ -1,6 +1,7 @@
 ---
 id: 407d6a0a-70cb-49a9-9a6b-86e0b0a39a5a
 blueprint: simple_page
+template: commencements
 title: 'Commencement Speeches'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1718588709
