@@ -1,7 +1,7 @@
 ---
 id: c933e04d-1f6b-4aa2-ab72-f8d97ece4e39
 blueprint: photography_contribution
-title: Neighborly
+title: 'Neighborly Maine'
 photographer_name: 'Peter Ralston'
 photographer_website: 'https://www.ralstongallery.com'
 image: 3824507b-4664-4a7c-a6db-994b1ef2cefb_1886x3000.jpg
@@ -23,5 +23,5 @@ challenges:
   - democracy
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719233450
+updated_at: 1719233508
 ---
