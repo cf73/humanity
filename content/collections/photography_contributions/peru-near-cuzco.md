@@ -1,7 +1,7 @@
 ---
 id: c5ffbbf5-0949-437d-a936-bb3e9540bf9a
 blueprint: photography_contribution
-title: 'Peruvian boy, near Cuzco'
+title: "Peruvian boy, near Cuzco, 1970's"
 photographer_name: 'Werner Bischof, Magnum Photos'
 image: h91_01-1709685784.jpeg
 collection_type: photography-contribution
@@ -31,5 +31,5 @@ challenges:
   - climate
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719235255
+updated_at: 1719235281
 ---
