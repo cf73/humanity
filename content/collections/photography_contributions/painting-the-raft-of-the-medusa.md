@@ -1,7 +1,7 @@
 ---
 id: b4b1244a-6ad8-4331-9d46-941e30740ceb
 blueprint: photography_contribution
-title: 'The Raft of the Medusa'
+title: 'The Raft of the Medusa (painting, 1819)'
 photographer_name: 'Théodore Géricault'
 photographer_website: 'La Louvre'
 image: image-1711745280.jpeg
@@ -33,5 +33,5 @@ collection_type: photography-contribution
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718841137
+updated_at: 1719236855
 ---
