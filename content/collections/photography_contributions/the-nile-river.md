@@ -3,7 +3,6 @@ id: 8f11ba98-d6b3-497c-be35-860e6b2037fc
 blueprint: photography_contribution
 title: 'Near Luxor, Egypt'
 photographer_name: 'Luke Powell'
-photographer_website: unknown
 image: c56711-1713236297.jpeg
 description:
   -
@@ -16,5 +15,5 @@ collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714415179
+updated_at: 1719233209
 ---
