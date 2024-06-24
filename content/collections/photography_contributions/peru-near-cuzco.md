@@ -2,7 +2,7 @@
 id: c5ffbbf5-0949-437d-a936-bb3e9540bf9a
 blueprint: photography_contribution
 title: 'Peruvian boy, near Cuzco'
-photographer_name: 'Werner Bischof'
+photographer_name: 'Werner Bischof, Magnum Photos'
 image: h91_01-1709685784.jpeg
 collection_type: photography-contribution
 description:
@@ -11,7 +11,7 @@ description:
     content:
       -
         type: text
-        text: "Werner Bishchof's son, then living in his native Switzerland, told us he was proud and delighted that we had chosen his father's image as the first cover of our journal, "
+        text: "Back in 1989, Werner Bishchof's son, then living in his native Switzerland, told us he was proud and delighted that we had chosen his father's image as the first cover of our journal, "
       -
         type: text
         marks:
@@ -20,7 +20,7 @@ description:
         text: humanity
       -
         type: text
-        text: ', in 1989  --  after searching for two days through thousands of files at Magnum Photos in New York City. '
+        text: '  --  after searching for two days through thousands of files at Magnum Photos in New York City. '
   -
     type: paragraph
     content:
@@ -31,5 +31,5 @@ challenges:
   - climate
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719234866
+updated_at: 1719235255
 ---
