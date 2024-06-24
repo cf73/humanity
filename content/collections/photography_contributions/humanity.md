@@ -1,7 +1,7 @@
 ---
 id: 1d09ef64-a860-4617-b4da-38b33fbb6499
 blueprint: photography_contribution
-title: 'Images of humanity'
+title: 'Our spectacular diversity'
 photographer_name: 'Jimmy Nelson'
 photographer_website: www.jimmynelson.com
 image: image-1710115162.jpeg
@@ -16,5 +16,5 @@ collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719232027
+updated_at: 1719232111
 ---
