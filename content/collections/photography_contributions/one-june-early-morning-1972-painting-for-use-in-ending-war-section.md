@@ -19,14 +19,8 @@ description:
       -
         type: text
         text: 'https://www.nytimes.com/2019/06/12/magazine/world-war-ii-d-day-artist.html?'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'https://www.nationalww2museum.org/media/media-resources/75th-anniversary-d-day-media-resources/memory-what-i-cannot-say-media'
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1717722082
+updated_at: 1719234164
 ---
