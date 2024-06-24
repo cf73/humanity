@@ -3,14 +3,15 @@ id: 7e526838-abc5-4d3d-881e-03c7e420eaae
 blueprint: poetry_contribution
 title: 'Where the Mind is Without Fear'
 poets_name: 'Rabindranath Tagore  (1861 - 1941) legendary Indian writer, first non-European to win Nobel for Literature, 1913.'
-poets_website: unknown
-image: image-1716263231.jpeg
+image: image-1718800632.jpeg
 collection_type: poetry-contribution
 challenges:
   - inspiration
   - democracy
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1716263552
+updated_at: 1718800691
+poets_website: 'https://www.poetryfoundation.org/poets/rabindranath-tagore'
 content:
   -
     type: paragraph

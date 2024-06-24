@@ -17,15 +17,6 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: "Food when it's needed most"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'As a disaster relief organization, our volunteer needs fluctuate with each response effort so we cannot predict when we will need your help. Before committing to volunteer, you must '
       -
         type: text
@@ -103,8 +94,7 @@ description:
 collection_type: partner-initiative
 challenges:
   - war
-  - climate
 partner: world-central-kitchen-2010
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713727174
+updated_at: 1719175544
 ---

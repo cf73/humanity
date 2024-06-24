@@ -1,19 +1,13 @@
 ---
 id: 1b810954-2704-4351-8245-e78f995ee3e0
 blueprint: photography_contribution
-title: 'Pampa de Anta, Peru'
+title: 'Alone on the Pampa de Anta, Peru'
 photographer_name: 'Victor Engelbert (1933-2015)'
 image: c56717-1714423557.jpeg
 description:
   -
     type: paragraph
     content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Bio: '
       -
         type: text
         text: 'Victor Englebert was a Belgian-born anthropologist, explorer, and author who dedicated his life to studying and documenting the cultures and traditions of remote and little-known peoples around the world. '
@@ -149,5 +143,5 @@ collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714448970
+updated_at: 1719234567
 ---

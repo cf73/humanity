@@ -3,13 +3,13 @@ id: f0946d8d-1bf3-476d-8b40-f1f2b7db91c3
 blueprint: poetry_contribution
 title: Desiderata
 poets_name: 'Max Ehrmann'
-poets_website: unknown
 image: image-1713244218.jpeg
 collection_type: poetry-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1716260890
+updated_at: 1718799343
+poets_website: 'https://www.poetryfoundation.org/articles/70274/in-search-of-desiderata'
 content:
   -
     type: paragraph
@@ -28,10 +28,14 @@ content:
         text: '     Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
         text: '     Speak your truth quietly and clearly; and listen to others, even to the dull and the ignorant; they too have their story.'
+  -
+    type: paragraph
   -
     type: paragraph
     content:

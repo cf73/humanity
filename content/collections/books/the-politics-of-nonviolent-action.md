@@ -5,9 +5,8 @@ title: 'The Politics of Nonviolent Action (1973)'
 collection_type: book
 challenges:
   - war
-  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718630889
+updated_at: 1718976556
 image: politicsofnonviolentaction.jpeg
 description:
   -

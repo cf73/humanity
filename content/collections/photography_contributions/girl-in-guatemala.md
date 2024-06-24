@@ -11,10 +11,10 @@ description:
     content:
       -
         type: text
-        text: 'Jimmy Nelson, who lives in the Netherlands, is doing more to honor and preserve indigenous culture than perhaps any other photographer on Earth. This is one of his early international images, before he "got serious!"'
+        text: "In Jimmy's images, we always are blessed with insight into the people he is honoring, no matter the moment,  no matter the surround."
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714420168
+updated_at: 1719232470
 collection_type: photography-contribution
 ---

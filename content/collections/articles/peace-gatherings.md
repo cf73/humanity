@@ -14,8 +14,8 @@ description:
 challenges:
   - war
   - inspiration
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717883762
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1719060415
 article_text:
   -
     type: paragraph
@@ -1135,6 +1135,7 @@ related_content:
 date_published: '2024-04-30'
 publication: 'The Humanity Initiative, curated by Jacqueline Wigglesworth'
 articleauthor: 'The Humanity Initiative'
+link: www.ourhumanity.org
 content:
   -
     type: paragraph

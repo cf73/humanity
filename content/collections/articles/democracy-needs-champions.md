@@ -259,7 +259,7 @@ article_text:
         text: 'https://apnews.com/article/northern-ireland-george-mitchell-peace-envoy-cbf2416bb5721f753fb21b2296ed3196'
 collection_type: article
 challenges:
-  - war
+  - democracy
 related_partner_initiatives:
   - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
   - ce164af0-5a10-4e47-bff7-56edb91100ca
@@ -267,6 +267,6 @@ related_content:
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
   - 12d25b96-227c-4eb6-9b38-f298b55533be
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718618696
+updated_at: 1718972026
 articleauthor: 'Heather Cox Richardson'
 ---

@@ -9,44 +9,10 @@ collection_type: poetry-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1716265111
+updated_at: 1718799229
 content:
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: '“To the children we call our future'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Who have no shoes to put on their feet'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Who have barely any food to eat'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Who believe in some unreal hope'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'But still dare to dream'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Wild and free.”'
   -
     type: paragraph
     content:

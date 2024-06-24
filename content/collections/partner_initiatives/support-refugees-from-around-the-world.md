@@ -1,14 +1,14 @@
 ---
 id: 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
 blueprint: partner_initiative
-title: 'International Rescue Committee needs donations to help 33 million refugees worldwide.'
+title: 'International Rescue Committee seeks to help 33 million refugees worldwide.'
 collection_type: partner-initiative
 image: 20170503_khtet_myanmar_0031-hero-3.jpg
 challenges:
   - war
 partner: international-rescue-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713370679
+updated_at: 1719172490
 description:
   -
     type: paragraph

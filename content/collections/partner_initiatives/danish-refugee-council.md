@@ -1,14 +1,14 @@
 ---
 id: bd1d0db4-a43f-4e72-a31d-664b5cce943f
 blueprint: partner_initiative
-title: 'Danish Refugee Council: donate to aid refugees and other displaced people worldwide.'
+title: 'Danish Refugee Council aids refugees and other displaced people worldwide.'
 image: image-1710003367.png
 collection_type: partner-initiative
 challenges:
   - war
 partner: danish-refugee-council
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1716747321
+updated_at: 1719166731
 description:
   -
     type: paragraph
@@ -71,11 +71,8 @@ description:
         text: 'Shelter and Settlements'
       -
         type: hardBreak
-summary: |-
-  DRC commits to mobilise actors as broadly as possible to support free legal aid to people affected by conflict and displacement, and thus ensure their rights to protection and inclusion.
-
-  DRC commits to increase the possibilities for people affected by conflict and displacement to gain equitable access to markets as an important conduit for services, goods, employment, and income.
-call_to_action: 'Donate to help Danish Refugee Council.'
+summary: 'DRC mobilizes actors to provide free legal aid to people affected by conflict and displacement, thus helping ensure their rights to protection and inclusion, while also increasing the possibilities for them to gain equitable access to markets as an important conduit for services, goods, employment, and income.'
+call_to_action: 'Support worldwide programs of the Danish Refugee Council.'
 key_facts_that_make_this_urgent: |-
   The DRC is working in six countries in the Mid-east. The complexity and depth of aid challenges in Syria is typical of this region:
 

@@ -36,51 +36,11 @@ description:
         text: .
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'In a 2016 TED talk, '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.youtube.com/watch?v=OIpgrZ8yS-Q&t=530s'
-              rel: null
-              target: null
-              title: null
-        text: 'Jamila Raqib'
-      -
-        type: text
-        text: ', born in Afghanistan, references these methods as she convincingly makes the case for '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'making war obsolete'
-      -
-        type: text
-        text: ' ('
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.youtube.com/watch?v=OIpgrZ8yS-Q&t=2s'
-              rel: null
-              target: null
-              title: null
-        text: 'https://www.youtube.com/watch?v=OIpgrZ8yS-Q&t=2s'
-      -
-        type: text
-        text: ).
 challenges:
   - war
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717883648
+  - inspiration
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1719060290
 article_text:
   -
     type: paragraph
@@ -1551,9 +1511,13 @@ article_text:
                 text: "198 Methods of Nonviolent Action (Handout), K Gandhi Institute for Nonviolence and Albert Einstein Institute (PDF – 66 pgs)\_"
 collection_type: article
 related_partner_initiatives:
-  - 86161e36-7285-41a6-ba67-5a5f928fb1d1
+  - 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
 related_content:
-  - 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
+  - e4885985-3569-4f65-9d13-50b4a8d0f22b
+  - fab94cb3-0c49-48a3-af62-e8ea16f88bc3
+  - 1e7b9b6e-6850-475c-8434-713db2bcd9e0
+  - 8f01cbfc-48f8-4156-acd7-03bef3acce9f
+  - 271f56f5-33fe-49fb-ac7c-dd6826b65bd7
 date_published: '1973-05-15'
 publication: 'The Politics of Nonviolent Action (3 volumes)'
 articleauthor: 'Dr. Gene Sharp'

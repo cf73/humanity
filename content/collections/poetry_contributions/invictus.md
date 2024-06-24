@@ -2,14 +2,14 @@
 id: 360862f3-318f-4ecc-804e-8baf0d2558cd
 blueprint: poetry_contribution
 title: Invictus
-poets_name: 'William Ernest Henley, written 1975, United Kingdom'
-poets_website: 'https://en.wikipedia.org/wiki/Invictus'
+poets_name: 'William Ernest Henley'
+poets_website: 'https://www.poetryfoundation.org/poets/william-ernest-henley'
 image: image-1708785410.jpeg
 challenges:
   - democracy
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713036601
+updated_at: 1718799605
 collection_type: poetry-contribution
 content:
   -

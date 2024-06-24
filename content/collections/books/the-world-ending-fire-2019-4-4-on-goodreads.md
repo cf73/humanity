@@ -49,10 +49,8 @@ description:
         text: '(review above by Ereads; book rated 4.4 by Goodreads)'
 challenges:
   - climate
-  - war
-  - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718064670
+updated_at: 1718976849
 related_partner_initiatives:
   - 643b298b-448c-44d4-841f-cdbcd7b03dcd
 related_content:

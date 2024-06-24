@@ -11,10 +11,10 @@ description:
     content:
       -
         type: text
-        text: "Three old, old friends with a winter's decision..."
+        text: "Three old, old friends within a winter's decision..."
 collection_type: photography-contribution
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712984389
+updated_at: 1719237036
 ---

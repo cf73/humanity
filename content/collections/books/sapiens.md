@@ -38,11 +38,9 @@ description:
         type: text
         text: 'Dr. Harari also compels us to look ahead, because over the last few decades humans have begun to bend laws of natural selection that have governed life for the past four billion years. We are acquiring the ability to design not only the world around us, but also ourselves. Where is this leading us, and what do we want to become? This provocative and insightful work is sure to spark debate.'
 challenges:
-  - war
   - democracy
-  - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718632084
+updated_at: 1718976110
 collection_type: book
 book_author: 'Yuval Noah Harari'
 date_published: '2015-02-10'

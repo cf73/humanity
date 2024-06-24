@@ -2,8 +2,7 @@
 id: 04d26642-9471-434a-acd3-1b9979b4ecdf
 blueprint: photography_contribution
 title: 'Sleeping polar bear'
-photographer_name: 'British amateur photographer award:  Nima Sarikhani'
-photographer_website: unk
+photographer_name: 'Nima Sarikhani,  British amateur photographer award, 2023'
 collection_type: photography-contribution
 image: _132560870_nima-sarikhani.jpg-2.webp
 description:
@@ -12,13 +11,7 @@ description:
     content:
       -
         type: text
-        text: 'British Natural History Museum'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Wildlife Photographer of the Year, People's Choice Award winner."
+        text: "British Natural History Museum, Wildlife Photographer of the Year, People's Choice Award winner."
   -
     type: paragraph
   -
@@ -30,6 +23,7 @@ description:
         type: hardBreak
 challenges:
   - climate
+  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712674441
+updated_at: 1719236397
 ---

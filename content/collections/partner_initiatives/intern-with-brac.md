@@ -72,7 +72,8 @@ challenges:
   - climate
 partner: bangladesh-rural-advancement-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1711411218
+updated_at: 1719171011
 summary: 'UPGI aims to see high-quality Graduation programmes implemented at scale and adopted  across a range of existing government initiatives. It aims to advocate for the inclusion of Graduation-style programmes at the national-level, and to support knowledge sharing to enhance poverty alleviation efforts.'
 call_to_action: 'Help BRAC expand its Ultra-Poor Graduation Initiative'
+key_facts_that_make_this_urgent: 'People living in extreme poverty face a multitude of interconnected challenges - lack of access to food, education, basic services and the resources and skills needed to develop a sustainable livelihood. They are also the worst sufferers of changing poverty dynamics and widening inequality driven by the climate emergency, rapid urbanisation, COVID-19 pandemic recovery, and the rising cost of living. Conventional development programmes are not able to meet their complex needs.'
 ---

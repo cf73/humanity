@@ -562,6 +562,7 @@ article_text:
 collection_type: article
 challenges:
   - inspiration
+  - war
 related_partner_initiatives:
   - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
   - 643b298b-448c-44d4-841f-cdbcd7b03dcd
@@ -573,7 +574,7 @@ related_content:
   - 9f09c216-ae44-4a47-badf-16a8ab75a311
   - f0946d8d-1bf3-476d-8b40-f1f2b7db91c3
   - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717883746
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1719060373
 articleauthor: 'Maria Popova'
 ---

@@ -1,7 +1,7 @@
 ---
 id: bf8b2e3c-1f43-4783-bff8-9a78c2d77fcf
 blueprint: photography_contribution
-title: 'Headed home from work, Zanzibar.'
+title: 'Homeward bound, Zanzibar'
 photographer_name: 'Lisa Kristine'
 photographer_website: www.lisakristine.com
 image: lisa_kristine_com-horizon-tanzania.jpg
@@ -11,7 +11,7 @@ description:
     content:
       -
         type: text
-        text: "Lisa's introduction:"
+        text: "Lisa's poetic aside:"
   -
     type: paragraph
     content:
@@ -39,5 +39,5 @@ collection_type: photography-contribution
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1712673928
+updated_at: 1719231402
 ---

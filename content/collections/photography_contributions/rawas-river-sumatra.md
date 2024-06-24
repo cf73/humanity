@@ -11,11 +11,11 @@ description:
     content:
       -
         type: text
-        text: "One of the many families living in close harmony and trust with the Rawas River in Sumatra, Indonesia's second largest island. "
+        text: "One of many families living in harmony and trust with the Rawas River in Sumatra, Indonesia's second largest island. "
 collection_type: photography-contribution
 challenges:
   - inspiration
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714424995
+updated_at: 1719235455
 ---

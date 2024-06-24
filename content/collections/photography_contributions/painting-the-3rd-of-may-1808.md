@@ -1,7 +1,7 @@
 ---
 id: 3419fbfa-6ee4-41a0-8a1d-b50b86f04917
 blueprint: photography_contribution
-title: 'The 3rd of May, 1808'
+title: 'The 3rd of May, (painting) 1808'
 photographer_name: Goya
 photographer_website: 'Prado Museum'
 image: image-1711739358.jpeg
@@ -70,5 +70,5 @@ collection_type: photography-contribution
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713237187
+updated_at: 1719236676
 ---

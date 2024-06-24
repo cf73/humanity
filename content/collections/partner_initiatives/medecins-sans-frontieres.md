@@ -38,7 +38,7 @@ challenges:
   - war
 partner: doctors-without-borders
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1714191931
+updated_at: 1719171221
 summary: 'Your donations pay for millions of consultations, surgeries, treatments and vaccinations every year. 80% of our financial resources are allocated to fulfilling our social mission: humanitarian programmes (65%); support for our projects and programmes (12%); and 3% to awareness-raising, the Access Campaign, and the Drugs for Neglected Diseases initiative (DNDi).'
 call_to_action: 'Help MSF provide millions of consultations and surgeries every year.'
 key_facts_that_make_this_urgent: |-

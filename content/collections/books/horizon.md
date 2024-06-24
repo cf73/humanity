@@ -52,7 +52,6 @@ description:
         text: '"Horizon is a revelatory, epic work that voices concern and frustration along with humanity and hope--a book that makes you see the world differently, and that is the crowning achievement by one of America''s great thinkers and most humane voices."'
 collection_type: book
 challenges:
-  - climate
   - inspiration
 related_partner_initiatives:
   - f80aa9dd-80ba-474c-acaa-cc772f395ca7
@@ -64,6 +63,6 @@ related_content:
   - f9f4f112-845f-467c-900e-c064fb540f9b
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718059918
+updated_at: 1718975819
 book_author: 'Barry Lopez'
 ---

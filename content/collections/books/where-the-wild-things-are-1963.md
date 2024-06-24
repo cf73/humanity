@@ -13,7 +13,7 @@ description:
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718625148
+updated_at: 1718977091
 collection_type: book
 related_partner_initiatives:
   - f80aa9dd-80ba-474c-acaa-cc772f395ca7
@@ -21,6 +21,8 @@ related_partner_initiatives:
 related_content:
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
   - b6024468-0b3f-4752-9de3-f5141560c0f6
+  - 3eab0ba8-394a-46fb-bc90-561dd6eeced4
+  - abe90cd8-e74f-48d1-95cb-1c141bf6adb3
 book_author: 'Maurice Sendak'
 date_published: '1963-04-09'
 link: 'https://www.amazon.com/Where-Wild-Things-Maurice-Sendak/dp/0064431789'

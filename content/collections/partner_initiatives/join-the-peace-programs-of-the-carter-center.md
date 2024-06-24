@@ -4,7 +4,7 @@ blueprint: partner_initiative
 title: 'Join the Peace Programs of The Carter Center.'
 image: image-1713226052.jpeg
 summary: 'The Carter Center is recognized as a pioneer and leader in the field of election observation. It has monitored 115 elections in 40 countries, helping to ensure democratic elections that reflect the will of the people. Beyond elections, the Center seeks to deepen democracy by nurturing full citizen participation in public policy-making.'
-call_to_action: 'A culture of respect for human rights.'
+call_to_action: 'A pioneer in election observations.'
 key_facts_that_make_this_urgent: |-
   Beyond elections, the Center seeks to deepen democracy by nurturing full citizen participation in public policy-making and by helping to establish government institutions that bolster the rule of law, fair administration of justice, access to information, and government transparency.
 
@@ -404,9 +404,8 @@ description:
         text: 'Rule of Law Program'
 collection_type: partner-initiative
 challenges:
-  - democracy
-  - inspiration
+  - war
 partner: the-carter-center
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1713283977
+updated_at: 1719173134
 ---
