@@ -11,7 +11,7 @@ description:
     content:
       -
         type: text
-        text: 'The Robinson projection is neither equal-area nor conformal, abandoning both for a compromise. The creator felt that this produced a better overall view than could be achieved by adhering to either. The meridianscurve gently, avoiding extremes, but thereby stretch the poles into long lines instead of leaving them as points.'
+        text: 'The Robinson projection is neither equal-area nor conformal, abandoning both for a compromise. The creator felt that this produced a better overall view than could be achieved by adhering to either. The meridians curve gently, avoiding extremes, but thereby stretch the poles into long lines instead of leaving them as points.'
   -
     type: paragraph
     content:
@@ -21,5 +21,5 @@ description:
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719235916
+updated_at: 1719235980
 ---
