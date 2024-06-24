@@ -28,15 +28,15 @@ document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
 // SCROLL TRIGGERS
 
   //show filters on scroll
-  gsap.to('#filter', {
-    scrollTrigger: {
-        trigger: "#titleText",
-        start: "+=2400",
-        scrub: true,
-    },
-    opacity: 1,
-    duration: 1,
-    });
+//   gsap.to('#filter', {
+//     scrollTrigger: {
+//         trigger: "#titleText",
+//         start: "+=2400",
+//         scrub: true,
+//     },
+//     opacity: 1,
+//     duration: 1,
+//     });
 
 // pin filters
 ScrollTrigger.create({

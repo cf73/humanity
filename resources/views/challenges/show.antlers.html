@@ -20,9 +20,7 @@
 
 <!-- <div id="hiddenScrollController1" class="h-[200vh] relative z-50 bg-red-300 w-40 -top-[30vh]"></div> -->
 
-<div id="filter" class="opacity-0 bg-white/40 hover:bg-white/90 backdrop-blur-lg cursor-pointer rounded-lg w-fit px-4 absolute z-50 left-16 top-10 py-2"><span class="textMeta">Filter</span></div>
-
-
+<div id="filter" class="opacity-1 bg-white/40 hover:bg-white/90 backdrop-blur-lg cursor-pointer rounded-lg w-fit px-4 absolute z-10 left-8 top-24 py-2"><span class="textMeta">Filter</span></div>
 
 <!-- Image and quote -->
 <!-- <div class="px-32 grid grid-cols-2 gap-16 h-[80vh] w-full bg-algae">
@@ -35,14 +33,14 @@
     </div>
 </div> -->
 
-<div class="container mx-auto mt-16 mb-32 relative -top-[50vh]">
+<div class="container mx-auto mt-16 mb-32 relative ">
     <!-- <style>
         /* Hide inactive checkboxes */
         input[type="checkbox"]:not(:checked) {
             display: none;
         }
     </style> -->
-    <div class="hidden">
+    <div class="">
         <form action="{{url}}" method="get">
             <div class="textMeta mb-2">Filters</div>
             {{taxonomy:collection_type not_from="quotations|partner_initiatives|photography_contributions"}}
