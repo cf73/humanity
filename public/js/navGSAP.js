@@ -27,14 +27,25 @@ document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
 
 // SCROLL TRIGGERS
 
+  //show filters on scroll
+  gsap.to('#filter', {
+    scrollTrigger: {
+        trigger: "#titleText",
+        start: "+=2400",
+        scrub: true,
+    },
+    opacity: 1,
+    duration: 1,
+    });
+
 // pin filters
-// ScrollTrigger.create({
-//   scrollTrigger: '#hero-area',
-//   start: 'top top',
-//   endTrigger: 'footer',
-//   end: 'bottom bottom',
-//   pin: '#filter',
-// });
+ScrollTrigger.create({
+  trigger: "#hero-area",
+  start: "top top",
+  endTrigger: "footer",
+  end: "bottom bottom",
+  pin: '#filter',
+});
 
 // pin hero area
 ScrollTrigger.create({
