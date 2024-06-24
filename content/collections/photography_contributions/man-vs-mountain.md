@@ -7,7 +7,7 @@ image: image-1707482312.jpeg
 challenges:
   - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719233048
+updated_at: 1719233058
 collection_type: photography-contribution
 description:
   -
