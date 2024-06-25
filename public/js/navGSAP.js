@@ -3,7 +3,7 @@ gsap.registerPlugin(ScrollTrigger);
 gsap.timeline().from("body", {opacity:0, duration:3, ease:"expo.inOut"});
 gsap.timeline()
     .to("#dimmer", {delay: 1.5, opacity:1, duration:2.5, ease:"expo.inOut"})
-    // .from("#titleText", {opacity:0, duration:2, ease:"expo.inOut"}, "-=80%")
+    .to("#titleText", {opacity:1, duration:2, ease:"expo.inOut"}, "-=80%")
     .from("#openNav", {opacity:0, duration:3, ease:"expo.inOut"}, "-=60%")
     ;
 
