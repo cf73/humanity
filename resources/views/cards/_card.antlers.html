@@ -5,10 +5,10 @@
 
    
     <div class="py-0 px-4 mt-5 flex flex-col items-center text-center">
-        {{partial:cards/tape passedValue="{{collection:title}}"}}
+        {{partial:cards/tape passedValue="{{collection:title}}" passedColor="atomicTangerine"}}
 
         <a href="{{url}}">
-            <h3>{{title}}<i class="las la-angle-right text-xl"></i></h3>
+            <h3 class="text-{{headingColor}}">{{title}}<i class="las la-angle-right text-xl"></i></h3>
         </a>
         {{if speaker}}
             <span class="textSecondary">{{speaker}}</span>

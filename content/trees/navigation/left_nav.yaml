@@ -1,13 +1,13 @@
 tree:
   -
-    id: 85ad2b07-f8bd-4946-8161-c27cf1d2cf3f
-    entry: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
+    id: ba93a49c-431f-4722-b680-2d56ec468ab5
+    title: 'Ending War'
+    url: /challenges/war
   -
-    id: 27bb3522-bc15-4c2b-97f2-ee82bfa8b049
-    entry: 1332707e-9d36-4c5e-aee3-9ba5947252b5
+    id: 595be765-3296-48b8-b6a4-9c109b53156e
+    title: 'Solving Climate Change'
+    url: /challenges/climate
   -
-    id: 9f4f51bc-d3c1-4622-9c23-d5a49ac6cd64
-    entry: f1904ab0-47ed-4349-aced-154c5a8fc29e
-  -
-    id: 85377adb-9dbf-4a6e-8fd3-3fb5914683ea
-    entry: b6969b97-3873-4df0-a9f7-9dc47876ce7a
+    id: 9532cdaa-f9d2-4dad-8a78-76ccd5e29fa1
+    title: 'Saving Democracy'
+    url: /challenges/democracy

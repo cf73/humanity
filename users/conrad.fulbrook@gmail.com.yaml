@@ -1,7 +1,7 @@
 name: Conrad
 super: true
 id: 0800036e-1638-4d6e-822a-26aefe2f9e99
-password_hash: $2y$10$4dEcK0zzV5anBKywUppnPOJFsgcD4KtbufS6oxmadtK0H6AyyGW02
+password_hash: $2y$10$VjOgASLVf8GHe2Rb9iBKbOyO8NvuY6sEJBUpWL5hX1a9wQ8fiBh5.
 preferences:
   collections:
     commencement_speeches:

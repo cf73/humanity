@@ -41,7 +41,7 @@ hero_images:
   - man-staring-up-at-aurora-1718585869.jpg
   - bingwallpaper-copy-1718585898.jpg
   - image-1707483801.jpeg
-  - 'girl-w:-dog.jpeg'
+  - 'girl-w-dog.jpeg'
   - three-sisters-1718586205.jpeg
   - "prehistoric-cave-paintings---tutt'art@--(67).jpeg"
   - '-humanity-first-cover.jpeg'
