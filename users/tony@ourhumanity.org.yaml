@@ -10,6 +10,11 @@ preferences:
       after_save: create_another
     photography_contributions:
       after_save: continue_editing
+      columns:
+        - title
+        - slug
+        - status
+        - challenges
     partner_initiatives:
       per_page: 25
     pages:
