@@ -1,4 +1,4 @@
-<div data-speed="3" id="hero-area" style="background-image: url('{{main_image:image}}');" class="w-full h-[100vh] relative flex items-center bg-cover bg-center z-50">
+<div id="hero-area" style="background-image: url('{{main_image:image}}');" class="w-full h-[100vh] relative flex items-center bg-cover bg-center">
     <!-- <video id="earth" src="{{intro_movie}}" autoplay muted loop style="
     position: absolute;
     top: 0;
@@ -10,8 +10,11 @@
     <div id="dimmer" class="opacity-0 h-[100vh] bg-cetaceanBlue/80 absolute z-0 bottom-0 w-full"></div>
 </div>
 
-<div id="titleText" class="opacity-0 flex flex-col items-center justify-center w-full absolute top-0 left-0 h-[100vh] display z-50">
-    {{title}}
+<div id="initialQuote" class="flex flex-col items-center justify-center w-full absolute top-0 left-0 h-[100vh] display z-50">
+    {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
+        <h2 class="mb-4 w-2/3 mx-auto text-center">{{quotation}}</h2>
+        <div class="textMeta text-warmwhite w-2/3 mx-auto text-center">{{attribution}}</div>
+    {{/collection:quotations}}
     <!-- <div class="text-bold">{{collection:partner_initiatives challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives</div> -->
 </div>
 <div class="flex flex-col items-center justify-center w-full absolute top-0 left-0 h-[100vh] text-center mx-auto z-50">
@@ -33,7 +36,7 @@
     </div>
 </div> -->
 
-<div class="container mx-auto mt-16 mb-32 relative ">
+<div class="container mx-auto mt-16 mb-32 relative -top-[100vh]">
     <!-- <style>
         /* Hide inactive checkboxes */
         input[type="checkbox"]:not(:checked) {
@@ -84,3 +87,6 @@
 </section>
 
 <div class="text-center"><a href="/discover?categories%5B%5D={{slug}}"><button>See all {{title}} content</button></a></div>
+
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<script src="/js/challengeShow.js"></script>

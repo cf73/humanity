@@ -1,11 +1,6 @@
 gsap.registerPlugin(ScrollTrigger);
 
 gsap.timeline().from("body", {opacity:0, duration:3, ease:"expo.inOut"});
-gsap.timeline()
-    .to("#dimmer", {delay: 1.5, opacity:1, duration:2.5, ease:"expo.inOut"})
-    .to("#titleText", {opacity:1, duration:2, ease:"expo.inOut"}, "-=80%")
-    .from("#openNav", {opacity:0, duration:3, ease:"expo.inOut"}, "-=60%")
-    ;
 
 var navianimation = gsap.timeline({paused: true})
     .to("#openNav", {opacity:0, duration:.8, ease:"expo.inOut"})
@@ -24,8 +19,60 @@ document.getElementById("openNav").onclick = ()=> navianimation.play();
 document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
 
 
+// CHALLENGE SHOW TEMPLATE ----------------------------------------------------------------------------------------------
 
-// SCROLL TRIGGERS
+// fade away the title text on scroll
+gsap.fromTo(
+  "#initialQuote",
+  {opacity: 1, // Initial opacity (from value)
+  },
+  {
+    immediateRender: false,
+    opacity: 0, // Target opacity (to value)
+    duration: 0.25,
+    scrollTrigger: {
+      trigger: "#initialQuote",
+      start: "bottom 90%",
+      end: "bottom 20%",
+      toggleActions: "play pause reverse reverse",
+      markers: false,
+      scrub: false,
+    },
+  }
+);
+
+//fade up the intro text
+gsap.to('#introText', {
+  scrollTrigger: {
+      trigger: "#initialQuote",
+      start: "bottom center",
+      end: "bottom top",
+      toggleActions: "play pause reverse reset",
+      markers: false,
+      scrub: false,
+  },
+  opacity: 1,
+  duration: 1,
+});
+
+// fade awway hero-area on scroll
+gsap.fromTo(
+  "#hero-area",
+  {opacity: 1, // Initial opacity (from value)
+  },
+  {
+    opacity: 0, // Target opacity (to value)
+    duration: 2,
+    scrollTrigger: {
+      trigger: "#initialQuote",
+      start: "bottom center",
+      end: "bottom top",
+      toggleActions: "play pause reverse reverse",
+      markers: false,
+      scrub: false,
+    },
+  }
+);
 
   //show filters on scroll
 //   gsap.to('#filter', {
@@ -51,39 +98,29 @@ ScrollTrigger.create({
 ScrollTrigger.create({
     Trigger: '#hero-area',
     start: 'top top',
-    end: '+=1500',
+    endTrigger: "footer",
+    end: "bottom bottom",
     pin: '#hero-area',
+    pinSpacing: false,
+    preventOverlaps: true
   });
 
-  //fade away the title text on scroll
-  gsap.to('#titleText', {
-    scrollTrigger: {
-        trigger: "#titleText",
-        start: "bottom 90%",
-        end: "bottom center",
-        scrub: true,
-    },
-    opacity: 0,
-    duration: 1,
-    });
+//   // re-pin hero area
+// ScrollTrigger.create({
+//   Trigger: '#hero-area',
+//   start: '+=1500',
+//   end: '+=19500',
+//   pin: '#hero-area',
+// });
 
-//fade up the intro text
-gsap.to('#introText', {
-    scrollTrigger: {
-        trigger: "#titleText",
-        start: "bottom center",
-        end: "bottom top",
-        markers: true,
-        scrub: true,
-    },
-    opacity: 1,
-    duration: 1,
-    })
+  
+
+
 
 
   //pin introText for a while
   ScrollTrigger.create({
-    trigger: "#titleText",
+    trigger: "#initialQuote",
     start: "top top",
     end: "+=1200",
     pin: '#introText',
