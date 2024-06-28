@@ -1,17 +1,20 @@
-<div data-speed="3" id="hero-area" style="background-image: url('{{main_image:image}}');" class="w-full h-[100vh] relative flex items-center bg-cover bg-center z-50">
+<div id="hero-area" style="background-image: url('{{main_image:image}}');" class="w-full h-[100vh] relative flex items-center bg-cover bg-center">
     <!-- <video id="earth" src="{{intro_movie}}" autoplay muted loop style="
     position: absolute;
     top: 0;
     left: 0;
     width: 100vw;
     height: 66vh;
-    object-fit: cover;
+    object-fit: cover;2
     z-index: 0;"></video> -->
     <div id="dimmer" class="opacity-0 h-[100vh] bg-cetaceanBlue/80 absolute z-0 bottom-0 w-full"></div>
 </div>
 
-<div id="titleText" class="opacity-0 flex flex-col items-center justify-center w-full absolute top-0 left-0 h-[100vh] display z-50">
-    {{title}}
+<div id="initialQuote" class="flex flex-col items-center justify-center w-full absolute top-0 left-0 h-[100vh] display z-50">
+    {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
+        <h2 class="mb-4 w-2/3 mx-auto text-center">{{quotation}}</h2>
+        <div class="textMeta text-warmwhite w-2/3 mx-auto text-center">{{attribution}}</div>
+    {{/collection:quotations}}
     <!-- <div class="text-bold">{{collection:partner_initiatives challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Initiatives</div> -->
 </div>
 <div class="flex flex-col items-center justify-center w-full absolute top-0 left-0 h-[100vh] text-center mx-auto z-50">
@@ -20,7 +23,7 @@
 
 <!-- <div id="hiddenScrollController1" class="h-[200vh] relative z-50 bg-red-300 w-40 -top-[30vh]"></div> -->
 
-<div id="filter" class="opacity-1 bg-white/40 hover:bg-white/90 backdrop-blur-lg cursor-pointer rounded-lg w-fit px-4 absolute z-10 left-8 top-24 py-2"><span class="textMeta">Filter</span></div>
+<div id="filter" class="hidden bg-white/40 hover:bg-white/90 backdrop-blur-lg cursor-pointer rounded-lg w-fit px-4 absolute z-10 left-8 top-24 py-2"><span class="textMeta">Filter</span></div>
 
 <!-- Image and quote -->
 <!-- <div class="px-32 grid grid-cols-2 gap-16 h-[80vh] w-full bg-algae">
@@ -33,18 +36,18 @@
     </div>
 </div> -->
 
-<div class="container mx-auto mt-16 mb-32 relative ">
+<div id="challengeContent" class="container mx-auto grid grid-cols-5 gap-16 mt-16 mb-32 px-8 relative -top-[100vh]">
     <!-- <style>
         /* Hide inactive checkboxes */
         input[type="checkbox"]:not(:checked) {
             display: none;
         }
     </style> -->
-    <div class="">
+    <div id="filters" class="col-span-1">
         <form action="{{url}}" method="get">
             <div class="textMeta mb-2">Filters</div>
             {{taxonomy:collection_type not_from="quotations|partner_initiatives|photography_contributions"}}
-                <label class="textMain">
+                <label class="textMainSans">
                     <input class="rounded"
                         type="checkbox"
                         name="collectiontype[]"
@@ -56,7 +59,7 @@
             <button type="submit" class="btn-secondary mt-4">Apply</button>
         </form>
     </div>
-    <div class="">
+    <div class="col-start-2 col-span-4">
         {{ collection from="*" not_from="pages" as="results"
             taxonomy:challenges="{{slug}}"
             :taxonomy:collection_type="get:collectiontype"
@@ -67,7 +70,7 @@
                     Sorry, no results.
                 </div>
             {{ else }}
-                <div class="grid grid-cols-2 gap-32 px-32">
+                <div class="grid grid-cols-2 gap-32">
                     {{ results | shuffle }}
                         {{ partial:cards/card }}
                     {{ /results }}
@@ -84,3 +87,6 @@
 </section>
 
 <div class="text-center"><a href="/discover?categories%5B%5D={{slug}}"><button>See all {{title}} content</button></a></div>
+
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<script src="/js/challengeShow.js"></script>
