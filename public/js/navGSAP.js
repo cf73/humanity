@@ -97,7 +97,7 @@ ScrollTrigger.create({
   trigger: "#challengeContent",
   start: "top 15%",
   end: "bottom bottom",
-  markers: true,
+  markers: false,
   pin: '#filters',
   pinSpacing: false,
 });
