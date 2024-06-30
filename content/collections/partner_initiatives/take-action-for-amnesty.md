@@ -173,7 +173,7 @@ challenges:
   - war
 partner: amnesty-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719166315
+updated_at: 1719789802
 summary: |-
   Amnesty International seeks to re-examine the Universal Declaration of Human Rights:  
 
@@ -182,4 +182,5 @@ call_to_action: 'Amnesty International creates Generation 2048'
 key_facts_that_make_this_urgent: |-
   Generation 2048: time to resist, disrupt and transform. 
   Some question the legitimacy of the Universal Declaration of Human Rights (UDHR). After all, it was drafted by a minority of States at a time when many of the world’s population lived under colonialism. We cannot ignore this shortcoming, any more than we should neglect the critique that the modern human rights regime is a Western liberal project favouring civil and political rights over economic, social and cultural rights.
+url_to_take_action: 'https://www.amnesty.org/en/latest/campaigns/2023/12/generation-2048-time-to-resist-disrupt-and-transform/'
 ---
