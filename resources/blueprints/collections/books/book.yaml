@@ -141,23 +141,6 @@ tabs:
               validate:
                 - required
           -
-            handle: file_under
-            field:
-              max_items: 1
-              mode: select
-              create: false
-              taxonomies:
-                - section
-              type: terms
-              display: 'File Under'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
-              validate:
-                - required
-          -
             handle: challenges
             field:
               mode: select
@@ -171,7 +154,21 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
-              instructions: "Only required if you selected 'Challenges' from the menu above ('Filed Under')."
+          -
+            handle: sections
+            field:
+              max_items: 1
+              mode: select
+              create: false
+              taxonomies:
+                - section
+              type: terms
+              display: Sections
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
           -
             handle: related_partner_initiatives
             field:

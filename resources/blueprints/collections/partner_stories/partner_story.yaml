@@ -193,7 +193,7 @@ tabs:
             handle: challenges
             field:
               mode: select
-              create: true
+              create: false
               taxonomies:
                 - challenges
               type: terms
@@ -203,6 +203,8 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
+              validate:
+                - required
           -
             handle: partner
             field:

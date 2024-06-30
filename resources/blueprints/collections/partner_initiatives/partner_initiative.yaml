@@ -160,7 +160,7 @@ tabs:
             handle: challenges
             field:
               mode: select
-              create: true
+              create: false
               taxonomies:
                 - challenges
               type: terms
