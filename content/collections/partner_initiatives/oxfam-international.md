@@ -124,11 +124,12 @@ challenges:
   - inspiration
 partner: oxfam-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719172954
+updated_at: 1719791471
 summary: 'Take action. Change the world. We believe in the power of people to create a more equal world. All of us—those living in poverty and those who are not—have a role to play.'
-call_to_action: 'Building a grassroots movement for change, one person at a time.'
+call_to_action: 'Join Oxfam in fighting for dignity'
 key_facts_that_make_this_urgent: |-
   Oxfam is a global organization that fights inequality to end poverty and injustice. We offer lifesaving support in times of crisis and advocate for economic justice, gender equality, and climate action. We demand equal rights and equal treatment so that everyone can thrive, not just survive. The future is equal. 
 
   Inequality is the most pressing issue of our time. And for 80 years, people like you have fueled our mission to end poverty and injustice.
+url_to_take_action: 'https://www.oxfamamerica.org'
 ---
