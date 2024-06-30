@@ -21,11 +21,11 @@
 </section> -->
 
 <section id="introblock" class="mb-16">
-    <div class="grid grid-cols-1 w-full lg:grid-cols-12 relative">
+    <div class="grid grid-cols-1 w-full lg:grid-cols-12 px-4 lg:px-0 mx-auto overflow-hidden relative">
     {{taxonomy:challenges slug:contains="{challengeslug}"}}
         <!-- main photo -->
         <div class="col-span-12 lg:col-span-8">
-            <div style="background-image: url('{{main_image:image}}');" class="w-full h-[80vh] relative bg-contain bg-no-repeat bg-right-bottom mb-4"></div>
+            <div style="background-image: url('{{main_image:image}}');" class="w-full h-[30vh] lg:h-[80vh] relative bg-contain bg-no-repeat bg-right-bottom mb-4"></div>
         </div>
         <div class="lg:row-start-2 lg:col-start-2 col-span-12 lg:col-span-8 mt-1">
             {{partial:cards/tape passedValue="Photography"}}
@@ -35,14 +35,14 @@
             </div>
         </div>
         <!-- quote to right of photo -->
-        <div data-speed=".8" class="lg:col-start-9 col-span-12 lg:col-span-4 lg:h-full lg:row-start-1 flex flex-col lg:justify-center lg:pr-16 lg:pl-6">
+        <div data-speed=".8" class="lg:col-start-9 col-span-12 lg:col-span-4 lg:h-full lg:row-start-1 flex flex-col lg:justify-center lg:pr-16 lg:pl-6 text-center items-center my-24 lg:my-0 lg:text-left lg:items-start">
             {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
                 <h4 class="mb-4">{{quotation}}</h4>
                 <div class="textMeta">{{attribution}}</div>
             {{/collection:quotations}}
         </div>
         <!-- theme intro title and text -->
-        <div data-speed=".8" class="col-span-12 lg:col-span-3 lg:col-start-2 lg:row-start-2 lg:-mt-[20vh] flex flex-col justify-center space-y-8 mt-8 lg:row-span-2 ">
+        <div data-speed=".8" class="col-span-12 row-span-4 lg:col-span-3 lg:col-start-2 row-start-1 lg:row-start-2 my-24 lg:-mt-[20vh] flex flex-col justify-center space-y-8 lg:row-span-2 ">
             <h1 class="">{{title_text}}</h1>
             <div class="prose prose-sky prose-xl leading-snug font-medium">{{intro_text}}</div>
             <div class="flex flex-row space-x-4">

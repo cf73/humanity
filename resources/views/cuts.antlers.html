@@ -65,6 +65,49 @@
 
 
 
+
+
+//commencement-speeches
+<section id="commencements" class="bg-[#3aafcb78]">
+    <!-- heroSwiper -->
+    <div class="commencementsHeroSwiper">
+        <div class="swiper-wrapper">
+            {{nav title:contains="home"}}
+                {{commencement_speeches_hero_images}}
+                <div class="swiper-slide h-[80vh] w-full bg-no-repeat bg-cover bg-center" style="background-image: url({{image}});"></div>
+                {{/commencement_speeches_hero_images}}
+             {{/nav}}
+        </div>
+    </div>
+    <div class="container mx-auto space-y-16 grid grid-cols-12">
+        <div data-speed=".8" class="col-span-3 -mt-[20vh] flex flex-col justify-center space-y-8 row-start-2 row-span-2 col-start-2">
+            <div class="font-thin leading-tighter tracking-wide text-7xl">{{commencement_speeches_title}}</div>
+        </div>        
+        <div data-speed=".8" class="col-start-9 h-full row-start-1 col-span-4 flex flex-col justify-center p-16 font-thin text-2xl leading-normal tracking-wide">{{commencement_speeches_brief_introduction}}</div>
+
+        <div data-speed="1.2" class="col-span-6 row-start-2 col-start-6 -mt-[40vh] mb-24 z-10">
+            <div class="commencementsSwiper">
+                <div class="flex flex-row justify-end space-x-2 relative -left-1 take-action-now opacity-0 mt-[40px]">
+                    <div class="image-swiper-button-prev"></div>
+                    <div class="image-swiper-button-next"></div>
+                </div>
+                <div class="swiper-wrapper">
+                    {{featured_commencement_speeches}}
+                        <div class="swiper-slide flex flex-col justify-center" style="height: auto !important;">
+                            {{if video_id}}
+                            <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                            {{else}}
+                            <img src="{{image}}" alt="{{title}}" class="w-full">
+                            {{/if}}
+                        </div>
+                    {{/featured_commencement_speeches}}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <!-- loop through the challenges that card entries may be tagged with -->
 {{challenges}}
     <a href="/index?categories%5B%5D={{slug}}">{{partial:tag label="{{title}}"}}</a> <span class="text-serif text-xs relative top-1.5">|</span>

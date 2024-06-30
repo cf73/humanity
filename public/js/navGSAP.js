@@ -1,5 +1,7 @@
 gsap.registerPlugin(ScrollTrigger);
 
+ScrollTrigger.normalizeScroll(true);
+
 gsap.timeline().from("body", {opacity:0, duration:3, ease:"expo.inOut"});
 
 var navianimation = gsap.timeline({paused: true})
