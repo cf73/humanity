@@ -1,14 +1,14 @@
 ---
 id: 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
 blueprint: partner_initiative
-title: 'International Rescue Committee seeks to help 33 million refugees worldwide.'
+title: 'Join the International Rescue Committee in aiding 33 million refugees worldwide.'
 collection_type: partner-initiative
 image: 20170503_khtet_myanmar_0031-hero-3.jpg
 challenges:
   - war
 partner: international-rescue-committee
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719172490
+updated_at: 1719791360
 description:
   -
     type: paragraph
@@ -647,6 +647,7 @@ description:
         type: text
         text: ' research groups.'
 summary: 'Right now, in places like Gaza, Sudan and Ukraine, conflict and disaster have left millions of families living in temporary shelters, lacking basic supplies and in urgent need of emergency aid. The IRC works to provide food, water and medical care, along with the critical support families need to survive, recover and rebuild their lives.'
-call_to_action: 'Help the IRC aid refugees worldwide.'
+call_to_action: 'Join the IRC in aiding refugees worldwide'
 key_facts_that_make_this_urgent: 'In the almost 90 years since our founding, the world has changed and so have the needs of the people we serve. Today a staggering 100 million people are displaced as result of conflict, persecution and crisis. People are displaced for longer periods than ever (most for over a decade) as conflicts (such as that in Afghanistan) average 20 years in length. The climate crisis, projected to displace as many as 150 million people by 2050, further exacerbates these trends, as does COVID-19.'
+url_to_take_action: 'https://www.rescue.org/how-to-help'
 ---
