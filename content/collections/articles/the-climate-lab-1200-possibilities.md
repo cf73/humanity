@@ -974,7 +974,6 @@ article_text:
         text: 'Edward Byers, Volker Krey, Elmar Kriegler, Keywan Riahi, Roberto Schaeffer, Jarmo Kikstra, Robin Lamboll, Zebedee Nicholls, Marit Sanstad, Chris Smith, Kaj-Ivar van der Wijst, Alaa Al Khourdajie, Franck Lecocq, Joana Portugal-Pereira, Yamina Saheb, Anders Strømann, Harald Winkler, Cornelia Auer, Elina Brutschin, Matthew Gidden, Philip Hackstock, Mathijs Harmsen, Daniel Huppmann, Peter Kolp, Claire Lepault, Jared Lewis, Giacomo Marangoni, Eduardo Müller-Casseres, Ragnhild Skeie, Michaela Werning, Katherine Calvin, Piers Forster, Celine Guivarch, Tomoko Hasegawa, Malte Meinshausen, Glen Peters, Joeri Rogelj, Bjorn Samset, Julia Steinberger, Massimo Tavoni, Detlef van Vuuren. AR6 Scenarios Database hosted by IIASA, International Institute for Applied Systems Analysis, 2022.'
 collection_type: article
 challenges:
-  - inspiration
   - war
   - democracy
   - climate
@@ -986,8 +985,9 @@ related_content:
   - 9f09c216-ae44-4a47-badf-16a8ab75a311
   - 0bc47757-97d7-4952-98de-6e99de003495
   - 8f01cbfc-48f8-4156-acd7-03bef3acce9f
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719060261
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1719702245
 publication: 'The Washington Post'
 articleauthor: 'Chris Mooney, Naema Ahmed and John Muyskens'
+file_under: challenges
 ---

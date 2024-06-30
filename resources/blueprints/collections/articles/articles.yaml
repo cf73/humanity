@@ -190,6 +190,23 @@ tabs:
               validate:
                 - required
           -
+            handle: file_under
+            field:
+              max_items: 1
+              mode: select
+              create: false
+              taxonomies:
+                - section
+              type: terms
+              display: 'File Under'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
             handle: challenges
             field:
               mode: select
@@ -247,19 +264,10 @@ tabs:
               validate:
                 - required
           -
-            handle: file_under
+            handle: section
             field:
-              max_items: 1
-              mode: select
-              create: false
+              type: terms
               taxonomies:
                 - section
-              type: terms
-              display: 'File Under'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
-              validate:
-                - required
+              display: Section
+              mode: select

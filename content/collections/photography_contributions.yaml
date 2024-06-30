@@ -4,7 +4,6 @@ layout: layout
 taxonomies:
   - collection_type
   - challenges
-  - section
 revisions: false
 route: '/index/{slug}'
 sort_dir: asc

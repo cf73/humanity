@@ -71,8 +71,6 @@ description:
         type: text
         text: 'But the heart of the book remains Leopold''s carefully rendered observations of nature. Here we follow Leopold throughout the year, from January to December, as he walks about the rural Wisconsin landscape, watching a woodcock dance skyward in golden afternoon light, or spying a rough-legged hawk dropping like a feathered bomb on its prey. And perhaps most important are Leopold''s trenchant comments throughout the book on our abuse of the land and on what we must do to preserve this invaluable treasure. This edition also includes two of Leopold''s most eloquent essays on conservation, "The Land Ethic" and "Marshland Elegy." '
 collection_type: book
-challenges:
-  - inspiration
 related_partner_initiatives:
   - dfae34a8-30a5-4e7c-89d7-a33917e780d8
   - 3bf463d5-6e92-4bf8-abe9-bc1148c3a4e1
@@ -81,8 +79,9 @@ related_partner_initiatives:
 related_content:
   - 239a38c6-1348-452c-b8d1-8136b4dd3c89
   - ac220561-aa8b-48ce-a11d-d0ee99b3cab4
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718975485
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1719710645
 date_published: '1986-12-12'
 book_author: 'Aldo Leopold'
+file_under: inspiration
 ---

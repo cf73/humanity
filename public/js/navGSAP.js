@@ -42,7 +42,7 @@ gsap.fromTo(
       trigger: "#initialQuote",
       start: "bottom 90%",
       end: "bottom 20%",
-      toggleActions: "play pause reverse reverse",
+      toggleActions: "play pause reverse reset",
       markers: false,
       scrub: false,
     },
@@ -80,7 +80,7 @@ gsap.fromTo(
   },
   {
     opacity: 0, // Target opacity (to value)
-    duration: 2,
+    duration: .5,
     scrollTrigger: {
       trigger: "#introText",
       start: "top top",

@@ -2,9 +2,8 @@ title: Books
 template: contentTemplates/book
 layout: layout
 taxonomies:
-  0: challenges
-  2: collection_type
-  3: section
+  - challenges
+  - collection_type
 revisions: false
 route: '/index/{slug}'
 sort_dir: asc

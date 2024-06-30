@@ -3,11 +3,47 @@
         <h1>{{title}}</h1>
         <div class="prose prose-sky prose-xl mt-4 mx-auto">{{intro}}</div>
     </div>
-    <div class="grid grid-cols-2 gap-32 px-32">
-        {{collection:* not_from="quotations|pages|partner_initiatives" :taxonomy:challenges="inspiration" as="results"}}
-            {{results | shuffle}}
-                {{ partial:cards/card }}
-            {{/results}}
-        {{/collection:*}}
+    <div id="challengeContent" class="container mx-auto grid grid-cols-5 gap-16 mt-16 mb-32 px-8 relative -top-[100vh]">
+        <!-- <style>
+            /* Hide inactive checkboxes */
+            input[type="checkbox"]:not(:checked) {
+                display: none;
+            }
+        </style> -->
+        <div id="filters" class="col-span-1">
+            <form action="{{url}}" method="get">
+                <div class="textMeta mb-2">Filters</div>
+                {{taxonomy:collection_type}}
+                    <label class="textMainSans">
+                        <input class="rounded"
+                            type="checkbox"
+                            name="collectiontype[]"
+                            value="{{ slug }}"
+                            {{ (get:collectiontype | contains(slug)) ?= 'checked' }}>
+                        {{ title }}<br>
+                    </label>
+                {{/taxonomy:collection_type}}
+                <button type="submit" class="btn-secondary mt-4">Apply</button>
+            </form>
+        </div>
+        <div class="col-start-2 col-span-4">
+            {{ collection from="*" not_from="pages" as="results"
+                :taxonomy:challenges="inspiration"
+                :taxonomy:collection_type="get:collectiontype"
+                not_from="quotations|partner_initiatives|photography_contributions|pages"
+                 }}
+                {{ if no_results }}
+                    <div class="p-8 rounded-lg bg-gray-100 text-center">
+                        Sorry, no results.
+                    </div>
+                {{ else }}
+                    <div class="grid grid-cols-2 gap-32">
+                        {{ results | shuffle }}
+                            {{ partial:cards/card }}
+                        {{ /results }}
+                    </div>
+                {{ /if }}
+            {{ /collection }}
+        </div>
     </div>
 </div>
