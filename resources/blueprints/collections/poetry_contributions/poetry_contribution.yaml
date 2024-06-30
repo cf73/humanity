@@ -124,6 +124,8 @@ tabs:
             field:
               mode: select
               create: false
+              taxonomies:
+                - challenges
               type: terms
               display: Challenges
               listable: hidden
@@ -131,5 +133,18 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
+          -
+            handle: sections
+            field:
+              max_items: 1
+              mode: select
+              create: false
               taxonomies:
-                - challenges
+                - section
+              type: terms
+              display: Sections
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false

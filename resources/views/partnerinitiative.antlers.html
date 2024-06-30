@@ -1,1 +1,23 @@
-<h1>{{title}}</h1>
+<div class="px-16 py-8 w-2/3 mx-auto mt-36 space-y-8 text-center">
+    <a href="//{{partner:website}}"><img src="{{partner:logo}}" class="mx-auto" width="100px" alt="{{partner:title}}"></a>
+    <div class="text-center flex flex-col items-center space-y-8">
+        <h1>{{title}}</h1>
+        <a href=""><button class="btn-primary mx-auto">{{call_to_action}}</button></a>
+        <div class="prose prose-sky prose-xl">{{key_facts_that_make_this_urgent}}</div>
+        <div class="prose prose-sky prose-xl mt-4 mx-auto">{{summary}}</div>
+    </div>
+</div>
+
+<!-- image -->
+<img src="{{image}}" width="auto" class="mx-auto" alt="">
+
+<article class="w-2/3 mx-auto">
+    <!-- top area -->
+    <div class="space-y-16 flex flex-col px-16 py-8">
+        <div class="textMain">{{description}}</div>
+        <a class="mx-auto" href="//{{partner:website}}" target="_blank"><button class="btn-secondary">Visit {{partner:title}}</button></a>
+    </div>
+</article>
+
+{{partial:contentTemplates/relatedContent}}
+

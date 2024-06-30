@@ -13,6 +13,8 @@ preferences:
   taxonomies:
     birds:
       after_save: create_another
+    section:
+      after_save: create_another
   assets:
     assets:
       mode: grid

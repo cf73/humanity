@@ -3,6 +3,7 @@ template: default
 layout: layout
 taxonomies:
   - collection_type
+  - challenges
 revisions: false
 route: 'index/{slug}'
 sort_dir: asc

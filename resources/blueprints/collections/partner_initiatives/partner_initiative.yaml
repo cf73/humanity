@@ -55,12 +55,29 @@ tabs:
               antlers: false
               type: text
               display: 'Call to action'
-              instructions: "This text appears in the button a visitor will click to act on this initiative (for the moment, it will simply link to the partner's website, but in future may be where we direct a visitor to a donate form)."
+              instructions: |-
+                This should be a verb/instruction, like "Sign up", "Donate", etc.
+                This text appears in the button a visitor will click to act on this initiative
               listable: hidden
               instructions_position: above
               visibility: visible
               replicator_preview: true
               hide_display: false
+              validate:
+                - required
+          -
+            handle: url_to_take_action
+            field:
+              type: link
+              display: 'URL to take action'
+              instructions: "A link to the specific page in the Partner's site where a visitor can donate, volunteer, sign a petition, or otherwise contribute to changing the world."
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
           -
             handle: key_facts_that_make_this_urgent
             field:
@@ -143,7 +160,7 @@ tabs:
             handle: challenges
             field:
               mode: select
-              create: true
+              create: false
               taxonomies:
                 - challenges
               type: terms

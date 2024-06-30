@@ -21,45 +21,45 @@
 </section> -->
 
 <section id="introblock" class="mb-16">
-    <div class="grid grid-cols-12 relative">
-        {{taxonomy:challenges slug:contains="{challengeslug}"}}
-            <!-- main photo -->
-            <div class="col-span-8">
-                <div style="background-image: url('{{main_image:image}}');" class="w-full h-[80vh] relative bg-contain bg-no-repeat bg-right-bottom mb-4"></div>
+    <div class="grid grid-cols-1 w-full lg:grid-cols-12 px-4 lg:px-0 mx-auto overflow-hidden relative">
+    {{taxonomy:challenges slug:contains="{challengeslug}"}}
+        <!-- main photo -->
+        <div class="col-span-12 lg:col-span-8">
+            <div style="background-image: url('{{main_image:image}}');" class="w-full h-[30vh] lg:h-[80vh] relative bg-contain bg-no-repeat bg-right-bottom mb-4"></div>
+        </div>
+        <div class="lg:row-start-2 lg:col-start-2 col-span-12 lg:col-span-8 mt-1">
+            {{partial:cards/tape passedValue="Photography"}}
+            <div class="lg:w-1/3 relative z-10">
+                <a href="{{main_image:url}}"><h3 class="mb-2">{{main_image:title}} <i class="las la-angle-right text-xl"></i></h3></a>
+                <a class="prose prose-sky leading-none" href="{{main_image:url}}">{{main_image:photographer_name}}</a> 
             </div>
-            <div class="row-start-2 col-start-2 col-span-8 mt-1">
-                {{partial:cards/tape passedValue="Photography"}}
-                <div class="w-1/3 relative z-10">
-                    <a href="{{main_image:url}}"><h3 class="mb-2">{{main_image:title}} <i class="las la-angle-right text-xl"></i></h3></a>
-                    <a class="prose prose-sky leading-none" href="{{main_image:url}}">{{main_image:photographer_name}}</a> 
-                </div>
+        </div>
+        <!-- quote to right of photo -->
+        <div data-speed=".8" class="lg:col-start-9 col-span-12 lg:col-span-4 lg:h-full lg:row-start-1 flex flex-col lg:justify-center lg:pr-16 lg:pl-6 text-center items-center my-24 lg:my-0 lg:text-left lg:items-start">
+            {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
+                <h4 class="mb-4">{{quotation}}</h4>
+                <div class="textMeta">{{attribution}}</div>
+            {{/collection:quotations}}
+        </div>
+        <!-- theme intro title and text -->
+        <div data-speed=".8" class="col-span-12 row-span-4 lg:col-span-3 lg:col-start-2 row-start-1 lg:row-start-2 my-24 lg:-mt-[20vh] flex flex-col justify-center space-y-8 lg:row-span-2 ">
+            <h1 class="">{{title_text}}</h1>
+            <div class="prose prose-sky prose-xl leading-snug font-medium">{{intro_text}}</div>
+            <div class="flex flex-row space-x-4">
+                <a href="/challenges/{{slug}}"><button class="btn-primary">Learn</button></a>
+                <a href="/take-action-now?categories%5B%5D={{slug}}"><button class="btn-secondary">Take Action</button></a>
             </div>
-            <!-- text to right of photo, currently index of theme content by type -->
-            <div data-speed=".8" class="col-start-9 h-full row-start-1 col-span-4 flex flex-col justify-center pr-16 pl-6">
-                {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
-                    <h4 class="mb-4">{{quotation}}</h4>
-                    <div class="textMeta">{{attribution}}</div>
-                {{/collection:quotations}}
-            </div>
-            <!-- theme intro title and text -->
-            <div data-speed=".8" class="col-span-3 -mt-[20vh] flex flex-col justify-center space-y-8 row-start-2 mt-8 row-span-2 col-start-2">
-                <h1 class="">{{title_text}}</h1>
-                <div class="prose prose-sky prose-xl leading-snug font-medium">{{intro_text}}</div>
-                <div class="flex flex-row space-x-4">
-                    <a href="/challenges/{{slug}}"><button class="btn-primary">Learn</button></a>
-                    <a href="/challenges/{{slug}}"><button class="btn-secondary">Take Action</button></a>
-                </div>
-                <!-- <div class="font-medium leading-snug text-lg">{{intro_text}}</div> -->
-            </div>
-            <!-- featured secondary content -->
-            <div data-speed="1.2" class="col-span-6 row-start-2 col-start-6 -mt-[40vh] mb-24 z-10">
-                {{featured_content limit="1"}}
-                    {{partial:cards/featuredCard}}
-                {{/featured_content}}
-        {{/taxonomy:challenges}}
-        <!-- swiper of tirtiary content -->
-        
-            <div class="featuredSwiper">
+            <!-- <div class="font-medium leading-snug text-lg">{{intro_text}}</div> -->
+        </div>
+        <!-- featured secondary content -->
+        <div data-speed="1.2" class="col-span-12 lg:col-span-6 lg:row-start-2 lg:col-start-6 -mt-[40vh] mb-24 z-10">
+            {{featured_content limit="1"}}
+                {{partial:cards/featuredCard}}
+            {{/featured_content}}
+    {{/taxonomy:challenges}}
+    <!-- swiper of tirtiary content -->
+    
+            <div class="featuredSwiper col-span-12 lg:col-span-6 lg:row-start-2 lg:col-start-6 w-full">
                 <div class="flex flex-row justify-end space-x-2 relative -left-1 mt-[40px] mb-8">
                     <div class="image-swiper-button-prev"></div>
                     <div class="image-swiper-button-next"></div>
