@@ -986,8 +986,7 @@ related_content:
   - 0bc47757-97d7-4952-98de-6e99de003495
   - 8f01cbfc-48f8-4156-acd7-03bef3acce9f
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1719702245
+updated_at: 1719783067
 publication: 'The Washington Post'
 articleauthor: 'Chris Mooney, Naema Ahmed and John Muyskens'
-file_under: challenges
 ---

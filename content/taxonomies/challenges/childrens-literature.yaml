@@ -1,0 +1,13 @@
+title: "Children's Literature"
+main_image: 6ee9b5c9-6951-42ea-8b72-740b29d9fd59
+title_text: 'Pages of Possibility'
+intro_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Welcome to a magical realm where imagination knows no bounds. Our curated collection celebrates the enchanting world of children’s literature—a place where talking animals, brave adventurers, and hidden doorways come alive. From timeless classics to contemporary tales, we invite you to journey alongside young heroes, discover secret gardens, and unlock the power of storytelling.'
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1719782796
+blueprint: challenge
