@@ -69,9 +69,10 @@ challenges:
   - war
 partner: doctors-without-borders
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719171960
+updated_at: 1719791083
 key_facts_that_make_this_urgent: |-
   Medical staff in Gaza have been enduring the unthinkable: amputating limbs without anesthesia, treating mass crush and burn injuries with extremely limited supplies, and trying to work as Israeli forces have repeatedly besieged hospitals like Nasser and Al-Shifa. MSF reiterates its call for an immediate and sustained ceasefire to prevent more death and destruction to the lives of people in Gaza.  
 
   Health care workers in Gaza have been risking their lives to provide medical care. Some, also including MSF colleagues, have been killed or detained. Others have been forced to flee facilities under Israeli forces’ evacuation orders, having to make the unconscionable decision of whether to leave patients behind or save their own lives.
+url_to_take_action: 'https://www.doctorswithoutborders.org/get-involved'
 ---
