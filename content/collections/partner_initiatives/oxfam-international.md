@@ -121,10 +121,9 @@ collection_type: partner-initiative
 challenges:
   - war
   - democracy
-  - inspiration
 partner: oxfam-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719791471
+updated_at: 1719791512
 summary: 'Take action. Change the world. We believe in the power of people to create a more equal world. All of us—those living in poverty and those who are not—have a role to play.'
 call_to_action: 'Join Oxfam in fighting for dignity'
 key_facts_that_make_this_urgent: |-
