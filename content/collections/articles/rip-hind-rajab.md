@@ -1389,7 +1389,8 @@ related_content:
   - 2308eaf9-48ef-4d96-b90a-2ba636cf0996
   - ee249176-0024-4fca-a366-9b5d515d29d4
   - 5b23ff39-cc44-49fa-9ced-97b78abc74b8
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717883774
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1719861767
 articleauthor: 'Meg Kelley'
+sections: peace-gatherings
 ---
