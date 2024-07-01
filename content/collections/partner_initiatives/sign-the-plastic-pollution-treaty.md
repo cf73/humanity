@@ -80,7 +80,7 @@ challenges:
   - climate
 partner: world-wide-fund-for-nature
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719792235
+updated_at: 1719793018
 summary: 'Our mission Is to stop the degradation of the earth’s natural environment and to build a future in which humans live in harmony with nature by: conserving the world’s biological diversity; ensuring that the use of renewable natural resources is sustainable; promoting the reduction of pollution and wasteful consumption.'
 call_to_action: 'Join the action center of the World Wildlife Fund'
 key_facts_that_make_this_urgent: 'We collaborate with local communities to conserve the natural resources we all depend on and build a future in which people and nature thrive. Together with partners at all levels, we transform markets and policies toward sustainability, tackle the threats driving the climate crisis, and protect and restore wildlife and their habitats.'
