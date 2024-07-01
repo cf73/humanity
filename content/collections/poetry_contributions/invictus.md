@@ -9,27 +9,10 @@ challenges:
   - democracy
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718799605
+updated_at: 1719801882
 collection_type: poetry-contribution
+sections: inspiration
 content:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: INVICTUS
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'by William Ernest Henley'
   -
     type: paragraph
     content:
