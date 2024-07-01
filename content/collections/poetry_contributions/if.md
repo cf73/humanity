@@ -5,14 +5,11 @@ title: If
 poets_name: 'Rudyard Kipling'
 image: image-1718799459.jpeg
 collection_type: poetry-contribution
-challenges:
-  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718799491
+updated_at: 1719801916
 poets_website: 'https://www.poetryfoundation.org/poets/rudyard-kipling'
+sections: inspiration
 content:
-  -
-    type: paragraph
   -
     type: paragraph
     content:
