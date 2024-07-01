@@ -362,7 +362,8 @@ related_content:
   - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
   - 7e00de5e-d35e-4430-a7bf-fc16eecb030a
   - d94c4a1a-f5be-410b-bb1c-7e74967f4226
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717883739
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1719862013
 articleauthor: 'Ishaan Tharoor, Washington Post'
+sections: peace-gatherings
 ---
