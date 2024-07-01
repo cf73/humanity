@@ -155,5 +155,6 @@ challenges:
   - democracy
 partner: human-rights-watch
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719175222
+updated_at: 1719792729
+url_to_take_action: 'https://www.hrw.org/video-photos/video/2022/05/25/children-tracked-while-learning'
 ---
