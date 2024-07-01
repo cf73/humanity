@@ -1,7 +1,7 @@
 ---
 id: 2d25bdca-0661-40ea-8a59-9d3e34107a2a
 blueprint: partner_initiative
-title: 'Amnesty International re-examines the Universal Declaration of Human Rights'
+title: 'Learn how Amnesty International re-examines the Universal Declaration of Human Rights'
 collection_type: partner-initiative
 description:
   -
@@ -173,7 +173,7 @@ challenges:
   - war
 partner: amnesty-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719789802
+updated_at: 1719792888
 summary: |-
   Amnesty International seeks to re-examine the Universal Declaration of Human Rights:  
 
