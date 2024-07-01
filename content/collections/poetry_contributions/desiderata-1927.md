@@ -5,11 +5,10 @@ title: Desiderata
 poets_name: 'Max Ehrmann'
 image: image-1713244218.jpeg
 collection_type: poetry-contribution
-challenges:
-  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718799343
+updated_at: 1719801653
 poets_website: 'https://www.poetryfoundation.org/articles/70274/in-search-of-desiderata'
+sections: inspiration
 content:
   -
     type: paragraph
@@ -19,13 +18,10 @@ content:
         marks:
           -
             type: bold
-        text: '      Desiderata'
-  -
-    type: paragraph
-    content:
+        text: '      '
       -
         type: text
-        text: '     Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.'
+        text: 'Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.'
   -
     type: paragraph
   -
