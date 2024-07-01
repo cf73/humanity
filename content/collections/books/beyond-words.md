@@ -22,10 +22,8 @@ description:
       -
         type: text
         text: 'Rated 4.41 on Goodreads.'
-challenges:
-  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718975542
+updated_at: 1719797890
 collection_type: book
 book_author: 'Carl Safina'
 date_published: '2015-05-31'
@@ -38,4 +36,5 @@ related_content:
   - 46a5ba9a-cc31-41de-ac32-31d0789edadf
   - ed9cb6f6-8d38-4b46-a0fc-dcc9583f1375
   - c4e39c58-982d-4ffa-8cd0-16689135f9c7
+sections: inspiration
 ---
