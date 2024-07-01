@@ -31,7 +31,7 @@ description:
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718977124
+updated_at: 1719800938
 collection_type: book
 book_author: 'Ian Morris'
 date_published: '2011-10-25'
@@ -44,4 +44,5 @@ related_content:
   - fab94cb3-0c49-48a3-af62-e8ea16f88bc3
   - 809dbff7-1b95-49f3-891d-3dccf405181a
   - e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
+sections: peace-gatherings
 ---
