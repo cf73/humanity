@@ -1,0 +1,21 @@
+<div class="container mx-auto my-24">
+    <h1 class="text-center">{{title}}</h1>
+    <div class="space-y-2 mb-16 flex flex-col prose prose-sky text-center mx-auto">
+        <div id="author">
+            <span class="textMeta">By: </span>
+            <span class="textSecondary">{{poets_name}}</span>
+        </div>
+        {{if date_published}}
+        <div id="date">
+            <span class="textMeta">Date Published: </span>
+            <span class="textSecondary">{{date_published}}</span>
+        </div>
+        {{/if}}
+
+        <div id="location">
+            <span class="textMeta">See more: </span>
+            <span class="textSecondary"><a href="{{link}}" target="_blank">{{poets_website}}</a></span>
+        </div>
+    </div>
+    <div class="prose prose-sky mx-auto">{{content}}</div>
+</div>

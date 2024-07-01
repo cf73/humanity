@@ -39,6 +39,23 @@ tabs:
               replicator_preview: true
               hide_display: false
           -
+            handle: published_date
+            field:
+              mode: single
+              inline: false
+              full_width: false
+              columns: 1
+              rows: 1
+              time_enabled: false
+              time_seconds_enabled: false
+              type: date
+              display: 'Published Date'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
             handle: content
             field:
               buttons:
