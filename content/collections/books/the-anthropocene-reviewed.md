@@ -65,6 +65,7 @@ related_content:
   - 1c000538-36cf-4ba4-b129-f70a7a8ba51b
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718976218
+updated_at: 1719800166
 book_author: 'John Green'
+sections: inspiration
 ---
