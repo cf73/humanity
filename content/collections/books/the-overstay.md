@@ -81,7 +81,7 @@ description:
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718976497
+updated_at: 1719800466
 related_partner_initiatives:
   - 5b08c208-5356-4878-b3be-a9b91e1f383c
 related_content:
@@ -93,4 +93,5 @@ collection_type: book
 book_author: 'Richard Powers'
 date_published: '2018-04-03'
 link: 'https://www.amazon.com/Overstory-Novel-Richard-Powers/dp/039363552X/ref=asc_df_039363552X?tag=bingshoppinga-20&linkCode=df0&hvadid=80126962061346&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583726541016913&psc=1'
+sections: inspiration
 ---
