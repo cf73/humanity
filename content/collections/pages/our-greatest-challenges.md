@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719794400
+updated_at: 1719794714
 introduction:
   -
     type: paragraph
@@ -35,19 +35,25 @@ introduction:
     content:
       -
         type: text
-        text: 'We begin with humanity’s most crucial challenges: ending war, solving climate change, and saving democracy. From there, we visit the world’s thirty most respected non-profits and the opportunity to contribute to their life-saving work.'
+        text: 'We begin with humanity’s most crucial challenges: ending war, solving climate change, and saving democracy. From there, we visit the world’s thirty most respected non-profits and the opportunity to participate in their life-saving work.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Not least, we include our popular archive of empowering Commencement Speeches, begun in 1989, as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.'
+        text: 'Not least, we include our archive of empowering Commencement Speeches, begun in 1989, as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.'
   -
     type: paragraph
     content:
       -
         type: text
         text: "May the insights and inspirations throughout this town meeting for the planet\_\_--\_\_presented on the wings of essays, photographs, speeches, artwork, film, literature, poetry, and music\_\_--\_\_move you to help fan the aspirational breezes of our shared humanity into the winds of change we so urgently need."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'We are glad you are here!'
   -
     type: paragraph
     content:
