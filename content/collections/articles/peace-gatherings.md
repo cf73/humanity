@@ -13,9 +13,8 @@ description:
         text: 'Urge your community to help end war: host a contagious peace gathering!'
 challenges:
   - war
-  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719836369
+updated_at: 1719861881
 article_text:
   -
     type: paragraph
@@ -1136,6 +1135,7 @@ date_published: '2024-04-30'
 publication: 'The Humanity Initiative'
 articleauthor: 'The Humanity Initiative, curated by Jacqueline Wigglesworth'
 link: www.ourhumanity.org
+sections: peace-gatherings
 content:
   -
     type: paragraph
