@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718842401
+updated_at: 1719794400
 introduction:
   -
     type: paragraph
@@ -17,13 +17,7 @@ introduction:
     content:
       -
         type: text
-        text: 'Please join us.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'May we pour you a cup of tea?'
+        text: 'Please join us. May we pour you a cup of tea?'
   -
     type: paragraph
     content:
