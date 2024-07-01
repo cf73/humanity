@@ -8,25 +8,17 @@ challenges:
   - war
 partner: danish-refugee-council
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719844570
+updated_at: 1719844753
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Core sectors  '
-      -
-        type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'https://pro.drc.ngo/about-us/strategic-framework/strategy/'
-              rel: null
-              target: null
-              title: null
-        text: 'https://pro.drc.ngo/about-us/strategic-framework/strategy/'
+            type: bold
+        text: 'Core sectors:'
   -
     type: paragraph
     content:
@@ -41,6 +33,8 @@ description:
         marks:
           -
             type: bold
+          -
+            type: italic
         text: Protection
   -
     type: paragraph
@@ -50,6 +44,8 @@ description:
         marks:
           -
             type: bold
+          -
+            type: italic
         text: 'Economic Recovery'
   -
     type: paragraph
@@ -59,7 +55,9 @@ description:
         marks:
           -
             type: bold
-        text: 'Humanitarian disarmament and peacebuilding'
+          -
+            type: italic
+        text: 'Humanitarian Disarmament and Peacebuilding'
   -
     type: paragraph
     content:
@@ -68,10 +66,12 @@ description:
         marks:
           -
             type: bold
+          -
+            type: italic
         text: 'Shelter and Settlements'
       -
         type: hardBreak
-summary: 'DRC mobilizes actors to provide free legal aid to people affected by conflict and displacement, thus helping ensure their rights to protection and inclusion, while also increasing the possibilities for them to gain equitable access to markets as an important conduit for services, goods, employment, and income.'
+summary: 'DRC mobilizes actors to provide free legal aid to people affected by conflict and displacement, thus helping ensure their rights to protection and inclusion, while also increasing the possibilities for them to gain equitable access to markets  --  as an important conduit for services, goods, employment, and income.'
 call_to_action: 'Work with the Danish Refugee Council'
 key_facts_that_make_this_urgent: |-
   The DRC is working in six countries in the Mid-east. The complexity and depth of aid challenges in Syria is typical of this region:
