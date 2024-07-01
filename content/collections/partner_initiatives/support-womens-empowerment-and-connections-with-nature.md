@@ -1,7 +1,7 @@
 ---
 id: 6f9195fc-1c72-4935-be44-e6b912bbba06
 blueprint: partner_initiative
-title: 'TreeSisters’ Restoration Strategy aims to redress the imbalance in community forestry.'
+title: 'Reforest with TreeSisters’ Restoration Strategy'
 collection_type: partner-initiative
 description:
   -
@@ -90,10 +90,11 @@ challenges:
   - climate
 partner: treesisters
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719175325
+updated_at: 1719792630
 summary: |-
   RESTORE & REFOREST.
   We are value-led. Our approach and impact go far beyond the number of trees in the ground. They intend to rebalance power dynamics, support connections with Nature, empower women and champion the knowledge of those working directly with the natural environment they inhabit. All while reforesting and restoring our incredible natural world.
 call_to_action: 'Restore and reforest with TreeSisters'
 key_facts_that_make_this_urgent: "Women's relationship with forests is often subject to inequality and injustice that reflects the broader patriarchal system. Research shows that by supporting women's participation in reforestation, we can achieve more sustainable outcomes not only for women and girls but also for the forests they inhabit and the wider climate."
+url_to_take_action: 'https://www.treesisters.org/projects'
 ---
