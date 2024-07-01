@@ -1,12 +1,12 @@
 ---
 id: 161604bd-1825-43e1-b66c-6627131ef17d
 blueprint: partner_initiative
-title: 'World Central Kitchen seeks volunteers to help respond to crises.'
+title: 'Volunteer for the World Central Kitchen.'
 image: image-1713727118.png
 summary: |-
   Supporting communities in times of crisis
   WCK responds to natural disasters, man-made crises, and humanitarian emergencies around the world. We're a team of food first responders, mobilizing with the urgency of now to get meals to the people who need them most. Deploying our model of quick action, leveraging local resources, and adapting in real time, we know that a nourishing meal in a time of crisis is so much more than a plate of food—it's hope, it's dignity, and it's a sign that someone cares.
-call_to_action: "Food when it's needed most"
+call_to_action: "Food when it's needed most. Volunteer for World Central Kitchen"
 key_facts_that_make_this_urgent: |-
   To start providing meals, as quickly as possible, to people impacted by crises, WCK’s Relief Team works with professional chefs, logistics experts, local restaurants, and other established organizations. 
 
@@ -96,5 +96,6 @@ challenges:
   - war
 partner: world-central-kitchen-2010
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719337861
+updated_at: 1719792371
+url_to_take_action: 'https://wck.org/volunteer'
 ---
