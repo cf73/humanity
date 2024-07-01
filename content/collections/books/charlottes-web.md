@@ -41,7 +41,7 @@ description:
         type: text
         text: ' is important for its lessons and messages, as well as its vivid descriptions and memorable characters. It is a story that can be enjoyed by children and adults alike and continues to captivate even after almost 70 years.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719798468
+updated_at: 1719798576
 collection_type: book
 date_published: '1952-01-20'
 link: 'https://www.goodreads.com/book/show/24178.Charlotte_s_Web?from_search=true&from_srp=true&qid=nuNaCm5N4C&rank=1'
@@ -55,5 +55,5 @@ related_content:
   - 91d3f85d-1560-4132-940f-029c9e3fabfe
   - 12d25b96-227c-4eb6-9b38-f298b55533be
 book_author: 'E. B. White'
-sections: inspiration
+sections: childrens-literature
 ---
