@@ -6,12 +6,12 @@ poets_name: 'Rabindranath Tagore  (1861 - 1941) legendary Indian writer, first n
 image: image-1718800632.jpeg
 collection_type: poetry-contribution
 challenges:
-  - inspiration
   - democracy
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718800691
+updated_at: 1719801477
 poets_website: 'https://www.poetryfoundation.org/poets/rabindranath-tagore'
+sections: inspiration
 content:
   -
     type: paragraph
