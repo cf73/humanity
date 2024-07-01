@@ -1146,7 +1146,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718626597
+updated_at: 1719799681
 date_published: '1954-05-15'
 link: 'https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings?from_search=true&from_srp=true&qid=pnhxHNhKch&rank=3'
 collection_type: book
@@ -1158,5 +1158,7 @@ related_content:
   - 2de64619-3645-4baf-b709-3a496e3a1553
   - 7d45b6dd-d378-4301-bb29-365448c71a12
   - 95201ba0-5657-4f50-a730-29f779b608bb
+  - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
 book_author: 'J. R. R. Tolkien'
+sections: inspiration
 ---
