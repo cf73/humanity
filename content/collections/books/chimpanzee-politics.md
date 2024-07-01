@@ -25,8 +25,8 @@ description:
         text: '(Goodreads review)'
 challenges:
   - democracy
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717958389
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1719798548
 date_published: '1982-01-01'
 link: 'https://openlibrary.org/books/OL22549738M/Chimpanzee_politics#:~:text=Chimpanzee%20Politics%3A%20Power%20and%20Sex%20among%20Apes%20August,Paperback%20in%20English%20-%2025th%20anniversary%20edition%20edition'
 related_partner_initiatives:
