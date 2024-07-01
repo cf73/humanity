@@ -151,11 +151,14 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718618894
+updated_at: 1719798660
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
+  - 86161e36-7285-41a6-ba67-5a5f928fb1d1
 related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
+  - 741cddf8-5aaf-421c-849d-4093cfa50766
+  - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
 link: 'https://www.amazon.com/Guns-Germs-and-Steel-audiobook/dp/B004JLTPTI/ref=sr_1_1?crid=ORUFM6H4ZNHC&dib=eyJ2IjoiMSJ9.GQUpCoscdUO8yljPdEqDg22P8HOXl_kVp2C5SbaM1syxvKSBuSYpKWPh0LJnK7yF_ThfurDyi5_64bOHglc3xWMPl1fV0iwBoZWHbiydj5vE2T_cGpVEPVIf1kYhjoWXZ-PLwSUCq6doleXFa8JJCj2E-JeG4f8JvEiQRA66fotwitoYfNV2jwMDBPPopxTmTbGlTx7S8nCA-w4zDQdUjgjuVHl-iNpOhpLp_LihpNs.HdAEt_dMZ-F_M6K3P-cPrTmE0ZqELNQ_vk25rfmu518&dib_tag=se&keywords=guns+germs+and+steel&qid=1711828173&sprefix=guns+germs%2Caps%2C159&sr=8-1'
 book_author: 'Jared Diamond'
 date_published: '1997-05-19'
