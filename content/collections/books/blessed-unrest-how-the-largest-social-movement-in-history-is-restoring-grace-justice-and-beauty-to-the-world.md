@@ -20,14 +20,14 @@ description:
         text: "Blessed Unrest explores the diversity of the movement, its brilliant ideas, innovative strategies, and centuries of hidden history. A culmination of Hawken's many years of leadership in the environmental and social justice fields, it will inspire all who despair of the world's fate, and its conclusions will surprise even those within the movement itself."
 collection_type: book
 challenges:
-  - inspiration
+  - climate
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
   - dfae34a8-30a5-4e7c-89d7-a33917e780d8
 related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718975583
+updated_at: 1719798411
 date_published: '2007-01-01'
 book_author: 'Paul Hawken'
 ---
