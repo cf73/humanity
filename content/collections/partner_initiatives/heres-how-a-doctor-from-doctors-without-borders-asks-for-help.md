@@ -1,7 +1,7 @@
 ---
 id: a8fa8a01-564a-4b8e-95b9-3614a6d09fc2
 blueprint: partner_initiative
-title: "Here's how a doctor from Doctors Without Borders (MSF) asks for help."
+title: 'Learn how a doctor from Doctors Without Borders (MSF) asks for help.'
 image: image-1714353259.jpeg
 summary: 'Gaza medical staff: “We are alive, but we are not OK." The mental health impact of an unyielding war will leave health workers with scars for years to come.'
 call_to_action: 'Medical staff bear the burden in times of war'
@@ -69,7 +69,7 @@ challenges:
   - war
 partner: doctors-without-borders
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719791107
+updated_at: 1719792023
 key_facts_that_make_this_urgent: |-
   Medical staff in Gaza have been enduring the unthinkable: amputating limbs without anesthesia, treating mass crush and burn injuries with extremely limited supplies, and trying to work as Israeli forces have repeatedly besieged hospitals like Nasser and Al-Shifa. MSF reiterates its call for an immediate and sustained ceasefire to prevent more death and destruction to the lives of people in Gaza.  
 
