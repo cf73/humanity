@@ -38,9 +38,8 @@ description:
     type: paragraph
 challenges:
   - war
-  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719060290
+updated_at: 1719801066
 article_text:
   -
     type: paragraph
@@ -1521,6 +1520,7 @@ related_content:
 date_published: '1973-05-15'
 publication: 'The Politics of Nonviolent Action (3 volumes)'
 articleauthor: 'Dr. Gene Sharp'
+sections: peace-gatherings
 content:
   -
     type: paragraph
