@@ -23,7 +23,7 @@ description:
         type: text
         text: 'Rated 4.41 on Goodreads.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719798186
+updated_at: 1719798331
 collection_type: book
 book_author: 'Carl Safina'
 date_published: '2015-05-31'
