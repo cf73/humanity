@@ -829,9 +829,11 @@ description:
         type: text
         text: "We hope you enjoy sharing World Changers with a child who inspires you. We know they'll be encouraged to grow in generosity and compassion. From your friends at charity: water"
 challenges:
-  - inspiration
+  - democracy
+  - climate
+  - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718975740
+updated_at: 1719798503
 related_partner_initiatives:
   - e418c09e-390d-4f38-987d-3a3731bb70b5
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
@@ -844,4 +846,5 @@ related_content:
 date_published: '2024-04-18'
 link: 'https://enchantedlion.com/all-books/at-the-drop-of-a-cat'
 book_author: Many
+sections: inspiration
 ---
