@@ -8,18 +8,9 @@ collection_type: poetry-contribution
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718799989
+updated_at: 1719801557
 poets_website: 'https://www.poetryfoundation.org/poets/charles-harper-webb'
 content:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: '"The Animals are Leaving"'
   -
     type: paragraph
     content:
