@@ -7,27 +7,10 @@ image: image-1718799758.jpeg
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718799821
+updated_at: 1719801516
 collection_type: poetry-contribution
 poets_website: 'https://www.poetryfoundation.org/poets/derek-walcott'
 content:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Love After Love'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'By Derek Walcott'
-  -
-    type: paragraph
   -
     type: paragraph
     content:
