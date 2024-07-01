@@ -20,7 +20,7 @@ description:
         text: '(Comment from my favorite Australian bibliophile and humanitarian, Jane Sloane. TB)'
 collection_type: book
 challenges:
-  - inspiration
+  - war
 related_partner_initiatives:
   - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
 related_content:
@@ -28,7 +28,8 @@ related_content:
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
   - 9f09c216-ae44-4a47-badf-16a8ab75a311
   - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718975901
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1719798244
 book_author: 'Victor Frankl'
+sections: inspiration
 ---
