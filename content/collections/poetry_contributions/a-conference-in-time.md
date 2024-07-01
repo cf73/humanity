@@ -9,8 +9,9 @@ challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718799163
+updated_at: 1719801725
 poets_website: 'https://www.poetryfoundation.org/poets/ursula-k-le-guin'
+sections: peace-gatherings
 content:
   -
     type: paragraph
@@ -20,65 +21,33 @@ content:
         marks:
           -
             type: bold
+          -
+            type: italic
         text: 'Bending the gods to our will…'
   -
     type: paragraph
     content:
       -
         type: text
+        marks:
+          -
+            type: italic
         text: 'Imagine this: All the gods, from all of Earth’s centuries and cultures, are called to Rome to decide the fate of humanity.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Ursula K. Le Guin’s poetic essay '
-      -
-        type: text
         marks:
           -
             type: italic
-        text: '“A Conference in'
-      -
-        type: text
-        text: ' '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: Time
-      -
-        type: text
-        text: '“ does exactly that, offering us an evocative take on the necessity of Earthly rescue  --  and on our relationship with the mighty powers that have manuvered us forever.'
+        text: 'Ursula K. Le Guin’s poetic essay “A Conference in Time“ does exactly that, offering us an evocative take on the necessity of Earthly rescue  --  and on our relationship with the mighty powers that have manuvered us forever.'
   -
     type: paragraph
     content:
       -
         type: text
         text: ____
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-          -
-            type: italic
-        text: '“A Conference in Time”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-          -
-            type: italic
-        text: 'by Ursula K. Le Guin'
   -
     type: paragraph
     content:
