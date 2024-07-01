@@ -48,7 +48,7 @@ challenges:
   - climate
 partner: earth-law-center
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719790304
+updated_at: 1719793916
 summary: "Be a steward of the Earth. Help us protect it. We speak for an environment that can't speak for itself. Your support pays for a dream team of Earth lawyers to defend Nature in the United States and internationally through cutting edge-legal movements, including the Rights of Nature."
 call_to_action: "Defend your planet. It can't speak for itself."
 key_facts_that_make_this_urgent: 'Help give voice to the wild.'
