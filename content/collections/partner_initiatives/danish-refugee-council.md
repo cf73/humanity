@@ -1,14 +1,14 @@
 ---
 id: bd1d0db4-a43f-4e72-a31d-664b5cce943f
 blueprint: partner_initiative
-title: 'Help Danish Refugee Council aid refugees and other displaced people worldwide.'
+title: 'Help Danish Refugee Council aid refugees worldwide.'
 image: image-1710003367.png
 collection_type: partner-initiative
 challenges:
   - war
 partner: danish-refugee-council
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719798238
+updated_at: 1719844570
 description:
   -
     type: paragraph
@@ -79,5 +79,5 @@ key_facts_that_make_this_urgent: |-
   As you drive from Damascus to Aleppo, the brutality of 12 years of conflict is apparent across every little town, or big city, along the way. Almost two weeks following an earthquake that shook communities across northern Syria and southern Türkiye, when you enter the city of Aleppo destruction can be seen everywhere, and people can no longer tell whether this is the doing of the conflict or the earthquake.
 
   Today, it is estimated that more than 40,000 people have lost their lives across Türkiye and Syria, and more than 180,000 people have been displaced in Aleppo alone. Tens of thousands of people have now taken to collective shelters and the streets to find safety, while some have returned to their damaged houses because they simply have nowhere else to go.
-url_to_take_action: 'https://job.drc.ngo'
+url_to_take_action: 'https://pro.drc.ngo/about-us/strategic-framework/strategy/'
 ---
