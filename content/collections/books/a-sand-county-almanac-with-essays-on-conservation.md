@@ -79,9 +79,12 @@ related_partner_initiatives:
 related_content:
   - 239a38c6-1348-452c-b8d1-8136b4dd3c89
   - ac220561-aa8b-48ce-a11d-d0ee99b3cab4
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1719710645
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1719797726
 date_published: '1986-12-12'
 book_author: 'Aldo Leopold'
 file_under: inspiration
+challenges:
+  - climate
+sections: inspiration
 ---
