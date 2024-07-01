@@ -40,8 +40,8 @@ description:
         text: 'This book is essentially the summary of recorded human history in over 120 pages, without flair and fluff  --  just pure facts.'
 challenges:
   - democracy
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717959558
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1719800221
 related_partner_initiatives:
   - 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
 related_content:
@@ -50,4 +50,5 @@ related_content:
 book_author: 'Will and Ariel Durant'
 date_published: '2010-02-16'
 link: 'https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X'
+sections: inspiration
 ---
