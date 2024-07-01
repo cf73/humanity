@@ -83,7 +83,8 @@ related_content:
   - 6d28b288-2ed8-4983-a206-c1a19b3c1219
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
   - 360862f3-318f-4ecc-804e-8baf0d2558cd
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717960195
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1719800591
 book_author: 'Munro Leaf'
+sections: peace-gatherings
 ---
