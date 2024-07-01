@@ -6,7 +6,7 @@ collection_type: book
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718976556
+updated_at: 1719800506
 image: politicsofnonviolentaction.jpeg
 description:
   -
@@ -53,5 +53,6 @@ related_content:
 book_author: 'Gene Sharp'
 date_published: '1973-01-01'
 link: 'https://www.amazon.com/Politics-Nonviolent-Action-Gene-Sharp-ebook/dp/B08FXKNLJG'
+sections: peace-gatherings
 ---
 https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action
