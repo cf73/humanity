@@ -14,8 +14,8 @@ description:
         text: 'Here, throughout 2024, is democracy in action, in all its worldwide variations and built-in unpredictability...'
 challenges:
   - democracy
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1717883755
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1719861937
 article_text:
   -
     type: paragraph
