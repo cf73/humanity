@@ -236,6 +236,7 @@ related_content:
   - 877904fd-3029-4a1c-aa0e-33aa2d7f36c6
   - c7c991b5-9dde-4365-9c58-41d73dfee6cb
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719801224
+updated_at: 1719862169
 articleauthor: 'European Union (EU)'
+sections: peace-gatherings
 ---
