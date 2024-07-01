@@ -979,14 +979,16 @@ challenges:
   - climate
 related_partner_initiatives:
   - 8e78665e-26d1-400e-8f6f-2391b9bfec84
+  - 8ba26bc5-eaa5-4364-9d6b-3f02ca3158f9
 related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
   - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
   - 9f09c216-ae44-4a47-badf-16a8ab75a311
   - 0bc47757-97d7-4952-98de-6e99de003495
   - 8f01cbfc-48f8-4156-acd7-03bef3acce9f
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1719783067
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1719797473
 publication: 'The Washington Post'
 articleauthor: 'Chris Mooney, Naema Ahmed and John Muyskens'
+sections: peace-gatherings
 ---
