@@ -7,25 +7,14 @@ image: image-1718800841.jpeg
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718800861
+updated_at: 1719801815
 collection_type: poetry-contribution
 poets_website: 'https://www.poetryfoundation.org/articles/69656/mary-oliver-and-the-nature-esque'
+sections: inspiration
 content:
   -
     type: paragraph
     content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Wild Geese'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: hardBreak
       -
         type: text
         text: 'You do not have to be good.'
