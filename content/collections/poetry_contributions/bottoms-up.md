@@ -6,10 +6,9 @@ poets_name: 'Ama Nuamah, "...a young lady born and based in Accra, Ghana. She lo
 poets_website: afrowomenpoetry.net/en/category/ama-nuamah/
 image: image-1716264530.jpeg
 collection_type: poetry-contribution
-challenges:
-  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719801586
+updated_at: 1719801616
+sections: inspiration
 content:
   -
     type: paragraph
