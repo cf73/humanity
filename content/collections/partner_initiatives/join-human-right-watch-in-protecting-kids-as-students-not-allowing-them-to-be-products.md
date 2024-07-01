@@ -1,7 +1,7 @@
 ---
 id: ce164af0-5a10-4e47-bff7-56edb91100ca
 blueprint: partner_initiative
-title: 'Support Human Right Watch in protecting students from online surveillance.'
+title: 'Support Human Rights Watch in protecting students from online surveillance.'
 image: oip.ho6sn69-i1rfazlf9ximdqhae7.jpeg
 summary: 'We think our kids are safe in school online. But many of them are being surveilled, and parents have often been kept in the dark. Kids are priceless, not products.'
 call_to_action: 'Human Rights Watch monitors educational tech data.'
@@ -155,6 +155,6 @@ challenges:
   - democracy
 partner: human-rights-watch
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719792729
+updated_at: 1719792748
 url_to_take_action: 'https://www.hrw.org/video-photos/video/2022/05/25/children-tracked-while-learning'
 ---
