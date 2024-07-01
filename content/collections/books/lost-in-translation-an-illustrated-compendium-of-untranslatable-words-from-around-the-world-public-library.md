@@ -184,9 +184,7 @@ description:
         type: text
         text: '), published shortly before Sanders turned twenty-one.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718630291
-challenges:
-  - inspiration
+updated_at: 1719799743
 date_published: '2014-09-16'
 link: 'https://www.amazon.com/s?k=Lost+in+Translation&i=stripbooks&crid=1FB2JVVWW11QG&sprefix=lost+in+translation%2Cstripbooks%2C172&ref=nb_sb_noss_1'
 related_partner_initiatives:
@@ -198,4 +196,5 @@ related_content:
   - 9ecc06b8-0849-409a-8bd5-e6f6c0805014
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
 book_author: 'Ella Frances Sanders'
+sections: childrens-literature
 ---
