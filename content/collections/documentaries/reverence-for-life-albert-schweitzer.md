@@ -45,7 +45,7 @@ description:
         text: '              ~   Tony Balis '
 collection_type: documentaries
 challenges:
-  - inspiration
+  - war
 related_partner_initiatives:
   - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
@@ -56,5 +56,6 @@ related_content:
   - 12d25b96-227c-4eb6-9b38-f298b55533be
   - 78f9ff1b-ba15-43d0-bc9b-cbd69e7d2776
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718988803
+updated_at: 1719880955
+sections: inspiration
 ---
