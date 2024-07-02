@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719916930
+updated_at: 1719917100
 introduction:
   -
     type: paragraph
@@ -23,7 +23,7 @@ introduction:
     content:
       -
         type: text
-        text: 'For this is an oasis with a mission, custom-designed for we the people to linger awhile, to consider how the world is turning these days and how each of us might help fix it. '
+        text: 'For this is an oasis with a mission, custom-designed for we the people to linger awhile, to consider how the world is turning these days and how each of us might help fix things. '
   -
     type: paragraph
     content:
