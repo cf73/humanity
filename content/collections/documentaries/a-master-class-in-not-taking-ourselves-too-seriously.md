@@ -26,8 +26,6 @@ description:
         type: text
         text: '         ~  Robin Williams'
 collection_type: documentaries
-challenges:
-  - inspiration
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
   - 4e493203-61b5-4ca2-8ac9-0814e584fff4
@@ -39,5 +37,6 @@ related_content:
   - 628a23b7-fe57-4f55-93ae-11bdabccff59
   - f0946d8d-1bf3-476d-8b40-f1f2b7db91c3
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718978651
+updated_at: 1719880983
+sections: inspiration
 ---
