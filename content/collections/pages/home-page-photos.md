@@ -32,19 +32,17 @@ intro:
         type: text
         text: 'We do so with the aid of almost 300 brilliant women and men from across the ages and the continents  --  cross-referencing their diverse contributions specifically to help in your search for the best way to take action, to discover or re-imagine your personal path into positive change.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718628320
+updated_at: 1719920428
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
   - gandhi.jpeg
-  - c56715-1718585835.jpeg
   - man-staring-up-at-aurora-1718585869.jpg
   - bingwallpaper-copy-1718585898.jpg
   - image-1707483801.jpeg
-  - 'girl-w-dog.jpeg'
+  - girl-w-dog.jpeg
   - three-sisters-1718586205.jpeg
   - "prehistoric-cave-paintings---tutt'art@--(67).jpeg"
-  - '-humanity-first-cover.jpeg'
 challenge:
   main_image: _132560870_nima-sarikhani.jpg-2.webp
 commencement_speeches_hero_images:
