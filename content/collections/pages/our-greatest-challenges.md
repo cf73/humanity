@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719916530
+updated_at: 1719916930
 introduction:
   -
     type: paragraph
@@ -29,7 +29,7 @@ introduction:
     content:
       -
         type: text
-        text: "To provide sustenance for our investigations, we have selected thee hundred of the most inspiring voices on Earth, to guide and encourage each of\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as a changemaker for community, country, or planet."
+        text: "To provide sustenance for our investigations, we have selected thee hundred of the most inspiring voices on Earth, ancient and current, to guide and encourage each of\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as a changemaker for community, country, or planet."
   -
     type: paragraph
     content:
@@ -47,7 +47,7 @@ introduction:
     content:
       -
         type: text
-        text: 'Not least, we include our archive of empowering Commencement Speeches, begun in 1989;  and our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.'
+        text: 'Not least, we include our archive of empowering Commencement Speeches, begun in 1989; as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.'
   -
     type: paragraph
     content:
@@ -59,7 +59,7 @@ introduction:
     content:
       -
         type: text
-        text: 'We are glad you are here! Let’s get to work. '
+        text: 'We are glad you are here. Let’s figure out a future that works for all of us. '
   -
     type: paragraph
     content:
