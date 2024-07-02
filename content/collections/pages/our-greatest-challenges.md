@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719794714
+updated_at: 1719916530
 introduction:
   -
     type: paragraph
@@ -23,25 +23,31 @@ introduction:
     content:
       -
         type: text
-        text: 'This is an oasis with a mission, custom-designed for we the people to linger awhile and investigate how best to rescue our humanity.'
+        text: 'For this is an oasis with a mission, custom-designed for we the people to linger awhile, to consider how the world is turning these days and how each of us might help fix it. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: "To do so, THI has selected hundreds of the most inspiring voices on Earth, to guide and encourage each of\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as a changemaker for community, country, or planet."
+        text: "To provide sustenance for our investigations, we have selected thee hundred of the most inspiring voices on Earth, to guide and encourage each of\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as a changemaker for community, country, or planet."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We begin with humanity’s most crucial challenges: ending war, solving climate change, and saving democracy. From there, we visit the world’s thirty most respected non-profits and the opportunity to participate in their life-saving work.'
+        text: 'To begin, we offer insight on humanity’s most crucial challenges: ending war, solving climate change, and saving democracy. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Not least, we include our archive of empowering Commencement Speeches, begun in 1989, as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.'
+        text: 'From there, we visit the world’s thirty most respected non-profits and the opportunity to participate in their life-saving work.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Not least, we include our archive of empowering Commencement Speeches, begun in 1989;  and our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.'
   -
     type: paragraph
     content:
@@ -53,7 +59,7 @@ introduction:
     content:
       -
         type: text
-        text: 'We are glad you are here!'
+        text: 'We are glad you are here! Let’s get to work. '
   -
     type: paragraph
     content:
