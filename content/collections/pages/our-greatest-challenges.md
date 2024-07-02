@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719920670
+updated_at: 1719920823
 introduction:
   -
     type: paragraph
@@ -29,13 +29,13 @@ introduction:
     content:
       -
         type: text
-        text: "To provide sustenance for our investigations, we have selected three hundred of the most inspiring voices on Earth, ancient and current, to guide and encourage each of\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as a changemaker for community, country, or planet."
+        text: "To provide sustenance for our investigations, we have selected three hundred of the most inspiring voices on Earth, ancient and current, to guide and encourage each of\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as changemaker for community, country, or planet."
   -
     type: paragraph
     content:
       -
         type: text
-        text: "To begin, we offer insight on humanity’s most crucial challenges: ending war, solving climate change, and saving democracy.\_"
+        text: "To begin, we offer insight on humanity’s most crucial challenges: ending war, solving climate change, saving democracy.\_"
   -
     type: paragraph
     content:
@@ -59,7 +59,7 @@ introduction:
     content:
       -
         type: text
-        text: "We are glad you are here. Let’s figure out a future that works for all of us!\_"
+        text: "We are glad you are here. Let’s figure a future that works for all of us!\_"
   -
     type: paragraph
     content:
