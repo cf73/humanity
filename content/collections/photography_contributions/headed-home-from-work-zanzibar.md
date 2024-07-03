@@ -37,6 +37,8 @@ description:
         type: hardBreak
 collection_type: photography-contribution
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720037468
+updated_at: 1720037527
 sections: inspiration
+challenges:
+  - climate
 ---
