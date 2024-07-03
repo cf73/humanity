@@ -13,6 +13,6 @@ description:
         text: 'The Milky Way, over Neist Point Lighthouse, Isle of Skye, Scotland'
 collection_type: photography-contribution
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720038097
+updated_at: 1720038193
 sections: inspiration
 ---
