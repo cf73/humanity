@@ -12,8 +12,7 @@ description:
         type: text
         text: 'Grand Central Station, New York City, USA'
 collection_type: photography-contribution
-challenges:
-  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719231111
+updated_at: 1720037558
+sections: inspiration
 ---
