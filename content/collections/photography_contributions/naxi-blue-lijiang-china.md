@@ -31,8 +31,7 @@ description:
         type: text
         text: '"There are strong matriarchal influences in the Naxi language. Nouns enlarge their meaning when the word for ‘ female’ is added; conversely, the addition of the word for’ male’ will decrease the meaning. For example, ‘stone’ plus ‘ female’ conveys the idea of a boulder; ‘stone’ plus ‘male’ conveys the idea of a pebble. Viewing these laughing women, one can see the closeness in friendship, which have endured since childhood."'
 collection_type: photography-contribution
-challenges:
-  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719233133
+updated_at: 1720037703
+sections: inspiration
 ---
