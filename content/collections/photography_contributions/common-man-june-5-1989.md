@@ -24,8 +24,8 @@ description:
         text: 'Tiananmen Square, China, June 5, 1989'
 challenges:
   - war
-  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719230583
+updated_at: 1720037349
 collection_type: photography-contribution
+sections: inspiration
 ---
