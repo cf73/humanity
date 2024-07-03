@@ -14,7 +14,8 @@ description:
         text: 'Always good to know the angels are there.'
 collection_type: photography-contribution
 challenges:
-  - inspiration
+  - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719230739
+updated_at: 1720037138
+sections: inspiration
 ---
