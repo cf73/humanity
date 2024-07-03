@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720010505
+updated_at: 1720016591
 introduction:
   -
     type: paragraph
@@ -59,7 +59,7 @@ introduction:
     content:
       -
         type: text
-        text: "We’re glad you’re here. Let’s create together a future that works for all of us.\_"
+        text: "We are glad you’re here. Let’s create together a future that works for each of us.\_"
   -
     type: paragraph
     content:
