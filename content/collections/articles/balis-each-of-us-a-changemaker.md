@@ -1,7 +1,7 @@
 ---
 id: cec12744-472f-4da0-b17a-41b303b4a29e
 blueprint: articles
-title: 'Each of us.'
+title: 'Each of us'
 image: wall-china-copy.jpeg
 article_text:
   -
@@ -45,7 +45,7 @@ article_text:
     content:
       -
         type: text
-        text: "Yet it seems a grace too far, too often still foundering on the greed and selfishness and myopia of the few, not wholeheartedly raising the hopes and prospects of the many.\_"
+        text: "Yet it now seems a grace too far, too often still foundering on the greed and selfishness and myopia of the few, not wholeheartedly raising the hopes and prospects of the many.\_"
   -
     type: paragraph
     content:
@@ -57,7 +57,7 @@ article_text:
     content:
       -
         type: text
-        text: "Most urgently...let us ask ourselves...in profound reverence for this fragile, transcendent web of life gifted by the gods...“How deeply do I care about our common future? How can I help make a positive\_difference?”"
+        text: 'Most urgently...let us ask ourselves...in profound reverence for this fragile, transcendent web of life gifted by the gods...“How deeply do I care about our common future? How can I help rescue our humanity?"'
 collection_type: article
 challenges:
   - war
@@ -75,7 +75,7 @@ related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - a01f7e10-c6ea-496b-ac1d-ef939cdf3425
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719801176
+updated_at: 1720006142
 date_published: '1992-07-24'
 publication: 'The Humanity Initiative'
 description:
