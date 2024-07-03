@@ -4,10 +4,8 @@ blueprint: photography_contribution
 title: Context
 photographer_name: 'Bing images'
 image: image-1707482312.jpeg
-challenges:
-  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719233058
+updated_at: 1720037375
 collection_type: photography-contribution
 description:
   -
@@ -16,4 +14,5 @@ description:
       -
         type: text
         text: 'I got this.'
+sections: inspiration
 ---
