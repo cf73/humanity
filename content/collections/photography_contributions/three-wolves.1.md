@@ -15,5 +15,6 @@ description:
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719237248
+updated_at: 1720037407
+sections: peace-gatherings
 ---
