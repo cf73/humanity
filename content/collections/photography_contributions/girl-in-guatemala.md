@@ -11,10 +11,9 @@ description:
     content:
       -
         type: text
-        text: "In Jimmy's images, we always are blessed with insight into the people he is honoring, no matter the moment,  no matter the surround."
-challenges:
-  - inspiration
+        text: "In Jimmy's images, we always are blessed with honorable insight into the people he is recording, no matter the moment,  no matter the surround."
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719232470
+updated_at: 1720037614
 collection_type: photography-contribution
+sections: inspiration
 ---
