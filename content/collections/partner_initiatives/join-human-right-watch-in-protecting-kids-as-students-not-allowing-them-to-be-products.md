@@ -34,7 +34,7 @@ description:
               href: 'https://www.hrw.org/report/2022/05/25/how-dare-they-peep-my-private-life/childrens-rights-violations-governments#_ftn1'
               rel: null
               target: null
-              title: ''
+              title: null
         text: '[1]'
   -
     type: paragraph
@@ -150,11 +150,11 @@ description:
       -
         type: text
         text: 'Children should be actively consulted throughout these processes, helping to build safeguards that protect meaningful, safe access to online learning environments that provide the space for children to develop their personalities and their mental and physical abilities to their fullest potential.'
-collection_type: article
+collection_type: partner-initiatives
 challenges:
   - democracy
 partner: human-rights-watch
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719792748
+updated_at: 1720036884
 url_to_take_action: 'https://www.hrw.org/video-photos/video/2022/05/25/children-tracked-while-learning'
 ---
