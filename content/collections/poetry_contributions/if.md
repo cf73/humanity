@@ -6,7 +6,7 @@ poets_name: 'Rudyard Kipling'
 image: image-1718799459.jpeg
 collection_type: poetry-contribution
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719801916
+updated_at: 1719974564
 poets_website: 'https://www.poetryfoundation.org/poets/rudyard-kipling'
 sections: inspiration
 content:
@@ -202,4 +202,18 @@ content:
       -
         type: text
         text: "\_\_\_ And—which is more—you’ll be a Man, my son!"
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '---------------'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '(Powerfully read by actress Gabriela Kostadinova:  https://www.youtube.com/watch?v=O2QYZ_vlQSc)'
 ---
