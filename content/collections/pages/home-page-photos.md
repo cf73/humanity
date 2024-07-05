@@ -31,8 +31,8 @@ intro:
       -
         type: text
         text: 'We do so with the aid of almost 300 brilliant women and men from across the ages and the continents  --  cross-referencing their diverse contributions specifically to help in your search for the best way to take action, to discover or re-imagine your personal path into positive change.'
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719971539
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1720197688
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -55,4 +55,65 @@ featured_commencement_speeches:
   - 628a23b7-fe57-4f55-93ae-11bdabccff59
   - c53fa4c5-dd91-4357-982f-dffd2296d749
 commencement_speeches_title: 'Dreams unleashed: Every day is graduation day'
+welcome_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Welcome!\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please join us. May we pour you a cup of tea?'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "For this is an oasis with a mission, custom-designed for we the people to linger awhile with neighbors old and new, to consider our humanitarian and planetary alarm bells and how each of us might help restore some sanity and safety to our latest swing around the sun.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "To provide sustenance for our investigations, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage each of\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as changemaker for community, country, or planet."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "To begin, we offer insight on humanity’s most crucial challenges: ending war, solving climate change, saving democracy.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'From there, we visit thirty of the world’s most respected non-profits and the opportunity to participate in their life-saving work.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Not least, we include our archive of empowering Commencement Speeches, begun in 1989; as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "May the insights and inspirations throughout this town meeting for the planet\_\_--\_\_presented on the wings of essays, images, speeches, artwork, film, literature, poetry, and music\_\_--\_\_move you to help fan the aspirational breezes of our shared humanity into winds of change we so urgently need."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "We are glad you’re here. Let’s create together a future that works for each of us.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Team Humanity    (Conrad, Jacqueline, Kylie and Tony  -  four folks from three continents determined to help foster a revolution of good intent)'
 ---
