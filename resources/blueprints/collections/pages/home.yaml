@@ -15,19 +15,9 @@ tabs:
           -
             handle: hero_images
             field:
-              mode: list
               container: assets
-              restrict: false
-              allow_uploads: true
-              show_filename: true
-              show_set_alt: true
               type: assets
               display: 'Hero Images'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
@@ -38,92 +28,56 @@ tabs:
                 - italic
                 - removeformat
                 - anchor
-              smart_typography: false
-              save_html: false
-              inline: false
-              toolbar_mode: fixed
-              reading_time: false
-              word_count: false
-              fullscreen: true
-              allow_source: true
-              enable_input_rules: true
-              enable_paste_rules: true
               remove_empty_nodes: false
-              antlers: false
-              link_noopener: false
-              link_noreferrer: false
-              target_blank: false
-              always_show_set_button: false
-              collapse: false
-              previews: true
               type: bard
               display: Intro
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
           -
             handle: commencement_speeches_hero_images
             field:
               max_items: 5
               mode: select
-              create: true
               collections:
                 - commencement_speeches
               type: entries
               display: 'Commencement Speeches hero images'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
             handle: commencement_speeches_title
             field:
-              input_type: text
               character_limit: 60
-              antlers: false
               type: text
               display: 'Commencement Speeches Title'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
             handle: commencement_speeches_brief_introduction
             field:
               character_limit: '400'
-              antlers: false
               type: textarea
               display: 'Commencement Speeches brief introduction'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
           -
             handle: featured_commencement_speeches
             field:
               max_items: 7
               mode: select
-              create: true
               collections:
                 - commencement_speeches
               type: entries
               display: 'Featured Commencement Speeches'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
+          -
+            handle: welcome_text
+            field:
+              buttons:
+                - bold
+                - italic
+                - removeformat
+                - anchor
+              remove_empty_nodes: false
+              type: bard
+              display: 'Welcome text'
   sidebar:
     display: Sidebar
     sections:
