@@ -58,25 +58,10 @@ description:
     content:
       -
         type: text
-        text: "Above is the simple and direct Goodreads' introduction. Now here below is a complete immersion into Tolkien's work, published in "
-      -
-        type: text
         marks:
           -
             type: italic
-        text: 'Esquire in 2022'
-      -
-        type: text
-        text: ', on "How to Read '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Lord of the Rings'
-      -
-        type: text
-        text: ' in order."'
+        text: 'Above is the simple and direct Goodreads'' introduction. Now here below is a complete immersion into Tolkien''s work, published in Esquire in 2022, on "How to Read The Lord of the Rings in order."'
   -
     type: paragraph
     content:
@@ -88,15 +73,23 @@ description:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'Now that '
       -
         type: text
         marks:
           -
+            type: bold
+          -
             type: italic
         text: 'Rings of Power'
       -
         type: text
+        marks:
+          -
+            type: bold
         text: " has ended, it's time to do your homework."
   -
     type: paragraph
@@ -118,15 +111,6 @@ description:
       -
         type: text
         text: ' PUBLISHED: OCT 17, 2022 '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: '(Every product was carefully curated by an Esquire editor. We may earn a commission from these links.)'
   -
     type: paragraph
     content:
@@ -1146,7 +1130,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719799681
+updated_at: 1720270388
 date_published: '1954-05-15'
 link: 'https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings?from_search=true&from_srp=true&qid=pnhxHNhKch&rank=3'
 collection_type: book
