@@ -61,7 +61,7 @@ description:
         marks:
           -
             type: italic
-        text: "Above is the simple and direct Goodreads' introduction. Now, below, is a complete immersion into Tolkien's work, published in "
+        text: "Above is the simple and direct Goodreads' introduction. Now, below, is a fabulous and complete immersion into Tolkien's work, published in "
       -
         type: text
         text: Esquire
@@ -779,7 +779,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720271342
+updated_at: 1720271534
 date_published: '1954-05-15'
 link: 'https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings?from_search=true&from_srp=true&qid=pnhxHNhKch&rank=3'
 collection_type: book
