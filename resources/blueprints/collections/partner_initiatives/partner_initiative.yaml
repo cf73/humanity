@@ -16,19 +16,9 @@ tabs:
             handle: image
             field:
               max_files: 1
-              mode: list
               container: assets
-              restrict: false
-              allow_uploads: true
-              show_filename: true
-              show_set_alt: true
               type: assets
               display: Image
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
               instructions: "NOTE: this is NOT the Partner's logo. It should be something related to the impact of the initiative, e.g. photographic depiction of the real-world."
@@ -36,33 +26,20 @@ tabs:
             handle: summary
             field:
               character_limit: '300'
-              antlers: false
               type: textarea
               display: Summary
               instructions: 'A short summary of what this initiative does.'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
             handle: call_to_action
             field:
-              input_type: text
               character_limit: 50
-              antlers: false
               type: text
               display: 'Call to action'
               instructions: |-
                 This should be a verb/instruction, like "Sign up", "Donate", etc.
                 This text appears in the button a visitor will click to act on this initiative
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
@@ -71,26 +48,15 @@ tabs:
               type: link
               display: 'URL to take action'
               instructions: "A link to the specific page in the Partner's site where a visitor can donate, volunteer, sign a petition, or otherwise contribute to changing the world."
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
             handle: key_facts_that_make_this_urgent
             field:
               character_limit: '500'
-              antlers: false
               type: textarea
               display: 'Key facts that make this urgent'
               instructions: "This text appears in the pink square on the homepage under each challenge, and should highlight some facts that underline the urgency of this initiative. Take language directly from the partners' sites for this."
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
@@ -101,31 +67,9 @@ tabs:
                 - italic
                 - removeformat
                 - anchor
-              smart_typography: false
-              save_html: false
-              inline: false
-              toolbar_mode: fixed
-              reading_time: false
-              word_count: false
-              fullscreen: true
-              allow_source: true
-              enable_input_rules: true
-              enable_paste_rules: true
               remove_empty_nodes: false
-              antlers: false
-              link_noopener: false
-              link_noreferrer: false
-              target_blank: false
-              always_show_set_button: false
-              collapse: false
-              previews: true
               type: bard
               display: Description
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
   sidebar:
@@ -147,13 +91,8 @@ tabs:
                 - collection_type
               display: 'Collection Type'
               mode: select
-              instructions_position: above
-              listable: hidden
-              visibility: visible
-              replicator_preview: true
               max_items: 1
-              create: true
-              hide_display: false
+              create: false
               validate:
                 - required
           -
@@ -165,11 +104,6 @@ tabs:
                 - challenges
               type: terms
               display: Challenges
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
@@ -182,10 +116,5 @@ tabs:
                 - partners
               type: terms
               display: Partner
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
