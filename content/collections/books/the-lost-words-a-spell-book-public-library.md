@@ -140,7 +140,16 @@ description:
     content:
       -
         type: text
-        text: 'While children’s experience is at the heart of this quiet masterpiece, MacFarlane and Morris intended the large, lavishly illustrated book for “children aged 3 to 100” — a book “to conjure back the common words and species that are steadily disappearing from everyday life — and especially from children’s stories and dreams,” a book “to catch at the beauty and wonder — but also the eeriness and otherness — of the natural world.” What emerges is a lyrical encyclopedia of enchantments, radiating the sensibility of '
+        text: 'While children’s experience is at the heart of this quiet masterpiece, MacFarlane and Morris intended the large, lavishly illustrated book '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'for “children aged 3 to 100” '
+      -
+        type: text
+        text: '— a book “to conjure back the common words and species that are steadily disappearing from everyday life — and especially from children’s stories and dreams,” a book “to catch at the beauty and wonder — but also the eeriness and otherness — of the natural world.” What emerges is a lyrical encyclopedia of enchantments, radiating the sensibility of '
       -
         type: text
         marks:
@@ -162,7 +171,7 @@ description:
         type: text
         text: 'Each word occupies three lavishly illustrated spreads: a poetic “summoning spell” in the form of an acrostic to conjure back the lost word in a rhythmic incantation composed to be read aloud, a wordless visual eulogy for its vanishment, and a typographic botany of letters spelling it “back into language, hearts, minds and landscape.”'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719800330
+updated_at: 1720271709
 related_partner_initiatives:
   - f80aa9dd-80ba-474c-acaa-cc772f395ca7
 related_content:
