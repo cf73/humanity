@@ -4,20 +4,20 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720375775
+updated_at: 1720375976
 intro:
   -
     type: paragraph
     content:
       -
         type: text
-        text: "We have dedicated every nuance of this site to creating comprehensive and urgent action around humanity’s major challenges. As THI’s more than 290 contributors and 30 partners express here in so many compelling ways, each of us must act\_ --\_ and we must do so\_"
+        text: 'We have dedicated every nuance of this site to creating comprehensive and urgent action around humanity’s major challenges. As The Humanity Initiative’s more than 300 contributors and 30 partners express here in so many compelling ways, '
       -
         type: text
         marks:
           -
             type: italic
-        text: now!
+        text: "each of us must act\_ --\_ and we must do so\_now!"
   -
     type: paragraph
     content:
@@ -29,7 +29,18 @@ intro:
     content:
       -
         type: text
-        text: 'We need your help to create this necessary outreach, so here’s our plea, personally delivered by Jacqueline (of TeamHumanity) a few weeks ago in Glastonbury, England, at the heart chakra of the planet:'
+        text: 'We need your help to create this necessary outreach, so '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'THI is a 501(c)(3), so all donations are tax deductible in the United States..'
+              rel: null
+              target: _blank
+              title: null
+        text: 'here’s our plea, personally delivered by Jacqueline (of TeamHumanity) a few weeks ago in Glastonbury, England, at the heart chakra of the planet:'
   -
     type: paragraph
     content:
