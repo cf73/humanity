@@ -30,7 +30,7 @@
             {{ collection from="*" not_from="pages" as="results"
                 :taxonomy:challenges="inspiration"
                 :taxonomy:collection_type="get:collectiontype"
-                not_from="quotations|partner_initiatives|photography_contributions|pages"
+                not_from="pages"
                  }}
                 {{ if no_results }}
                     <div class="p-8 rounded-lg bg-gray-100 text-center">

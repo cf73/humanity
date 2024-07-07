@@ -1,3 +1,17 @@
-<footer class="pt-32 pb-32 pl-8 space-y-8 bg-gray-700 relative z-50">
-<h2>footer content here</h2>
+{{footer}}
+<footer class="py-32 space-y-8 bg-gray-700 relative z-50">
+    <div class="container mx-auto space-y-8 text-center flex flex-col items-center">
+        <a href="/"><img src="/assets/humanity-logo.png" width="400px" alt="Humanity Logo"></a>
+        <h3 class="text-warmwhite">The Humanity Initiative</h3>
+        <div class="prose prose-sky prose-invert">
+            {{intro}}
+        </div>
+        <div class="flex flex-row items-baseline space-x-6">
+            <a href="/donate"><button class="btn-secondary mb-8">Donate $5</button></a>
+            <a href="mailto:tony@ourhumanity.org">
+                <button class="btn-primary">Contact Us</button>
+            </a>
+        </div>
+    </div>
 </footer>
+{{/footer}}
