@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720383316
+updated_at: 1720383965
 parent: home
 introduction:
   -
@@ -30,7 +30,7 @@ introduction:
     content:
       -
         type: text
-        text: "To provide sustenance for our investigations, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage each of\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as changemaker for community, country, or planet."
+        text: "To put our investigations on solid ground, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage each of\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as change-maker for community, country, or planet."
   -
     type: paragraph
     content:
@@ -48,7 +48,7 @@ introduction:
     content:
       -
         type: text
-        text: 'Not least, we include our archive of empowering Commencement Speeches, begun in 1989; as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.'
+        text: 'Not least, we include our archive of empowering Commencement Speeches, begun in 1989; as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also absolutely possible.'
   -
     type: paragraph
     content:
@@ -60,17 +60,17 @@ introduction:
     content:
       -
         type: text
-        text: "We are glad you’re here. Let’s create together a future that works for each of us.\_"
+        text: "We are glad you’re here. Let’s orchestrate together a fabulous future that works for each of us, right on through to our great, great grandchildren and beyond!\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Team Humanity (Conrad, Jacqueline, Kylie and Tony - four folks from three continents determined to help foster a revolution of good intent)'
+        text: 'Team Humanity '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Donate to support'
+        text: '(Conrad, Jacqueline, Kylie and Tony - four folks from three continents determined to help foster a revolution of good intent)'
 ---
