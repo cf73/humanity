@@ -3,8 +3,8 @@ id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1719605586
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1720373621
 intro:
   -
     type: paragraph
@@ -35,7 +35,15 @@ intro:
     content:
       -
         type: text
-        text: '(see attached video)'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.youtube.com/watch?v=7Q4y21gVufY'
+              rel: null
+              target: null
+              title: null
+        text: 'https://www.youtube.com/watch?v=7Q4y21gVufY'
   -
     type: paragraph
     content:
