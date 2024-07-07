@@ -4,13 +4,20 @@ blueprint: simple_page
 template: commencements
 title: 'Commencement Speeches'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718588709
+updated_at: 1720367326
 intro:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Every spring since 1987, The Humanity Initiative reviews the latest crop of commencement speeches, looking to preserve the empowering wisdom, inspiration, humor and raw humanity of the very best. So please enjoy visiting our archive, no matter what age you are, or even whether you went to college or not, for all of us "graduate" into new tomorrows, new challenges, all the time  --   and the advice and insight from these eloquent women and men is priceless.'
+        text: 'Every spring since 1987, The Humanity Initiative has reviewed the latest commencement speeches, intent on preserving the empowering wisdom, inspiration, humor and raw humanity of the very best. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please enjoy visiting our archive, no matter how old you are; for all of us "graduate" frequently into new tomorrows, new challenges   --   and much of the advice and insight from these compelling speeches is timeless.'
 parent: home
+main_image: image-1720367315.jpeg
 ---
