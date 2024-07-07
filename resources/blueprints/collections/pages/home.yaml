@@ -21,7 +21,7 @@ tabs:
               validate:
                 - required
           -
-            handle: intro
+            handle: welcome_text
             field:
               buttons:
                 - bold
@@ -30,7 +30,7 @@ tabs:
                 - anchor
               remove_empty_nodes: false
               type: bard
-              display: Intro
+              display: 'Welcome text'
           -
             handle: commencement_speeches_hero_images
             field:
@@ -67,17 +67,6 @@ tabs:
               display: 'Featured Commencement Speeches'
               validate:
                 - required
-          -
-            handle: welcome_text
-            field:
-              buttons:
-                - bold
-                - italic
-                - removeformat
-                - anchor
-              remove_empty_nodes: false
-              type: bard
-              display: 'Welcome text'
   sidebar:
     display: Sidebar
     sections:

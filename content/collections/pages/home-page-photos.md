@@ -3,36 +3,8 @@ id: home
 blueprint: home
 title: Home
 template: home
-intro:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'We '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: urgently
-      -
-        type: text
-        text: ' need a more profound commitment to working together, with respect and imagination, with kindness and love.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'In this online oasis, The Humanity Initiative offers clarity and insight on our most crucial challenges, providing compelling inspiration for each of us to join in fostering a resurgent new voice of humanity.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'We do so with the aid of almost 300 brilliant women and men from across the ages and the continents  --  cross-referencing their diverse contributions specifically to help in your search for the best way to take action, to discover or re-imagine your personal path into positive change.'
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1720197688
+updated_at: 1720283006
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
