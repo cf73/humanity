@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720375576
+updated_at: 1720375630
 intro:
   -
     type: paragraph
@@ -43,16 +43,17 @@ intro:
               rel: null
               target: _blank
               title: null
-        text: 'https://www.youtube.com/watch?v=7Q4y21gVufY'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Please donate now. '
       -
         type: text
         marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.youtube.com/watch?v=7Q4y21gVufY'
+              rel: null
+              target: _blank
+              title: null
           -
             type: italic
         text: 'Please help us engage this urgent effort to rescue our humanity and our home planet. '
