@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720375723
+updated_at: 1720375775
 intro:
   -
     type: paragraph
@@ -57,6 +57,9 @@ intro:
               target: _blank
               title: null
         text: .
+      -
+        type: text
+        text: ' THI is a 501(c)(3), so all donations are tax deductible in the United States..'
   -
     type: paragraph
     content:
@@ -78,24 +81,6 @@ intro:
       -
         type: text
         text: 'Tony Balis (USA), Conrad Fulbrook (England), Kylie Janssens (South Africa), Jacqueline Wigglesworth (England). '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'THI is a 501(c)(3), so all donations are tax deductible in the United States..'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
 parent: home
 main_image: '-humanity-first-cover.jpeg'
 ---
