@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1719605586
+updated_at: 1720415301
 intro:
   -
     type: paragraph
@@ -29,13 +29,7 @@ intro:
     content:
       -
         type: text
-        text: 'We need your help to create this necessary outreach, so here’s our plea, personally delivered by Jacqueline (of TeamHumanity) a few weeks ago in Glastonbury, England, at the heart chakra of the planet:'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '(see attached video)'
+        text: 'We need your help to create this necessary outreach, so here’s our plea, personally delivered by Jacqueline (of TeamHumanity) a few weeks ago in Glastonbury, England, at the heart chakra of the planet (video above).'
   -
     type: paragraph
     content:

@@ -4,8 +4,8 @@ blueprint: page
 template: challenge
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1715213340
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1720413967
 section_builder:
   -
     id: lu8ulqyv
@@ -21,7 +21,7 @@ section_builder:
         content:
           -
             type: text
-            text: 'First, the world is fortunate for the wise and heartfelt voice of 97-year-old naturalist, broadcaster and humanist, Sir David Attenborough. He not only clarifies the climate crisis, he also delineates clear solutions   —  as in his recent '
+            text: 'First, the world is fortunate for the wise and heartfelt voice of 97-year-old naturalist, broadcaster and humanist, Sir David Attenborough. He not only clarifies the climate crisis, he also delineates clear solutions — as in his recent '
           -
             type: text
             marks:
