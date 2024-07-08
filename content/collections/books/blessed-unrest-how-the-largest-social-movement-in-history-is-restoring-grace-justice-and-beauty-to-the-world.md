@@ -1,7 +1,7 @@
 ---
 id: 9f09c216-ae44-4a47-badf-16a8ab75a311
 blueprint: book
-title: 'Blessed Unrest: How the Largest Social Movement in History Is Restoring Grace, Justice, and Beauty to the World  (2007)'
+title: 'Blessed Unrest: Restoring Grace, Justice, and Beauty to the World  (2007)'
 image: 71lrdkzsuzl._sl1200_.jpg
 link: 'https://www.amazon.com/gp/product/0143113658/ref=as_li_tf_tl?ie=UTF8&tag=jainthwo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0143113658'
 description:
@@ -27,7 +27,7 @@ related_partner_initiatives:
 related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719798411
+updated_at: 1720475802
 date_published: '2007-01-01'
 book_author: 'Paul Hawken'
 ---
