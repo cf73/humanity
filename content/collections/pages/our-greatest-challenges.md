@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720384125
+updated_at: 1720403113
 parent: home
 introduction:
   -
@@ -60,7 +60,7 @@ introduction:
     content:
       -
         type: text
-        text: "We are glad you’re here. Let’s orchestrate together a fabulous future that works for each of us, right on through to our great, great grandchildren and beyond!\_"
+        text: "We are glad you’re here. Let’s orchestrate together a future that works for each of us, right on through to our great, great grandchildren and beyond!\_"
   -
     type: paragraph
     content:
