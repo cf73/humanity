@@ -11,13 +11,13 @@ intro:
     content:
       -
         type: text
-        text: "We have dedicated every nuance of this site to creating comprehensive and urgent action around humanity’s major challenges. As THI’s more than 290 contributors and 30 partners express here in so many compelling ways, each of us must act\_ --\_ and we must do so\_"
+        text: 'We have dedicated every nuance of this site to creating comprehensive and urgent action around humanity’s major challenges. As The Humanity Initiative’s more than 300 contributors and 30 partners express here in so many compelling ways, '
       -
         type: text
         marks:
           -
             type: italic
-        text: now!
+        text: "each of us must act\_ --\_ and we must do so\_now!"
   -
     type: paragraph
     content:
@@ -35,13 +35,34 @@ intro:
     content:
       -
         type: text
-        text: 'Please donate now. '
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.youtube.com/watch?v=7Q4y21gVufY'
+              rel: null
+              target: _blank
+              title: null
+          -
+            type: bold
+        text: 'Please donate now. Please help us engage this urgent effort to rescue our humanity and our home planet'
       -
         type: text
         marks:
           -
-            type: italic
-        text: 'Please help us engage this urgent effort to rescue our humanity and our home planet. '
+            type: link
+            attrs:
+              href: 'https://www.youtube.com/watch?v=7Q4y21gVufY'
+              rel: null
+              target: _blank
+              title: null
+        text: .
+      -
+        type: text
+        text: ' THI is a 501(c)(3), so all donations are tax deductible in the United States..'
+  -
+    type: paragraph
+    content:
       -
         type: text
         text: 'Thank you!'
@@ -60,24 +81,6 @@ intro:
       -
         type: text
         text: 'Tony Balis (USA), Conrad Fulbrook (England), Kylie Janssens (South Africa), Jacqueline Wigglesworth (England). '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'THI is a 501(c)(3), so all donations are tax deductible in the United States..'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
 parent: home
 main_image: '-humanity-first-cover.jpeg'
 ---

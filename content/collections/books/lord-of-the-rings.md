@@ -58,25 +58,19 @@ description:
     content:
       -
         type: text
-        text: "Above is the simple and direct Goodreads' introduction. Now here below is a complete immersion into Tolkien's work, published in "
+        marks:
+          -
+            type: italic
+        text: "Above is the simple and direct Goodreads' introduction. Now, below, is a fabulous and complete immersion into Tolkien's work, published in "
+      -
+        type: text
+        text: Esquire
       -
         type: text
         marks:
           -
             type: italic
-        text: 'Esquire in 2022'
-      -
-        type: text
-        text: ', on "How to Read '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Lord of the Rings'
-      -
-        type: text
-        text: ' in order."'
+        text: ' in 2022, on "How to Read The Lord of the Rings in order."'
   -
     type: paragraph
     content:
@@ -88,15 +82,23 @@ description:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'Now that '
       -
         type: text
         marks:
           -
+            type: bold
+          -
             type: italic
         text: 'Rings of Power'
       -
         type: text
+        marks:
+          -
+            type: bold
         text: " has ended, it's time to do your homework."
   -
     type: paragraph
@@ -117,16 +119,7 @@ description:
         text: 'Adrienne Westenfeld'
       -
         type: text
-        text: ' PUBLISHED: OCT 17, 2022 '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: '(Every product was carefully curated by an Esquire editor. We may earn a commission from these links.)'
+        text: ' (October 17, 2022) '
   -
     type: paragraph
     content:
@@ -314,36 +307,7 @@ description:
         marks:
           -
             type: bold
-        text: '1'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Mariner Books The Hobbit'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Now 43% Off'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.amazon.com/dp/054792822X?linkCode=ogi&tag=esquire_auto-append-20&ascsubtag=%5Bartid%7C10054.g.38301575%5Bsrc%7Cwww.bing.com%5Bch%7C%5Blt%7Csale%5Bpid%7C0d617c4c-870f-4158-bfdf-e01e7f3ff8ff%5Baxid%7Cfa5d50a6-9036-419c-b6b8-5d1107f78164'
-              rel: 'nofollow noopener noskim'
-              target: _blank
-              title: null
-        text: '$11 AT AMAZON'
+        text: 'The Hobbit'
   -
     type: paragraph
     content:
@@ -385,36 +349,7 @@ description:
         marks:
           -
             type: bold
-        text: '2'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Mariner Books The Fellowship of the Ring'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Now 43% Off'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.amazon.com/dp/0547928211?linkCode=ogi&tag=esquire_auto-append-20&ascsubtag=%5Bartid%7C10054.g.38301575%5Bsrc%7Cwww.bing.com%5Bch%7C%5Blt%7Csale%5Bpid%7C61741c1a-53f6-4f53-9f8e-45fb35fb73a9%5Baxid%7Cf1b50ced-16ef-4feb-87ff-868dbdd6e53e'
-              rel: 'nofollow noopener noskim'
-              target: _blank
-              title: null
-        text: '$11 AT AMAZON'
+        text: 'The Fellowship of the Ring'
   -
     type: paragraph
     content:
@@ -444,36 +379,7 @@ description:
         marks:
           -
             type: bold
-        text: '3'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Mariner Books The Two Towers'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Now 30% Off'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.amazon.com/dp/0547928203?linkCode=ogi&tag=esquire_auto-append-20&ascsubtag=%5Bartid%7C10054.g.38301575%5Bsrc%7Cwww.bing.com%5Bch%7C%5Blt%7Csale%5Bpid%7Cb9c1da8e-fa0e-4260-b437-7b20860b5bae%5Baxid%7C5b566264-659e-49b3-bab2-b5b11ed53234'
-              rel: 'nofollow noopener noskim'
-              target: _blank
-              title: null
-        text: '$13 AT AMAZON'
+        text: 'The Two Towers'
   -
     type: paragraph
     content:
@@ -494,45 +400,10 @@ description:
     content:
       -
         type: text
-        text: 'Advertisement - Continue Reading Below'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         marks:
           -
             type: bold
-        text: '4'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Mariner Books The Return of the King'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Now 38% Off'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.amazon.com/dp/054792819X?linkCode=ogi&tag=esquire_auto-append-20&ascsubtag=%5Bartid%7C10054.g.38301575%5Bsrc%7Cwww.bing.com%5Bch%7C%5Blt%7Csale%5Bpid%7C818a9a1f-3ecb-4d8f-882b-a346ac1d1f94%5Baxid%7Cd0468485-d29a-485e-9211-cbbca10698bd'
-              rel: 'nofollow noopener noskim'
-              target: _blank
-              title: null
-        text: '$11 AT AMAZON'
+        text: 'The Return of the King'
   -
     type: paragraph
     content:
@@ -598,36 +469,7 @@ description:
         marks:
           -
             type: bold
-        text: '5'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Mariner Books The Silmarillion'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Now 36% Off'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.amazon.com/dp/0544338014?linkCode=ogi&tag=esquire_auto-append-20&ascsubtag=%5Bartid%7C10054.g.38301575%5Bsrc%7Cwww.bing.com%5Bch%7C%5Blt%7Csale%5Bpid%7C5b7ab5c2-db31-4841-bb4d-342d11c0f465%5Baxid%7C7369c2cc-e0a9-49c6-b331-817e7b2ea69d'
-              rel: 'nofollow noopener noskim'
-              target: _blank
-              title: null
-        text: '$11 AT AMAZON'
+        text: 'The Silmarillion'
   -
     type: paragraph
     content:
@@ -696,36 +538,7 @@ description:
         marks:
           -
             type: bold
-        text: '6'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Mariner Books Unfinished Tales of Númenor and Middle-earth'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Now 39% Off'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.amazon.com/dp/0544337999?linkCode=ogi&tag=esquire_auto-append-20&ascsubtag=%5Bartid%7C10054.g.38301575%5Bsrc%7Cwww.bing.com%5Bch%7C%5Blt%7Csale%5Bpid%7C89a2812a-c400-4991-b37f-4e1e7560bc5d%5Baxid%7C24dd9639-2443-4c87-ae15-18b0ba119ddb'
-              rel: 'nofollow noopener noskim'
-              target: _blank
-              title: null
-        text: '$11 AT AMAZON'
+        text: 'Unfinished Tales of Númenor and Middle-earth'
   -
     type: paragraph
     content:
@@ -773,45 +586,10 @@ description:
     content:
       -
         type: text
-        text: 'Advertisement - Continue Reading Below'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         marks:
           -
             type: bold
-        text: '7'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Houghton Mifflin Harcourt The Children of Húrin'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Now 43% Off'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.amazon.com/dp/0618894640?linkCode=ogi&tag=esquire_auto-append-20&ascsubtag=%5Bartid%7C10054.g.38301575%5Bsrc%7Cwww.bing.com%5Bch%7C%5Blt%7Csale%5Bpid%7Cf5bc4efc-30a7-4e7e-beb7-aa9f0db91e44%5Baxid%7C7929b7d0-faaf-4dce-be32-61a4d6eed19d'
-              rel: 'nofollow noopener noskim'
-              target: _blank
-              title: null
-        text: '$17 AT AMAZON'
+        text: 'The Children of Húrin'
   -
     type: paragraph
     content:
@@ -853,36 +631,7 @@ description:
         marks:
           -
             type: bold
-        text: '8'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Houghton Mifflin Harcourt Beren and Lúthien'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Now 43% Off'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.amazon.com/dp/1328791823?linkCode=ogi&tag=esquire_auto-append-20&ascsubtag=%5Bartid%7C10054.g.38301575%5Bsrc%7Cwww.bing.com%5Bch%7C%5Blt%7Csale%5Bpid%7Ce6191024-305f-471e-b859-a157945df2fe%5Baxid%7Ca5da360f-b43e-49d2-b046-2fb33cb60f09'
-              rel: 'nofollow noopener noskim'
-              target: _blank
-              title: null
-        text: '$17 AT AMAZON'
+        text: 'Beren and Lúthien'
   -
     type: paragraph
     content:
@@ -906,36 +655,7 @@ description:
         marks:
           -
             type: bold
-        text: '9'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Houghton Mifflin Harcourt The Fall of Gondolin'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Now 39% Off'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.amazon.com/dp/1328613046?linkCode=ogi&tag=esquire_auto-append-20&ascsubtag=%5Bartid%7C10054.g.38301575%5Bsrc%7Cwww.bing.com%5Bch%7C%5Blt%7Csale%5Bpid%7C4325ca50-4689-47df-83c1-bf090ff9bf17%5Baxid%7C20631ae0-acb3-498c-8134-10c5d506ff02'
-              rel: 'nofollow noopener noskim'
-              target: _blank
-              title: null
-        text: '$21 AT AMAZON'
+        text: 'The Fall of Gondolin'
   -
     type: paragraph
     content:
@@ -956,45 +676,10 @@ description:
     content:
       -
         type: text
-        text: 'Advertisement - Continue Reading Below'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         marks:
           -
             type: bold
-        text: '10'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Houghton Mifflin Harcourt The History of Middle-earth'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Now 43% Off'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.amazon.com/dp/0358381746?linkCode=ogi&tag=esquire_auto-append-20&ascsubtag=%5Bartid%7C10054.g.38301575%5Bsrc%7Cwww.bing.com%5Bch%7C%5Blt%7Csale%5Bpid%7C99d95a12-0a15-408f-8e2b-3ac57ebda41d%5Baxid%7C2f00a45e-b5fd-40c8-8753-041d7bc7e49e'
-              rel: 'nofollow noopener noskim'
-              target: _blank
-              title: null
-        text: '$142 AT AMAZON'
+        text: 'The History of Middle-earth'
   -
     type: paragraph
     content:
@@ -1045,30 +730,7 @@ description:
         marks:
           -
             type: bold
-        text: '11'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
         text: 'The Fall of Númenor: And Other Tales From the Second Age'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.kqzyfj.com/click-100815422-15590330?url=https%3A%2F%2Fwww.macys.com%2Fshop%2Fproduct%2Fthe-fall-of-numenor-other-tales-from-the-second-age-of-middle-earth-by-j.-r.-r.-tolkien%3FID%3D15337010&sid=esq-xid-fr1718626109688ezz'
-              rel: 'nofollow noopener'
-              target: _blank
-              title: null
-        text: "$40 AT MACY'S"
   -
     type: paragraph
     content:
@@ -1092,36 +754,7 @@ description:
         marks:
           -
             type: bold
-        text: '12'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Bodleian Library, University of Oxford Tolkien: Maker of Middle-earth'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Now 30% Off'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.amazon.com/dp/1851244859?linkCode=ogi&tag=esquire_auto-append-20&ascsubtag=%5Bartid%7C10054.g.38301575%5Bsrc%7Cwww.bing.com%5Bch%7C%5Blt%7Csale%5Bpid%7C4463f419-3a55-4f69-848f-1594110431c9%5Baxid%7Cd9b4cdff-da1d-45d1-8d39-bb7e0869be68'
-              rel: 'nofollow noopener noskim'
-              target: _blank
-              title: null
-        text: '$45 AT AMAZON'
+        text: 'Tolkien: Maker of Middle-earth'
   -
     type: paragraph
     content:
@@ -1146,7 +779,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719799681
+updated_at: 1720271534
 date_published: '1954-05-15'
 link: 'https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings?from_search=true&from_srp=true&qid=pnhxHNhKch&rank=3'
 collection_type: book
