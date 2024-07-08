@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1720283006
+updated_at: 1720414837
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -51,13 +51,55 @@ welcome_text:
     content:
       -
         type: text
-        text: "To provide sustenance for our investigations, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage each of\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as changemaker for community, country, or planet."
+        text: "To provide sustenance for our investigations, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage each of\_us in creating\_—\_or in re-imagining\_—\_our role as changemaker for community, country, or planet."
   -
     type: paragraph
     content:
       -
         type: text
-        text: "To begin, we offer insight on humanity’s most crucial challenges: ending war, solving climate change, saving democracy.\_"
+        text: 'To begin, we offer insight on humanity’s most crucial challenges: '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: /challenges/war
+              rel: null
+              target: null
+              title: null
+        text: 'ending war'
+      -
+        type: text
+        text: ', '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: /challenges/climate
+              rel: null
+              target: null
+              title: null
+        text: 'solving climate change'
+      -
+        type: text
+        text: ', '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: /challenges/democracy
+              rel: null
+              target: null
+              title: null
+        text: 'saving democracy'
+      -
+        type: text
+        text: ".\_"
   -
     type: paragraph
     content:
@@ -69,23 +111,65 @@ welcome_text:
     content:
       -
         type: text
-        text: 'Not least, we include our archive of empowering Commencement Speeches, begun in 1989; as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.'
+        text: 'Not least, we include our archive of empowering '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: /commencement-speeches
+              rel: null
+              target: null
+              title: null
+        text: 'Commencement Speeches'
+      -
+        type: text
+        text: ', begun in 1989; as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "May the insights and inspirations throughout this town meeting for the planet\_\_--\_\_presented on the wings of essays, images, speeches, artwork, film, literature, poetry, and music\_\_--\_\_move you to help fan the aspirational breezes of our shared humanity into winds of change we so urgently need."
+        text: 'May the insights and '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: /inspiration
+              rel: null
+              target: null
+              title: null
+        text: inspirations
+      -
+        type: text
+        text: " throughout this town meeting for the planet\_—\_presented on the wings of essays, images, speeches, artwork, film, literature, poetry, and music\_—\_move you to help fan the aspirational breezes of our shared humanity into winds of change we so urgently need."
   -
     type: paragraph
     content:
       -
         type: text
-        text: "We are glad you’re here. Let’s create together a future that works for each of us.\_"
+        text: 'We are glad you’re here. '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: /take-action-now
+              rel: null
+              target: null
+              title: null
+        text: 'Let’s create together a future that works for each of us.'
+      -
+        type: text
+        text: "\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Team Humanity    (Conrad, Jacqueline, Kylie and Tony  -  four folks from three continents determined to help foster a revolution of good intent)'
+        text: 'Team Humanity — (Conrad, Jacqueline, Kylie and Tony — four folks from three continents determined to help foster a revolution of good intent.)'
 ---

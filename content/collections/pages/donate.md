@@ -3,8 +3,8 @@ id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720376000
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1720415301
 intro:
   -
     type: paragraph
@@ -29,18 +29,7 @@ intro:
     content:
       -
         type: text
-        text: 'We need your help to create this necessary outreach, so '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'THI is a 501(c)(3), so all donations are tax deductible in the United States..'
-              rel: null
-              target: _blank
-              title: null
-        text: 'here’s our plea, personally delivered by Jacqueline (of TeamHumanity) a few weeks ago in Glastonbury, England, at the heart chakra of the planet:'
+        text: 'We need your help to create this necessary outreach, so here’s our plea, personally delivered by Jacqueline (of TeamHumanity) a few weeks ago in Glastonbury, England, at the heart chakra of the planet (video above).'
   -
     type: paragraph
     content:

@@ -1,8 +1,17 @@
 <div class="container mx-auto grid grid-cols-12 gap-16">
     <div class="col-start-5 col-span-8 w-full h-[90vh] bg-no-repeat bg-contain bg-center" style="background-image: url({{main_image}});"></div>
 
-    <video data-speed="1.2" class="col-start-2 row-start-2 col-span-6 relative -top-[50vh]" src="/assets/OurHumanity.mp4" width="100%" height="auto" controls></video>
-
+    <div data-speed="1.2" class="col-start-2 row-start-2 col-span-6 relative -top-[50vh]">
+        {{donate}}
+        {{if video_id}}
+            <div class="aspect-w-16 aspect-h-9 bg-green">
+                <iframe src="https://www.youtube.com/embed/{{video_id}}" class="w-full h-full" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+            {{else}}
+            <img src="{{image}}" alt="{{title}}" class="w-full">
+        {{/if}}
+        {{/donate}}
+    </div>
         <div class="row-start-2 col-start-3 col-span-5 relative top-16">
             <h1>{{title}}</h1>
             <div class="prose prose-sky prose-xl mt-4 mx-auto">{{intro}}</div>

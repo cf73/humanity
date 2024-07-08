@@ -13,7 +13,7 @@
         @apply font-josephin font-extralight tracking-tight leading-tight text-9xl text-atomicTangerine;
     }
     h1 {
-        @apply font-josephin font-semibold leading-tight text-5xl;
+        @apply font-josephin font-semibold text-cetaceanBlue leading-tight text-5xl;
     }
     h2 {
         @apply text-5xl font-josephin font-medium leading-tight antialiased;
@@ -31,7 +31,7 @@
         @apply font-josephin font-light text-2xl leading-normal;
     }
     a {
-        @apply text-buttonBlue hover:underline underline-offset-8;
+        @apply text-stPatrickBlue hover:underline underline-offset-4;
     }
     .textMeta {
         @apply uppercase font-josephin text-xs font-medium antialiased text-spaceCadet tracking-widest w-fit;
@@ -52,10 +52,13 @@
 
 @layer components {
     .btn-primary {
-        @apply font-josephin font-semibold text-xl text-white tracking-wider rounded-full px-8 py-2 bg-buttonBlue hover:tracking-widest transition-all w-fit;
+        @apply font-josephin font-semibold text-xl text-white tracking-wider rounded-full px-8 py-2 bg-buttonBlue hover:bg-buttonBlue/80 transition-all w-fit;
     }
     .btn-secondary {
-        @apply font-josephin font-semibold text-xl text-white tracking-wider bg-atomicTangerine rounded-full px-8 py-2 hover:tracking-widest transition-all w-fit;
+        @apply font-josephin font-semibold text-xl text-white tracking-wider bg-atomicTangerine rounded-full px-8 py-2 hover:bg-atomicTangerine/80 transition-all w-fit;
+    }
+    .btn-tirtiary {
+        @apply font-josephin font-semibold text-xl text-white tracking-wider bg-none border border-solid border-white rounded-full px-8 py-2 hover:bg-atomicTangerine/80 transition-all w-fit;
     }
 }
 
