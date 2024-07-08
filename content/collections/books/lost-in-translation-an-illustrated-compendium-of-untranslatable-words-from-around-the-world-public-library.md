@@ -1,7 +1,7 @@
 ---
 id: bb741d00-8673-47f0-8869-cd36c404c92e
 blueprint: book
-title: 'Lost in Translation: An Illustrated Compendium of Untranslatable Words from Around the World (2014)'
+title: 'Lost in Translation: An Illustrated Compendium of Untranslatable Words (2014)'
 image: image-1709142589.png
 collection_type: book
 description:
@@ -184,7 +184,7 @@ description:
         type: text
         text: '), published shortly before Sanders turned twenty-one.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719799743
+updated_at: 1720475988
 date_published: '2014-09-16'
 link: 'https://www.amazon.com/s?k=Lost+in+Translation&i=stripbooks&crid=1FB2JVVWW11QG&sprefix=lost+in+translation%2Cstripbooks%2C172&ref=nb_sb_noss_1'
 related_partner_initiatives:
