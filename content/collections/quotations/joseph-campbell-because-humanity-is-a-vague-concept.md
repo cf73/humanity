@@ -6,8 +6,9 @@ quotation: '"The big challenge is education  --  an inner education so that the 
 attribution: 'Joseph Campell  (1904-1987),  American mythologist, PBS host'
 image: image-1709568942.jpeg
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720438124
+updated_at: 1720438164
 collection_type: quotation
 challenges:
   - war
+sections: peace-gatherings
 ---
