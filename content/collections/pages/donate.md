@@ -3,8 +3,8 @@ id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1720498386
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1720498708
 intro:
   -
     type: paragraph
@@ -60,21 +60,6 @@ intro:
       -
         type: text
         text: 'Thank you!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: "TeamHumanity\_\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Tony Balis (USA), Conrad Fulbrook (England), Kylie Janssens (South Africa), Jacqueline Wigglesworth (England). '
 parent: home
 main_image: '-humanity-first-cover.jpeg'
 ---
