@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720541285
+updated_at: 1720541735
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -45,7 +45,7 @@ welcome_text:
     content:
       -
         type: text
-        text: "For this is an oasis with a mission, custom-designed for we the people to linger awhile with neighbors old and new, to consider our humanitarian and planetary alarm and how each of us might help restore some sanity and safety to our increasingly wild rides around the sun.\_"
+        text: "For this is an oasis with a mission, custom-designed for we the people to linger awhile with neighbors old and new, to consider our humanitarian and planetary alarms and how each of us might help restore some sanity and safety to our increasingly wild rides around the sun.\_"
   -
     type: paragraph
     content:
@@ -125,7 +125,7 @@ welcome_text:
         text: 'Commencement Speeches'
       -
         type: text
-        text: ', begun in 1989; as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also possible.'
+        text: ', begun in 1989; as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also utterly possible.'
   -
     type: paragraph
     content:
@@ -151,7 +151,7 @@ welcome_text:
     content:
       -
         type: text
-        text: 'We are glad you’re here. '
+        text: "We're glad you’re here. "
       -
         type: text
         marks:
@@ -171,7 +171,7 @@ welcome_text:
     content:
       -
         type: text
-        text: '          ~    Team Humanity'
+        text: '~         Team Humanity'
   -
     type: paragraph
     content:
