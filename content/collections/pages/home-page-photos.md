@@ -3,8 +3,8 @@ id: home
 blueprint: home
 title: Home
 template: home
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1720414837
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1720541096
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -45,13 +45,13 @@ welcome_text:
     content:
       -
         type: text
-        text: "For this is an oasis with a mission, custom-designed for we the people to linger awhile with neighbors old and new, to consider our humanitarian and planetary alarm bells and how each of us might help restore some sanity and safety to our latest swing around the sun.\_"
+        text: "For this is an oasis with a mission, custom-designed for we the people to linger awhile with neighbors old and new, to consider our humanitarian and planetary alarm and how each of us might help restore some sanity and safety to our increasingly wild rides around the sun.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: "To provide sustenance for our investigations, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage each of\_us in creating\_—\_or in re-imagining\_—\_our role as changemaker for community, country, or planet."
+        text: "To plant our investigations on the fertile soil of open hearts and worldly experience, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our roles as change-makers for community, country, or planet."
   -
     type: paragraph
     content:
@@ -105,7 +105,7 @@ welcome_text:
     content:
       -
         type: text
-        text: 'From there, we visit thirty of the world’s most respected non-profits and the opportunity to participate in their life-saving work.'
+        text: 'From there, we visit thirty of the world’s most respected non-profits and the exciting opportunities to participate in their life-saving work.'
   -
     type: paragraph
     content:
@@ -162,14 +162,20 @@ welcome_text:
               rel: null
               target: null
               title: null
-        text: 'Let’s create together a future that works for each of us.'
+        text: 'Let’s orchestrate together a future that works for each of us'
       -
         type: text
-        text: "\_"
+        text: ", right on through to our great, great grandchildren and beyond!\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Team Humanity — (Conrad, Jacqueline, Kylie and Tony — four folks from three continents determined to help foster a revolution of good intent.)'
+        text: '          ~    Team Humanity'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '(Conrad, Jacqueline, Kylie and Tony — four folks from three continents determined to help foster a revolution of good intent.)'
 ---
