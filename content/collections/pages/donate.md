@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1720415301
+updated_at: 1720498386
 intro:
   -
     type: paragraph
@@ -24,12 +24,6 @@ intro:
       -
         type: text
         text: 'Our goal is to bring this message to every community and village across the continents, not only through this web site, but also through our peace gatherings, partnerships, and both traditional and social media, engendering a planet-wide enlightenment of understanding and action.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'We need your help to create this necessary outreach, so here’s our plea, personally delivered by Jacqueline (of TeamHumanity) a few weeks ago in Glastonbury, England, at the heart chakra of the planet (video above).'
   -
     type: paragraph
     content:
