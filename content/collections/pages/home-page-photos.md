@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720541765
+updated_at: 1720575623
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -165,7 +165,7 @@ welcome_text:
         text: 'Let’s orchestrate together a future that works for each of us'
       -
         type: text
-        text: ", right on through to our great, great grandchildren and beyond!\_"
+        text: '. '
   -
     type: paragraph
     content:
