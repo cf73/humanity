@@ -3,7 +3,7 @@ id: e1912d5b-c259-42ca-aa14-01faa3424173
 blueprint: articles
 collection_type: article
 title: "THI's blueprint for peace gatherings"
-image: image-1707482504-1720968661.jpeg
+image: river-nile.jpeg
 description:
   -
     type: paragraph
@@ -14,7 +14,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720968673
+updated_at: 1720969087
 article_text:
   -
     type: paragraph
