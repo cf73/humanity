@@ -1,7 +1,7 @@
 ---
 id: 42a7b6a8-a9c3-48f2-9c6d-3412ae0c88c2
 blueprint: articles
-title: 'No one is above the law. Until today.'
+title: 'No one is above the law.'
 articleauthor: 'Heather Cox Richardson'
 date_published: '2024-07-01'
 link: 'reply+2f1h9u&44b6gc&&88d950158359b2bdff759a1b937096b2fa4143355706afa9b46104d9e6d17f04@mg1.substack.com'
@@ -144,5 +144,5 @@ related_content:
   - eda9251c-69f9-4ae7-aa71-af6fa93e1920
   - e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719914912
+updated_at: 1721002955
 ---
