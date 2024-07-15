@@ -12,22 +12,7 @@ description:
     content:
       -
         type: text
-        text: '"Today, the European Commission adopted a Defence of Democracy package, ahead of the 2024 European elections. The central piece of this package is a legislative proposal that will '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'enhance transparency and democratic accountability of interest representation activities on behalf of third countries '
-      -
-        type: text
-        text: 'which are aimed at influencing policies, decision making and the democratic space. It also includes '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'two recommendations which aim to promote free, fair and resilient elections..."'
+        text: '"Today, the European Commission adopted a Defence of Democracy package, ahead of the 2024 European elections. The central piece of this package is a legislative proposal that will enhance transparency and democratic accountability... It also includes two recommendations which aim to promote free, fair and resilient elections..."'
 article_text:
   -
     type: paragraph
@@ -54,7 +39,7 @@ article_text:
               rel: null
               target: null
               title: null
-        text: 'Recommendation on inclusive and resilient electoral processes in the Union and enhancing the European nature and efficient conduct of the elections to the European Parliament'
+        text: 'recommendation on inclusive and resilient electoral processes in the Union and enhancing the European nature and efficient conduct of the elections to the European Parliament'
       -
         type: text
         text: " aims to promote high democratic standards for elections in the EU, supporting high voter turnouts, inclusive participation and making it easier to exercise one's electoral rights. The Recommendation also addresses the protection and cybersecurity of election-related infrastructure and proposes measures to minimise risks of interference from third countries through funding of political parties, political foundations, campaign organisations and candidates. "
@@ -83,7 +68,7 @@ article_text:
         text: Eurobarometer
       -
         type: text
-        text: ", published on 6 December, shows that the main concerns for EU citizens in the context of the elections in Europe are related to people basing their voting decision on disinformation (78%), followed by elections being manipulated through cyberattacks (72%), foreign countries influencing elections covertly (70%) and people being pressured into voting in a particular way (65%). \_"
+        text: ", published on 6 December (2023), shows that the main concerns for EU citizens in the context of the elections in Europe are related to people basing their voting decision on disinformation (78%), followed by elections being manipulated through cyberattacks (72%), foreign countries influencing elections covertly (70%) and people being pressured into voting in a particular way (65%). \_"
   -
     type: paragraph
     content:
@@ -109,7 +94,7 @@ article_text:
               rel: null
               target: null
               title: null
-        text: "Recommendation on promoting the engagement\_ of citizens and civil society organisations in public policy-making processes"
+        text: "recommendation on promoting the engagement\_ of citizens and civil society organisations in public policy-making processes"
       -
         type: text
         text: ' aims to create and maintain a safe and enabling environment for civil society organisations and human rights defenders, allowing them to effectively participate in democratic policy-making. It also encourages Member States to develop a structured approach to participation processes through predictable, accessible, transparent and inclusive frameworks. '
@@ -203,21 +188,7 @@ article_text:
         text: 'European Democracy Action Plan'
       -
         type: text
-        text: '. Three years after its adoption, the implementation of the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/new-push-european-democracy/european-democracy-action-plan_en'
-              rel: null
-              target: null
-              title: null
-        text: 'European Democracy Action Plan'
-      -
-        type: text
-        text: ' is in full swing. The EU promotes free and fair elections and strong democratic participation, supports free and independent media and counters disinformation inside and outside the EU.'
+        text: '. Three years after its adoption, implementation is in full swing. The EU promotes free and fair elections and strong democratic participation, supports free and independent media and counters disinformation inside and outside the EU.'
   -
     type: paragraph
     content:
@@ -236,7 +207,7 @@ related_content:
   - 877904fd-3029-4a1c-aa0e-33aa2d7f36c6
   - c7c991b5-9dde-4365-9c58-41d73dfee6cb
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719862169
+updated_at: 1721003782
 articleauthor: 'European Union (EU)'
 sections: peace-gatherings
 ---
