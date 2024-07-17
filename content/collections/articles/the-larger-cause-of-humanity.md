@@ -182,5 +182,6 @@ related_content:
   - 799bae7a-763a-4bb1-b9ec-8c4dacdb75f4
   - 2de64619-3645-4baf-b709-3a496e3a1553
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721232092
+updated_at: 1721232169
+link: 'https://www.thehindu.com/opinion/lead/blueprints-beyond-borders-for-solace-and-shelter/article68308819.ece'
 ---
