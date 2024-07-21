@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721567403
+updated_at: 1721567619
 parent: home
 introduction:
   -
@@ -18,7 +18,7 @@ introduction:
     content:
       -
         type: text
-        text: 'Please join us. May we pour you a cup of tea?'
+        text: 'Please join us. May we pour you a cup of Ahimsa tea?'
   -
     type: paragraph
     content:
@@ -30,7 +30,7 @@ introduction:
     content:
       -
         type: text
-        text: "To plant our investigations on the fertile ground of open hearts and curious minds, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
+        text: "To plant our investigations on fertile ground of open hearts, curious minds, and exemplary experience, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
   -
     type: paragraph
     content:
