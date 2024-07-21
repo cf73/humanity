@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721528731
+updated_at: 1721567403
 parent: home
 introduction:
   -
@@ -24,13 +24,13 @@ introduction:
     content:
       -
         type: text
-        text: "For this is an oasis with a mission, custom-designed for we the people to linger awhile with neighbors old and new, to consider our humanitarian and planetary alarm bells and how each of us might help calm our increasingly wild and fractious rides around the sun.\_"
+        text: "For this is an oasis with a mission, custom-designed for we the people to consult with neighbors old and new, to consider our humanitarian and planetary alarms and how each of us might help solve our increasingly wild and fractious rides around the sun.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: "To plant our investigations on the fertile ground of open hearts and curious minds, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage each of\_us in re-imagining\_our role as change-maker for community, country, or planet."
+        text: "To plant our investigations on the fertile ground of open hearts and curious minds, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
   -
     type: paragraph
     content:
@@ -60,13 +60,13 @@ introduction:
     content:
       -
         type: text
-        text: 'We are glad you’re here. Let’s orchestrate together nothing less than a future that works for all sentient beings  —  through endless generations to follow. '
+        text: "We are glad you’re here. Let’s orchestrate together nothing less than a future that works for all sentient beings — through endless generations to follow.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Team Humanity '
+        text: "Team Humanity\_"
   -
     type: paragraph
     content:
