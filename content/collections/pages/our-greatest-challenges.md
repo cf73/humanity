@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721567619
+updated_at: 1721567945
 parent: home
 introduction:
   -
@@ -30,7 +30,7 @@ introduction:
     content:
       -
         type: text
-        text: "To plant our investigations on fertile ground of open hearts, curious minds, and exemplary experience, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
+        text: "To plant our investigations on fertile ground of open hearts, curious minds, and exemplary experience, we offer three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
   -
     type: paragraph
     content:
@@ -42,7 +42,7 @@ introduction:
     content:
       -
         type: text
-        text: 'From there, we visit thirty of the world’s most respected non-profits and the opportunity to participate in their life-saving work.'
+        text: 'From there, we visit thirty of the world’s most respected non-profits and the opportunity to participate in their world-saving work.'
   -
     type: paragraph
     content:
@@ -60,7 +60,7 @@ introduction:
     content:
       -
         type: text
-        text: "We are glad you’re here. Let’s orchestrate together nothing less than a future that works for all sentient beings — through endless generations to follow.\_"
+        text: "We are so glad you’re here. Let’s orchestrate together nothing less than a future that works for all sentient beings and lasts through endless generations to follow.\_We can do this!"
   -
     type: paragraph
     content:
@@ -72,5 +72,5 @@ introduction:
     content:
       -
         type: text
-        text: '(Conrad, Jacqueline, Kylie and Tony - four folks from three continents determined to help foster a revolution of good intent)'
+        text: '(Conrad, Jacqueline, Kylie and Tony - four folks from three continents determined to help foster this revolution of good intent)'
 ---
