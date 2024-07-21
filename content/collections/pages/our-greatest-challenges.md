@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721528073
+updated_at: 1721528402
 parent: home
 introduction:
   -
@@ -24,7 +24,7 @@ introduction:
     content:
       -
         type: text
-        text: "For this is an oasis with a mission, custom-designed for we the people to linger awhile with neighbors old and new, to consider our humanitarian and planetary alarm bells and how each of us might help restore a bit of sanity and safety to our increasingly wild rides around the sun.\_"
+        text: "For this is an oasis with a mission, custom-designed for we the people to linger awhile with neighbors old and new, to consider our humanitarian and planetary alarm bells and how each of us might help calm our increasingly wild and fractious rides around the sun.\_"
   -
     type: paragraph
     content:
@@ -60,7 +60,7 @@ introduction:
     content:
       -
         type: text
-        text: "We are glad you’re here. Let’s orchestrate together a future that works for each of us, right on through to our great, great grandchildren and beyond!\_"
+        text: "We are glad you’re here. Let’s orchestrate together a future that works for each of us, our great grandchildren, and beyond!\_"
   -
     type: paragraph
     content:
