@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720403113
+updated_at: 1721528073
 parent: home
 introduction:
   -
@@ -30,7 +30,7 @@ introduction:
     content:
       -
         type: text
-        text: "To put our investigations on solid ground, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage each of\_us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our role as change-maker for community, country, or planet."
+        text: "To plant our investigations on the fertile ground of open hearts and curious minds, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage each of\_us in re-imagining\_our role as change-maker for community, country, or planet."
   -
     type: paragraph
     content:
