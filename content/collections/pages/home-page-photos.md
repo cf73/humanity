@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721674386
+updated_at: 1721686215
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -151,7 +151,7 @@ welcome_text:
     content:
       -
         type: text
-        text: "We're glad you’re here. "
+        text: 'We are glad you’re here. '
       -
         type: text
         marks:
@@ -165,13 +165,22 @@ welcome_text:
         text: 'Let’s orchestrate together a future that works for '
       -
         type: text
-        text: 'all sentient beings, a future that rolls through succeeding generations with increasing love, kindness, understanding, and, not least, respect for the blessed, enthralling and necessary variety of life on Earth. '
+        text: 'all sentient beings, a future that rolls through succeeding generations with increasing kindness, understanding, love, and, not least, deep respect for our blessed, enthralling and necessary variety of life on Earth. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We can do this! '
+        text: 'We '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: can
+      -
+        type: text
+        text: ' do this! '
   -
     type: paragraph
     content:
