@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721527880
+updated_at: 1721673425
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -51,7 +51,7 @@ welcome_text:
     content:
       -
         type: text
-        text: "To plant our investigations on the fertile soil of open hearts and worldly experience, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage us in creating\_\_--\_\_or in re-imagining\_\_--\_\_our roles as change-makers for community, country, or planet."
+        text: "To plant our investigations on the fertile soil of open hearts and worldly experience, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_\_--\_\_our roles as change-maker for community, country, or planet."
   -
     type: paragraph
     content:
@@ -162,10 +162,16 @@ welcome_text:
               rel: null
               target: null
               title: null
-        text: 'Let’s orchestrate together a future that works for each of us'
+        text: 'Let’s orchestrate together a future that works for '
       -
         type: text
-        text: '. '
+        text: 'all sentient life, a future that rolls through succeeding generations with increasing love, kindness, and respect for the blessed variety of life on Earth. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'We can do this! '
   -
     type: paragraph
     content:
