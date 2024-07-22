@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721673425
+updated_at: 1721673692
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -39,13 +39,13 @@ welcome_text:
     content:
       -
         type: text
-        text: 'Please join us. May we pour you a cup of tea?'
+        text: 'Please join us. May we pour you a cup of Ahimsa tea?'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "For this is an oasis with a mission, custom-designed for we the people to linger awhile with neighbors old and new, to consider our humanitarian and planetary alarms and how each of us might help restore some sanity and safety to our increasingly wild rides around the sun.\_"
+        text: "For this is an oasis with a mission, custom-designed for we the people to consult with neighbors old and new, to consider our humanitarian and planetary alarms and how each of us might help solve our increasingly wild and fractious rides around the sun.\_"
   -
     type: paragraph
     content:
