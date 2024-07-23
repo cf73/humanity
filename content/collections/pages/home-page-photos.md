@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721736521
+updated_at: 1721775705
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -45,7 +45,7 @@ welcome_text:
     content:
       -
         type: text
-        text: "For this is an oasis with a mission, custom-designed for we the people to consult with neighbors old and new, to consider our humanitarian and planetary alarms and how each of us might help solve our increasingly wild and fractious rides around the sun.\_"
+        text: 'For this is an oasis with a mission, custom-made for we the people to address our humanitarian and planetary alarms, to consider, with neighbors old and new, how best to address our increasingly wild and fractious rides around the sun.'
   -
     type: paragraph
     content:
@@ -151,7 +151,7 @@ welcome_text:
     content:
       -
         type: text
-        text: 'We are glad you’re here. '
+        text: "We're glad you’re here. "
       -
         type: text
         marks:
@@ -165,7 +165,7 @@ welcome_text:
         text: 'Let us together orchestrate a future that works for '
       -
         type: text
-        text: 'all sentient beings, a future that empowers succeeding generations with increasing kindness, understanding, love, and, not least, deep respect for our blessed, enthralling and necessary variety of life on Earth. '
+        text: 'all sentient beings, a future that empowers succeeding generations with increasing kindness, understanding, love, and, not least, deep respect for the blessed, enthralling and necessary variety of life on Earth. '
   -
     type: paragraph
     content:
