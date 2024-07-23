@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721686488
+updated_at: 1721736189
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -105,7 +105,7 @@ welcome_text:
     content:
       -
         type: text
-        text: 'From there, we visit thirty of the world’s most respected non-profits and the exciting opportunities to participate in their life-saving work.'
+        text: 'From there, we shine a light on thirty of the world’s most respected non-profits and their compelling opportunities to participate in life-saving work.'
   -
     type: paragraph
     content:
