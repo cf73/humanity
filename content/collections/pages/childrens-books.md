@@ -2,11 +2,11 @@
 id: ed5745a9-0401-4836-a25a-7f6e294d56fb
 blueprint: page
 title: "Children's Literature"
-challenge_intro_text: 'Children’s non-fiction literature has become increasingly popular over the last ten years. New books cover the changes Earth is undergoing and the necessity of caring for it; human rights; wildlife; sports; cultural differences; and a variety of other humanitarian issues and concerns.'
+challenge_intro_text: 'Children’s non-fiction literature has become increasingly popular over the last ten years. New books cover the changes Earth is undergoing and the necessity of caring for it. Also included are human rights; wildlife; sports; cultural differences; and a variety of other humanitarian issues and concerns.'
 template: challenge
 parent: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721227384
+updated_at: 1721845695
 intro_movie: image-1711923706.jpeg
 section_builder:
   -
@@ -19,13 +19,13 @@ section_builder:
         content:
           -
             type: text
-            text: 'As the center of what will become an accessible, fun and instructive oasis for children, here is our collection of the best of children’s non-fiction literature.  '
+            text: 'As the center of what will become an accessible, fun, interactive and instructive oasis for children, here is our collection of the best of children’s non-fiction literature.  '
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'The Humanity Initiative is currently looking for an intern to help expand this collection across the continents. Please contact peace@ourhumanity.org if you are interested. '
+            text: 'The Humanity Initiative is currently looking for an intern or two to help expand this collection across the continents. Please contact peace@ourhumanity.org if you are interested. '
   -
     id: lv5kmk2r
     book: ed9cb6f6-8d38-4b46-a0fc-dcc9583f1375
