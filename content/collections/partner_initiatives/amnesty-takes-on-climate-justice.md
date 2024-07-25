@@ -8,6 +8,7 @@ call_to_action: 'Join an existing activist group to start taking action.'
 url_to_take_action: 'https://www.amnestyusa.org/issues/climate-justice/'
 key_facts_that_make_this_urgent: |-
   WHY IS IT AN ISSUE?
+
   The climate emergency is a human rights crisis of unprecedented proportions. The climate crisis threatens civil, political, economic, social and cultural rights of present and future generations and, ultimately, the future of humanity. 
   When climate crisis-related impacts hit a country or a community, the effects can seriously endanger a range of human freedoms and in many cases even put at risk the cultural survival of entire peoples.
 description:
@@ -46,5 +47,5 @@ challenges:
   - climate
 partner: amnesty-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721079313
+updated_at: 1721868683
 ---
