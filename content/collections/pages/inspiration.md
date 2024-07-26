@@ -3,15 +3,15 @@ id: 231a2439-71f2-48ac-8521-62542a7f6213
 blueprint: page
 title: Inspiration
 challenge_intro_text: |-
-  Earth rise! Voices of wisdom, kindness, courage and humor.
+  Our distinguishing tune, our hallmark, our trace, our touch one to another  --  our voice is our liaison to life, not least our delivery of wisdom, kindness, courage and humor. 
 
-  Our voice is our liaison to life, our distinguishing tune, our hallmark, our trace, our touch one to another. Be it spoken, written, whispered, implied or sung; be it gestured, danced or played; be it offered on still wings of silence or in the intimacy of eyes alone, it is our human touchstone.
+  Be it spoken, written, whispered, implied or sung; be it gestured, danced or played; be it offered on still wings of silence or in the intimacy of eyes alone, it is our human touchstone.
 
-  In these defining years, facing mutltiple planet-wide crises, we have gathered below an enlightenment of known and unknown voices encouraging us to act on the understanding that we are profoundly, inescapably and urgently in these Earthly struggles together.
+  In these reckoning years, facing multiple planet-wide crises, THI has gathered below an enlightenment of known and unknown voices, encouraging us to act on the understanding that we are profoundly, inescapably and urgently in these Earthly struggles together.
 template: inspiration
-parent: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
+parent: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718842599
+updated_at: 1722010644
 intro_movie: man-staring-up-at-aurora-1713467032.jpg
 section_builder:
   -
