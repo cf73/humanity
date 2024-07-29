@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722270422
+updated_at: 1722270458
 intro:
   -
     type: paragraph
@@ -23,7 +23,7 @@ intro:
     content:
       -
         type: text
-        text: 'Our goal is to bring this message to every community and village across the continents, not only through this web site, but also through our peace gatherings, partnerships, and both traditional and social media, engendering a planet-wide enlightenment of understanding and action.'
+        text: 'Our goal is to bring this message to every community and village across the continents, not only through this unique web site, but also through our peace gatherings, partnerships, and both traditional and social media, engendering a planet-wide enlightenment of understanding and action.'
   -
     type: paragraph
     content:
