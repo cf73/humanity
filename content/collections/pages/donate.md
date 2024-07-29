@@ -4,20 +4,20 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722269989
+updated_at: 1722270422
 intro:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We have dedicated every nuance of this site to creating comprehensive and urgent action around humanity’s major challenges. As our more than 300 voices from across the ages and 30 non-profit partners express here in so many compelling ways, '
+        text: 'We have dedicated every nuance of this site to creating comprehensive and urgent action around humanity’s major challenges. As 300 voices from across the ages   --  writers, educators, artists, poets, musicians, and politicians  --  express here in so many compelling ways, '
       -
         type: text
         marks:
           -
             type: italic
-        text: "each of us must act\_ --\_ and we must do so\_now!"
+        text: "each of us must act and we must do so\_now."
   -
     type: paragraph
     content:
