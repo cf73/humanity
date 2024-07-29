@@ -4,14 +4,14 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720498708
+updated_at: 1722269989
 intro:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We have dedicated every nuance of this site to creating comprehensive and urgent action around humanity’s major challenges. As The Humanity Initiative’s more than 300 contributors and 30 partners express here in so many compelling ways, '
+        text: 'We have dedicated every nuance of this site to creating comprehensive and urgent action around humanity’s major challenges. As our more than 300 voices from across the ages and 30 non-profit partners express here in so many compelling ways, '
       -
         type: text
         marks:
