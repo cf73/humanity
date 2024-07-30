@@ -781,7 +781,34 @@ description:
     content:
       -
         type: text
-        text: 'And additional bonus perspective, from the BBC: '
+        text: 'And additional perspective, from the BBC:'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.bbc.com/culture/article/20240726-the-ww1-trauma-that-inspired-the-lord-of-the-rings'
+              rel: null
+              target: _blank
+              title: null
+        text: ' '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.bbc.com/culture/article/20240726-the-ww1-trauma-that-inspired-the-lord-of-the-rings'
+              rel: null
+              target: _blank
+              title: null
+          -
+            type: bold
+        text: 'The WW1 trauma that inspired The Lord of the Rings'
+  -
+    type: paragraph
+    content:
       -
         type: text
         marks:
@@ -792,11 +819,11 @@ description:
               rel: null
               target: null
               title: null
-        text: 'https://www.bbc.com/culture/article/20240726-the-ww1-trauma-that-inspired-the-lord-of-the-rings'
+        text: 'In a 1968 interview, the BBC spoke to author JRR Tolkien about how his experiences during World War One had a profound effect and influenced his fantasy epic, Lord of the Rings.https://www.bbc.com/culture/article/20240726-the-ww1-trauma-that-inspired-the-lord-of-the-rings'
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722300753
+updated_at: 1722300888
 date_published: '1954-05-15'
 link: 'https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings?from_search=true&from_srp=true&qid=pnhxHNhKch&rank=3'
 collection_type: book
