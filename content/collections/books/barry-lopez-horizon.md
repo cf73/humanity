@@ -63,7 +63,7 @@ related_content:
   - f9f4f112-845f-467c-900e-c064fb540f9b
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719798716
+updated_at: 1722630386
 book_author: 'Barry Lopez'
 sections: inspiration
 ---
