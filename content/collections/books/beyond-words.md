@@ -39,9 +39,9 @@ description:
     content:
       -
         type: text
-        text: "Safina has now published a children's book along these same line. "
+        text: "Safina has now published a children's book along these same lines. "
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722301096
+updated_at: 1722629952
 collection_type: book
 book_author: 'Carl Safina'
 date_published: '2015-05-31'
