@@ -7,7 +7,7 @@ image: image-1718798926.jpeg
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719801367
+updated_at: 1722631849
 collection_type: poetry-contribution
 poets_website: 'https://www.poetryfoundation.org/poets/john-donne'
 sections: peace-gatherings
