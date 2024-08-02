@@ -7,7 +7,7 @@ poets_website: afrowomenpoetry.net/en/category/ama-nuamah/
 image: image-1716264530.jpeg
 collection_type: poetry-contribution
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719801616
+updated_at: 1722631679
 sections: inspiration
 content:
   -
