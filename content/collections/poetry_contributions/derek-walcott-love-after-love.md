@@ -7,7 +7,7 @@ image: image-1718799758.jpeg
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719801516
+updated_at: 1722631830
 collection_type: poetry-contribution
 poets_website: 'https://www.poetryfoundation.org/poets/derek-walcott'
 content:
