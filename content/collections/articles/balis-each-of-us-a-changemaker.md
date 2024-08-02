@@ -64,8 +64,6 @@ challenges:
   - democracy
   - climate
 related_partner_initiatives:
-  - 86161e36-7285-41a6-ba67-5a5f928fb1d1
-  - 61653f39-a1f2-4949-9a50-e72537bfc211
   - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
   - 8ba26bc5-eaa5-4364-9d6b-3f02ca3158f9
 related_content:
@@ -75,7 +73,7 @@ related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - a01f7e10-c6ea-496b-ac1d-ef939cdf3425
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721002810
+updated_at: 1722616439
 date_published: '1992-07-24'
 publication: 'The Humanity Initiative'
 description:
