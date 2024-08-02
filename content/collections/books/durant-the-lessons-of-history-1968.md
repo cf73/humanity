@@ -41,7 +41,7 @@ description:
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719800221
+updated_at: 1722631179
 related_partner_initiatives:
   - 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
 related_content:
