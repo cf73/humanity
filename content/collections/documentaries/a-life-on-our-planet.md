@@ -13,7 +13,7 @@ description:
     content:
       -
         type: text
-        text: '“We must re-wild the planet,” implores Sir David Attenborough'
+        text: '“We must re-wild the planet,” implores Sir David Attenborough.'
   -
     type: paragraph
     content:
@@ -25,9 +25,9 @@ description:
     content:
       -
         type: text
-        text: 'He calls it his “witness statement.” It is a sobering and necessary yet hopeful investigation of the actions to which all of us now must commit our minds and hearts in full measure.'
+        text: 'He calls it his “witness statement," this sobering, necessary, yet hopeful investigation of the actions to which all of us now must commit minds and hearts in full measure.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722615790
+updated_at: 1722616124
 collection_type: documentaries
 challenges:
   - climate
