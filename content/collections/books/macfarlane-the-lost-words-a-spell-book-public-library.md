@@ -171,7 +171,7 @@ description:
         type: text
         text: 'Each word occupies three lavishly illustrated spreads: a poetic “summoning spell” in the form of an acrostic to conjure back the lost word in a rhythmic incantation composed to be read aloud, a wordless visual eulogy for its vanishment, and a typographic botany of letters spelling it “back into language, hearts, minds and landscape.”'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720271709
+updated_at: 1722631220
 related_partner_initiatives:
   - f80aa9dd-80ba-474c-acaa-cc772f395ca7
 related_content:
