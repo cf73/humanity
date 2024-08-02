@@ -151,7 +151,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719798660
+updated_at: 1722630355
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
   - 86161e36-7285-41a6-ba67-5a5f928fb1d1
