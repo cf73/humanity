@@ -25,7 +25,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720037349
+updated_at: 1722632160
 collection_type: photography-contribution
 sections: inspiration
 ---
