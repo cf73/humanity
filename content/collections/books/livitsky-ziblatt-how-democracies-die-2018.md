@@ -34,7 +34,7 @@ related_partner_initiatives:
 related_content:
   - a92555a1-da6e-4db9-9054-ca26749a9664
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1718064598
+updated_at: 1722630424
 date_published: '2018-04-15'
 book_author: 'Steven Levitsky and Daniel Ziblatt'
 ---
