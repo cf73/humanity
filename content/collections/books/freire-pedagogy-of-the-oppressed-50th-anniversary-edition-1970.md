@@ -70,7 +70,7 @@ related_content:
   - e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
   - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719799993
+updated_at: 1722630722
 book_author: 'Paulo Freire'
 sections: peace-gatherings
 ---
