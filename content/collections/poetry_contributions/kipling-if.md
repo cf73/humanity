@@ -6,7 +6,7 @@ poets_name: 'Rudyard Kipling'
 image: image-1718799459.jpeg
 collection_type: poetry-contribution
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719974564
+updated_at: 1722631760
 poets_website: 'https://www.poetryfoundation.org/poets/rudyard-kipling'
 sections: inspiration
 content:
