@@ -68,7 +68,7 @@ related_content:
   - 427cfc9b-95f5-48a7-a80e-38dc04beb6e2
   - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719800708
+updated_at: 1722631459
 date_published: '2007-01-01'
 book_author: 'Václav Havel'
 sections: peace-gatherings
