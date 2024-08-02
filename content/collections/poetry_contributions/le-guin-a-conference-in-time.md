@@ -9,7 +9,7 @@ challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719801725
+updated_at: 1722631646
 poets_website: 'https://www.poetryfoundation.org/poets/ursula-k-le-guin'
 sections: peace-gatherings
 content:
