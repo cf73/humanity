@@ -4,16 +4,16 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722269640
+updated_at: 1722801214
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
   - gandhi.jpeg
   - man-staring-up-at-aurora-1718585869.jpg
-  - bingwallpaper-copy-1718585898.jpg
   - image-1707483801.jpeg
   - girl-w-dog.jpeg
   - three-sisters-1718586205.jpeg
+  - bingwallpaper-copy-1718585898-1722801203.jpg
 challenge:
   main_image: _132560870_nima-sarikhani.jpg-2.webp
 commencement_speeches_hero_images:
