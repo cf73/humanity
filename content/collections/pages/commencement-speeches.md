@@ -4,7 +4,7 @@ blueprint: simple_page
 template: commencements
 title: 'Commencement Speeches'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722815552
+updated_at: 1722815586
 intro:
   -
     type: paragraph
