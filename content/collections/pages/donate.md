@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722873619
+updated_at: 1722873907
 intro:
   -
     type: paragraph
@@ -37,20 +37,7 @@ intro:
               rel: null
               target: _blank
               title: null
-          -
-            type: bold
-        text: 'Please donate now. Please help us engage this urgent effort to rescue our humanity and our home planet'
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.youtube.com/watch?v=7Q4y21gVufY'
-              rel: null
-              target: _blank
-              title: null
-        text: .
+        text: 'Please donate now. Help us foster this urgent effort to redeem our humanity.'
       -
         type: text
         text: ' THI is a 501(c)(3), so all donations are tax deductible in the United States..'
