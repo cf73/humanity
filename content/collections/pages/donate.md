@@ -4,14 +4,14 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722625612
+updated_at: 1722873619
 intro:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We have dedicated every nuance of this site to creating comprehensive and urgent action around humanity’s major challenges. As 300 voices from across the ages   --  writers, educators, artists, poets, musicians, and politicians  --  express here in so many compelling ways, '
+        text: 'The Humanity Initiative is dedicated to systemic and enduring positive change. As more than 300 voices from across the ages   --  writers, educators, artists, poets, musicians, and politicians  --  express here in so many compelling ways, '
       -
         type: text
         marks:
