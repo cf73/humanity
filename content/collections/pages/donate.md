@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722873920
+updated_at: 1722874006
 intro:
   -
     type: paragraph
@@ -40,13 +40,19 @@ intro:
         text: 'Please donate now. Help us foster this urgent effort to redeem our humanity.'
       -
         type: text
-        text: ' THI is a 501(c)(3), so all donations are tax deductible in the United States..'
+        text: ' '
   -
     type: paragraph
     content:
       -
         type: text
         text: 'Thank you!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'THI is a 501(c)(3), so all donations are tax deductible in the United States..'
 parent: home
 main_image: '-humanity-first-cover.jpeg'
 ---
