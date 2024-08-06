@@ -151,9 +151,9 @@ challenges:
   - climate
 partner: world-wide-fund-for-nature
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722959356
+updated_at: 1722959702
 summary: "WWF's mission Is to stop the degradation of the earth’s natural environment by conserving the world’s biological diversity; ensuring that the use of renewable natural resources is sustainable; and promoting the reduction of pollution and wasteful consumption."
-call_to_action: 'Join the action center of the World Wildlife Fund'
+call_to_action: 'Join the WWF''s "New Deal for Nature and People"'
 key_facts_that_make_this_urgent: |-
   Our planet is in crisis, and it is because we are not doing enough, nor fast enough, to tackle the climate change. It affects every corner of our planet - from the poles to the tropics, and from the mountains to the oceans.
 
