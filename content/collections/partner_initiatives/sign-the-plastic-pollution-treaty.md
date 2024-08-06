@@ -80,21 +80,6 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: "Our planet is in crisis, and it is because we are not doing enough, nor fast enough, to tackle the climate change. It affects every corner of our planet -\_from the poles to the tropics, and from the mountains to the oceans."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'People and nature worldwide are already feeling the effects: water supplies are shrinking, extreme weather events increasing in frequency and intensity, forests burning, and coral reefs dying. 2023 was the hottest year on record, and 2024 is on track to break that record.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'We can still escape the worst impacts of climate change if we - governments, companies, cities, and communities - come together to urgently reduce global greenhouse gas emissions.'
   -
     type: paragraph
@@ -166,9 +151,12 @@ challenges:
   - climate
 partner: world-wide-fund-for-nature
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722959171
+updated_at: 1722959356
 summary: "WWF's mission Is to stop the degradation of the earth’s natural environment by conserving the world’s biological diversity; ensuring that the use of renewable natural resources is sustainable; and promoting the reduction of pollution and wasteful consumption."
 call_to_action: 'Join the action center of the World Wildlife Fund'
-key_facts_that_make_this_urgent: 'We collaborate with local communities to conserve the natural resources we all depend on and build a future in which people and nature thrive. Together with partners at all levels, we transform markets and policies toward sustainability, tackle the threats driving the climate crisis, and protect and restore wildlife and their habitats.'
+key_facts_that_make_this_urgent: |-
+  Our planet is in crisis, and it is because we are not doing enough, nor fast enough, to tackle the climate change. It affects every corner of our planet - from the poles to the tropics, and from the mountains to the oceans.
+
+  People and nature worldwide are already feeling the effects: water supplies are shrinking, extreme weather events increasing in frequency and intensity, forests burning, and coral reefs dying. 2023 was the hottest year on record, and 2024 is on track to break that record.
 url_to_take_action: 'https://www.worldwildlife.org/pages/action-center#what-you-can-do-today'
 ---
