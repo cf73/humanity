@@ -6,9 +6,9 @@ image: image-1713226052.jpeg
 summary: 'The Carter Center is recognized as a pioneer and leader in the field of election observation. It has monitored 115 elections in 40 countries, helping to ensure democratic elections that reflect the will of the people. Beyond elections, the Center seeks to deepen democracy by nurturing full citizen participation in public policy-making.'
 call_to_action: "Join the Carter Center's Peace Programs"
 key_facts_that_make_this_urgent: |-
-  Beyond elections, the Center seeks to deepen democracy by nurturing full citizen participation in public policy-making and by helping to establish government institutions that bolster the rule of law, fair administration of justice, access to information, and government transparency.
+  Beyond elections, the Carter Center seeks to deepen democracy by nurturing full citizen participation in public policy-making and by helping to establish government institutions that bolster the rule of law, fair administration of justice, access to information, and government transparency.
 
-  A culture of respect for human rights is crucial to permanent peace. The Center supports the efforts of human rights activists at the grass roots, while also working to advance national and international human rights laws that uphold the dignity and worth of each individual.
+  A culture of respect for human rights is crucial to permanent peace. The Center supports human rights activists at the grass roots, while also working to advance national and international human rights laws that uphold the dignity and worth of each individual.
 description:
   -
     type: paragraph
@@ -407,6 +407,6 @@ challenges:
   - war
 partner: the-carter-center
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719791655
+updated_at: 1722957622
 url_to_take_action: 'https://www.cartercenter.org/peace/index.html'
 ---
