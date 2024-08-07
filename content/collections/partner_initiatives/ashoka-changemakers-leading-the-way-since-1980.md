@@ -13,7 +13,9 @@ description:
     content:
       -
         type: text
-        text: 'FOUR WAYS TO GET INVOLVED'
+        text: 'FOUR WAYS TO GET INVOLVED:'
+  -
+    type: paragraph
   -
     type: paragraph
     content:
@@ -22,7 +24,7 @@ description:
         marks:
           -
             type: bold
-        text: 'Join the Entrepreneur-to-Entrepreneur Network'
+        text: '1/   Join the Entrepreneur-to-Entrepreneur Network'
   -
     type: paragraph
     content:
@@ -102,7 +104,7 @@ description:
         marks:
           -
             type: bold
-        text: 'Join the Ashoka Support Network'
+        text: '2/   Join the Ashoka Support Network'
   -
     type: paragraph
     content:
@@ -177,7 +179,7 @@ description:
         marks:
           -
             type: bold
-        text: 'Become an Executive in Residence'
+        text: '3/   Become an Executive in Residence'
   -
     type: paragraph
     content:
@@ -244,16 +246,10 @@ description:
     content:
       -
         type: text
-        text: "\_\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         marks:
           -
             type: bold
-        text: Volunteer
+        text: '4/   Volunteer'
   -
     type: paragraph
     content:
@@ -350,5 +346,5 @@ challenges:
   - inspiration
 partner: ashoka-https-www-ashoka-org-en-us
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723050172
+updated_at: 1723050256
 ---
