@@ -6,7 +6,7 @@ image: unlonely-planet.jpg
 summary: 'Over the last forty years, Ashoka has inspired a compelling revolution of positive change, most notably fostering more than 4,000 Ashoka Fellows from 95 countries  --  yet also expanding into all manner of forefront programs reaching thousands of communities across a welcoming, astonished, and much-improved planet!'
 call_to_action: 'Support Ashoka with your heart, mind and hands!'
 url_to_take_action: 'https://www.ashoka.org/en-us/engage/contribute-time-and-skills'
-key_facts_that_make_this_urgent: mmm
+key_facts_that_make_this_urgent: 'Ashoka identifies and supports the world''s leading social entrepreneurs, learns from the patterns in their innovations, and mobilizes a global community that embraces these new frameworks to build an "everyone a changemaker world."'
 description:
   -
     type: paragraph
@@ -346,5 +346,5 @@ challenges:
   - inspiration
 partner: ashoka-https-www-ashoka-org-en-us
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723050256
+updated_at: 1723050459
 ---
