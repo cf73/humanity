@@ -29,8 +29,28 @@ description:
       -
         type: text
         text: 'On Earth, he tamed the fox, who became his friend. And above all, he met the aviator, stranded in the Sahara desert. Then he asked him, “Please… draw me a sheep!”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Discover the Little Prince's planet:  "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.lepetitprince.com/en/homepage/'
+              rel: null
+              target: null
+              title: null
+        text: 'https://www.lepetitprince.com/en/homepage/'
+      -
+        type: text
+        text: .
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723218418
+updated_at: 1723218557
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
 related_content:
