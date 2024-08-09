@@ -24,10 +24,16 @@ challenges:
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
   - dfae34a8-30a5-4e7c-89d7-a33917e780d8
+  - 6f9195fc-1c72-4935-be44-e6b912bbba06
 related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
+  - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
+  - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
+  - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
+  - e1912d5b-c259-42ca-aa14-01faa3424173
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722630288
+updated_at: 1723220198
 date_published: '2007-01-01'
 book_author: 'Paul Hawken'
+sections: inspiration
 ---
