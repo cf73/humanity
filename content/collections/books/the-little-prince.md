@@ -30,7 +30,7 @@ description:
         type: text
         text: 'On Earth, he tamed the fox, who became his friend. And above all, he met the aviator, stranded in the Sahara desert. Then he asked him, “Please… draw me a sheep!”'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723218354
+updated_at: 1723218418
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
 related_content:
