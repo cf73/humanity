@@ -33,13 +33,7 @@ description:
     content:
       -
         type: text
-        text: 'July 2024 '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Dr. Safina has now published a children's book along these same lines: "
+        text: "In August 2023, Dr. Safina published a young adult's book along these same lines, titled:  "
       -
         type: text
         marks:
@@ -47,7 +41,7 @@ description:
             type: italic
         text: "Learning to Be Wild (a Young Reader's Adaptation): How Animals Achieve Peace, Create Beauty, and Raise Families"
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723215489
+updated_at: 1723215801
 collection_type: book
 book_author: 'Carl Safina'
 date_published: '2015-05-31'
