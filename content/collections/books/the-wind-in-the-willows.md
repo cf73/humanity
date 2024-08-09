@@ -12,7 +12,7 @@ description:
         marks:
           -
             type: bold
-        text: "Kenneth Grahame’s Letters to 'Mouse': first stirrings of "
+        text: "Kenneth Grahame’s Letters to 'Mouse':  the first stirrings of "
       -
         type: text
         marks:
@@ -89,7 +89,7 @@ description:
     content:
       -
         type: text
-        text: 'To view the exhibit:  '
+        text: 'This introduction is from a 2007 exhibit by the Bodleian Libraries at Oxford University. . You can still view the exhibit here:  '
       -
         type: text
         marks:
@@ -101,10 +101,13 @@ description:
               target: null
               title: null
         text: 'https://visit.bodleian.ox.ac.uk/event/the-original-wind-in-the-willows'
+      -
+        type: text
+        text: .
   -
     type: paragraph
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719800630
+updated_at: 1723219384
 collection_type: book
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
