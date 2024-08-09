@@ -9,13 +9,13 @@ description:
     content:
       -
         type: text
-        text: 'Examinines how animals think and feel. The author is a professor and ecologist at Columbia University in New York City. Based on the lives of elephants, wolves, and killer whales, it is a humbling investigation into the ways in which humans have dramatically misunderstood — at our intense peril — how our fellow riders on Earth make their well considered way in life.    '
+        text: 'Based on the lives of elephants, wolves, and killer whales, this is a magnetic and humbling investigation into the ways in which humans have dramatically misunderstood — at our intense peril — how our fellow riders on Earth make their well considered way in life.    '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Dr. Safina has a PhD in ecology from Rutgers University. He is the inaugural holder of the endowed chair for nature and humanity at Stony Brook University, where he co-chairs the steering committee of the Alan Alda Center for Communicating Science and is founding president of the not-for-profit organization, The Safina Center. He hosted the 10-part PBS series Saving the Ocean.'
+        text: 'Dr. Safina is a professor and ecologist at Columbia University in New York City. He has a PhD in ecology from Rutgers University and was the inaugural holder of the endowed chair for nature and humanity at Stony Brook University. He co-chairs the steering committee of the Alan Alda Center for Communicating Science and is founding president of the not-for-profit organization, The Safina Center. He hosted the 10-part PBS series Saving the Ocean.'
   -
     type: paragraph
     content:
@@ -39,9 +39,15 @@ description:
     content:
       -
         type: text
-        text: "Safina has now published a children's book along these same lines. "
+        text: "Dr. Safina has now published a children's book along these same lines: "
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: "Learning to Be Wild (a Young Reader's Adaptation): How Animals Achieve Peace, Create Beauty, and Raise Families"
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723214979
+updated_at: 1723215489
 collection_type: book
 book_author: 'Carl Safina'
 date_published: '2015-05-31'
