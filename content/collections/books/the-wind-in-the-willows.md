@@ -119,7 +119,7 @@ description:
         type: text
         text: ' is a wonderfully entertaining and educating read for children. Yet its impressionistic rendering of the English landscape, subtle questioning of modernity and mythic exploration of grace lend it a sophistication that speaks to adults too.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723219703
+updated_at: 1723219751
 collection_type: book
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
