@@ -11,6 +11,40 @@ description:
         type: text
         marks:
           -
+            type: italic
+        text: 'This introduction is from a 2007 exhibit by the Bodleian Libraries at Oxford University. You can still view the exhibit here:  '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://visit.bodleian.ox.ac.uk/event/the-original-wind-in-the-willows'
+              rel: null
+              target: null
+              title: null
+          -
+            type: italic
+        text: 'https://visit.bodleian.ox.ac.uk/event/the-original-wind-in-the-willows'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '---'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
             type: bold
         text: "Kenneth Grahame’s Letters to 'Mouse':  the first stirrings of "
       -
@@ -84,30 +118,8 @@ description:
       -
         type: text
         text: ' is a wonderfully entertaining and educating read for children. Yet its impressionistic rendering of the English landscape, subtle questioning of modernity and mythic exploration of grace lend it a sophistication that speaks to adults too.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'This introduction is from a 2007 exhibit by the Bodleian Libraries at Oxford University. . You can still view the exhibit here:  '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://visit.bodleian.ox.ac.uk/event/the-original-wind-in-the-willows'
-              rel: null
-              target: null
-              title: null
-        text: 'https://visit.bodleian.ox.ac.uk/event/the-original-wind-in-the-willows'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723219479
+updated_at: 1723219703
 collection_type: book
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
