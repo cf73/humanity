@@ -91,12 +91,13 @@ challenges:
 related_partner_initiatives:
   - 8e78665e-26d1-400e-8f6f-2391b9bfec84
 related_content:
-  - 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
   - 6d28b288-2ed8-4983-a206-c1a19b3c1219
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
   - 360862f3-318f-4ecc-804e-8baf0d2558cd
+  - 9695b8da-259a-4a3f-84d4-9bc1a99d4e80
+  - 582161a7-ea07-4374-abac-40154bb36abe
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723221311
+updated_at: 1723221460
 book_author: 'Munro Leaf'
 sections: peace-gatherings
 ---
