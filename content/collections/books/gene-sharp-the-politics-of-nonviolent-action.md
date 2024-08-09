@@ -6,7 +6,7 @@ collection_type: book
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631344
+updated_at: 1723217405
 image: politicsofnonviolentaction.jpeg
 description:
   -
@@ -34,7 +34,7 @@ description:
     content:
       -
         type: text
-        text: '(from '
+        text: '(from a '
       -
         type: text
         marks:
@@ -43,7 +43,7 @@ description:
         text: Goodreads
       -
         type: text
-        text: ' review; rated 4.48)'
+        text: ' review)'
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
 related_content:
