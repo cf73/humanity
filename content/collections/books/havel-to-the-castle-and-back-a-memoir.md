@@ -13,7 +13,21 @@ description:
         marks:
           -
             type: bold
-        text: 'Goodreads review:'
+        text: 'The '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: Goodreads
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' review:'
   -
     type: paragraph
     content:
@@ -33,7 +47,16 @@ description:
         type: hardBreak
       -
         type: text
-        text: '"Havel gives full rein to his impassioned stance against the devastation wrought by communism, but the scope of his concern in this engrossing memoir extends far beyond the circumstances he faced in his own country. The book is full of anecdotes of his interactions with world figures: offering a peace pipe to Mikhail Gorbachev, meditating with the Dali Lama, confessing to Pope John Paul II and partying with Bill and Hilary Clinton. Havel shares his thoughts on the future of the European Union and the role of national identity in today’s world. He explains why he has come to change his mind about the war in Iraq, and he discusses the political and personal reverberations he faces because of his initial support of the invasion. He writes with equal intelligence and candour about subjects as diverse as the arrogance of western power politics, the death of his first wife and his own battle with lung cancer.'
+        text: '"Havel gives full rein to his impassioned stance against the devastation wrought by communism, but the scope of his concern in this engrossing memoir extends far beyond the circumstances he faced in his own country. The book is full of anecdotes of his interactions with world figures: offering a peace pipe to Mikhail Gorbachev, meditating with the Dali Lama, confessing to Pope John Paul II and partying with Bill and Hilary Clinton. '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Havel shares his thoughts on the future of the European Union and the role of national identity in today’s world. '
+      -
+        type: text
+        text: 'He explains why he has come to change his mind about the war in Iraq, and he discusses the political and personal reverberations he faces because of his initial support of the invasion. He writes with equal intelligence and candour about subjects as diverse as the arrogance of western power politics, the death of his first wife and his own battle with lung cancer.'
       -
         type: hardBreak
       -
@@ -52,8 +75,14 @@ description:
         type: text
         marks:
           -
+            type: italic
+        text: 'To the Castle and Back'
+      -
+        type: text
+        marks:
+          -
             type: bold
-        text: 'To the Castle and Back '
+        text: ' '
       -
         type: text
         text: 'is a revelation of one of the most important political figures of our time."'
@@ -68,7 +97,7 @@ related_content:
   - 427cfc9b-95f5-48a7-a80e-38dc04beb6e2
   - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631459
+updated_at: 1723221690
 date_published: '2007-01-01'
 book_author: 'Václav Havel'
 sections: peace-gatherings
