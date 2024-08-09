@@ -10,35 +10,27 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.lepetitprince.com/en/homepage/'
-              rel: null
-              target: null
-              title: null
-        text: 'https://www.lepetitprince.com/en/homepage/'
+        text: 'The Little Prince comes from a planet barely bigger than he is, on which there are baobabs and a very precious flower, a rose, which is doing its coquette and for which he feels responsible. '
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'The Little Prince comes from a planet barely bigger than he is, on which there are baobabs and a very precious flower, a rose, which is doing its coquette and for which he feels responsible. The Little Prince loves the sunset. One day, he saw it forty-four times! He also visited other planets and met some very important people, but they didn’t know how to answer his questions. On Earth, he tamed the fox, who became his friend.'
+        text: 'The Little Prince loves the sunset. One day, he saw it forty-four times! '
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'And above all, he met the aviator, stranded in the Sahara desert. Then he asked him, “Please… draw me a sheep!”'
+        text: 'He also visited other planets and met some very important people, but they didn’t know how to answer his questions. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'On Earth, he tamed the fox, who became his friend. And above all, he met the aviator, stranded in the Sahara desert. Then he asked him, “Please… draw me a sheep!”'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719800253
+updated_at: 1723218354
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
 related_content:
