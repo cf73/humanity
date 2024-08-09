@@ -4,7 +4,7 @@ blueprint: book
 title: 'The Story of Ferdinand  (1936)'
 date_published: '1936-01-01'
 link: 'https://www.amazon.com/Story-Ferdinand-Munro-Leaf/dp/044845694X/ref=sr_1_1?crid=U7XS4MUJM91&dib=eyJ2IjoiMSJ9.-WJmhhkk7RauEF9Ca-h-t6ExcTPPu1FMKqgOWXTHgcnriCFXQhGMBQdTLhowck8lCVFWxoYbw4oMOVs2AoUBOGYzvk-od2YQ4wRfBPZbGqmBmeQpvPy4foeOkoxjeHXnE3olrx5-GnZ_vD9ZI6ntFUx5emCnpRELRMY_O1EhnOfroCsM5YYTtX8tnO3CoIlCr2l27IdxHsSMg20xwPRYNLhrYhAaBlpFobb_SNw-Obw.aZfeGyYGTWoNK8kM_fKZDwgwKK-ZlWQu1gnYheDab44&dib_tag=se&keywords=ferdinand+the+bull+book&qid=1712604388&sprefix=ferdinan%2Caps%2C175&sr=8-1'
-image: image-1712604312.jpeg
+image: image-1723220843.jpeg
 description:
   -
     type: paragraph
@@ -84,7 +84,7 @@ related_content:
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
   - 360862f3-318f-4ecc-804e-8baf0d2558cd
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719800591
+updated_at: 1723220872
 book_author: 'Munro Leaf'
 sections: peace-gatherings
 ---
