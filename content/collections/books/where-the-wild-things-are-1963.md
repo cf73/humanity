@@ -9,9 +9,21 @@ description:
     content:
       -
         type: text
-        text: 'Max, a wild and naughty boy, is sent to bed without his supper by his exhausted mother. In his room, he imagines sailing far away to a land of Wild Things. Instead of eating him, the Wild Things make Max their king.'
+        text: 'Max, a wild and naughty boy, is sent to bed without his supper by his exhausted mother. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In his room, he imagines sailing far away to a land of Wild Things. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Instead of eating him...the Wild Things make Max their king... '
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719800884
+updated_at: 1723217857
 collection_type: book
 related_partner_initiatives:
   - f80aa9dd-80ba-474c-acaa-cc772f395ca7
