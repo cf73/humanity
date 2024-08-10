@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722872488
+updated_at: 1723251468
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -51,13 +51,13 @@ welcome_text:
     content:
       -
         type: text
-        text: "To plant our investigations on the fertile soil of open hearts and curious minds, we have selected three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
+        text: "To plant our investigations on the fertile soil of open hearts and curious minds, we have selected three hundred of humanity’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'To begin, we offer insight on humanity’s most crucial challenges: '
+        text: 'To begin, we offer insight on our most crucial challenges: '
       -
         type: text
         marks:
@@ -85,7 +85,7 @@ welcome_text:
         text: 'solving climate change'
       -
         type: text
-        text: ', '
+        text: ', and '
       -
         type: text
         marks:
@@ -111,7 +111,7 @@ welcome_text:
     content:
       -
         type: text
-        text: 'Not least, we include our archive of empowering '
+        text: 'Not least, we include our archive (begun in 1989) of empowering '
       -
         type: text
         marks:
@@ -125,7 +125,7 @@ welcome_text:
         text: 'Commencement Speeches'
       -
         type: text
-        text: ', begun in 1989; as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also utterly possible.'
+        text: ', as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also utterly possible.'
   -
     type: paragraph
     content:
