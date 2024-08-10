@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723250439
+updated_at: 1723251056
 parent: home
 introduction:
   -
@@ -42,19 +42,19 @@ introduction:
     content:
       -
         type: text
-        text: 'From there, we visit thirty of the world’s most respected non-profits and the opportunity to participate in their world-saving work.'
+        text: 'From there, we showcase thirty of the world’s most respected non-profits and the exciting opportunities to participate in their world-saving work.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Not least, we include our archive of empowering Commencement Speeches, begun in 1989; as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also absolutely possible.'
+        text: 'Not least, we include our archive (begun in 1989) of empowering Commencement Speeches, as well as our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also absolutely possible.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "May the insights and inspirations throughout this town meeting for the planet\_\_--\_\_presented on the wings of essays, images, speeches, artwork, film, literature, poetry, and music\_\_--\_\_move you to help fan the aspirational breezes of our shared humanity into winds of change we so urgently need."
+        text: "May the insights and inspirations throughout this town meeting for the planet\_\_--\_\_presented on the wings of essays, images, speeches, artwork, film, literature, poetry, and music\_\_--\_\_move you to help fan the aspirational breezes of our shared humanity into winds of change we so urgently need!"
   -
     type: paragraph
     content:
