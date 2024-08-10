@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721606464
+updated_at: 1723250439
 parent: home
 introduction:
   -
@@ -30,13 +30,13 @@ introduction:
     content:
       -
         type: text
-        text: "To plant our investigations on fertile ground of open hearts, curious minds, and exemplary experience, we offer three hundred of Earth’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
+        text: "To plant our investigations on fertile ground of open hearts, curious minds, and exemplary experience, we offer three hundred of humanity’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
   -
     type: paragraph
     content:
       -
         type: text
-        text: "To begin, we offer insight on humanity’s most crucial challenges: ending war, solving climate change, saving democracy.\_"
+        text: "To begin, we offer insight on our most crucial challenges: ending war, solving climate change, saving democracy.\_"
   -
     type: paragraph
     content:
