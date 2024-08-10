@@ -4,7 +4,7 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723251056
+updated_at: 1723251520
 parent: home
 introduction:
   -
@@ -60,7 +60,15 @@ introduction:
     content:
       -
         type: text
-        text: "We are so glad you’re here. Let’s orchestrate together nothing less than a future that works for all sentient beings  —   and lasts through at least the next ice age, thousands of years hence!\_"
+        text: 'We are so glad you’re here. Let’s orchestrate together nothing less than a future that works for all sentient beings  —   and lasts th'
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "rough at least the next ice age, thousands of years hence!\_"
   -
     type: paragraph
     content:
