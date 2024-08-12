@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723492403
+updated_at: 1723492471
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -183,5 +183,5 @@ welcome_text:
     content:
       -
         type: text
-        text: '(Conrad, Jacqueline, Kylie and Tony — riders on Earth from three continents, determined to help foster a revolution of good intent.)'
+        text: '(Conrad, Jacqueline, Kylie and Tony  --  riders on Earth from three continents, determined to help foster a revolution of good intent.)'
 ---
