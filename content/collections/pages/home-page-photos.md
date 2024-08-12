@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723251970
+updated_at: 1723492168
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -19,7 +19,7 @@ challenge:
 commencement_speeches_hero_images:
   - 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
   - d70e59e2-caa6-4c93-8964-a4c699612b28
-commencement_speeches_brief_introduction: 'Explore our collection of transformative commencement addresses that ignite dreams, empower change, and celebrate resilience.'
+commencement_speeches_brief_introduction: 'Explore our collection of transformative commencement addresses. They ignite dreams, empower change, and celebrate resilience.'
 featured_commencement_speeches:
   - a92555a1-da6e-4db9-9054-ca26749a9664
   - d70e59e2-caa6-4c93-8964-a4c699612b28
@@ -165,7 +165,7 @@ welcome_text:
         text: 'Let us together orchestrate a future that works for '
       -
         type: text
-        text: 'all sentient beings, a future that empowers succeeding generations with increasing kindness, understanding, love, and, not least, deep respect for the blessed, enthralling and necessary variety of life on Earth. '
+        text: 'all sentient beings, a future that empowers succeeding generations with increasing kindness, understanding, love, and, not least, deep respect for the enthralling and necessary variety of life on Earth. '
   -
     type: paragraph
     content:
