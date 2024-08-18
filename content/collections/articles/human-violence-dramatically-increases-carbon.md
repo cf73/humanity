@@ -566,6 +566,7 @@ challenges:
 related_partner_initiatives:
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
   - 61653f39-a1f2-4949-9a50-e72537bfc211
+  - 5fea58a7-85d9-49b6-ae20-88c157becd45
 related_content:
   - e0cc1c13-879b-4700-98ad-95db62c4a942
   - 3eab0ba8-394a-46fb-bc90-561dd6eeced4
@@ -573,6 +574,7 @@ related_content:
   - b6267639-94e6-40a5-8471-d1dc63559112
   - f74e61ed-bc0b-412d-8cbf-8d635097efe8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724008743
+updated_at: 1724008878
 articleauthor: 'Nina Lakhani, climate justice reporter'
+sections: peace-gatherings
 ---
