@@ -12,16 +12,7 @@ description:
     content:
       -
         type: text
-        text: 'One of the less noticed effects of the continued violence of the human species is to dramatically effect carbon release into the Earth’s atmosphere, as in this recent '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Guardian '
-      -
-        type: text
-        text: 'report on the Mid-East war (1/10/24).'
+        text: 'One of the less noticed effects of humanity''s continued violence is to dramatically effect carbon release into the Earth’s atmosphere. The UN special rapporteur for human rights and the environment, says: “This research helps us understand the immense magnitude of military emissions  -–  from preparing for war, carrying out war and rebuilding after war. Armed conflict pushes humanity even closer to the precipice of climate catastrophe, and is an idiotic way to spend our shrinking carbon budget."'
 article_text:
   -
     type: paragraph
@@ -582,6 +573,6 @@ related_content:
   - b6267639-94e6-40a5-8471-d1dc63559112
   - f74e61ed-bc0b-412d-8cbf-8d635097efe8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719862091
+updated_at: 1724008743
 articleauthor: 'Nina Lakhani, climate justice reporter'
 ---
