@@ -73,7 +73,7 @@ related_content:
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
   - a01f7e10-c6ea-496b-ac1d-ef939cdf3425
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722616439
+updated_at: 1724009340
 date_published: '1992-07-24'
 publication: 'The Humanity Initiative'
 description:
