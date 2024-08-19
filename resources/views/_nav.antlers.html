@@ -1,4 +1,20 @@
-<div  class="fixed top-8 left-8 z-30">
+<div id="main-nav" class="bg-lightSkyBlue w-full h-24 fixed top-0 left-0 z-50">
+    <div class="container mx-auto h-full flex flex-row justify-between items-center">
+        <div id="logo" class="">
+            <a href="/"><img src="/assets/humanity-logo.png" alt="Humanity Logo" width="180px"></a>
+        </div>
+        <nav class="flex flex-row">
+            {{ nav:topnav }}
+                <a href="{{ url }}"{{ if is_current || is_parent }} class="current"{{ /if }} class="ml-12">
+                    <h4 class="">{{title}}</h4>
+                </a>
+            {{/nav:topnav}}
+        </nav>
+    </div>
+    
+</div>
+
+<div id="hamburger" class="fixed top-8 left-8 z-30">
     <div class="col-span-1 col-start-2">
         <i id="openNav" class="las la-grip-lines w-fit text-black text-3xl cursor-pointer bg-white/40 hover:bg-white/90 backdrop-blur-lg rounded-full p-4"></i>
     </div>

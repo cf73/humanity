@@ -1,12 +1,12 @@
 ---
 id: ed5745a9-0401-4836-a25a-7f6e294d56fb
 blueprint: page
-title: "Children's Literature"
+title: Kids
 challenge_intro_text: 'Children’s non-fiction literature has become increasingly popular over the last ten years. New books cover the changes Earth is undergoing and the necessity of caring for it. Also included are human rights; wildlife; sports; cultural differences; and a variety of other humanitarian issues and concerns.'
 template: challenge
 parent: home
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721845695
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1724092902
 intro_movie: image-1711923706.jpeg
 section_builder:
   -

@@ -1,3 +1,5 @@
+gsap.registerPlugin(ScrollTrigger);
+
 //introduce the main image and hero text
 // var tl = gsap.timeline({});
 

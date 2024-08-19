@@ -20,7 +20,6 @@ var navianimation = gsap.timeline({paused: true})
 document.getElementById("openNav").onclick = ()=> navianimation.play();
 document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
 
-
 // CHALLENGE SHOW TEMPLATE ----------------------------------------------------------------------------------------------
 
 // pin hero area
@@ -104,6 +103,21 @@ ScrollTrigger.create({
   pinSpacing: false,
 });
 
+// pin breadcrumb
+ScrollTrigger.create({
+  trigger: "main",
+  start: "top top",
+  end: "bottom top",
+  markers: true,
+  pin: '#breadcrumb',
+  pinSpacing: false,
+});
+
+//expand breadcrumb to show filters
+var showFilters = gsap.timeline({paused: true})
+  .to("#breadcrumb", {height:400, duration:.4, ease:"expo.inOut"})
+  ;
+document.getElementById("filterButton").onclick = ()=> showFilters.play();
 
 
 //   // re-pin hero area
