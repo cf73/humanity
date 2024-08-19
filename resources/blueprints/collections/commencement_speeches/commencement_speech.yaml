@@ -15,77 +15,36 @@ tabs:
           -
             handle: speaker
             field:
-              input_type: text
-              antlers: false
               type: text
               display: Speaker
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
             handle: location
             field:
-              antlers: false
               type: textarea
               display: Location
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
             handle: date_of_speech
             field:
-              mode: single
-              inline: false
-              full_width: false
-              columns: 1
-              rows: 1
-              time_enabled: false
-              time_seconds_enabled: false
               type: date
               display: 'Date of Speech'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
             handle: image
             field:
               max_files: 1
-              mode: list
               container: assets
-              restrict: false
-              allow_uploads: true
-              show_filename: true
-              show_set_alt: true
               type: assets
               display: Image
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
           -
             handle: video_id
             field:
-              antlers: false
               type: textarea
               display: 'Video ID'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               instructions: 'Grab the long string of random letters and numbers after this in the YouTube embed code: src="https://www.youtube.com/embed/[grab this bit and paste it here]"'
           -
             handle: description
@@ -94,31 +53,9 @@ tabs:
                 - bold
                 - italic
                 - removeformat
-              smart_typography: false
-              save_html: false
-              inline: false
-              toolbar_mode: fixed
-              reading_time: false
-              word_count: false
-              fullscreen: true
-              allow_source: true
-              enable_input_rules: true
-              enable_paste_rules: true
               remove_empty_nodes: false
-              antlers: false
-              link_noopener: false
-              link_noreferrer: false
-              target_blank: false
-              always_show_set_button: false
-              collapse: false
-              previews: true
               type: bard
               display: Description
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
               character_limit: 500
@@ -130,31 +67,9 @@ tabs:
                 - italic
                 - removeformat
                 - anchor
-              smart_typography: false
-              save_html: false
-              inline: false
-              toolbar_mode: fixed
-              reading_time: false
-              word_count: false
-              fullscreen: true
-              allow_source: true
-              enable_input_rules: true
-              enable_paste_rules: true
               remove_empty_nodes: false
-              antlers: false
-              link_noopener: false
-              link_noreferrer: false
-              target_blank: false
-              always_show_set_button: false
-              collapse: false
-              previews: true
               type: bard
               display: Transcript
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
   sidebar:
     display: Sidebar
     sections:
@@ -174,13 +89,8 @@ tabs:
                 - collection_type
               display: 'Collection Type'
               mode: select
-              instructions_position: above
-              listable: hidden
-              visibility: visible
-              replicator_preview: true
               max_items: 1
               create: false
-              hide_display: false
           -
             handle: challenges
             field:
@@ -190,11 +100,8 @@ tabs:
                 - challenges
               type: terms
               display: Challenges
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
+              validate:
+                - required
           -
             handle: sections
             field:
@@ -205,11 +112,6 @@ tabs:
                 - section
               type: terms
               display: Sections
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
           -
             handle: related_partner_initiatives
             field:
@@ -221,11 +123,6 @@ tabs:
               type: entries
               display: 'Related Partner Initiatives'
               instructions: "Help site visitors discover how to take action related to the content they've just seen here."
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
@@ -244,11 +141,6 @@ tabs:
               type: entries
               display: 'Related Content'
               instructions: 'Other content from THI that relates to this piece, allowing visitors to follow their own path.'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -

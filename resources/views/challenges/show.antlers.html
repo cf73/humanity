@@ -7,9 +7,9 @@
     </div>
 </div>
 
-<div id="hero-area" class="grid grid-cols-12 row-start-1 left-16 top-32 relative flex items-center bg-cover bg-center">
-    <img src="{{main_image:image}}" alt="{{title}}" width="100%" height="auto" class="col-span-8">
-    <div id="initialQuote" class="col-span-9 col-start-3 row-start-2 flex flex-col items-center justify-center display z-50">
+<div id="hero-area" class="top-32">
+    <img src="{{main_image:image}}" alt="{{title}}" width="100%" height="auto" class="">
+    <div id="initialQuote" class="flex flex-col items-center justify-center display z-50">
         {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
             <h2 class="mb-4 w-2/3 mx-auto text-center">{{quotation}}</h2>
             <div class="textMeta text-warmwhite w-2/3 mx-auto text-center">{{attribution}}</div>
