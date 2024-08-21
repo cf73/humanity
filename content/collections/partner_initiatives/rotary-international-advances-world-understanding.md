@@ -45,9 +45,9 @@ challenges:
   - democracy
 partner: rotary-international
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719790916
+updated_at: 1724277912
 summary: "Join one of Rotary's local chapters."
 call_to_action: "Take action with Rotary International's community programs"
-key_facts_that_make_this_urgent: 'Rotary is dedicated to causes that build international relationships, improve lives, and create a better world to support our peace efforts and end polio forever.'
+key_facts_that_make_this_urgent: 'Rotary is dedicated to causes that build international relationships, improve lives, and create a better world to support our peace efforts.'
 url_to_take_action: 'https://www.rotary.org/en'
 ---
