@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724279960
+updated_at: 1724280467
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -39,19 +39,19 @@ welcome_text:
     content:
       -
         type: text
-        text: 'Please join us. May we pour you a cup of tea?'
+        text: 'May we pour you a cup of tea?'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'For this is an oasis with a mission, custom-made for we the people to consider, with neighbors old and new, how best to address our humanitarian and planetary alarms, to solve our increasingly wild and fractious rides around the sun.'
+        text: 'For this is an oasis with a mission, custom-made for we the people to consider, with neighbors old and new, how best to solve our humanitarian and planetary challenges.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "To plant our investigations on the fertile soil of open hearts and curious minds, we have selected three hundred of humanity’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
+        text: "To plant our investigations on the fertile soil of open hearts and curious minds, we have selected three hundred and thirty of humanity’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
   -
     type: paragraph
     content:
@@ -99,13 +99,7 @@ welcome_text:
         text: 'saving democracy'
       -
         type: text
-        text: ".\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'From there, we shine a light on thirty of the world’s most respected non-profits and their compelling opportunities to participate in positive change.'
+        text: ".\_From there, we shine a light on thirty of the world’s most respected non-profits and their compelling opportunities to participate in positive change."
   -
     type: paragraph
     content:
@@ -165,7 +159,7 @@ welcome_text:
         text: 'Let us together orchestrate a future that works for '
       -
         type: text
-        text: 'all sentient beings, a future that empowers succeeding generations with increasing kindness, understanding, love, and, not least, deep respect for the enthralling and necessary variety of life on Earth. '
+        text: 'all sentient beings, that empowers succeeding generations with kindness, understanding, love, and, not least, deep respect for the enthralling and necessary variety of life on Earth. '
   -
     type: paragraph
     content:
