@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724280483
+updated_at: 1724282295
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -39,19 +39,13 @@ welcome_text:
     content:
       -
         type: text
-        text: 'May we pour you a cup of tea?'
+        text: 'May we pour you a cup of tea? For this is an oasis with a mission, custom-made for we the people to consider, with neighbors old and new, how best to solve our humanitarian and planetary challenges.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'For this is an oasis with a mission, custom-made for we the people to consider, with neighbors old and new, how best to solve our humanitarian and planetary challenges.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "To plant our investigations on the fertile soil of open hearts and curious minds, we have selected three hundred and thirty of humanity’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
+        text: "To plant our investigations on the fertile soil of open hearts and curious minds, we have selected three hundred of humanity’s most inspiring voices  --  ancient and current  --  to guide us in re-imagining\_our roles as change-maker for community, country, or planet."
   -
     type: paragraph
     content:
@@ -139,7 +133,7 @@ welcome_text:
         text: inspirations
       -
         type: text
-        text: " throughout this town meeting for the planet\_—\_presented on the wings of essays, images, speeches, artwork, film, literature, poetry, and music\_—\_move you to help fan the aspirational breezes of our shared humanity into winds of change we so urgently need."
+        text: ' throughout this town meeting for the planet  --  presented on the wings of essays, images, speeches, artwork, film, literature, poetry, and music  --  move you to help fan the aspirational breezes of our shared humanity into winds of change we so urgently need.'
   -
     type: paragraph
     content:
@@ -160,12 +154,6 @@ welcome_text:
       -
         type: text
         text: 'all sentient beings, that empowers succeeding generations with kindness, understanding, love, and, not least, deep respect for the enthralling and necessary variety of life on Earth. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'We can do this! '
   -
     type: paragraph
     content:
