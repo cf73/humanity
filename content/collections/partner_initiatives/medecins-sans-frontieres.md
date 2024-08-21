@@ -36,9 +36,10 @@ image: image-1710861827.jpeg
 collection_type: partner-initiative
 challenges:
   - war
+  - inspiration
 partner: doctors-without-borders
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719792952
+updated_at: 1724282909
 summary: 'Your donations pay for millions of consultations, surgeries, treatments and vaccinations every year. 80% of our financial resources are allocated to fulfilling our social mission: humanitarian programmes (65%); support for our projects and programmes (12%); and 3% to awareness-raising, the Access Campaign, and the Drugs for Neglected Diseases initiative (DNDi).'
 call_to_action: 'Learn how MSF must adapt to many environments'
 key_facts_that_make_this_urgent: |-
