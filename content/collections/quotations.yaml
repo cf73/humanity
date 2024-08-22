@@ -1,5 +1,5 @@
 title: Quotations
-template: default
+template: contentTemplates/quotation
 layout: layout
 taxonomies:
   - collection_type

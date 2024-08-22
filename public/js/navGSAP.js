@@ -23,12 +23,12 @@ document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
 // CHALLENGE SHOW TEMPLATE ----------------------------------------------------------------------------------------------
 
 // pin hero area
-ScrollTrigger.create({
-  Trigger: '#hero-area',
-  start: 'top top',
-  end: "+=2500",
-  pin: '#hero-area',
-});
+// ScrollTrigger.create({
+//   Trigger: '#hero-area',
+//   start: 'top top',
+//   end: "+=2500",
+//   pin: '#hero-area',
+// });
 
 // fade away the title text on scroll
 gsap.fromTo(
@@ -93,32 +93,66 @@ gsap.fromTo(
   }
 );
 
-// pin filters
-ScrollTrigger.create({
-  trigger: "#challengeContent",
-  start: "top 15%",
-  end: "bottom bottom",
-  markers: false,
-  pin: '#filters',
-  pinSpacing: false,
-});
+// Pin breadcrumb
+// ScrollTrigger.create({
+//   trigger: "main",
+//   start: "top top",
+//   end: "bottom top",
+//   markers: false,
+//   pin: '#breadcrumb',
+//   pinSpacing: false,
+// });
 
-// pin breadcrumb
-ScrollTrigger.create({
-  trigger: "main",
-  start: "top top",
-  end: "bottom top",
-  markers: true,
-  pin: '#breadcrumb',
-  pinSpacing: false,
-});
+// Pin breadcrumb
+// ScrollTrigger.create({
+//   trigger: "main",
+//   start: "top top",
+//   end: "bottom top",
+//   markers: false,
+//   pin: '#breadcrumb',
+//   pinSpacing: false,
+// });
 
-//expand breadcrumb to show filters
-var showFilters = gsap.timeline({paused: true})
-  .to("#breadcrumb", {height:400, duration:.4, ease:"expo.inOut"})
-  ;
-document.getElementById("filterButton").onclick = ()=> showFilters.play();
+// Pin filterssheet
+// ScrollTrigger.create({
+//   trigger: "main",
+//   start: "top top",
+//   end: "bottom top",
+//   markers: false,
+//   pin: '#filtersheet',
+//   pinSpacing: false,
+// });
 
+// Expand breadcrumb to show filters
+// var showFilters = gsap.timeline({ paused: true })
+//   .to("#breadcrumb", { height: 300, duration: 1, ease: "expo.inOut" });
+
+// document.getElementById("filterButton").onclick = () => {
+//   showFilters.play();
+//   console.log("yo");
+// };
+// document.getElementById("closeFilters").onclick = () => {
+//   showFilters.reverse();
+//   console.log("yo");
+// };
+
+
+gsap.registerPlugin(Flip);
+
+const filterbar = document.querySelector("#filtersheet");
+
+
+function doFlip() {
+  // Get the initial state
+  const state = Flip.getState(filterbar);
+  filterbar.style.height = "100vh";
+  Flip.from(state, {duration: 2, ease: "power1.inOut"});
+};
+
+document.getElementById("filterButton").onclick = () => {
+    doFlip();
+    console.log("yo");
+  };
 
 //   // re-pin hero area
 // ScrollTrigger.create({
