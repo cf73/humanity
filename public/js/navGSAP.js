@@ -141,19 +141,46 @@ gsap.registerPlugin(Flip);
 
 const filterbar = document.querySelector("#filtersheet");
 
-
 function doFlip() {
   // Get the initial state
   const state = Flip.getState(filterbar);
   filterbar.style.height = "100vh";
-  Flip.from(state, {duration: 2, ease: "power1.inOut"});
-};
+  return Flip.from(state, {duration: 1, ease: "power1.inOut"});
+}
 
-document.getElementById("filterButton").onclick = () => {
-    doFlip();
-    console.log("yo");
-  };
+var revealFilters = gsap.timeline({paused: true})
+      .add(doFlip())
+      .fromTo('.labelcontainer', 
+        { 
+        autoAlpha: 0,
+        left: 60
+        },
+        {
+          autoAlpha: 1,
+          duration: 1,
+          ease: "power3.out",
+          left: 0,
+          stagger: 0.1
+        }, "-=30%"
+      )
+      .fromTo('#filterButtons', {
+        y: 90,
+        autoAlpha: 0,
+      },
+      {
+        autoAlpha: 1,
+        y: 0,
+        duration: 1,
+        ease: 'power1.out',
+      }, "-=130%")
+      ;
 
+document.getElementById("filterButton").onclick = () => revealFilters.play();
+document.getElementById("closeFiltersButton").onclick = () => revealFilters.reverse();
+
+
+  
+  
 //   // re-pin hero area
 // ScrollTrigger.create({
 //   Trigger: '#hero-area',
