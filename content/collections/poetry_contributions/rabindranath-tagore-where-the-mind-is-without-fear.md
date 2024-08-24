@@ -9,9 +9,10 @@ challenges:
   - democracy
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631971
+updated_at: 1724507800
 poets_website: 'https://www.poetryfoundation.org/poets/rabindranath-tagore'
 sections: inspiration
+published_date: '1910-06-15'
 content:
   -
     type: paragraph
