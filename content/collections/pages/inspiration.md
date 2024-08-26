@@ -7,11 +7,11 @@ challenge_intro_text: |-
 
   Be it spoken, written, whispered, implied or sung; be it gestured, danced or played; be it offered on still wings of silence or in the intimacy of eyes alone, it is our human touchstone.
 
-  In these reckoning years, facing multiple planet-wide crises, we offer throughout this aspirational oasis, an enlightenment of voices known and unknown, encouraging us to act on the understanding that we are profoundly, inescapably in these Earthly struggles together.
+  In these reckoning years, facing multiple planet-wide crises, we offer this aspirational oasis as an enlightenment of voices known and unknown, encouraging us to act on the understanding that we are profoundly, inescapably in these Earthly struggles together.
 template: inspiration
 parent: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724694168
+updated_at: 1724694545
 intro_movie: man-staring-up-at-aurora-1713467032.jpg
 section_builder:
   -
