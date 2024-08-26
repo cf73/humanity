@@ -68,6 +68,7 @@ collection_type: book
 related_partner_initiatives:
   - 5b08c208-5356-4878-b3be-a9b91e1f383c
   - 6f9195fc-1c72-4935-be44-e6b912bbba06
+  - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
 related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
   - 8a6167d1-d897-4c80-a069-cb77667b2353
@@ -75,7 +76,10 @@ related_content:
   - b6024468-0b3f-4752-9de3-f5141560c0f6
   - a27d7f2c-bd60-4e6e-874c-5a971fb2d9e3
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724686973
+updated_at: 1724687140
 date_published: '1976-01-01'
 book_author: 'Gretel Ehrlich'
+challenges:
+  - climate
+sections: inspiration
 ---
