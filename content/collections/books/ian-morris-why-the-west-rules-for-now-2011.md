@@ -27,11 +27,17 @@ description:
     content:
       -
         type: text
-        text: '"As geography and human ingenuity continue to interact, the world will change in astonishing ways, transforming Western rule in the process. Deeply researched and brilliantly argued, Why the West Rules—for Now spans fifty thousand years of history and offers fresh insights on nearly every page. The book brings together the latest findings across disciplines—from ancient history to neuroscience—not only to explain why the West came to rule the world but also to predict what the future will bring in the next hundred years."'
+        marks:
+          -
+            type: bold
+        text: '"As geography and human ingenuity continue to interact, the world will change in astonishing ways, '
+      -
+        type: text
+        text: 'transforming Western rule in the process. Deeply researched and brilliantly argued, Why the West Rules—for Now spans fifty thousand years of history and offers fresh insights on nearly every page. The book brings together the latest findings across disciplines  --  from ancient history to neuroscience  --  not only to explain why the West came to rule the world but also to predict what the future will bring in the next hundred years."'
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631595
+updated_at: 1724687513
 collection_type: book
 book_author: 'Ian Morris'
 date_published: '2011-10-25'
