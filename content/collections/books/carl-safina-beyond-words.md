@@ -9,7 +9,13 @@ description:
     content:
       -
         type: text
-        text: 'Based on the lives of elephants, wolves, and killer whales, this is a magnetic and humbling investigation into the ways in which humans have dramatically misunderstood — at our intense peril — how our fellow riders on Earth make their well considered way in life.    '
+        marks:
+          -
+            type: bold
+        text: 'Based on the lives of elephants, wolves, and killer whales,'
+      -
+        type: text
+        text: ' this is a magnetic and humbling investigation into the ways in which humans have dramatically misunderstood — at our intense peril — how our fellow riders on Earth make their well considered way in life.    '
   -
     type: paragraph
     content:
@@ -33,7 +39,7 @@ description:
     content:
       -
         type: text
-        text: "In August 2023, Dr. Safina published a young adult's book along these same lines, titled:  "
+        text: "In August 2023, Dr. Safina published a young adult's book along these same lines: "
       -
         type: text
         marks:
@@ -41,7 +47,7 @@ description:
             type: italic
         text: "Learning to Be Wild (a Young Reader's Adaptation): How Animals Achieve Peace, Create Beauty, and Raise Families"
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723215801
+updated_at: 1724695164
 collection_type: book
 book_author: 'Carl Safina'
 date_published: '2015-05-31'
