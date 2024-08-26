@@ -47,7 +47,7 @@ description:
             type: italic
         text: "Learning to Be Wild (a Young Reader's Adaptation): How Animals Achieve Peace, Create Beauty, and Raise Families"
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724695164
+updated_at: 1724695301
 collection_type: book
 book_author: 'Carl Safina'
 date_published: '2015-05-31'
@@ -60,6 +60,8 @@ related_content:
   - 46a5ba9a-cc31-41de-ac32-31d0789edadf
   - ed9cb6f6-8d38-4b46-a0fc-dcc9583f1375
   - c4e39c58-982d-4ffa-8cd0-16689135f9c7
+  - 3cc8f4c1-bcca-4142-8664-e0572beb84ea
+  - b6024468-0b3f-4752-9de3-f5141560c0f6
 sections: inspiration
 challenges:
   - climate
