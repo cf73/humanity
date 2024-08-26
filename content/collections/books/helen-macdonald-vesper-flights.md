@@ -130,7 +130,7 @@ collection_type: book
 challenges:
   - climate
 related_partner_initiatives:
-  - 643b298b-448c-44d4-841f-cdbcd7b03dcd
+  - 8e78665e-26d1-400e-8f6f-2391b9bfec84
 related_content:
   - 094f509c-6dba-4c63-a475-22cbd0c2f879
   - 88759a51-a4d2-4521-bb58-457a631cf773
@@ -138,7 +138,7 @@ related_content:
   - c4e39c58-982d-4ffa-8cd0-16689135f9c7
   - e956626e-5095-4572-ba16-35a5918e8a54
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724694794
+updated_at: 1724694970
 book_author: 'Helen Macdonald'
 sections: inspiration
 ---
