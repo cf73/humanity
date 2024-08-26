@@ -13,7 +13,7 @@ challenge_intro_text: |-
 template: inspiration
 parent: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724693707
+updated_at: 1724693840
 intro_movie: man-staring-up-at-aurora-1713467032.jpg
 section_builder:
   -
