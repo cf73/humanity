@@ -89,7 +89,7 @@ collection_type: book
 challenges:
   - war
 related_partner_initiatives:
-  - 8e78665e-26d1-400e-8f6f-2391b9bfec84
+  - 324c608c-3a56-493e-87f8-e986d6c6bc03
 related_content:
   - 6d28b288-2ed8-4983-a206-c1a19b3c1219
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
@@ -97,7 +97,7 @@ related_content:
   - 9695b8da-259a-4a3f-84d4-9bc1a99d4e80
   - 582161a7-ea07-4374-abac-40154bb36abe
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723221460
+updated_at: 1724686852
 book_author: 'Munro Leaf'
 sections: peace-gatherings
 ---
