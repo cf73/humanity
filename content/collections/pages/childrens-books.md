@@ -6,7 +6,7 @@ challenge_intro_text: 'Children’s non-fiction literature has become increasing
 template: challenge
 parent: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721845695
+updated_at: 1724692518
 intro_movie: image-1711923706.jpeg
 section_builder:
   -
@@ -28,7 +28,7 @@ section_builder:
             text: 'The Humanity Initiative is currently looking for an intern or two to help expand this collection across the continents. Please contact peace@ourhumanity.org if you are interested. '
   -
     id: lv5kmk2r
-    book: ed9cb6f6-8d38-4b46-a0fc-dcc9583f1375
+    book: 9daf30e1-7588-4427-bc37-28fd0527f566
     type: book
     enabled: true
   -
@@ -45,5 +45,5 @@ section_builder:
     id: lug3808p
     type: talks
     enabled: true
-    talks: f9f4f112-845f-467c-900e-c064fb540f9b
+    talks: 6886bd9b-67a6-446a-aa41-ad4018c96523
 ---
