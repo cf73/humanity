@@ -2,7 +2,7 @@
 id: e1912d5b-c259-42ca-aa14-01faa3424173
 blueprint: articles
 collection_type: article
-title: "THI's blueprint for peace gatherings"
+title: "The Humanity Initiative's blueprint for peace gatherings"
 image: river-nile.jpeg
 description:
   -
@@ -14,7 +14,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724783307
+updated_at: 1724783524
 article_text:
   -
     type: paragraph
@@ -134,10 +134,514 @@ article_text:
         text: ".\_We soon will offer the opportunity to help expand this peaceful revolution by signing a peace petition, becoming a member of The Humanity Initiative.\_"
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
-        text: '       '
+        marks:
+          -
+            type: bold
+        text: '              BOOKS'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Little Book of Inner Peace'
+      -
+        type: text
+        text: "\_- The Dalai Lama"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: "Peace is Every Step & Being Peace\_"
+      -
+        type: text
+        text: '- Thich Naht Hanh'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Her Life and Work in Her Own Words'
+      -
+        type: text
+        text: "\_- Peace Pilgrim"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'World Peace. The Voice of a Mountain Bird'
+      -
+        type: text
+        text: "\_– Amit Ray"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'In My Own Word'
+      -
+        type: text
+        text: 's – Mother Teresa'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Autobiography
+      -
+        type: text
+        text: "\_– Gandhi"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Art of Peace'
+      -
+        type: text
+        text: "\_– Morihei Ueshiba"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Story of Ferdinand'
+      -
+        type: text
+        text: "\_- Munro Leaf\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: "I Am Peace. A Book of Mindfulness\_"
+      -
+        type: text
+        text: '– Susan Verde'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Nonviolent Communication'
+      -
+        type: text
+        text: "\_– Marshall B Rosenberg"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Peace is the Way'
+      -
+        type: text
+        text: "\_– Deepak Chopra"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Anatomy of Peace'
+      -
+        type: text
+        text: "\_– Arbinger Institute"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: "The Way of Peace\_"
+      -
+        type: text
+        text: '– James Allen'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Tao of Inner Peace'
+      -
+        type: text
+        text: "\_– Diane Dreher"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: "Cultivating Peace. Becoming a 21st\_Century Peace Ambassador"
+      -
+        type: text
+        text: "\_– James O’Dea"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Beyond War'
+      -
+        type: text
+        text: "\_– Douglas P Fry"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: "Metaphysical Poetry\_"
+      -
+        type: text
+        text: '– Penguin Classics'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Little Book of Peace'
+      -
+        type: text
+        text: "\_– Cherry Menlove"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: "Planting Peace. The Story of Wangari Maathai\_"
+      -
+        type: text
+        text: '– Gwendolyn Hooks, Margaux Carpenter'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Peace Begins with Me'
+      -
+        type: text
+        text: "\_– Jill Bennett (children’s book.)"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Miracle of Mindfulness'
+      -
+        type: text
+        text: "\_– Tich Naht Hanh"
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '            MUSIC'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Bach Cello Suite No 1 in G Major - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Yo Yo Ma'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Gabriel’s Oboe, from ‘The Mission.’ - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Ennio Morricone'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Heavenly Prayer of Light - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Dr Joseph Michael Levy'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Pleiadian Peace Prayer - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Shekina Rose'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Power of Here Now - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Alexia Chellun'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Imagine - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'John Lennon (or Eva Cassidy)'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Miserere Mei - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Allegri
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Satie: 3 Gymnopedies - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Erik Satie, Reinbert de Leeuw'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'I Giorni - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: "Ludovico Einaudi\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Adagio in G - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Albinoni
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Answer Me - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Keith Jarrett'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'With You - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Marcus Stockhausen'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Silentium - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Christopher Galovan'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Very Thought of You - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Winton Marsalis '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Devi Prayer - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Craig Pruess & Amand'
+      -
+        type: text
+        text: a
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Gayatri Mantra - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Deva Premal'
+      -
+        type: text
+        text: "\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Ave Maria - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Ashana
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Gregorian Chant – '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Angelus. Monks of the Abbey of Notre Dame'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Crystal bowls \_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Solfeggio Frequencies \_"
+  -
+    type: paragraph
   -
     type: paragraph
     content:
@@ -412,251 +916,6 @@ article_text:
         marks:
           -
             type: bold
-        text: '            MUSIC'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Bach Cello Suite No 1 in G Major - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Yo Yo Ma'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Gabriel’s Oboe, from ‘The Mission.’ - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Ennio Morricone'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Heavenly Prayer of Light - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Dr Joseph Michael Levy'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Pleiadian Peace Prayer - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Shekina Rose'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The Power of Here Now - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Alexia Chellun'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Imagine - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'John Lennon (or Eva Cassidy)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Miserere Mei - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: Allegri
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Satie: 3 Gymnopedies - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Erik Satie, Reinbert de Leeuw'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'I Giorni - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: "Ludovico Einaudi\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Adagio in G - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: Albinoni
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Answer Me - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Keith Jarrett'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'With You - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Marcus Stockhausen'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Silentium - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Christopher Galovan'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Very Thought of You - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Winton Marsalis '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Devi Prayer - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Craig Pruess & Amand'
-      -
-        type: text
-        text: a
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Gayatri Mantra - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Deva Premal'
-      -
-        type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Ave Maria - '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: Ashana
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Gregorian Chant – '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Angelus. Monks of the Abbey of Notre Dame'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Crystal bowls \_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Solfeggio Frequencies \_"
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
         text: '              VIDEOS, FILMS, MEDITATIONS  '
   -
     type: paragraph
@@ -843,269 +1102,6 @@ article_text:
       -
         type: text
         text: .
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: '              BOOKS'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Little Book of Inner Peace'
-      -
-        type: text
-        text: "\_- The Dalai Lama"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: "Peace is Every Step & Being Peace\_"
-      -
-        type: text
-        text: '- Thich Naht Hanh'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Her Life and Work in Her Own Words'
-      -
-        type: text
-        text: "\_- Peace Pilgrim"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'World Peace. The Voice of a Mountain Bird'
-      -
-        type: text
-        text: "\_– Amit Ray"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'In My Own Word'
-      -
-        type: text
-        text: 's – Mother Teresa'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: Autobiography
-      -
-        type: text
-        text: "\_– Gandhi"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Art of Peace'
-      -
-        type: text
-        text: "\_– Morihei Ueshiba"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Story of Ferdinand'
-      -
-        type: text
-        text: "\_- Munro Leaf\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: "I Am Peace. A Book of Mindfulness\_"
-      -
-        type: text
-        text: '– Susan Verde'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Nonviolent Communication'
-      -
-        type: text
-        text: "\_– Marshall B Rosenberg"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Peace is the Way'
-      -
-        type: text
-        text: "\_– Deepak Chopra"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Anatomy of Peace'
-      -
-        type: text
-        text: "\_– Arbinger Institute"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: "The Way of Peace\_"
-      -
-        type: text
-        text: '– James Allen'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Tao of Inner Peace'
-      -
-        type: text
-        text: "\_– Diane Dreher"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: "Cultivating Peace. Becoming a 21st\_Century Peace Ambassador"
-      -
-        type: text
-        text: "\_– James O’Dea"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Beyond War'
-      -
-        type: text
-        text: "\_– Douglas P Fry"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: "Metaphysical Poetry\_"
-      -
-        type: text
-        text: '– Penguin Classics'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Little Book of Peace'
-      -
-        type: text
-        text: "\_– Cherry Menlove"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: "Planting Peace. The Story of Wangari Maathai\_"
-      -
-        type: text
-        text: '– Gwendolyn Hooks, Margaux Carpenter'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Peace Begins with Me'
-      -
-        type: text
-        text: "\_– Jill Bennett (children’s book.)"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Miracle of Mindfulness'
-      -
-        type: text
-        text: "\_– Tich Naht Hanh"
 related_partner_initiatives:
   - 2d25bdca-0661-40ea-8a59-9d3e34107a2a
   - 61653f39-a1f2-4949-9a50-e72537bfc211
@@ -1116,7 +1112,7 @@ related_content:
   - ba850df4-c102-43cf-a7f7-0c66ed1f60d7
 date_published: '2024-04-30'
 publication: 'The Humanity Initiative'
-articleauthor: 'The Humanity Initiative, curated by Jacqueline Wigglesworth'
+articleauthor: 'Curated by Jacqueline Wigglesworth, THI'
 link: www.ourhumanity.org
 sections: peace-gatherings
 content:
