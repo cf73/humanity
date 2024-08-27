@@ -14,7 +14,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724783524
+updated_at: 1724783816
 article_text:
   -
     type: paragraph
@@ -24,7 +24,7 @@ article_text:
         marks:
           -
             type: bold
-        text: '     SUGGESTIONS FOR CREAING A NEIGHBORHOOD PEACE CEREMONY '
+        text: '     SUGGESTIONS FOR CREATING A NEIGHBORHOOD PEACE CEREMONY '
   -
     type: paragraph
     content:
