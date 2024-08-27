@@ -14,7 +14,7 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720969087
+updated_at: 1724783307
 article_text:
   -
     type: paragraph
@@ -24,7 +24,13 @@ article_text:
         marks:
           -
             type: bold
-        text: 'Suggestions for creating a peace ceremony in your neighborhood:'
+        text: '     SUGGESTIONS FOR CREAING A NEIGHBORHOOD PEACE CEREMONY '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '                                      peace@ourhumanity.org  '
   -
     type: paragraph
     content:
@@ -131,42 +137,25 @@ article_text:
     content:
       -
         type: text
-        text: '        ~   '
+        text: '       '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '      '
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Team Humanity'
+        text: 'QUOTATIONS       '
   -
     type: paragraph
     content:
       -
         type: text
-        text: '     PEACE@OURHUMANITY.ORG'
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: '              Suggestions for quotations'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '“I am not only a pacifist but a militant pacifist. I am willingly to fight for peace. Nothing will end war unless the people themselves refuse to go to war.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~ Albert\_"
+        text: "“I am not only a pacifist but a militant pacifist. I am willingly to fight for peace. Nothing will end war unless the people themselves refuse to go to war.”    ~ Albert\_"
       -
         type: text
         marks:
@@ -178,13 +167,7 @@ article_text:
     content:
       -
         type: text
-        text: '“If we have no peace, it is because we have forgotten that we belong to each other.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“If we have no peace, it is because we have forgotten that we belong to each other.”    ~\_\_"
       -
         type: text
         marks:
@@ -196,13 +179,7 @@ article_text:
     content:
       -
         type: text
-        text: '“I refuse to accept the view that mankind is so tragically bound to the starless midnight of racism and war that the bright daybreak of peace and brotherhood can never become a reality… I believe that unarmed truth and unconditional love will have the last word.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“I refuse to accept the view that mankind is so tragically bound to the starless midnight of racism and war that the bright daybreak of peace and brotherhood can never become a reality… I believe that unarmed truth and unconditional love will have the last word.”    ~\_\_"
       -
         type: text
         marks:
@@ -214,13 +191,7 @@ article_text:
     content:
       -
         type: text
-        text: '“World peace must develop from inner peace.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“World peace must develop from inner peace.”    ~\_\_"
       -
         type: text
         marks:
@@ -232,13 +203,7 @@ article_text:
     content:
       -
         type: text
-        text: '“Until he extends the circle of his compassion to all living things, man will not himself find peace.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“Until he extends the circle of his compassion to all living things, man will not himself find peace.”    ~\_\_"
       -
         type: text
         marks:
@@ -250,13 +215,7 @@ article_text:
     content:
       -
         type: text
-        text: "“Seeking and finding peace within, were it done by everyone, could end all wars, eliminate conflict and bring everlasting peace.”\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“Seeking and finding peace within, were it done by everyone, could end all wars, eliminate conflict and bring everlasting peace.”\_\_\_\_\_\_\_\_\_\_~\_\_"
       -
         type: text
         marks:
@@ -268,13 +227,7 @@ article_text:
     content:
       -
         type: text
-        text: '“The only way to abolish war is to make peace heroic.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“The only way to abolish war is to make peace heroic.”    ~\_\_"
       -
         type: text
         marks:
@@ -286,13 +239,7 @@ article_text:
     content:
       -
         type: text
-        text: "“If we don’t end war. War will end us.”\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“If we don’t end war. War will end us.”\_    ~\_\_"
       -
         type: text
         marks:
@@ -304,13 +251,7 @@ article_text:
     content:
       -
         type: text
-        text: "“We must continue to pray for peace and to act for peace in whatever way we can, we must continue to speak for peace and to live the way of peace; to inspire others, we must continue to think of peace and to know that peace is possible. What we dwell upon we help bring into manifestation.”\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“We must continue to pray for peace and to act for peace in whatever way we can, we must continue to speak for peace and to live the way of peace; to inspire others, we must continue to think of peace and to know that peace is possible. What we dwell upon we help bring into manifestation.”\_    ~\_\_"
       -
         type: text
         marks:
@@ -322,13 +263,7 @@ article_text:
     content:
       -
         type: text
-        text: '“Nothing can bring you peace but yourself.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“Nothing can bring you peace but yourself.”    ~\_\_"
       -
         type: text
         marks:
@@ -340,13 +275,7 @@ article_text:
     content:
       -
         type: text
-        text: '“When the power of love overcomes the love of power, the world will know peace.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“When the power of love overcomes the love of power, the world will know peace.”     ~\_\_"
       -
         type: text
         marks:
@@ -358,13 +287,7 @@ article_text:
     content:
       -
         type: text
-        text: "\"Let us globalize compassion.\"\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "\"Let us globalize compassion.\"\_     ~\_\_"
       -
         type: text
         marks:
@@ -376,13 +299,7 @@ article_text:
     content:
       -
         type: text
-        text: '“It does not matter how long you are spending on the earth, how much money you have gathered, or how much attention you have received. It is the amount of positive vibration you have radiated in life that matters.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“It does not matter how long you are spending on the earth, how much money you have gathered, or how much attention you have received. It is the amount of positive vibration you have radiated in life that matters.”     ~\_\_"
       -
         type: text
         marks:
@@ -394,13 +311,7 @@ article_text:
     content:
       -
         type: text
-        text: '“It is not enough to win a war. It is more important to organise the peace.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“It is not enough to win a war. It is more important to organise the peace.\"    ~\_\_"
       -
         type: text
         marks:
@@ -412,13 +323,7 @@ article_text:
     content:
       -
         type: text
-        text: '“War does not determine who is right. Only who is left.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“War does not determine who is right. Only who is left.”    ~\_\_"
       -
         type: text
         marks:
@@ -430,13 +335,7 @@ article_text:
     content:
       -
         type: text
-        text: '“Peace is not an absence of war; it is a virtue, a state of mind, a disposition for benevolence and justice.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“Peace is not an absence of war; it is a virtue, a state of mind, a disposition for benevolence and justice.\"    ~\_\_"
       -
         type: text
         marks:
@@ -448,13 +347,7 @@ article_text:
     content:
       -
         type: text
-        text: '“The only way human beings can win a war, is to prevent it.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“The only way human beings can win a war, is to prevent it.”    ~\_\_"
       -
         type: text
         marks:
@@ -466,13 +359,7 @@ article_text:
     content:
       -
         type: text
-        text: '“Either war is obsolete, or we are. Mankind must end war or war will end mankind”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '~ J'
+        text: '“Either war is obsolete, or we are. Mankind must end war or war will end mankind”     ~ J'
       -
         type: text
         marks:
@@ -484,13 +371,7 @@ article_text:
     content:
       -
         type: text
-        text: '“I will never go to a war protest. Invite me to a peace rally and I’ll come.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“I will never go to a war protest. Invite me to a peace rally and I’ll come.”     ~\_\_"
       -
         type: text
         marks:
@@ -502,13 +383,7 @@ article_text:
     content:
       -
         type: text
-        text: '“Never give in! Never give in! Never, never, never, never- in nothing great or small, large or petty – never give in, except to convictions of honour and good sense.”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“Never give in! Never give in! Never, never, never, never- in nothing great or small, large or petty – never give in, except to convictions of honour and good sense.”     ~\_\_"
       -
         type: text
         marks:
@@ -520,13 +395,7 @@ article_text:
     content:
       -
         type: text
-        text: "“Wars not make one great.”\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "~\_\_"
+        text: "“Wars not make one great.”\_    ~\_\_"
       -
         type: text
         marks:
@@ -543,115 +412,229 @@ article_text:
         marks:
           -
             type: bold
-        text: '              Suggestions for music'
+        text: '            MUSIC'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Bach Cello Suite No 1 in G Major - Yo Yo Ma'
+        text: 'Bach Cello Suite No 1 in G Major - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Yo Yo Ma'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Gabriel’s Oboe, from ‘The Mission.’ - Ennio Morricone'
+        text: 'Gabriel’s Oboe, from ‘The Mission.’ - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Ennio Morricone'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Heavenly Prayer of Light - Dr Joseph Michael Levy'
+        text: 'Heavenly Prayer of Light - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Dr Joseph Michael Levy'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Pleiadian Peace Prayer - Shekina Rose'
+        text: 'Pleiadian Peace Prayer - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Shekina Rose'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Power of Here Now - Alexia Chellun'
+        text: 'The Power of Here Now - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Alexia Chellun'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Imagine - John Lennon (or Eva Cassidy version)'
+        text: 'Imagine - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'John Lennon (or Eva Cassidy)'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Miserere Mei - Allegri'
+        text: 'Miserere Mei - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Allegri
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Satie: 3 Gymnopedies - Erik Satie, Reinbert de Leeuw'
+        text: 'Satie: 3 Gymnopedies - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Erik Satie, Reinbert de Leeuw'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "I Giorni - Ludovico Einaudi\_"
+        text: 'I Giorni - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: "Ludovico Einaudi\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Adagio in G - Albinoni'
+        text: 'Adagio in G - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Albinoni
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Answer Me - Keith Jarrett'
+        text: 'Answer Me - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Keith Jarrett'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'With You - Marcus Stockhausen'
+        text: 'With You - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Marcus Stockhausen'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Silentium - Christopher Galovan'
+        text: 'Silentium - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Christopher Galovan'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Very Thought of You - Wanton Marcellus'
+        text: 'Very Thought of You - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Winton Marsalis '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Devi Prayer - Craig Pruess & Amanda'
+        text: 'Devi Prayer - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Craig Pruess & Amand'
+      -
+        type: text
+        text: a
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Gayatri Mantra - Deva Premal\_"
+        text: 'Gayatri Mantra - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Deva Premal'
+      -
+        type: text
+        text: "\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Ave Maria - Ashana'
+        text: 'Ave Maria - '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Ashana
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Gregorian Chant – Angelus. Monks of the Abbey of Notre Dame'
+        text: 'Gregorian Chant – '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Angelus. Monks of the Abbey of Notre Dame'
   -
     type: paragraph
     content:
@@ -674,7 +657,7 @@ article_text:
         marks:
           -
             type: bold
-        text: '              Suggestions for videos / films / meditations'
+        text: '              VIDEOS, FILMS, MEDITATIONS  '
   -
     type: paragraph
     content:
@@ -870,7 +853,7 @@ article_text:
         marks:
           -
             type: bold
-        text: '              Suggestions for books'
+        text: '              BOOKS'
   -
     type: paragraph
     content:
