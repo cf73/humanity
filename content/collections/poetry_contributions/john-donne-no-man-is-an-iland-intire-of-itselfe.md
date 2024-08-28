@@ -1,16 +1,17 @@
 ---
 id: 6dce87aa-d0d3-4ceb-b19a-3a59322fa98e
 blueprint: poetry_contribution
-title: 'No man is an Iland, intire of itselfe.'
+title: 'No man is an Iland, intire of itselfe  (1624)'
 poets_name: 'John Donne'
 image: image-1718798926.jpeg
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631849
+updated_at: 1724886215
 collection_type: poetry-contribution
 poets_website: 'https://www.poetryfoundation.org/poets/john-donne'
 sections: peace-gatherings
+published_date: '1624-06-15'
 content:
   -
     type: paragraph
