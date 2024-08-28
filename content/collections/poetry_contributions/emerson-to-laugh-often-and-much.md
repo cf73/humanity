@@ -1,12 +1,12 @@
 ---
 id: a01f7e10-c6ea-496b-ac1d-ef939cdf3425
 blueprint: poetry_contribution
-title: 'To Laugh Often And Much'
+title: 'To Laugh Often And Much  (1856)'
 poets_name: 'Ralph Waldo Emerson'
 image: image-1720086042.jpeg
 collection_type: poetry-contribution
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720086066
+updated_at: 1724885535
 poets_website: 'https://allpoetry.com/poem/14327880-To-Laugh-Often-And-Much-by-Ralph-Waldo-Emerson'
 sections: inspiration
 published_date: '2024-07-04'
