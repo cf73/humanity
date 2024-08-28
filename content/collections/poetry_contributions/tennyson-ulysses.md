@@ -8,9 +8,10 @@ image: image-1707446038.jpeg
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631941
+updated_at: 1724885116
 collection_type: poetry-contribution
 sections: inspiration
+published_date: '1833-06-15'
 content:
   -
     type: paragraph
