@@ -1,14 +1,15 @@
 ---
 id: 10ee1f27-171d-4e41-8dbb-16f4c788d07a
 blueprint: poetry_contribution
-title: If
+title: 'If  (1895)'
 poets_name: 'Rudyard Kipling'
 image: image-1718799459.jpeg
 collection_type: poetry-contribution
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631760
+updated_at: 1724886742
 poets_website: 'https://www.poetryfoundation.org/poets/rudyard-kipling'
 sections: inspiration
+published_date: '1910-06-12'
 content:
   -
     type: paragraph
