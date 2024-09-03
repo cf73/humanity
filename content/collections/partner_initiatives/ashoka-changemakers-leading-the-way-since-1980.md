@@ -16,8 +16,6 @@ description:
         text: 'FOUR WAYS TO GET INVOLVED:'
   -
     type: paragraph
-  -
-    type: paragraph
     content:
       -
         type: text
@@ -31,12 +29,6 @@ description:
       -
         type: text
         text: 'Entrepreneur-to-Entrepreneur (E2) members bring their experience, energy, resources, and strategic insights, who in turn are provided with opportunities to co-lead a systems change initiative with global impact, access a global network of socially committed entrepreneurs and companies, exponentially increase the social return of their philanthropic investments, engage their employees with Ashoka to help them step into leadership and impact, attend round tables with the leadership team and other exclusive Ashoka events, and go on learning journeys to visit Fellow organizations around the world'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
   -
     type: paragraph
     content:
@@ -60,37 +52,12 @@ description:
     content:
       -
         type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         marks:
           -
             type: bold
           -
             type: italic
         text: 'Do you want to effect real, lasting change? '
-      -
-        type: hardBreak
-      -
-        type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:njidekah@ashoka.org'
-              rel: null
-              target: null
-              title: null
-        text: 'Get in Touch'
   -
     type: paragraph
     content:
@@ -139,37 +106,6 @@ description:
     type: paragraph
     content:
       -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ashoka.org/en/program/ashoka-support-network'
-              rel: null
-              target: null
-              title: null
-        text: 'Read more about the ASN >>'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ashoka.org/contact-ashoka?Reason=join_asn'
-              rel: null
-              target: null
-              title: null
-        text: 'Get in Touch'
-      -
-        type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
         type: hardBreak
         marks:
           -
@@ -203,44 +139,9 @@ description:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
         text: 'As the vice president of key initiatives at Western Union, Bassem Awada collaborated with Ashoka Fellow Marlon Parker and his organization R-Labs to scale-up a youth currency program in South Africa. The program is designed to reward youth in their community for acts of citizenry, allowing them to “bank” these rewards on a mobile phone platform and then redeem this social currency at local vendors. In two weeks time, Bassem worked with the R-Labs team to develop a plan to significantly scale-up the program, and increase the number of young people and vendors involved. In the first four months since his placement ended in November 2015, R-Labs was able to increase their youth participation by more than 100 percent (7,000 youth are now participating), and grow from 10 small business vendors to having 35 who now accept the currency.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ashoka.org/en/program/executive-in-residence'
-              rel: null
-              target: null
-              title: null
-        text: 'Read more about the EIR program >>'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ashoka.org/contact-ashoka?Reason=join_eir'
-              rel: null
-              target: null
-              title: null
-        text: 'Get in Touch'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
   -
     type: paragraph
     content:
@@ -290,61 +191,13 @@ description:
       -
         type: text
         text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.linkedin.com/jobs/search/?keywords=volunteer%20ashoka&location=Worldwide'
-              rel: null
-              target: _blank
-              title: null
-        text: 'View Opportunities on LinkedIn'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Explore opportunities to '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ashoka.org/en/engage/work-with-us'
-              rel: null
-              target: null
-              title: null
-          -
-            type: bold
-        text: 'work for Ashoka'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: .
 collection_type: partner-initiative
 challenges:
-  - climate
   - democracy
   - war
   - inspiration
+  - climate
 partner: ashoka-https-www-ashoka-org-en-us
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723050529
+updated_at: 1725388128
 ---
