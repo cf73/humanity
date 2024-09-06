@@ -6,6 +6,8 @@ export default {
         './resources/**/*.blade.php',
         './resources/**/*.vue',
         './content/**/*.md',
+        './resources/views/vendor/statamic-livewire-filters/**/*.blade.php',
+    	'./resources/views/vendor/statamic-livewire-filters/**/*.antlers.html',
     ],
 
     theme: {
@@ -33,8 +35,8 @@ export default {
                 
                 'darkpink': 'rgb(168 145 161 / 90%)',
                 'khaki': '#859d44',
-                'softblack': '#141852',
-                'darkblack': '#252925',
+                'softblack': '#1B1B21',
+                'darkblack': '#131317',
                 'wetwhite': '#ECF9EC',
                 'forest': '#06977D',
                 'earth': '#a08b8b',
@@ -102,5 +104,8 @@ export default {
     plugins: [
         require('@tailwindcss/typography'),
         require('@tailwindcss/aspect-ratio'),
+        require("@tailwindcss/forms")({
+            strategy: 'class'
+          }),
     ],
 };

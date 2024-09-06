@@ -1,90 +1,6 @@
-<div id="breadcrumb" class="w-full h-16 bg-white fixed top-24 z-50 box-border">
-    <div class="container mx-auto h-full flex flex-row items-center justify-between">
-        <h4>Our Challenges / {{title}}</h4>
-        <div id="filterButton" class="cursor-pointer z-50">
-            <h4><i class="las la-filter"></i>Filter</h4>
-        </div>
-    </div>
-</div>
-
-<div id="filtersheet" class="w-full h-0 top-40 bg-white backdrop-blur fixed left-0 z-50 overflow-x-hidden">
-    <div id="filters" class="container mx-auto flex flex-col relative h-[calc(100vh-200px)] justify-center">
-        <form action="/results/{{url}}" method="get" class="pt-24">
-                {{taxonomy:collection_type}}
-                    <label class="textMainSans leading-loose labelcontainer">
-                        <input class="rounded"
-                            type="checkbox"
-                            name="collectiontype[]"
-                            value="{{ slug }}"
-                            {{ (get:collectiontype | contains(slug)) ?= 'checked' }}>
-                        {{ title }}<br>
-                        <span class="checkmark"></span>
-                    </label>
-                    <style>
-                        /* Customize the label (the labelcontainer) */
-                        .labelcontainer {
-                            position: relative;
-                            padding-left: 35px;
-                            margin-bottom: 12px;
-                            cursor: pointer;
-                            user-select: none;
-                        }
-                
-                        /* Hide the browser's default checkbox */
-                        .labelcontainer input {
-                            position: absolute;
-                            opacity: 0;
-                            cursor: pointer;
-                            height: 0;
-                            width: 0;
-                        }
-                
-                        /* Create a custom checkbox */
-                        .checkmark {
-                            position: absolute;
-                            top: 0;
-                            left: 0;
-                            height: 1em;
-                            width: 1em;
-                            background-color: #eee;
-                            border-radius: 50%; /* Make it circular */
-                        }
-                
-                        /* On mouse-over, add a grey background color */
-                        .labelcontainer:hover input ~ .checkmark {
-                            background-color: #ccc;
-                        }
-                
-                        /* When the checkbox is checked, add a blue background */
-                        .labelcontainer input:checked ~ .checkmark {
-                            background-color: #2196F3;
-                        }
-                
-                        /* Create the checkmark/indicator (hidden when not checked) */
-                        .checkmark:after {
-                            content: "";
-                            position: absolute;
-                            display: none;
-                            /* Style the checkmark (e.g., a white dot) */
-                        }
-                
-                        /* Show the checkmark when checked */
-                        .labelcontainer input:checked ~ .checkmark:after {
-                            display: block;
-                            /* Style the checkmark (e.g., a white dot) */
-                        }
-                        </style>
-                {{/taxonomy:collection_type}}
-                <div id="filterButtons" class="flex flex-row space-x-4 w-full absolute bottom-0 z-50 bg-red">
-                    <button type="submit" class="btn-primary">Apply filter</button>
-                    <button id="closeFiltersButton" type="button" class="btn-secondary">Cancel</button>
-                </div>
-        </form>
-    </div>
-</div>
+{{partial:globals/breadcrumbWithFilters}}
 
 {{partial:globals/smoothWrapStart}}
-
 
 <div id="hero-area" class="top-32">
     <img src="{{main_image:image}}" alt="{{title}}" width="100%" height="auto" class="">
@@ -142,30 +58,16 @@
 <h3>See more</h3>
 
 <div id="challengeContent" class="container mx-auto grid grid-cols-5 gap-16 mt-16 mb-32 px-8">
-    <!-- <style>
-        /* Hide inactive checkboxes */
-        input[type="checkbox"]:not(:checked) {
-            display: none;
-        }
-    </style> -->
-    <div class="col-start-1 col-span-5">
-        {{ collection from="*" not_from="pages" as="results"
-            taxonomy:challenges="{{slug}}"
-            :taxonomy:collection_type="get:collectiontype"
-            
-             }}
-            {{ if no_results }}
-                <div class="p-8 rounded-lg bg-gray-100 text-center">
-                    Sorry, no results.
-                </div>
-            {{ else }}
-                <div class="grid grid-cols-2 gap-32">
-                    {{ results | shuffle }}
-                        {{ partial:cards/card }}
-                    {{ /results }}
-                </div>
-            {{ /if }}
-        {{ /collection }}
+   <div class="col-span-2">
+    {{ livewire:lf-checkbox-filter
+        blueprint="books.book"
+        field="collection_type"
+        condition="taxonomy"
+    }}
+   </div>
+    <div class="col-start-3 col-span-3">
+        {{ livewire:lf-tags blueprint="books.book" fields="collection_type" }}
+        {{ livewire-collection:* }}
     </div>
 </div>
 

@@ -149,7 +149,12 @@ function doFlip() {
 }
 
 var revealFilters = gsap.timeline({paused: true})
-      .add(doFlip())
+      .to('#filterButton', {
+        backgroundColor: '#141852',
+        color: 'white'
+      }
+      )
+      .add(doFlip(), "-=50%")
       .fromTo('.labelcontainer', 
         { 
         autoAlpha: 0,
