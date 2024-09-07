@@ -1,7 +1,7 @@
 ---
 id: 6e4c228c-a3e7-44f5-afd6-201d1a1f0e8b
 blueprint: articles
-title: '"For reasons that are not well understood, war’s codes are safer for most of us than love’s."'
+title: '"For reasons that are not well understood, war’s codes are safer,,,than love’s."'
 articleauthor: 'David Foster Wallace'
 date_published: '2006-08-20'
 link: 'https://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html?unlocked_article_code=1.I04.963d.wzM4x8y5bQsB&smid=url-share'
@@ -669,5 +669,5 @@ related_content:
   - cec12744-472f-4da0-b17a-41b303b4a29e
   - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1725719122
+updated_at: 1725719198
 ---
