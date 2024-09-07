@@ -638,38 +638,6 @@ article_text:
         text: ' An article in PLAY magazine last Sunday about the tennis player Roger Federer referred incompletely to a point between Federer and Andre Agassi in the 2005 United States Open final and incorrectly described Agassi’s position on the final shot of the point. There was an exchange of groundstrokes in the middle of the point that was not described. And Agassi remained at the baseline on Federer’s winning shot; he did not go to the net.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-          -
-            type: italic
-        text: 'A correction was made on'
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Aug. 27, 2006'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'An article in PLAY magazine last Sunday about the tennis player Roger Federer referred incompletely to a point between Federer and Andre Agassi in the 2005 United States Open final and incorrectly described Agassi’s position on the final shot of the point. There was an exchange of groundstrokes in the middle of the point that was not described. And Agassi remained at the baseline on Federer’s winning shot; he did not go to the net.'
-  -
-    type: paragraph
 collection_type: article
 challenges:
   - war
@@ -682,5 +650,5 @@ related_content:
   - cec12744-472f-4da0-b17a-41b303b4a29e
   - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1725723048
+updated_at: 1725728750
 ---
