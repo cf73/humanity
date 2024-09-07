@@ -13,15 +13,22 @@ description:
     content:
       -
         type: text
-        text: 'Titled "Roger Federer as religious experience," this is a deeply insightful, fun, and unusual analysis that tells us much about human choices around how we understand our differences and resolve our conflicts.'
+        text: 'Titled '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Roger Federer as Religious Experience'
+      -
+        type: text
+        text: ', this is about understanding differences and resolving conflicts:'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Here is another of David Foster Wallace''s observations: "Beauty is not the goal of competitive sports, but high-level sports are a prime venue for the expression of human beauty. The relation is roughly that of courage to war."'
-  -
-    type: paragraph
+        text: '"Of course, in men’s sports no one ever talks about beauty or grace or the body. Men may profess their “love” of sports, but that love must always be cast and enacted in the symbology of war: elimination vs. advance, hierarchy of rank and standing, obsessive statistics, technical analysis, tribal and/or nationalist fervor, uniforms, mass noise, banners, chest-thumping, face-painting..."'
 article_text:
   -
     type: paragraph
@@ -675,5 +682,5 @@ related_content:
   - cec12744-472f-4da0-b17a-41b303b4a29e
   - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1725722252
+updated_at: 1725722988
 ---
