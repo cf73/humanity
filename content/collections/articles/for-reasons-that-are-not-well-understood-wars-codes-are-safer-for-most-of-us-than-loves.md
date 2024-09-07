@@ -28,7 +28,7 @@ description:
     content:
       -
         type: text
-        text: '"Of course, in men’s sports no one ever talks about beauty or grace or the body. Men may profess their “love” of sports, but that love must always be cast and enacted in the symbology of war: elimination vs. advance, hierarchy of rank and standing, obsessive statistics, technical analysis, tribal and/or nationalist fervor, uniforms, mass noise, banners, chest-thumping, face-painting..."'
+        text: '"Of course, in men’s sports no one ever talks about beauty or grace or the body. Men may profess their ''love'' of sports, but that love must always be cast and enacted in the symbology of war: elimination vs. advance, hierarchy of rank and standing, obsessive statistics, technical analysis, tribal and/or nationalist fervor, uniforms, mass noise, banners, chest-thumping, face-painting..."'
 article_text:
   -
     type: paragraph
@@ -682,5 +682,5 @@ related_content:
   - cec12744-472f-4da0-b17a-41b303b4a29e
   - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1725722988
+updated_at: 1725723048
 ---
