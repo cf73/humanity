@@ -1,8 +1,11 @@
 {{partial:globals/smoothWrapStart}}
         
     <div id="earth"  style="background-image: url('{{hero_images | random}}');"
-            class="bg-no-repeat bg-bottom bg-cover h-[80vh] w-full flex flex-col justify-end absolute top-0">
-            
+            class="bg-no-repeat bg-bottom bg-cover h-[100vh] w-full flex flex-col justify-end pb-36 absolute top-24">
+            <div class="p-16 relative z-20">
+                <h1 id="counting" class="text-diamond">2024 and counting.</h1>
+                <h1 id="itstime" class="text-diamond">It's time to rescue our humanity.</h1>
+            </div>
             <div id="dimmer" class="bg-gradient-to-t from-black to-transparent h-[60vh] absolute z-0 bottom-0 w-full hidden"></div>
     </div>
     
@@ -28,14 +31,9 @@
         <div class="prose prose-sky prose-2xl text-center">
             {{welcome_text}}
         </div>
-        <a data-speed="1.2" href="/donate"><button class="btn-primary mt-16">Please donate $10 to support our work</button></a>
     </div>
 
-    {{partial:themeIntroBlock challengeslugpassed="war"}}
-
-
-
-    {{partial:themeIntroBlock challengeslugpassed="climate"}}
+  
 
     <!-- <section class="py-48 space-y-8 text-white bg-black relative z-50">
         <div class="font-thin text-8xl text-center leading-tight px-36">
@@ -46,7 +44,6 @@
         </div>
     </section> -->
 
-    {{partial:themeIntroBlock challengeslugpassed="democracy"}}
 
 
 

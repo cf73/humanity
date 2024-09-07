@@ -73,6 +73,14 @@ ScrollTrigger.create({
   pinSpacing: false,
 });
 
+// ScrollTrigger.create({
+//   trigger: "#allContent",
+//   start: "top 220",
+//   end: "bottom bottom",
+//   pin: '#pinnedFilters',
+// });
+
+
 
 // fade awway hero-area on scroll
 gsap.fromTo(
@@ -155,33 +163,33 @@ var revealFilters = gsap.timeline({paused: true})
       }
       )
       .add(doFlip(), "-=50%")
-      .fromTo('.labelcontainer', 
-        { 
-        autoAlpha: 0,
-        left: 60
-        },
-        {
-          autoAlpha: 1,
-          duration: 1,
-          ease: "power3.out",
-          left: 0,
-          stagger: 0.1
-        }, "-=30%"
-      )
-      .fromTo('#filterButtons', {
-        y: 90,
-        autoAlpha: 0,
-      },
-      {
-        autoAlpha: 1,
-        y: 0,
-        duration: 1,
-        ease: 'power1.out',
-      }, "-=130%")
+      // .fromTo('.labelcontainer', 
+      //   { 
+      //   autoAlpha: 0,
+      //   left: 60
+      //   },
+      //   {
+      //     autoAlpha: 1,
+      //     duration: 1,
+      //     ease: "power3.out",
+      //     left: 0,
+      //     stagger: 0.1
+      //   }, "-=30%"
+      // )
+      // .fromTo('#filterButtons', {
+      //   y: 90,
+      //   autoAlpha: 0,
+      // },
+      // {
+      //   autoAlpha: 1,
+      //   y: 0,
+      //   duration: 1,
+      //   ease: 'power1.out',
+      // }, "-=130%")
       ;
 
 document.getElementById("filterButton").onclick = () => revealFilters.play();
-document.getElementById("closeFiltersButton").onclick = () => revealFilters.reverse();
+document.getElementById("closeFilters").onclick = () => revealFilters.reverse();
 
 
   

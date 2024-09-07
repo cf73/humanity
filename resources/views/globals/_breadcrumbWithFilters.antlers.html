@@ -1,6 +1,8 @@
 <div id="breadcrumb" class="w-full h-16 bg-white fixed top-24 z-50 box-border">
     <div class="container mx-auto h-full flex flex-row items-center justify-between">
         <h4>Our Challenges / {{title}}</h4>
+        {{ livewire:lf-tags blueprint="books.book" fields="collection_type" }}
+
         <div id="filterButton" class="cursor-pointer z-50">
             <h4 class="p-4"><i class="las la-filter"></i>Filter</h4>
         </div>
@@ -9,7 +11,12 @@
 
 <div id="filtersheet" class="w-full h-0 top-40 bg-white/90 backdrop-blur fixed left-0 z-50 overflow-hidden">
     <div id="filters" class="container mx-auto flex flex-col relative h-[calc(100vh-200px)]">
-        <form action="{{url}}/results" method="get" class="pt-24">
+        {{ livewire:lf-checkbox-filter
+            blueprint="books.book"
+            field="collection_type"
+            condition="taxonomy"
+        }}
+        <!-- <form action="{{url}}/results" method="get" class="pt-24">
             <input type="hidden" name="challenge" value="{{slug}}">
                 {{taxonomy:collection_type}}
                     <label class="textMainSans leading-loose labelcontainer">
@@ -80,6 +87,6 @@
                     <button type="submit" class="btn-primary">Apply filter</button>
                     <button id="closeFiltersButton" type="button" class="btn-tirtiary">Cancel</button>
                 </div>
-        </form>
+        </form> -->
     </div>
 </div>

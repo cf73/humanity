@@ -26,4 +26,7 @@
         @include('statamic-livewire-filters::livewire.ui.clear-filters-button')
     </div>
     @endunless
+    <div class="mt-4">
+        <button id="closeFilters" class="btn-primary">View results</button>
+    </div>
 </div>

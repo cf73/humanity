@@ -1,19 +1,15 @@
-<div id="main-nav" class="bg-lightSkyBlue w-full h-[20vh] absolute top-[80vh] left-0 z-50">
+<div id="main-nav" class="bg-lightSkyBlue w-full h-24 fixed top-0 left-0 z-50">
     <div class="container mx-auto h-full flex flex-row justify-between items-center">
         <div id="logo" class="">
             <a href="/"><img src="/assets/humanity-logo.png" alt="Humanity Logo" width="180px"></a>
         </div>
-        <nav class="flex flex-row hidden">
+        <nav class="flex flex-row">
             {{ nav:topnav }}
                 <a href="{{ url }}"{{ if is_current || is_parent }} class="current"{{ /if }} class="ml-12">
                     <h4 class="">{{title}}</h4>
                 </a>
             {{/nav:topnav}}
         </nav>
-        <div class="p-16 relative z-20">
-            <h1 id="counting" class="text-diamond">2024 and counting.</h1>
-            <h1 id="itstime" class="text-diamond">It's time to rescue our humanity.</h1>
-        </div>
     </div>
     
 </div>
