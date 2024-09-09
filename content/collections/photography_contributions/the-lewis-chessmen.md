@@ -4,7 +4,7 @@ blueprint: photography_contribution
 title: 'The Lewis Chessmen'
 photographer_name: 'From Scotland, possibly 12th century'
 photographer_website: 'The British Museum'
-image: image-1725904992.jpeg
+image: oip.g2f130xwuqqfxwghmpoupwhaha.jpeg
 description:
   -
     type: paragraph
@@ -17,5 +17,5 @@ challenges:
   - war
 sections: peace-gatherings
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1725905086
+updated_at: 1725905359
 ---
