@@ -1,5 +1,5 @@
 
-<div class="h-full overflow-hidden text-center">
+<div class="resultCard h-full overflow-hidden text-center">
     <a href="{{url}}"><div class="w-full h-80 mb-2 bg-contain bg-no-repeat bg-bottom flex p-2 items-end" style="background-image: url({{image}});"></div></a>
 
 
@@ -8,7 +8,7 @@
         {{partial:cards/tape passedValue="{{collection:title}}" passedColor="atomicTangerine"}}
 
         <a href="{{url}}">
-            <h3 class="text-{{headingColor}}">{{title}}<i class="las la-angle-right text-xl"></i></h3>
+            <h3 class="text-{{headingColor}}">{{title}}</h3>
         </a>
         {{if speaker}}
             <span class="textSecondary">{{speaker}}</span>

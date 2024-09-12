@@ -1,6 +1,6 @@
-<div id="breadcrumb" class="w-full h-16 bg-white fixed top-24 z-50 box-border">
+<div id="breadcrumb" class="w-full h-auto pt-2 pb-1 bg-white/90 backdrop-blur fixed top-0 z-40 box-border drop-shadow">
     <div class="container mx-auto h-full flex flex-row items-center justify-between">
-        <h4>Our Challenges / {{title}}</h4>
+        <div class="textMeta">Our Challenges / {{title}}</div>
         {{ livewire:lf-tags blueprint="books.book" fields="collection_type" }}
 
         <div id="filterButton" class="cursor-pointer z-50">

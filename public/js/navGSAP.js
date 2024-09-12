@@ -23,27 +23,26 @@ document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
 // CHALLENGE SHOW TEMPLATE ----------------------------------------------------------------------------------------------
 
 // pin hero area
-// ScrollTrigger.create({
-//   Trigger: '#hero-area',
-//   start: 'top top',
-//   end: "+=2500",
-//   pin: '#hero-area',
-// });
+ScrollTrigger.create({
+  Trigger: '#hero-area',
+  start: 'top top',
+  end: "+=1000",
+  pin: '#hero-area',
+});
 
 // fade away the title text on scroll
 gsap.fromTo(
-  "#initialQuote",
+  "#heroImage",
   {opacity: 1, // Initial opacity (from value)
   },
   {
     immediateRender: false,
     opacity: 0, // Target opacity (to value)
-    duration: 0.25,
+    duration: 3,
     scrollTrigger: {
-      trigger: "#initialQuote",
-      start: "bottom 90%",
-      end: "bottom 20%",
-      toggleActions: "play pause reverse reset",
+      trigger: "#hero-area",
+      start: "middle top",
+      toggleActions: "play none none reverse",
       markers: false,
       scrub: false,
     },
@@ -51,27 +50,60 @@ gsap.fromTo(
 );
 
 //fade up the intro text
-gsap.to('#introText', {
-  scrollTrigger: {
-      trigger: "#initialQuote",
-      start: "bottom center",
-      end: "bottom top",
-      toggleActions: "play pause reverse reset",
-      markers: false,
-      scrub: false,
-  },
-  opacity: 1,
-  duration: 1,
-});
+// gsap.to('#introText', {
+//   scrollTrigger: {
+//       trigger: "#initialQuote",
+//       start: "bottom center",
+//       end: "bottom top",
+//       toggleActions: "play pause reverse reset",
+//       markers: false,
+//       scrub: false,
+//   },
+//   opacity: 1,
+//   duration: 1,
+// });
 
 //pin introText for a while
-ScrollTrigger.create({
-  trigger: "#initialQuote",
-  start: "top top",
-  end: "+=1200",
-  pin: '#introText',
-  pinSpacing: false,
-});
+// ScrollTrigger.create({
+//   trigger: "#initialQuote",
+//   start: "top top",
+//   end: "+=1200",
+//   pin: '#introText',
+//   pinSpacing: false,
+// });
+
+
+
+// Select all resultCard elements
+// const resultCards = document.querySelectorAll('.resultCard');
+
+// Group resultCard elements by rows
+// const rows = [];
+// resultCards.forEach((card, index) => {
+//     const rowIndex = Math.floor(index / 3);
+//     if (!rows[rowIndex]) {
+//         rows[rowIndex] = [];
+//     }
+//     rows[rowIndex].push(card);
+// });
+
+// Create the staggered fade-in animation for each row
+// rows.forEach((row, rowIndex) => {
+//     gsap.to(row, {
+//         opacity: 1,
+//         duration: 1,
+//         stagger: {
+//             each: 0.2, // Delay between each item in the row
+//             from: 'start' // Start the animation from the first item in the row
+//         },
+//         scrollTrigger: {
+//             trigger: row[0], // Use the first item in the row as the trigger
+//             start: 'top 60%', // Start the animation when the row is 80% from the top of the viewport
+//             end: 'bottom 50%', // End the animation when the row is 20% from the bottom of the viewport
+//             scrub: true // Smoothly animate the items as the user scrolls
+//         }
+//     });
+// });
 
 // ScrollTrigger.create({
 //   trigger: "#allContent",
@@ -83,45 +115,57 @@ ScrollTrigger.create({
 
 
 // fade awway hero-area on scroll
-gsap.fromTo(
-  "#hero-area",
-  {opacity: 1, // Initial opacity (from value)
+// gsap.fromTo(
+//   "#hero-area",
+//   {opacity: 1, // Initial opacity (from value)
+//   },
+//   {
+//     opacity: 0, // Target opacity (to value)
+//     duration: .5,
+//     scrollTrigger: {
+//       trigger: "#introText",
+//       start: "top top",
+//       end: "bottom center",
+//       toggleActions: "play none reverse reverse",
+//       markers: false,
+//       scrub: false,
+//     },
+//   }
+// );
+
+// // Pin breadcrumb
+// ScrollTrigger.create({
+//   trigger: "main",
+//   start: "top top",
+//   end: "bottom top",
+//   markers: false,
+//   pin: '#breadcrumb',
+//   pinSpacing: false,
+// });
+
+// // Pin breadcrumb
+// ScrollTrigger.create({
+//   trigger: "main",
+//   start: "top top",
+//   end: "bottom top",
+//   markers: false,
+//   pin: '#breadcrumb',
+//   pinSpacing: false,
+// });
+
+gsap.to("#breadcrumb", {
+  scrollTrigger: {
+    trigger: "#allContent",
+    start: "top top", // Adjust based on when you want the animation to start
+    toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
   },
-  {
-    opacity: 0, // Target opacity (to value)
-    duration: .5,
-    scrollTrigger: {
-      trigger: "#introText",
-      start: "top top",
-      end: "bottom center",
-      toggleActions: "play none reverse reverse",
-      markers: false,
-      scrub: false,
-    },
-  }
-);
+  y: 96, // Example animation property
+  duration: .75,
+  ease: "power2.inOut"
+});
 
-// Pin breadcrumb
-// ScrollTrigger.create({
-//   trigger: "main",
-//   start: "top top",
-//   end: "bottom top",
-//   markers: false,
-//   pin: '#breadcrumb',
-//   pinSpacing: false,
-// });
 
-// Pin breadcrumb
-// ScrollTrigger.create({
-//   trigger: "main",
-//   start: "top top",
-//   end: "bottom top",
-//   markers: false,
-//   pin: '#breadcrumb',
-//   pinSpacing: false,
-// });
-
-// Pin filterssheet
+// // // Pin filterssheet
 // ScrollTrigger.create({
 //   trigger: "main",
 //   start: "top top",

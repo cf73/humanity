@@ -46,7 +46,7 @@
         @apply font-josephin font-light text-yellow-600 subpixel-antialiased prose prose-sky mx-auto leading-normal text-xl;
     }
     .textSecondary {
-        @apply font-serif text-spaceCadet antialiased tracking-wide;
+        @apply font-serif text-spaceCadet antialiased tracking-tight;
     }
 }
 
