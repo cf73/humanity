@@ -1,5 +1,5 @@
 gsap.registerPlugin(ScrollTrigger);
-
+gsap.registerPlugin(ScrollToPlugin);
 ScrollTrigger.normalizeScroll(true);
 
 gsap.timeline().from("body", {opacity:0, duration:3, ease:"expo.inOut"});
@@ -24,13 +24,14 @@ document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
 
 // pin hero area
 ScrollTrigger.create({
-  Trigger: '#hero-area',
+  trigger: '#invisibleScrollerTarget',
   start: 'top top',
-  end: "+=1000",
+  end: '+=900',
   pin: '#hero-area',
 });
 
-// fade away the title text on scroll
+
+// fade away hero image on scroll
 gsap.fromTo(
   "#heroImage",
   {opacity: 1, // Initial opacity (from value)
@@ -40,14 +41,24 @@ gsap.fromTo(
     opacity: 0, // Target opacity (to value)
     duration: 3,
     scrollTrigger: {
-      trigger: "#hero-area",
-      start: "middle top",
+      trigger: "#invisibleScrollerTarget",
+      start: "top -400",
       toggleActions: "play none none reverse",
-      markers: false,
       scrub: false,
     },
   }
 );
+
+// pin hero quote
+// ScrollTrigger.create({
+//   trigger: '#invisibleScrollerTarget',
+//   start: 'top top',
+//   end: "+=1000",
+//   pin: '#heroQuote',
+//   markers: true
+// });
+
+
 
 //fade up the intro text
 // gsap.to('#introText', {
@@ -207,33 +218,36 @@ var revealFilters = gsap.timeline({paused: true})
       }
       )
       .add(doFlip(), "-=50%")
-      // .fromTo('.labelcontainer', 
-      //   { 
-      //   autoAlpha: 0,
-      //   left: 60
-      //   },
-      //   {
-      //     autoAlpha: 1,
-      //     duration: 1,
-      //     ease: "power3.out",
-      //     left: 0,
-      //     stagger: 0.1
-      //   }, "-=30%"
-      // )
-      // .fromTo('#filterButtons', {
-      //   y: 90,
-      //   autoAlpha: 0,
-      // },
-      // {
-      //   autoAlpha: 1,
-      //   y: 0,
-      //   duration: 1,
-      //   ease: 'power1.out',
-      // }, "-=130%")
+      .fromTo('.labelcontainer', 
+        { 
+        autoAlpha: 0,
+        left: 60
+        },
+        {
+          autoAlpha: 1,
+          duration: 1,
+          ease: "power3.out",
+          left: 0,
+          stagger: 0.1
+        }, "-=30%"
+      )
+      .fromTo('#filterButtons', {
+        y: 90,
+        autoAlpha: 0,
+      },
+      {
+        autoAlpha: 1,
+        y: 0,
+        duration: 1,
+        ease: 'power1.out',
+      }, "-=130%")
       ;
 
 document.getElementById("filterButton").onclick = () => revealFilters.play();
-document.getElementById("closeFilters").onclick = () => revealFilters.reverse();
+document.getElementById("closeFilters").onclick = () => {
+  gsap.to(window, { duration: 2, scrollTo: { y: "#challengeContent", offsetY: 200 } });
+  revealFilters.reverse();
+};
 
 
   
