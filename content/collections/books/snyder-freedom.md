@@ -58,7 +58,7 @@ description:
               title: null
           -
             type: italic
-        text: 'On Tyranny..'
+        text: 'On Tyranny.'
 collection_type: book
 challenges:
   - democracy
@@ -68,5 +68,5 @@ related_partner_initiatives:
 related_content:
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1726591605
+updated_at: 1726591674
 ---
