@@ -45,26 +45,7 @@ description:
         marks:
           -
             type: italic
-        text: 'Compare with Timothy Snyders 2016 book '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'statamic://entry::eda9251c-69f9-4ae7-aa71-af6fa93e1920'
-              rel: null
-              target: null
-              title: null
-          -
-            type: italic
-        text: 'on tyranny'
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: .
+        text: "Compare with Timothy Snyder's 2016 book On Tyranny.."
 collection_type: book
 challenges:
   - democracy
@@ -74,5 +55,5 @@ related_partner_initiatives:
 related_content:
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1726591130
+updated_at: 1726591301
 ---
