@@ -3,7 +3,7 @@ id: 538d7fdf-ff13-46b8-bbb1-34990b68d61c
 blueprint: book
 title: 'Freedom  (2024)'
 book_author: 'Timothy Snyder'
-date_published: '2024-09-10'
+date_published: '2024-09-17'
 link: 'https://www.goodreads.com/book/show/203956715-on-freedom?ac=1&from_search=true&qid=7kXTiJyGD5&rank=1'
 image: image-1726589249.jpeg
 description:
@@ -68,5 +68,5 @@ related_partner_initiatives:
 related_content:
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1726591674
+updated_at: 1726592177
 ---
