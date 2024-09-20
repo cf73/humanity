@@ -3,9 +3,9 @@
 
 <div id="invisibleScrollerTarget"></div>
 
-<div id="hero-area" class="relative w-full h-[100vh] top-24">
+<div id="hero-area" class="relative w-full h-[100vh]">
     <div id="heroImage" style="background-image: url({{main_image:image}});"
-                        class="bg-cover bg-center bg-no-repeat w-full h-[calc(100vh-96px)] absolute top-0 left-0 z-30">
+                        class="bg-cover bg-center bg-no-repeat w-full h-full absolute top-0 left-0 z-30">
     
         <video id="earth" src="{{intro_movie}}" autoplay muted loop style="
         position: absolute;
@@ -68,8 +68,5 @@
         </div>
     </div>
 </section>
-
-<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
-<script src="/js/challengeShow.js"></script>
 
 {{partial:globals/smoothWrapEnd}}

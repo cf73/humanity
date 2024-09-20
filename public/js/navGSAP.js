@@ -19,6 +19,19 @@ var navianimation = gsap.timeline({paused: true})
 
 document.getElementById("openNav").onclick = ()=> navianimation.play();
 document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
+// GLOABLS
+// slide down nav bar
+
+gsap.to("#main-nav", {
+  scrollTrigger: {
+    trigger: "#invisibleScrollerTarget",
+    start: "top -96", // Adjust based on when you want the animation to start
+    toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
+  },
+  y: 96,
+  duration: .75,
+  ease: "power2.inOut",
+});
 
 // CHALLENGE SHOW TEMPLATE ----------------------------------------------------------------------------------------------
 
@@ -170,7 +183,7 @@ gsap.to("#breadcrumb", {
     start: "top top", // Adjust based on when you want the animation to start
     toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
   },
-  y: 96, // Example animation property
+  y: 192, // Example animation property
   duration: .75,
   ease: "power2.inOut"
 });
@@ -250,7 +263,6 @@ document.getElementById("closeFilters").onclick = () => {
 };
 
 
-  
   
 //   // re-pin hero area
 // ScrollTrigger.create({

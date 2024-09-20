@@ -1,5 +1,5 @@
 <div>
-    <div class="grid grid-cols-1 gap-y-4 py-16">
+    <div class="grid grid-cols-1 gap-y-4 pt-16 pb-8">
         @foreach($this->filter_options as $value => $label)
         <div class="flex items-center labelcontainer relative">
             <input 
@@ -21,12 +21,12 @@
         </div>
         @endforeach
     </div>
-    @unless ($selected == [])
-    <div class="mt-4">
-        @include('statamic-livewire-filters::livewire.ui.clear-filters-button')
-    </div>
-    @endunless
-    <div class="mt-4">
+    
+    <div id="filterButtons" class="flex flex-row gap-4">
         <button id="closeFilters" class="btn-primary">View results</button>
+        @unless ($selected == [])
+            @include('statamic-livewire-filters::livewire.ui.clear-filters-button')
+        @endunless
+
     </div>
 </div>

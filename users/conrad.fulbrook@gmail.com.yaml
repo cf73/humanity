@@ -18,3 +18,4 @@ preferences:
   assets:
     assets:
       mode: grid
+  theme: light

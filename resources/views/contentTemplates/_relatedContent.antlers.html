@@ -1,7 +1,6 @@
 {{if related_content}}
 <div data-speed="1.5" class="pt-16 pb-24 mb-20 space-y-8 flex flex-col bg-veryLightAzure mt-0">
-    <div class="swiper relatedContentSwiper">
-        <div class="container mx-auto">
+    <div class="swiper relatedContentSwiper container">
             <div class="flex flex-row items-center justify-between w-full mb-8">
                 <h2>Suggested content</h2>
                 <div class="flex flex-row justify-end space-x-2 relative -left-1 mt-[40px] mb-8 mr-8 swiper-pagination">
@@ -9,7 +8,6 @@
                     <div class="image-swiper-button-next"></div>
                 </div>
             </div>
-        </div>
 
         <div class="swiper-wrapper">
             {{related_content | shuffle}}

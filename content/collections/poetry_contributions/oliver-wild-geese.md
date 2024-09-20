@@ -6,11 +6,17 @@ poets_name: 'Mary Oliver (1935-2019). She was a Pulitzer Prize winning poet. She
 image: image-1718800841.jpeg
 challenges:
   - war
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722632012
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1726763415
 collection_type: poetry-contribution
 poets_website: 'https://www.poetryfoundation.org/articles/69656/mary-oliver-and-the-nature-esque'
 sections: inspiration
+related_content:
+  - 3b334a81-f6d2-4f3b-ab0f-d09bb350cb09
+  - 0ac2ceeb-3da0-44c4-921b-3897f491e659
+  - 67a3611f-21d4-47dd-9a87-89be7db4df11
+  - cadec32d-dfcb-49f6-b5c8-cf60068eb464
+  - e956626e-5095-4572-ba16-35a5918e8a54
 content:
   -
     type: paragraph
