@@ -1,3 +1,7 @@
+{{partial:globals/smoothWrapStart}}
+
+{{partial:globals/breadcrumb-tags}}
+
 <div class="container mx-auto my-24">
     <h1 class="text-center">{{title}}</h1>
     <div class="space-y-2 mb-16 flex flex-col prose prose-sky text-center mx-auto">
@@ -17,5 +21,8 @@
             <span class="textSecondary"><a href="{{link}}" target="_blank">{{poets_website}}</a></span>
         </div>
     </div>
-    <div class="prose prose-sky mx-auto">{{content}}</div>
+    <div class="textMain mx-auto">{{content}}</div>
 </div>
+{{partial:contentTemplates/relatedContent}}
+
+{{partial:globals/smoothWrapEnd}}

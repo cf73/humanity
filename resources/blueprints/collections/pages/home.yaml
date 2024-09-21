@@ -21,16 +21,71 @@ tabs:
               validate:
                 - required
           -
-            handle: welcome_text
+            handle: welcome_message
+            field:
+              buttons:
+                - removeformat
+              remove_empty_nodes: false
+              type: bard
+              display: 'Welcome message'
+          -
+            handle: intro_to_sites_content_image
+            field:
+              max_files: 1
+              container: assets
+              type: assets
+              display: "Intro to site's content image"
+              validate:
+                - required
+          -
+            handle: intro_to_sites_content
+            field:
+              type: group
+              display: "Intro to site's content"
+              fields:
+                -
+                  handle: summary
+                  field:
+                    type: textarea
+                    display: Summary
+                -
+                  handle: accordion
+                  field:
+                    type: replicator
+                    display: Accordion
+                    sets:
+                      new_set_group:
+                        display: 'New Set Group'
+                        sets:
+                          accordion_item:
+                            display: 'Accordion item'
+                            fields:
+                              -
+                                handle: item_title
+                                field:
+                                  type: text
+                                  display: 'Item title'
+                                  validate:
+                                    - required
+                              -
+                                handle: item_content
+                                field:
+                                  type: textarea
+                                  display: 'Item content'
+                                  validate:
+                                    - required
+          -
+            handle: closing_text
             field:
               buttons:
                 - bold
                 - italic
                 - removeformat
-                - anchor
               remove_empty_nodes: false
               type: bard
-              display: 'Welcome text'
+              display: 'Closing text'
+              validate:
+                - required
           -
             handle: commencement_speeches_hero_images
             field:

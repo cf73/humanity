@@ -1,66 +1,245 @@
-<div id="earth" data-speed="2.5" style="background-image: url('{{hero_images | random}}');"
-        class="bg-no-repeat bg-center bg-cover h-screen w-full flex flex-col justify-end">
-        <div class="p-16 relative z-20 text-center">
-            <h1 id="counting" class="text-diamond">2024 and counting.</h1>
-            <h1 id="itstime" class="text-atomicTangerine">It's time to rescue our humanity.</h1>
-        </div>
-        <div id="dimmer" class="bg-gradient-to-t from-black to-transparent h-[60vh] absolute z-0 bottom-0 w-full"></div>
-</div>
- 
+{{partial:globals/smoothWrapStart}}
+<div id="invisibleScrollerTarget"></div>
 
-<div id="intro"></div>
-<!-- <section id="intro" class="w-full py-[25vh] bg-warmwhite relative z-10 flex flex-col items-center justify-center space-y-8">
-    <div id="introprose" class="w-2/3 text-2xl font-serif leading-loose text-softblack text-center opacity-0" data-speed="1.25">{{intro}}</div>
-    <div data-speed="1.25"><a href="/about"><button>About The Humanity Initiative</button></a></div>
-</section>   -->
-
-<div class="container mx-auto mb-40 flex flex-col items-center space-y-8">
-    <!-- <div class="flex flex-col justify-center w-full">
-        {{donate}}
-        {{if video_id}}
-        <div class="aspect-w-16 aspect-h-9 bg-green">
-            <iframe src="https://www.youtube.com/embed/{{video_id}}" class="w-full h-full" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        </div>
-        {{else}}
-        <img src="{{image}}" alt="{{title}}" class="w-full">
-        {{/if}}
-        {{/donate}}
-    </div> -->
-    <div class="prose prose-sky prose-2xl text-center">
-        {{welcome_text}}
+    <div id="earth"  style="background-image: url('{{hero_images | random}}');"
+            class="hidden bg-no-repeat bg-bottom bg-cover h-[100vh] w-full flex flex-col justify-end pb-36 absolute top-24">
+            <div class="p-16 relative z-20">
+                <h1 id="counting" class="text-diamond">2024 and counting.</h1>
+                <h1 id="itstime" class="text-diamond">It's time to rescue our humanity.</h1>
+            </div>
+            <!-- <div id="dimmer" class="bg-gradient-to-t from-black to-transparent h-[60vh] absolute z-0 bottom-0 w-full hidden"></div> -->
     </div>
-    <a data-speed="1.2" href="/donate"><button class="btn-primary mt-16">Please donate $10 to support our work</button></a>
-</div>
+    
 
-{{partial:themeIntroBlock challengeslugpassed="war"}}
+    <div id="intro"></div>
+    <!-- <section id="intro" class="w-full py-[25vh] bg-warmwhite relative z-10 flex flex-col items-center justify-center space-y-8">
+        <div id="introprose" class="w-2/3 text-2xl font-serif leading-loose text-softblack text-center opacity-0" data-speed="1.25">{{intro}}</div>
+        <div data-speed="1.25"><a href="/about"><button>About The Humanity Initiative</button></a></div>
+    </section>   -->
 
 
 
-{{partial:themeIntroBlock challengeslugpassed="climate"}}
+<section id="hero" class="h-screen relative">
+    <div class="background absolute top-0 left-0 w-2/3 h-full bg-softblack z-0"></div>
+    <div class="container mx-auto h-full grid grid-cols-2 relative z-30">
+        <div class="flex flex-col justify-center h-full pr-16 space-y-12">
+            <div>
+                <h1 id="counting" class="text-white">2024 and counting...</h1>
+                <h1 id="itstime" class="text-white">it's time to rescue our humanity</h1>
+            </div>
+            <div class="prose prose-sky prose-invert prose-xl leading-snug">
+                {{welcome_message}}
+            </div>
+            <button id="heroButton" class="btn-primary">Learn more about our challenges</button>
+            </div>
+        <div data-speed=".6" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat"></div>
+    </div>
+</section>
 
-<!-- <section class="py-48 space-y-8 text-white bg-black relative z-50">
-    <div class="font-thin text-8xl text-center leading-tight px-36">
+<section id="secondary" class="grid grid-cols-2 gap-16 h-[calc(100vh-96px)]">
+    <div class="flex flex-col justify-center h-full">
+        <h2 class="bg-blueblast p-32">
+            {{intro_to_sites_content:summary}}
+        </h2>
+        <div style="background-image: url({{intro_to_sites_content_image}});" class="bg-center bg-cover bg-repeat-no-repeat bg-red-300 h-full"></div>
+        </div>
+    <div class="h-full w-full flex flex-col justify-center p-32">
+        <div class="accordion container mx-auto relative z-40">
+            <style>
+                .accordion-item.active .accordion-icon {
+                transform: rotate(90deg);
+                }
+            </style>
+            {{intro_to_sites_content:accordion}}
+            <div class="accordion-item py-4 border-b border-softblack">
+                <div class="accordion-header cursor-pointer flex items-center justify-between py-2 font-inter font-medium duration-200 ease-out">
+                    <h2>{{item_title}}</h2>
+                    <span class="accordion-icon inline-block rotate-0 duration-200 ease-out"><i class="fa-solid fa-chevron-down accordion-icon"></i></span>
+                </div>
+                <div style="height: 0;" class="accordion-content overflow-hidden duration-200 ease-out">
+                    <div class="prose prose-sky prose-lg py-4">
+                        {{item_content}}
+                        <div class="mt-4"><a href="{{url}}"><button class="btn-tirtiary">Explore</button></a></div>
+                    </div>
+                </div>
+            </div>
+            {{/intro_to_sites_content:accordion}}
+        </div>
+    </div>
+</section>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+document.getElementById("heroButton").onclick = () => {
+    gsap.to(window, { duration: 2, scrollTo: { y: "#challengesIntro", offsetY:24 } });
+};
+});
+</script>
+
+<section id="challengesIntro" class="h-full w-full bg-white pt-32 space-y-16">
+    <h2 class="text-center">We focus on three main challenges</h2>
+    <div class="flex flex-col h-full">
+        <!-- Tabs -->
+        <ul id="tabs" class="flex flex-row justify-between pt-2 px-1 w-full px-32 mb-8 text-white">
+            <li class=""><a id="default-tab" href="#first" class="flex flex-col items-center underline">
+                <div class="rounded-full bg-war w-24 h-24 mb-4"></div>
+                <h3>Ending War</h3>
+            </a></li>
+            <li class=""><a href="#second" class="flex flex-col items-center">
+                <div class="rounded-full bg-climate w-24 h-24 mb-4"></div>
+                <h3>Solving Climate</h3>
+            </a></li>
+            <li class=""><a href="#third" class="flex flex-col items-center">
+                <div class="rounded-full bg-democracy w-24 h-24 mb-4"></div>
+                <h3>Preserving Democracy</h3>
+            </a></li>
+        </ul>
+
+        <!-- Tab Contents -->
+        <div id="tab-contents" class="h-full">
+            <div id="first" class=" grid grid-cols-2 h-full flex flex-col items-center">
+            {{taxonomy:challenges slug:contains="war"}}
+            <div class="space-y-8 p-32 bg-war h-full text-white">
+                <h2>{{title_text}}</h2>
+                <div class="prose prose-sky text-white text-xl">{{intro_text}}</div>
+                <div><a href="{{url}}"><button class="btn-primary btn-inverse">Explore</button></a></div>
+            </div>
+            <div style="background-image: url({{main_image:image}});" class="bg-no-repeat bg-cover bg-center h-full w-full"></div>
+            {{/taxonomy:challenges}}
+            </div>
+            <div id="second" class="hidden grid grid-cols-2 h-full flex flex-col items-center">
+            {{taxonomy:challenges slug:contains="climate"}}
+            <div class="space-y-8 p-32 bg-climate h-full text-white">
+                <h2>{{title_text}}</h2>
+                <div class="prose prose-sky text-xl text-white">{{intro_text}}</div>
+                <div><a href="{{url}}"><button class="btn-primary btn-inverse">Explore</button></a></div>
+            </div>
+            <div style="background-image: url({{main_image:image}});" class="bg-no-repeat bg-cover bg-center h-full w-full"></div>
+            {{/taxonomy:challenges}}
+            </div>
+            <div id="third" class="hidden grid grid-cols-2 h-full flex flex-col items-center">
+            {{taxonomy:challenges slug:contains="democracy"}}
+            <div class="space-y-8 p-32 bg-democracy h-full">
+                <h2>{{title_text}}</h2>
+                <div class="prose prose-sky text-xl">{{intro_text}}</div>
+                <div><a href="{{url}}"><button class="btn-primary btn-inverse">Explore</button></a></div>
+            </div>
+            <div style="background-image: url({{main_image:image}});" class="bg-no-repeat bg-cover bg-center h-full w-full"></div>
+            {{/taxonomy:challenges}}
+            </div>
+        </div>
+    </div>
+    <script>
+    let tabsContainer = document.querySelector("#tabs");
+
+    let tabTogglers = tabsContainer.querySelectorAll("#tabs a");
+
+    console.log(tabTogglers);
+
+    tabTogglers.forEach(function(toggler) {
+    toggler.addEventListener("click", function(e) {
+        e.preventDefault();
+
+        let tabName = this.getAttribute("href");
+
+        let tabContents = document.querySelector("#tab-contents");
+
+        for (let i = 0; i < tabContents.children.length; i++) {
+        
+        tabTogglers[i].classList.remove("underline");  tabContents.children[i].classList.remove("hidden");
+        if ("#" + tabContents.children[i].id === tabName) {
+            continue;
+        }
+        tabContents.children[i].classList.add("hidden");
+        
+        }
+        e.target.parentElement.classList.add("underline");
+    });
+    });
+    </script>
+</section>
+
+<section id="featuredCommencementSpeeches">
+    <div class="pt-24 pb-16 space-y-8 flex flex-col mt-0 bg-blueblast/60">
+        <div class="swiper featuredCommencementSpeeches px-32">
+                <div class="flex flex-row items-center justify-between w-full mb-8">
+                    <div class="flex flex-col space-y-4">
+                        <h2>Featured Commencement Speeches</h2>
+                        {{ collection:pages slug:is="commencement-speeches" }}
+                            <div class="prose prose-sky text-xl">{{ intro }}</div>
+                        {{ /collection:pages }}
+                        <a href=""><button class="btn-tirtiary">View all</button></a>
+                    </div>
+                    <div class="flex flex-row justify-end space-x-2 relative -left-1 mt-[40px] mb-8 mr-8 swiper-pagination">
+                        <div class="image-swiper-button-prev"></div>
+                        <div class="image-swiper-button-next"></div>
+                    </div>
+                </div>
+    
+            <div class="swiper-wrapper">
+                {{featured_commencement_speeches | shuffle}}
+                    <div class="swiper-slide" style="height: auto !important;">
+                        {{partial:cards/card headingColor=""}}
+                    </div>
+                {{/featured_commencement_speeches}}
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="py-48 space-y-8 text-white relative z-10">
+    <div data-speed=".9" class="font-thin text-8xl text-center leading-tight px-36">
         "Don't look for hope.<br>Look for <span class="font-bold">action</span>."
     </div>
-    <div class="font-bold text-center uppercase tracking-wider">
+    <div data-speed=".9" class="font-bold text-center uppercase tracking-wider">
         &mdash; Greta Thunberg
     </div>
-</section> -->
+</section>
 
-{{partial:themeIntroBlock challengeslugpassed="democracy"}}
-
-
-
-
-
-
-
-
-<!-- <section id="trending" class="bg-green-50 py-8 relative z-50">
-    <div class="container mx-auto space-y-16">
-        <h2 class="text-white">trending</h2>
-
+<section class="relative mb-16">
+    <div class="background absolute top-0 right-0 w-2/3 h-full bg-neonblast z-0"></div>
+    <div class="container mx-auto h-screen grid grid-cols-2 relative z-30">
+        <div data-speed=".8" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat relative z-30"></div>
+        <div class="flex flex-col justify-center h-full pl-16 space-y-12">
+            <div class="hidden">
+                <h1 id="counting" class="text-white">2024 and counting...</h1>
+                <h1 id="itstime" class="text-white">it's time to rescue our humanity</h1>
+            </div>
+            <div class="prose prose-sky prose-lg leading-snug">
+                {{closing_text}}
+            </div>
+          </div>
     </div>
-</section> -->
+</section>
 
-<script src="/js/heroGSAP.js"></script>
+    <script src="/js/heroGSAP.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const accordionItems = document.querySelectorAll(".accordion-item");
+
+            accordionItems.forEach((item) => {
+            const header = item.querySelector(".accordion-header");
+            const content = item.querySelector(".accordion-content");
+
+            header.addEventListener("click", () => {
+
+                // close other items
+                accordionItems.forEach((otherItem) => {
+                if (otherItem !== item && otherItem.classList.contains("active")) {
+                    otherItem.classList.remove("active");
+                    otherItem.querySelector(".accordion-content").style.height = 0;
+                }
+                });
+
+                item.classList.toggle("active");
+
+                if (item.classList.contains("active")) {
+                content.style.height = `${content.scrollHeight}px`;
+                } else {
+                content.style.height = 0;
+                }
+            });
+            });
+        });        
+    </script>
+
+{{partial:globals/smoothWrapEnd}}

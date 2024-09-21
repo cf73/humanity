@@ -1,0 +1,28 @@
+{{partial:globals/breadcrumbWithFilters}}
+
+{{partial:globals/smoothWrapStart}}
+
+<div class="absolute top-36 z-50">
+    
+    {{ get_content :from="taxonomies/challenges/get:challenge" }}
+        <h1>{{title}}</h1>
+    {{ /get_content }}
+
+
+</div>
+<div id="challengeContent" class="container mx-auto grid grid-cols-5 gap-16 mt-16 mb-32 mt-60 px-8">
+    <!-- <script>
+        const params = new URLSearchParams(document.location.search);
+        const s = params.get("challenge"); // Get the value of the 's' parameter
+        const o = params.get("collectiontype"); // Get the value of the 'o' parameter
+        console.log(s, o); // Log the values
+
+    </script> -->
+    {{ livewire-collection:* :taxonomy:collection_type="get:collectiontype" }}
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<script src="/js/challengeShow.js"></script>
+
+{{partial:globals/smoothWrapEnd}}

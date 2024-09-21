@@ -1,16 +1,21 @@
 {{footer}}
-<footer class="py-32 space-y-8 bg-spaceCadet relative z-50">
-    <div class="container mx-auto space-y-8 text-center flex flex-col items-center">
-        <a href="/"><img src="/assets/humanity-logo.png" width="400px" alt="Humanity Logo"></a>
-        <h3 class="text-warmwhite">The Humanity Initiative</h3>
-        <div class="prose prose-sky prose-invert">
-            {{intro}}
+<footer class="pt-32 pb-16 space-y-8 bg-blueblast/30 relative z-10">
+    <div class="px-32">
+        <div class="space-y-4">
+            <div class="textMeta">Thanks for visiting</div>
+            <h1 class="">The Humanity Initiative</h1>
         </div>
-        <div class="flex flex-row items-baseline space-x-6">
-            <a href="/donate"><button class="btn-primary mb-8">Please donate $10 to support our work</button></a>
-            <a href="mailto:tony@ourhumanity.org">
-                <button class="btn-tirtiary">Contact Us</button>
-            </a>
+        <div class="grid grid-cols-2 gap-16">
+            <div class="prose prose-sky prose-lg row-start-2">
+                {{intro}}
+            </div>
+            <div class="flex flex-col items-end space-y-6 row-start-2">
+                <div class="prose prose-sky text-right w-2/3">The Humanity Initiative is a registered non-profit. We rely on your support to continue our mission of reawakening mankind to its better angels.</div>
+                <a href="/donate"><button class="btn-primary">Please donate to support our work</button></a>
+                <a href="mailto:tony@ourhumanity.org">
+                    <button class="btn-tirtiary">Contact Us</button>
+                </a>
+            </div>
         </div>
     </div>
 </footer>

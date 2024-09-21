@@ -1,4 +1,30 @@
-<div  class="fixed top-8 left-8 z-30">
+<div id="main-nav" class="bg-energyblack w-full h-24 fixed -top-24 left-0 z-50 drop-shadow-lg">
+    <!-- <div class="relative w-full h-full overflow-hidden">
+        <video autoplay muted loop id="absolute z-0 top-[50%] left-[50%] w-full h-full object-cover translate-x-1/2 translate-y-1/2">
+          <source src="/assets/clouds.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+        <div class="absolute left-0 top-0 z-50 ">
+            
+        </div>
+    </div> -->
+      
+    <div class="container mx-auto h-full flex flex-row justify-between items-center">
+        <div id="logo" class="">
+            <a href="/"><img src="/assets/humanity-logo.png" alt="Humanity Logo" width="180px"></a>
+        </div>
+        <nav class="flex flex-row">
+            {{ nav:topnav }}
+                <a href="{{ url }}"{{ if is_current || is_parent }} class="current"{{ /if }} class="ml-12">
+                    <h4 class="text-white">{{title}}</h4>
+                </a>
+            {{/nav:topnav}}
+        </nav>
+    </div>
+    
+</div>
+
+<div id="hamburger" class="fixed top-8 left-8 z-30 hidden">
     <div class="col-span-1 col-start-2">
         <i id="openNav" class="las la-grip-lines w-fit text-black text-3xl cursor-pointer bg-white/40 hover:bg-white/90 backdrop-blur-lg rounded-full p-4"></i>
     </div>

@@ -6,6 +6,10 @@ export default {
         './resources/**/*.blade.php',
         './resources/**/*.vue',
         './content/**/*.md',
+        './resources/views/vendor/statamic-livewire-filters/**/*.blade.php',
+    	'./resources/views/vendor/statamic-livewire-filters/**/*.antlers.html',
+        "./vendor/livewire/flux-pro/stubs/**/*.blade.php",
+        "./vendor/livewire/flux/stubs/**/*.blade.php",
     ],
 
     theme: {
@@ -33,8 +37,8 @@ export default {
                 
                 'darkpink': 'rgb(168 145 161 / 90%)',
                 'khaki': '#859d44',
-                'softblack': '#141852',
-                'darkblack': '#252925',
+                'softblack': '#1B1B21',
+                'darkblack': '#131317',
                 'wetwhite': '#ECF9EC',
                 'forest': '#06977D',
                 'earth': '#a08b8b',
@@ -45,7 +49,7 @@ export default {
                 'purple': '#E7C3F8',
                 'oceanbluez': 'rgb(118 188 252 / 50%)',
 
-                'diamond': '#B9DEFE',
+                'diamond': '#d6e5f2',
                 'atomicTangerine': '#F89880',
                 'buttonBlue': '#199EF3',
                 'cetaceanBlue': '#070b34',
@@ -56,7 +60,17 @@ export default {
                 'azure': '#0082F0',
                 'veryLightAzure': '#6FB6F6',
                 'Regalia': '#483475',
-                'lightSkyBlue': '#88C6FC',
+                'lightSkyBlue': '#a4d7f9',
+
+                'energyblack': '#1a2228',
+                'blueblast': '#64d8ff',
+                'wetconcrete': '#d3dee7',
+                'neonblast': '#c1f319',
+                'banana': '#e1c35f',
+
+                'war': '#fa0505',
+                'climate': '#254212',
+                'democracy': '#ffbc1f'
             },
             typography: ({ theme }) => ({
                 sky: {
@@ -102,5 +116,8 @@ export default {
     plugins: [
         require('@tailwindcss/typography'),
         require('@tailwindcss/aspect-ratio'),
+        require("@tailwindcss/forms")({
+            strategy: 'class'
+          }),
     ],
 };

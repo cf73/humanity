@@ -1,5 +1,5 @@
 title: Poetry
-template: poetry
+template: contentTemplates/poetry
 layout: layout
 taxonomies:
   - collection_type

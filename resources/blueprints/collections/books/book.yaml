@@ -15,34 +15,15 @@ tabs:
           -
             handle: book_author
             field:
-              input_type: text
-              antlers: false
               type: text
               display: 'Book Author'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
             handle: date_published
             field:
-              mode: single
-              inline: false
-              full_width: false
-              columns: 1
-              rows: 1
-              time_enabled: false
-              time_seconds_enabled: false
               type: date
               display: 'Date Published'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
@@ -50,11 +31,6 @@ tabs:
             field:
               type: link
               display: 'Link to buy it'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
                 - url
@@ -62,19 +38,9 @@ tabs:
             handle: image
             field:
               max_files: 1
-              mode: list
               container: assets
-              restrict: false
-              allow_uploads: true
-              show_filename: true
-              show_set_alt: true
               type: assets
               display: Image
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
@@ -85,31 +51,9 @@ tabs:
                 - italic
                 - removeformat
                 - anchor
-              smart_typography: false
-              save_html: false
-              inline: false
-              toolbar_mode: fixed
-              reading_time: false
-              word_count: false
-              fullscreen: true
-              allow_source: true
-              enable_input_rules: true
-              enable_paste_rules: true
               remove_empty_nodes: false
-              antlers: false
-              link_noopener: false
-              link_noreferrer: false
-              target_blank: false
-              always_show_set_button: false
-              collapse: false
-              previews: true
               type: bard
               display: Description
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
   sidebar:
@@ -132,11 +76,6 @@ tabs:
                 - collection_type
               type: terms
               display: 'Collection Type'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               max_items: 1
               validate:
                 - required
@@ -149,11 +88,6 @@ tabs:
                 - challenges
               type: terms
               display: Challenges
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
           -
             handle: sections
             field:
@@ -164,11 +98,6 @@ tabs:
                 - section
               type: terms
               display: Sections
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
           -
             handle: related_partner_initiatives
             field:
@@ -180,11 +109,6 @@ tabs:
               type: entries
               display: 'Related Partner Initiatives'
               instructions: "Help site visitors discover how to take action related to the content they've just seen here."
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
@@ -203,10 +127,5 @@ tabs:
               type: entries
               display: 'Related Content'
               instructions: 'Other content from THI that relates to this piece, allowing visitors to follow their own path.'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
