@@ -11,7 +11,16 @@ description:
     content:
       -
         type: text
-        text: 'Pierre Teilhard de Chardin was a visionary French Jesuit, paleontologist, biologist, and philosopher, who spent the bulk of his life trying to integrate religious experience with natural science  --  most specifically Christian theology with theories of evolution. '
+        text: 'Pierre Teilhard de Chardin was a visionary French Jesuit, paleontologist, biologist, and philosopher, who spent the bulk of his life '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'trying to integrate religious experience with natural science'
+      -
+        type: text
+        text: '  --  most specifically Christian theology with theories of evolution. '
   -
     type: paragraph
     content:
@@ -30,7 +39,7 @@ related_partner_initiatives:
 related_content:
   - 9f09c216-ae44-4a47-badf-16a8ab75a311
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723217640
+updated_at: 1724695067
 book_author: 'Pierre Teilhard De Chardin'
 sections: inspiration
 challenges:

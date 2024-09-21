@@ -11,7 +11,7 @@ description:
     content:
       -
         type: text
-        text: "Lisa's poetic aside:"
+        text: "Lisa's aside:"
   -
     type: paragraph
     content:
@@ -37,7 +37,7 @@ description:
         type: hardBreak
 collection_type: photography-contribution
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1720037527
+updated_at: 1724008217
 sections: inspiration
 challenges:
   - climate

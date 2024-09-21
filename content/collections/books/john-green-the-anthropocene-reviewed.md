@@ -62,10 +62,10 @@ related_partner_initiatives:
 related_content:
   - 0ac2ceeb-3da0-44c4-921b-3897f491e659
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
-  - 1c000538-36cf-4ba4-b129-f70a7a8ba51b
   - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
+  - 9c31a79d-a31b-44ab-b3b5-287e51cf7f03
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631145
+updated_at: 1724687630
 book_author: 'John Green'
 sections: inspiration
 ---

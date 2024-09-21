@@ -12,12 +12,14 @@ description:
     content:
       -
         type: text
-        text: "Six-year-old Palestinian Hind Rajab  --  trapped in her relatives' car in Gaza  --  with her tiny, soft voice and brave heart, clutching a cellphone, calls for help for three hours. "
-  -
-    type: paragraph
-    content:
+        text: "Six-year-old Palestinian Hind Rajab  --  trapped in her relatives' car in Gaza  --  with her tiny, soft voice and brave heart, clutching a cellphone for three hours, calls for help: "
       -
         type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
         text: '"Please come save me. Quickly."'
   -
     type: paragraph
@@ -30,15 +32,23 @@ description:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: "Her plea...is humanity's demand..."
       -
         type: text
         marks:
           -
+            type: bold
+          -
             type: italic
         text: 'to end war.'
       -
         type: text
+        marks:
+          -
+            type: bold
         text: ' '
   -
     type: paragraph
@@ -1383,6 +1393,7 @@ challenges:
   - war
 related_partner_initiatives:
   - a8fa8a01-564a-4b8e-95b9-3614a6d09fc2
+  - 324c608c-3a56-493e-87f8-e986d6c6bc03
 related_content:
   - 2de64619-3645-4baf-b709-3a496e3a1553
   - 1c000538-36cf-4ba4-b129-f70a7a8ba51b
@@ -1390,7 +1401,7 @@ related_content:
   - ee249176-0024-4fca-a366-9b5d515d29d4
   - 5b23ff39-cc44-49fa-9ced-97b78abc74b8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719861767
+updated_at: 1724009664
 articleauthor: 'Meg Kelley'
 sections: peace-gatherings
 ---

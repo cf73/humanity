@@ -1,15 +1,16 @@
 ---
 id: abe90cd8-e74f-48d1-95cb-1c141bf6adb3
 blueprint: poetry_contribution
-title: 'The Animals are Leaving'
+title: 'The Animals are Leaving  (2006)'
 poets_name: 'Charles Harper Webb'
 image: image-1710097455.jpeg
 collection_type: poetry-contribution
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631904
+updated_at: 1724886101
 poets_website: 'https://www.poetryfoundation.org/poets/charles-harper-webb'
+published_date: '2006-08-24'
 content:
   -
     type: paragraph

@@ -26,8 +26,8 @@ description:
         text: '"For generations, the Sakura blooming season has held profound significance in Japanese culture, marking the arrival of spring and the fleeting beauty of life. For the Maiko, this season holds particular importance, as it embodies the transient nature of her own journey towards mastery in their goal of becoming a Geisha. Amidst the pink-hued petals, the Maiko’s presence evokes a sense of harmony and grace, a living embodiment of the intertwining of human artistry and the natural world."'
 collection_type: photography-contribution
 challenges:
-  - inspiration
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719237163
+updated_at: 1724009931
+sections: inspiration
 ---

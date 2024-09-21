@@ -18,13 +18,25 @@ description:
     content:
       -
         type: text
-        text: 'From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.” '
+        text: 'From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution...that explores the ways in which biology and history have defined us and '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'enhanced our understanding of what it means to be “human.” '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one—homo sapiens. What happened to the others? And what may happen to us? Most books about the history of humanity pursue either a historical or a biological approach, but Dr. Yuval Noah Harari breaks the mold with this highly original book that begins about 70,000 years ago with the appearance of modern cognition. '
+        text: 'One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one—homo sapiens. What happened to the others? And what may happen to us? Most books about the history of humanity pursue either a historical or a biological approach, but Dr. Yuval Noah Harari breaks the mold with this highly original book that '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'begins about 70,000 years ago with the appearance of modern cognition. '
   -
     type: paragraph
     content:
@@ -36,11 +48,20 @@ description:
     content:
       -
         type: text
-        text: 'Dr. Harari also compels us to look ahead, because over the last few decades humans have begun to bend laws of natural selection that have governed life for the past four billion years. We are acquiring the ability to design not only the world around us, but also ourselves. Where is this leading us, and what do we want to become? This provocative and insightful work is sure to spark debate.'
+        text: 'Dr. Harari also compels us to look ahead, because over the last few decades humans have begun to bend laws of natural selection that have governed life for the past four billion years. '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'We are acquiring the ability to design not only the world around us, but also ourselves. Where is this leading us, and what do we want to become? '
+      -
+        type: text
+        text: 'This provocative and insightful work is sure to spark debate.'
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722630835
+updated_at: 1724695450
 collection_type: book
 book_author: 'Yuval Noah Harari'
 date_published: '2015-02-10'

@@ -27,18 +27,21 @@ article_text:
         type: hardBreak
       -
         type: text
-        marks:
-          -
-            type: italic
-        text: 'Blueprints beyond borders, for solace and shelter,'
-      -
-        type: hardBreak
+        text: '"'
       -
         type: text
         marks:
           -
-            type: italic
-        text: '20th June 2024,'
+            type: bold
+        text: 'Blueprints beyond borders, for solace and shelter"'
+      -
+        type: hardBreak
+        marks:
+          -
+            type: bold
+      -
+        type: text
+        text: '20th June 2024'
       -
         type: hardBreak
         marks:
@@ -77,6 +80,9 @@ article_text:
           -
             type: bold
         text: 'The pitch for suitable legislation'
+  -
+    type: paragraph
+    content:
       -
         type: hardBreak
       -
@@ -113,6 +119,9 @@ article_text:
           -
             type: bold
         text: 'In a state of suspense'
+  -
+    type: paragraph
+    content:
       -
         type: hardBreak
       -
@@ -135,6 +144,9 @@ article_text:
           -
             type: bold
         text: 'Taking up the judiciary’s baton'
+  -
+    type: paragraph
+    content:
       -
         type: hardBreak
       -
@@ -182,6 +194,6 @@ related_content:
   - 799bae7a-763a-4bb1-b9ec-8c4dacdb75f4
   - 2de64619-3645-4baf-b709-3a496e3a1553
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721232731
+updated_at: 1724783976
 link: 'https://www.thehindu.com/opinion/lead/blueprints-beyond-borders-for-solace-and-shelter/article68308819.ece'
 ---

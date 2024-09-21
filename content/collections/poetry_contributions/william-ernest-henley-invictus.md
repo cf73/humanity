@@ -1,7 +1,7 @@
 ---
 id: 360862f3-318f-4ecc-804e-8baf0d2558cd
 blueprint: poetry_contribution
-title: Invictus
+title: 'Invictus  (1975)'
 poets_name: 'William Ernest Henley'
 poets_website: 'https://www.poetryfoundation.org/poets/william-ernest-henley'
 image: image-1708785410.jpeg
@@ -9,9 +9,10 @@ challenges:
   - democracy
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631795
+updated_at: 1724886645
 collection_type: poetry-contribution
 sections: inspiration
+published_date: '1875-06-15'
 content:
   -
     type: paragraph

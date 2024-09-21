@@ -1,7 +1,7 @@
 ---
 id: 7e526838-abc5-4d3d-881e-03c7e420eaae
 blueprint: poetry_contribution
-title: 'Where the Mind is Without Fear'
+title: 'Where the Mind is Without Fear  (1910)'
 poets_name: 'Rabindranath Tagore  (1861 - 1941) legendary Indian writer, first non-European to win Nobel for Literature, 1913.'
 image: image-1718800632.jpeg
 collection_type: poetry-contribution
@@ -9,9 +9,10 @@ challenges:
   - democracy
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631971
+updated_at: 1724885602
 poets_website: 'https://www.poetryfoundation.org/poets/rabindranath-tagore'
 sections: inspiration
+published_date: '1910-06-15'
 content:
   -
     type: paragraph
@@ -78,4 +79,100 @@ content:
           -
             type: italic
         text: 'Into that heaven of freedom, my Father, let my country awake.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '------'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Above is Tagore's own translation. Here below the original Bengali script:"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'চিত্ত যেথা ভয়শূন্য, উচ্চ যেথা শির,'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'জ্ঞান যেথা মুক্ত, যেথা গৃহের প্রাচীর'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'আপন প্রাঙ্গণতলে দিবসশর্বরী'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'বসুধারে রাখে নাই খণ্ড ক্ষুদ্র করি,'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'যেথা বাক্য হৃদয়ের উৎসমুখ হতে'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'উচ্ছ্বসিয়া উঠে, যেথা নির্বারিত স্রোতে'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'দেশে দেশে দিশে দিশে কর্মধারা ধায়'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'অজস্র সহস্রবিধ চরিতার্থতায়,'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'যেথা তুচ্ছ আচারের মরুবালুরাশি'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'বিচারের স্রোতঃপথ ফেলে নাই গ্রাসি,'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'পৌরুষেরে করে নি শতধা, নিত্য যেথা'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'তুমি সর্ব কর্ম চিন্তা আনন্দের নেতা,'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'নিজ হস্তে নির্দয় আঘাত করি, পিতঃ;'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'ভারতেরে সেই স্বর্গে করো জাগরিত৷'
 ---

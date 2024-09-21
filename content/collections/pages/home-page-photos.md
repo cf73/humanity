@@ -39,7 +39,7 @@ welcome_message:
     content:
       -
         type: text
-        text: 'Please join us. May we pour you a cup of tea?'
+        text: 'May we pour you a cup of tea? For this is an oasis with a mission, custom-made for we the people to consider, with neighbors old and new, how best to solve our humanitarian and planetary challenges.'
   -
     type: paragraph
     content:
