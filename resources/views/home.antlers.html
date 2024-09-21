@@ -27,7 +27,7 @@
                 <h1 id="counting" class="text-white">2024 and counting...</h1>
                 <h1 id="itstime" class="text-white">it's time to rescue our humanity</h1>
             </div>
-            <div class="prose prose-sky prose-invert prose-lg leading-snug">
+            <div class="prose prose-sky prose-invert prose-xl leading-snug">
                 {{welcome_message}}
             </div>
             <button id="heroButton" class="btn-primary">Learn more about our challenges</button>
@@ -80,15 +80,15 @@ document.getElementById("heroButton").onclick = () => {
     <div class="flex flex-col h-full">
         <!-- Tabs -->
         <ul id="tabs" class="flex flex-row justify-between pt-2 px-1 w-full px-32 mb-8 text-white">
-            <li class=""><a id="default-tab" href="#first" class="flex flex-col items-center">
+            <li class=""><a id="default-tab" href="#first" class="flex flex-col items-center underline">
                 <div class="rounded-full bg-war w-24 h-24 mb-4"></div>
                 <h3>Ending War</h3>
             </a></li>
-            <li class=""><a href="#second" class="flex flex-col items-center opacity-50">
+            <li class=""><a href="#second" class="flex flex-col items-center">
                 <div class="rounded-full bg-climate w-24 h-24 mb-4"></div>
                 <h3>Solving Climate</h3>
             </a></li>
-            <li class=""><a href="#third" class="flex flex-col items-center opacity-50">
+            <li class=""><a href="#third" class="flex flex-col items-center">
                 <div class="rounded-full bg-democracy w-24 h-24 mb-4"></div>
                 <h3>Preserving Democracy</h3>
             </a></li>
@@ -145,25 +145,28 @@ document.getElementById("heroButton").onclick = () => {
 
         for (let i = 0; i < tabContents.children.length; i++) {
         
-        tabTogglers[i].classList.add("opacity-50");  tabContents.children[i].classList.remove("hidden");
+        tabTogglers[i].classList.remove("underline");  tabContents.children[i].classList.remove("hidden");
         if ("#" + tabContents.children[i].id === tabName) {
             continue;
         }
         tabContents.children[i].classList.add("hidden");
         
         }
-        e.target.parentElement.classList.remove("opacity-50");
+        e.target.parentElement.classList.add("underline");
     });
     });
     </script>
 </section>
 
 <section id="featuredCommencementSpeeches">
-    <div class="pt-12 pb-16 space-y-8 flex flex-col mt-0 bg-blueblast/20">
-        <div class="swiper featuredCommencementSpeeches container">
+    <div class="pt-24 pb-16 space-y-8 flex flex-col mt-0 bg-blueblast/60">
+        <div class="swiper featuredCommencementSpeeches px-32">
                 <div class="flex flex-row items-center justify-between w-full mb-8">
                     <div class="flex flex-col space-y-4">
                         <h2>Featured Commencement Speeches</h2>
+                        {{ collection:pages slug:is="commencement-speeches" }}
+                            <div class="prose prose-sky text-xl">{{ intro }}</div>
+                        {{ /collection:pages }}
                         <a href=""><button class="btn-tirtiary">View all</button></a>
                     </div>
                     <div class="flex flex-row justify-end space-x-2 relative -left-1 mt-[40px] mb-8 mr-8 swiper-pagination">
@@ -183,7 +186,7 @@ document.getElementById("heroButton").onclick = () => {
     </div>
 </section>
 
-<section class="py-48 space-y-8 text-white bg-softblack relative z-10">
+<section class="py-48 space-y-8 text-white relative z-10">
     <div data-speed=".9" class="font-thin text-8xl text-center leading-tight px-36">
         "Don't look for hope.<br>Look for <span class="font-bold">action</span>."
     </div>
@@ -192,12 +195,12 @@ document.getElementById("heroButton").onclick = () => {
     </div>
 </section>
 
-<section class="relative">
-    <div class="background absolute top-0 right-0 w-2/3 h-full bg-banana z-0"></div>
+<section class="relative mb-16">
+    <div class="background absolute top-0 right-0 w-2/3 h-full bg-neonblast z-0"></div>
     <div class="container mx-auto h-screen grid grid-cols-2 relative z-30">
-        <div data-speed=".5" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat relative z-30"></div>
+        <div data-speed=".8" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat relative z-30"></div>
         <div class="flex flex-col justify-center h-full pl-16 space-y-12">
-            <div>
+            <div class="hidden">
                 <h1 id="counting" class="text-white">2024 and counting...</h1>
                 <h1 id="itstime" class="text-white">it's time to rescue our humanity</h1>
             </div>

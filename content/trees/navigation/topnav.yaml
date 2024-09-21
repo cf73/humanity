@@ -1,8 +1,5 @@
 tree:
   -
-    id: 8498f9c9-9dbd-4a7d-a0ac-6d695e83a829
-    entry: ed5745a9-0401-4836-a25a-7f6e294d56fb
-  -
     id: 2d8ddbff-2c45-4e53-8e41-38a392723c2f
     entry: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
     children:
@@ -16,5 +13,16 @@ tree:
         id: 90a99d91-ab7d-4cf1-923b-09872160b224
         entry: c64d19f2-e825-450b-9221-fa6fc1afcf7e
   -
+    id: b51a6fd2-2daa-473c-b364-93bb88596d67
+    title: 'Our Partners'
+    url: /partners
+  -
     id: d65ae3c7-cf1c-49b9-983b-aceadd07eaf8
     entry: 407d6a0a-70cb-49a9-9a6b-86e0b0a39a5a
+  -
+    id: 7e14e827-3cac-42b3-a1bb-996aaac7186a
+    entry: b6969b97-3873-4df0-a9f7-9dc47876ce7a
+    title: Donate
+  -
+    id: 5b2f577e-64cf-43f9-894b-33cd877e07c2
+    title: More
