@@ -67,6 +67,7 @@ export default {
                 'wetconcrete': '#d3dee7',
                 'neonblast': '#c1f319',
                 'banana': '#e1c35f',
+                'textBlue': '#111a79',
 
                 'war': '#fa0505',
                 'climate': '#254212',
@@ -75,13 +76,13 @@ export default {
             typography: ({ theme }) => ({
                 sky: {
                   css: {
-                    '--tw-prose-body': theme('colors.spaceCadet'),
+                    '--tw-prose-body': theme('colors.textBlue'),
                     '--tw-prose-headings': theme('colors.atomicTangerine'),
                     '--tw-prose-lead': theme('colors.cetaceanBlue'),
-                    '--tw-prose-links': theme('colors.spaceCadet'),
-                    '--tw-prose-bold': theme('colors.spaceCadet'),
-                    '--tw-prose-counters': theme('colors.spaceCadet'),
-                    '--tw-prose-bullets': theme('colors.spaceCadet'),
+                    '--tw-prose-links': theme('colors.textBlue'),
+                    '--tw-prose-bold': theme('colors.textBlue'),
+                    '--tw-prose-counters': theme('colors.textBlue'),
+                    '--tw-prose-bullets': theme('colors.textBlue'),
                     '--tw-prose-hr': theme('colors.buttonBlue'),
                     '--tw-prose-quotes': theme('colors.darkLavender'),
                     '--tw-prose-quote-borders': theme('colors.darkLavender'),

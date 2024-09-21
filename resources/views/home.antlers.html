@@ -27,7 +27,7 @@
                 <h1 id="counting" class="text-white">2024 and counting...</h1>
                 <h1 id="itstime" class="text-white">it's time to rescue our humanity</h1>
             </div>
-            <div class="prose prose-sky prose-invert prose-xl leading-snug">
+            <div class="prose prose-sky prose-invert xl:prose-xl leading-snug">
                 {{welcome_message}}
             </div>
             <button id="heroButton" class="btn-primary">Learn more about our challenges</button>
@@ -38,12 +38,12 @@
 
 <section id="secondary" class="grid grid-cols-2 gap-16 h-[calc(100vh-96px)]">
     <div class="flex flex-col justify-center h-full">
-        <h2 class="bg-blueblast p-32">
+        <h2 class="bg-blueblast lg:p-16 xl:p-32">
             {{intro_to_sites_content:summary}}
         </h2>
         <div style="background-image: url({{intro_to_sites_content_image}});" class="bg-center bg-cover bg-repeat-no-repeat bg-red-300 h-full"></div>
         </div>
-    <div class="h-full w-full flex flex-col justify-center p-32">
+    <div class="h-full w-full flex flex-col justify-center lg:p-16 xl:p-32">
         <div class="accordion container mx-auto relative z-40">
             <style>
                 .accordion-item.active .accordion-icon {
@@ -51,13 +51,13 @@
                 }
             </style>
             {{intro_to_sites_content:accordion}}
-            <div class="accordion-item py-4 border-b border-softblack">
-                <div class="accordion-header cursor-pointer flex items-center justify-between py-2 font-inter font-medium duration-200 ease-out">
+            <div class="accordion-item py-4 border-b border-textBlue">
+                <div class="accordion-header cursor-pointer flex items-center justify-between xl:py-2 font-inter font-medium duration-200 ease-out">
                     <h2>{{item_title}}</h2>
                     <span class="accordion-icon inline-block rotate-0 duration-200 ease-out"><i class="fa-solid fa-chevron-down accordion-icon"></i></span>
                 </div>
                 <div style="height: 0;" class="accordion-content overflow-hidden duration-200 ease-out">
-                    <div class="prose prose-sky prose-lg py-4">
+                    <div class="prose prose-sky xl:prose-lg leading-snug py-4">
                         {{item_content}}
                         <div class="mt-4"><a href="{{url}}"><button class="btn-tirtiary">Explore</button></a></div>
                     </div>
@@ -98,9 +98,9 @@ document.getElementById("heroButton").onclick = () => {
         <div id="tab-contents" class="h-full">
             <div id="first" class=" grid grid-cols-2 h-full flex flex-col items-center">
             {{taxonomy:challenges slug:contains="war"}}
-            <div class="space-y-8 p-32 bg-war h-full text-white">
+            <div class="space-y-8 p-16 xl:p-32 bg-war h-full text-white">
                 <h2>{{title_text}}</h2>
-                <div class="prose prose-sky text-white text-xl">{{intro_text}}</div>
+                <div class="prose prose-sky text-white leading-snug xl:prose-xl">{{intro_text}}</div>
                 <div><a href="{{url}}"><button class="btn-primary btn-inverse">Explore</button></a></div>
             </div>
             <div style="background-image: url({{main_image:image}});" class="bg-no-repeat bg-cover bg-center h-full w-full"></div>
@@ -159,22 +159,8 @@ document.getElementById("heroButton").onclick = () => {
 </section>
 
 <section id="featuredCommencementSpeeches">
-    <div class="pt-24 pb-16 space-y-8 flex flex-col mt-0 bg-blueblast/60">
-        <div class="swiper featuredCommencementSpeeches px-32">
-                <div class="flex flex-row items-center justify-between w-full mb-8">
-                    <div class="flex flex-col space-y-4">
-                        <h2>Featured Commencement Speeches</h2>
-                        {{ collection:pages slug:is="commencement-speeches" }}
-                            <div class="prose prose-sky text-xl">{{ intro }}</div>
-                        {{ /collection:pages }}
-                        <a href=""><button class="btn-tirtiary">View all</button></a>
-                    </div>
-                    <div class="flex flex-row justify-end space-x-2 relative -left-1 mt-[40px] mb-8 mr-8 swiper-pagination">
-                        <div class="image-swiper-button-prev"></div>
-                        <div class="image-swiper-button-next"></div>
-                    </div>
-                </div>
-    
+    <div class="pb-16 flex flex-col bg-blueblast/60">
+        <div class="swiper featuredCommencementSpeeches space-y-4 px-16 xl:px-32">    
             <div class="swiper-wrapper">
                 {{featured_commencement_speeches | shuffle}}
                     <div class="swiper-slide" style="height: auto !important;">
@@ -182,15 +168,31 @@ document.getElementById("heroButton").onclick = () => {
                     </div>
                 {{/featured_commencement_speeches}}
             </div>
+            <div class="flex flex-row justify-between w-full mb-8">
+                <div class="flex flex-col space-y-8">
+                    <div class="flex flex-row justify-start space-x-2 relative swiper-pagination">
+                        <div class="image-swiper-button-prev"></div>
+                        <div class="image-swiper-button-next"></div>
+                    </div>
+                    <div class="space-y-4">
+                        <h2>Commencement Speeches</h2>
+                        {{ collection:pages slug:is="commencement-speeches" }}
+                            <div class="prose prose-sky leading-snug xl:leading-snug xl:prose-xl">{{ intro }}</div>
+                        {{ /collection:pages }}
+                    </div>
+                    <a href=""><button class="btn-tirtiary">View all</button></a>
+                </div>
+                
+            </div>
         </div>
     </div>
 </section>
 
-<section class="py-48 space-y-8 text-white relative z-10">
-    <div data-speed=".9" class="font-thin text-8xl text-center leading-tight px-36">
+<section class="py-48 space-y-8 relative z-10">
+    <div data-speed=".9" class="font-thin text-7xl xl:text-8xl text-center leading-tight xl:px-36">
         "Don't look for hope.<br>Look for <span class="font-bold">action</span>."
     </div>
-    <div data-speed=".9" class="font-bold text-center uppercase tracking-wider">
+    <div data-speed=".9" class="textMeta mx-auto">
         &mdash; Greta Thunberg
     </div>
 </section>
@@ -199,7 +201,7 @@ document.getElementById("heroButton").onclick = () => {
     <div class="background absolute top-0 right-0 w-2/3 h-full bg-neonblast z-0"></div>
     <div class="container mx-auto h-screen grid grid-cols-2 relative z-30">
         <div data-speed=".8" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat relative z-30"></div>
-        <div class="flex flex-col justify-center h-full pl-16 space-y-12">
+        <div class="flex flex-col justify-center h-full pl-8 xl:pl-16 space-y-12">
             <div class="hidden">
                 <h1 id="counting" class="text-white">2024 and counting...</h1>
                 <h1 id="itstime" class="text-white">it's time to rescue our humanity</h1>
