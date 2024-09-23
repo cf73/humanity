@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727124105
+updated_at: 1727124119
 intro:
   -
     type: paragraph
