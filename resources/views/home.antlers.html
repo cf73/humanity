@@ -1,36 +1,18 @@
 {{partial:globals/smoothWrapStart}}
 <div id="invisibleScrollerTarget"></div>
 
-    <div id="earth"  style="background-image: url('{{hero_images | random}}');"
-            class="hidden bg-no-repeat bg-bottom bg-cover h-[100vh] w-full flex flex-col justify-end pb-36 absolute top-24">
-            <div class="p-16 relative z-20">
-                <h1 id="counting" class="text-diamond">2024 and counting.</h1>
-                <h1 id="itstime" class="text-diamond">It's time to rescue our humanity.</h1>
-            </div>
-            <!-- <div id="dimmer" class="bg-gradient-to-t from-black to-transparent h-[60vh] absolute z-0 bottom-0 w-full hidden"></div> -->
-    </div>
-    
-
-    <div id="intro"></div>
-    <!-- <section id="intro" class="w-full py-[25vh] bg-warmwhite relative z-10 flex flex-col items-center justify-center space-y-8">
-        <div id="introprose" class="w-2/3 text-2xl font-serif leading-loose text-softblack text-center opacity-0" data-speed="1.25">{{intro}}</div>
-        <div data-speed="1.25"><a href="/about"><button>About The Humanity Initiative</button></a></div>
-    </section>   -->
-
-
-
 <section id="hero" class="h-screen relative">
     <div class="background absolute top-0 left-0 w-2/3 h-full bg-softblack z-0"></div>
-    <div class="container mx-auto h-full grid grid-cols-2 relative z-30">
-        <div class="flex flex-col justify-center h-full pr-16 space-y-12">
+    <div class="container mx-auto h-[calc(100vh-96px)] top-24 grid grid-cols-2 relative z-30">
+        <div class="flex flex-col justify-center h-full pr-16 space-y-6">
             <div>
                 <h1 id="counting" class="text-white">2024 and counting...</h1>
-                <h1 id="itstime" class="text-white">it's time to rescue our humanity</h1>
+                <h1 id="itstime" class="text-white">Time to rescue our humanity.</h1>
             </div>
-            <div class="prose prose-sky prose-invert xl:prose-xl leading-snug">
+            <div class="prose prose-sky prose-invert xl:prose-xl leading-snug xl:leading-snug">
                 {{welcome_message}}
             </div>
-            <button id="heroButton" class="btn-primary">Learn more about our challenges</button>
+            <button id="heroButton" class="btn-primary">We focus on three main challenges</button>
             </div>
         <div data-speed=".6" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat"></div>
     </div>
@@ -98,7 +80,7 @@ document.getElementById("heroButton").onclick = () => {
         <div id="tab-contents" class="h-full">
             <div id="first" class=" grid grid-cols-2 h-full flex flex-col items-center">
             {{taxonomy:challenges slug:contains="war"}}
-            <div class="space-y-8 p-16 xl:p-32 bg-war h-full text-white">
+            <div class="space-y-6 p-16 xl:p-32 bg-war h-full text-white">
                 <h2>{{title_text}}</h2>
                 <div class="prose prose-sky text-white leading-snug xl:prose-xl">{{intro_text}}</div>
                 <div><a href="{{url}}"><button class="btn-primary btn-inverse">Explore</button></a></div>
@@ -108,7 +90,7 @@ document.getElementById("heroButton").onclick = () => {
             </div>
             <div id="second" class="hidden grid grid-cols-2 h-full flex flex-col items-center">
             {{taxonomy:challenges slug:contains="climate"}}
-            <div class="space-y-8 p-32 bg-climate h-full text-white">
+            <div class="space-y-6 p-32 bg-climate h-full text-white">
                 <h2>{{title_text}}</h2>
                 <div class="prose prose-sky text-xl text-white">{{intro_text}}</div>
                 <div><a href="{{url}}"><button class="btn-primary btn-inverse">Explore</button></a></div>
@@ -118,7 +100,7 @@ document.getElementById("heroButton").onclick = () => {
             </div>
             <div id="third" class="hidden grid grid-cols-2 h-full flex flex-col items-center">
             {{taxonomy:challenges slug:contains="democracy"}}
-            <div class="space-y-8 p-32 bg-democracy h-full">
+            <div class="space-y-6 p-32 bg-democracy h-full">
                 <h2>{{title_text}}</h2>
                 <div class="prose prose-sky text-xl">{{intro_text}}</div>
                 <div><a href="{{url}}"><button class="btn-primary btn-inverse">Explore</button></a></div>
@@ -158,7 +140,23 @@ document.getElementById("heroButton").onclick = () => {
     </script>
 </section>
 
-<section id="featuredCommencementSpeeches">
+<section class="relative">
+    <div class="background absolute top-0 right-0 w-2/3 h-full bg-neonblast z-0"></div>
+    <div class="container mx-auto h-screen grid grid-cols-2 relative z-30">
+        <div data-speed=".8" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat relative z-30"></div>
+        <div class="flex flex-col justify-center h-full pl-8 xl:pl-16 space-y-12">
+            <div class="hidden">
+                <h1 id="counting" class="text-white">2024 and counting...</h1>
+                <h1 id="itstime" class="text-white">it's time to rescue our humanity</h1>
+            </div>
+            <div class="prose prose-sky prose-lg leading-snug">
+                {{closing_text}}
+            </div>
+          </div>
+    </div>
+</section>
+
+<section id="featuredCommencementSpeeches"></section>
     <div class="pb-16 flex flex-col bg-blueblast/60">
         <div class="swiper featuredCommencementSpeeches space-y-4 px-16 xl:px-32">    
             <div class="swiper-wrapper">
@@ -188,30 +186,14 @@ document.getElementById("heroButton").onclick = () => {
     </div>
 </section>
 
-<section class="py-48 space-y-8 relative z-10">
+<!-- <section class="py-48 space-y-8 relative z-10">
     <div data-speed=".9" class="font-thin text-7xl xl:text-8xl text-center leading-tight xl:px-36">
         "Don't look for hope.<br>Look for <span class="font-bold">action</span>."
     </div>
     <div data-speed=".9" class="textMeta mx-auto">
         &mdash; Greta Thunberg
     </div>
-</section>
-
-<section class="relative mb-16">
-    <div class="background absolute top-0 right-0 w-2/3 h-full bg-neonblast z-0"></div>
-    <div class="container mx-auto h-screen grid grid-cols-2 relative z-30">
-        <div data-speed=".8" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat relative z-30"></div>
-        <div class="flex flex-col justify-center h-full pl-8 xl:pl-16 space-y-12">
-            <div class="hidden">
-                <h1 id="counting" class="text-white">2024 and counting...</h1>
-                <h1 id="itstime" class="text-white">it's time to rescue our humanity</h1>
-            </div>
-            <div class="prose prose-sky prose-lg leading-snug">
-                {{closing_text}}
-            </div>
-          </div>
-    </div>
-</section>
+</section> -->
 
     <script src="/js/heroGSAP.js"></script>
     <script>
@@ -244,4 +226,20 @@ document.getElementById("heroButton").onclick = () => {
         });        
     </script>
 
+    <script>
+        gsap.fromTo("#main-nav", 
+        { y: -96 }, // Starting value
+        { 
+            y: 0, // Ending value
+            scrollTrigger: {
+            trigger: "#invisibleScrollerTarget",
+            start: "top -96", // Adjust based on when you want the animation to start
+            toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
+            paused: true, // Pauses the animation until the scroll happens
+            },
+            duration: 0.75,
+            ease: "power2.inOut",
+        }
+        );
+    </script>
 {{partial:globals/smoothWrapEnd}}

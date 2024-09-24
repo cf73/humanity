@@ -22,16 +22,16 @@ document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
 // GLOABLS
 // slide down nav bar
 
-gsap.to("#main-nav", {
-  scrollTrigger: {
-    trigger: "#invisibleScrollerTarget",
-    start: "top -96", // Adjust based on when you want the animation to start
-    toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
-  },
-  y: 96,
-  duration: .75,
-  ease: "power2.inOut",
-});
+// gsap.to("#main-nav", {
+//   scrollTrigger: {
+//     trigger: "#invisibleScrollerTarget",
+//     start: "top -96", // Adjust based on when you want the animation to start
+//     toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
+//   },
+//   y: 96,
+//   duration: .75,
+//   ease: "power2.inOut",
+// });
 
 // CHALLENGE SHOW TEMPLATE ----------------------------------------------------------------------------------------------
 
@@ -41,6 +41,12 @@ ScrollTrigger.create({
   start: 'top top',
   end: '+=900',
   pin: '#hero-area',
+});
+
+ScrollTrigger.create({
+  trigger: '#main',
+  start: 'top top',
+  pin: '#breadcrumbwithtags',
 });
 
 

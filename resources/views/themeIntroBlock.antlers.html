@@ -24,23 +24,23 @@
     <div class="grid grid-cols-1 w-full lg:grid-cols-12 px-4 lg:px-0 mx-auto overflow-hidden relative">
     {{taxonomy:challenges slug:contains="{challengeslug}"}}
         <!-- main photo -->
-        <div class="col-span-12 lg:col-span-8">
+        <!-- <div class="col-span-12 lg:col-span-8">
             <div style="background-image: url('{{main_image:image}}');" class="w-full h-[30vh] lg:h-[80vh] relative bg-contain bg-no-repeat bg-right-bottom mb-4"></div>
-        </div>
-        <div class="lg:row-start-2 lg:col-start-2 col-span-12 lg:col-span-8 mt-1">
+        </div> -->
+        <!-- <div class="lg:row-start-2 lg:col-start-2 col-span-12 lg:col-span-8 mt-1">
             {{partial:cards/tape passedValue="Photography"}}
             <div class="lg:w-1/3 relative z-10">
                 <a href="{{main_image:url}}"><h3 class="mb-2">{{main_image:title}} <i class="las la-angle-right text-xl"></i></h3></a>
                 <a class="prose prose-sky leading-none" href="{{main_image:url}}">{{main_image:photographer_name}}</a> 
             </div>
-        </div>
+        </div> -->
         <!-- quote to right of photo -->
-        <div data-speed=".8" class="lg:col-start-9 col-span-12 lg:col-span-4 lg:h-full lg:row-start-1 flex flex-col lg:justify-center lg:pr-16 lg:pl-6 text-center items-center my-24 lg:my-0 lg:text-left lg:items-start">
+        <!-- <div data-speed=".8" class="lg:col-start-9 col-span-12 lg:col-span-4 lg:h-full lg:row-start-1 flex flex-col lg:justify-center lg:pr-16 lg:pl-6 text-center items-center my-24 lg:my-0 lg:text-left lg:items-start">
             {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
                 <div class="prose prose-sky leading-snug mb-4">{{quotation}}</div>
                 <div class="textMeta">{{attribution}}</div>
             {{/collection:quotations}}
-        </div>
+        </div> -->
         <!-- theme intro title and text -->
         <div data-speed=".8" class="col-span-12 row-span-4 lg:col-span-3 lg:col-start-2 row-start-1 lg:row-start-2 my-24  flex flex-col justify-center space-y-8 lg:row-span-2 ">
             <h1 class="">{{title_text}}</h1>
