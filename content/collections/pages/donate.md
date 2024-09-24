@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722874373
+updated_at: 1727124119
 intro:
   -
     type: paragraph
@@ -37,10 +37,7 @@ intro:
               rel: null
               target: _blank
               title: null
-        text: 'Please donate now. Help us foster this urgent effort to redeem our humanity.'
-      -
-        type: text
-        text: ' '
+        text: 'Please listen to Jacqueline Wigglesworth (who has been on Team Humanity for twenty years) make the case for redeeming our humanity, speaking from the heart chakra of the planet.'
   -
     type: paragraph
     content:
