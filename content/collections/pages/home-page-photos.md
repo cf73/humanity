@@ -3,8 +3,8 @@ id: home
 blueprint: home
 title: Home
 template: home
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1726959263
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1727308343
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -41,7 +41,7 @@ welcome_message:
         type: text
         text: 'May we pour you a cup of tea? For this is an oasis with a mission, custom-made for we the people to consider, with neighbors old and new, how best to address our humanitarian and planetary alarms, to solve our increasingly wild and fractious rides around the sun.'
 intro_to_sites_content:
-  summary: "To plant our investigations on the fertile soil of open hearts and curious minds, we have selected three hundred of humanity’s most inspiring voices, ancient and current, to guide and encourage us in re-imagining\_our roles as change-maker for community, country, or planet."
+  summary: "To plant our investigations in the fertile soil of open hearts and curious minds, we have chosen three hundred and thirty of humanity’s most inspiring voices  --   ancient and current  --  to guide and encourage us in re-imagining\_our roles as changemaker for community, country, or planet."
   accordion:
     -
       id: m16p675a
