@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727309106
+updated_at: 1727309665
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -45,8 +45,8 @@ intro_to_sites_content:
   accordion:
     -
       id: m16p675a
-      item_title: 'Our Challenges'
-      item_content: 'To begin, we offer insight on our most crucial challenges: ending war, solving climate change, and saving democracy.'
+      item_title: 'Our Crises'
+      item_content: "To begin, we offer insight on humankind's most crucial challenges: ending war, solving climate change, and saving democracy."
       type: accordion_item
       enabled: true
     -
