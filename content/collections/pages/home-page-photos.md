@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727308343
+updated_at: 1727309106
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -39,7 +39,7 @@ welcome_message:
     content:
       -
         type: text
-        text: 'May we pour you a cup of tea? For this is an oasis with a mission, custom-made for we the people to consider, with neighbors old and new, how best to address our humanitarian and planetary alarms, to solve our increasingly wild and fractious rides around the sun.'
+        text: 'May we pour you a cup of tea? For this is an oasis with a mission, custom-made for we the people to consider, with neighbors old and new, how best to address our humanitarian and planetary alarms, how best to solve our increasingly wild and fractious rides around the sun.'
 intro_to_sites_content:
   summary: "To plant our investigations in the fertile soil of open hearts and curious minds, we have chosen three hundred and thirty of humanity’s most inspiring voices  --   ancient and current  --  to guide and encourage us in re-imagining\_our roles as changemaker for community, country, or planet."
   accordion:
@@ -67,7 +67,7 @@ intro_to_sites_content:
       item_content: 'Our initial blueprint for Peace Gatherings, designed to radically expand the understanding that ending war is not only necessary but also utterly possible.'
       type: accordion_item
       enabled: true
-intro_to_sites_content_image: 128588063_4643e62b46_k.jpg
+intro_to_sites_content_image: image-1710115162-1727308837.jpeg
 closing_text:
   -
     type: paragraph
