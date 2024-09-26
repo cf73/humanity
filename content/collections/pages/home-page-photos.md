@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727311647
+updated_at: 1727314151
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -58,7 +58,7 @@ intro_to_sites_content:
     -
       id: m16p74gi
       item_title: 'Empowering Commencement Speeches'
-      item_content: 'We began our archive of commencement speeches in 1989. It now offers thirty of the most inspirational  --   from over the last hundred years and most still keenly relevant today.'
+      item_content: 'We began our archive of commencement speeches in 1989. now offering thirty of the most inspirational  --   from over the last hundred years and still keenly relevant today.'
       type: accordion_item
       enabled: true
     -
