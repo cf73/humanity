@@ -1,24 +1,24 @@
 
 <div class="resultCard h-full overflow-hidden text-center">
-<div class="w-full aspect-[1/1] mb-2 bg-contain bg-no-repeat bg-bottom p-2" style="background-image: url({{image}});"></div>
+    <a href="{{url}}">
+    <div class="w-full aspect-[16/9] mb-2 bg-contain bg-no-repeat bg-bottom p-2" style="background-image: url({{image}});"></div>
 
 
-   
-    <div class="py-0 px-4 mt-5 flex flex-col items-center text-center">
-        {{partial:cards/tape passedValue="{{collection:title}}" passedColor="atomicTangerine"}}
+    
+        <div class="py-0 px-4 mt-5 flex flex-col items-center text-center">
+            {{partial:cards/tape passedValue="{{collection:title}}" passedColor="atomicTangerine"}}
 
-        <a href="{{url}}">
             <h3 class="text-{{headingColor}}">{{title}}</h3>
-        </a>
-        {{if speaker}}
-            <span class="textSecondary">{{speaker}}</span>
-        {{/if}}
-        {{if articleauthor}}
-            <span class="textSecondary">{{articleauthor}}</span>
-        {{/if}}
-        {{if book_author}}
-            <span class="textSecondary">{{book_author}}</span>
-        {{/if}}
-        <!-- <div class="font-serif leading-6 text-base">{{ description }}</div> -->
-    </div>
+            {{if speaker}}
+                <span class="textSecondary">{{speaker}}</span>
+            {{/if}}
+            {{if articleauthor}}
+                <span class="textSecondary">{{articleauthor}}</span>
+            {{/if}}
+            {{if book_author}}
+                <span class="textSecondary">{{book_author}}</span>
+            {{/if}}
+            <!-- <div class="font-serif leading-6 text-base">{{ description }}</div> -->
+        </div>
+    </a>
 </div>

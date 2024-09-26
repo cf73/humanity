@@ -18,6 +18,10 @@ export default {
             'josephin': ['Josefin Sans', 'sans-serif'],
         },
         extend: {
+            fontFamily: {
+                posterfont: ['Poster', 'sans-serif'],
+                displayfont: ['Display', 'sans-serif'],
+              },
             colors: {
                 'highlighter': 'rgb(255 254 0 / 88%)',
                 'tape': '#ff0061',
@@ -37,7 +41,7 @@ export default {
                 
                 'darkpink': 'rgb(168 145 161 / 90%)',
                 'khaki': '#859d44',
-                'softblack': '#1B1B21',
+                'softblack': '#121229',
                 'darkblack': '#131317',
                 'wetwhite': '#ECF9EC',
                 'forest': '#06977D',
@@ -65,9 +69,11 @@ export default {
                 'energyblack': '#1a2228',
                 'blueblast': '#64d8ff',
                 'wetconcrete': '#d3dee7',
-                'neonblast': '#c1f319',
+                'neonblast': '#6deaec',
+                'neonblastbright': '#7ffdff',
                 'banana': '#e1c35f',
                 'textBlue': '#111a79',
+                'darkpink': '#ff99d3',
 
                 'war': '#fa0505',
                 'climate': '#254212',
@@ -92,7 +98,7 @@ export default {
                     '--tw-prose-pre-bg': theme('colors.darkLavender'),
                     '--tw-prose-th-borders': theme('colors.pink[300]'),
                     '--tw-prose-td-borders': theme('colors.pink[200]'),
-                    '--tw-prose-invert-body': theme('colors.pink[200]'),
+                    '--tw-prose-invert-body': theme('colors.darkpink'),
                     '--tw-prose-invert-headings': theme('colors.white'),
                     '--tw-prose-invert-lead': theme('colors.pink[300]'),
                     '--tw-prose-invert-links': theme('colors.white'),

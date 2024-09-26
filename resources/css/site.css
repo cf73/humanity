@@ -13,7 +13,7 @@
         @apply font-josephin font-extralight tracking-tight leading-tight text-9xl text-atomicTangerine;
     }
     h1 {
-        @apply font-josephin font-semibold text-cetaceanBlue leading-tight text-4xl xl:text-5xl;
+        @apply font-posterfont text-cetaceanBlue leading-tight text-5xl xl:text-9xl;
     }
     h2 {
         @apply lg:text-2xl xl:text-3xl font-josephin font-semibold leading-tight antialiased;
@@ -52,7 +52,7 @@
 
 @layer components {
     .btn-primary {
-        @apply font-josephin font-semibold xl:text-xl text-softblack tracking-wider rounded px-6 py-4 bg-neonblast hover:bg-neonblast/70 transition-all w-fit;
+        @apply font-josephin font-semibold xl:text-xl text-softblack tracking-wider rounded px-6 py-4 bg-neonblast hover:bg-neonblastbright transition-all w-fit;
     }
     .btn-inverse {
         @apply bg-white hover:bg-white text-softblack;
@@ -99,4 +99,16 @@
     height: 100%;
   }
 
- 
+@font-face {
+    font-family: 'Poster';
+    src: url('../fonts/TwCenPosterMTStd.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Display';
+    src: url('../fonts/FarnhamDisplayLightItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+  
