@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727309665
+updated_at: 1727310283
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -46,19 +46,19 @@ intro_to_sites_content:
     -
       id: m16p675a
       item_title: 'Our Crises'
-      item_content: "To begin, we offer insight on humankind's most crucial challenges: ending war, solving climate change, and saving democracy."
+      item_content: "We offer extensive and highly accessible insight on humankind's most crucial challenges: ending war, solving climate change, and saving democracy."
       type: accordion_item
       enabled: true
     -
       id: m16p6tmo
-      item_title: 'Our Partners'
-      item_content: 'From there, we shine a light on thirty of the world’s most respected non-profits and their compelling opportunities to participate in positive change.'
+      item_title: 'Our Partners in Positive Change'
+      item_content: 'We shine a light on thirty of the world’s most respected non-profits and their compelling opportunities for all of us to participate immediately in positive change.'
       type: accordion_item
       enabled: true
     -
       id: m16p74gi
-      item_title: 'Commencement Speeches'
-      item_content: 'Not least, we include our archive (begun in 1989) of empowering Commencement Speeches.'
+      item_title: 'Empowering Commencement Speeches'
+      item_content: 'We began our archive of commencement speeches in 1989. It now offers the full text of 31 of the most inspirational, from the last hundred years.'
       type: accordion_item
       enabled: true
     -
