@@ -19,7 +19,8 @@ export default {
         },
         extend: {
             fontFamily: {
-                custom: ['Eggwhite', 'sans-serif'],
+                posterfont: ['Poster', 'sans-serif'],
+                displayfont: ['Display', 'sans-serif'],
               },
             colors: {
                 'highlighter': 'rgb(255 254 0 / 88%)',

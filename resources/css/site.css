@@ -13,7 +13,7 @@
         @apply font-josephin font-extralight tracking-tight leading-tight text-9xl text-atomicTangerine;
     }
     h1 {
-        @apply font-custom text-cetaceanBlue leading-tight text-4xl xl:text-9xl;
+        @apply font-posterfont text-cetaceanBlue leading-tight text-5xl xl:text-9xl;
     }
     h2 {
         @apply lg:text-2xl xl:text-3xl font-josephin font-semibold leading-tight antialiased;
@@ -100,8 +100,14 @@
   }
 
 @font-face {
-    font-family: 'Eggwhite';
+    font-family: 'Poster';
     src: url('../fonts/TwCenPosterMTStd.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Display';
+    src: url('../fonts/FarnhamDisplayLightItalic.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }

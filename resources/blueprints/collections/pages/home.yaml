@@ -75,6 +75,31 @@ tabs:
                                   validate:
                                     - required
           -
+            handle: featured_content_heading
+            field:
+              character_limit: 100
+              type: text
+              display: 'Featured Content heading'
+              validate:
+                - required
+          -
+            handle: featured_content
+            field:
+              max_items: 10
+              mode: select
+              collections:
+                - articles
+                - books
+                - commencement_speeches
+                - documentaries
+                - partner_initiatives
+                - partner_stories
+                - photography_contributions
+                - poetry_contributions
+                - talks
+              type: entries
+              display: 'Featured Content'
+          -
             handle: closing_text
             field:
               buttons:
