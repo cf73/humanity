@@ -108,6 +108,15 @@ tabs:
               type: entries
               display: 'Featured Content'
           -
+            handle: closing_photo
+            field:
+              max_files: 1
+              container: assets
+              type: assets
+              display: 'Closing photo'
+              validate:
+                - required
+          -
             handle: closing_text
             field:
               buttons:

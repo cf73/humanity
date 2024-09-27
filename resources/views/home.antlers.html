@@ -79,56 +79,71 @@ document.getElementById("heroButton").onclick = () => {
     </div>
 </section>
 
-<section id="challengesIntro" class="h-full w-full bg-white pt-32 space-y-16">
-    <h2 class="text-center">We focus on three main challenges</h2>
+<section class="relative">
+    <div class="background absolute top-0 right-0 w-2/3 h-full bg-softblack z-0"></div>
+    <div class="container mx-auto h-screen grid grid-cols-2 relative z-30">
+        <div data-speed=".8" style="background-image: url('{{closing_photo}}');" class="h-full w-full bg-center bg-contain bg-no-repeat relative z-30"></div>
+        <div class="flex flex-col justify-center h-full pl-8 xl:pl-16 space-y-12">
+            <div class="prose prose-sky prose-invert xl:prose-xl leading-snug xl:leading-snug">
+                {{closing_text}}
+            </div>
+          </div>
+    </div>
+</section>
+
+<section id="challengesIntro" class="h-full w-full pt-32 space-y-16">
+    <div class="textMeta mx-auto">Our priorities</div>
     <div class="flex flex-col h-full">
         <!-- Tabs -->
         <ul id="tabs" class="flex flex-row justify-between pt-2 px-1 w-full px-32 mb-8 text-white">
             <li class=""><a id="default-tab" href="#first" class="flex flex-col items-center underline">
-                <div class="rounded-full bg-war w-24 h-24 mb-4"></div>
+                <!-- <div class="rounded-full bg-war w-24 h-24 mb-4"></div> -->
                 <h3>Ending War</h3>
             </a></li>
             <li class=""><a href="#second" class="flex flex-col items-center">
-                <div class="rounded-full bg-climate w-24 h-24 mb-4"></div>
+                <!-- <div class="rounded-full bg-climate w-24 h-24 mb-4"></div> -->
                 <h3>Solving Climate</h3>
             </a></li>
             <li class=""><a href="#third" class="flex flex-col items-center">
-                <div class="rounded-full bg-democracy w-24 h-24 mb-4"></div>
+                <!-- <div class="rounded-full bg-democracy w-24 h-24 mb-4"></div> -->
                 <h3>Preserving Democracy</h3>
             </a></li>
         </ul>
 
         <!-- Tab Contents -->
         <div id="tab-contents" class="h-full">
-            <div id="first" class=" grid grid-cols-2 h-full flex flex-col items-center">
-            {{taxonomy:challenges slug:contains="war"}}
-            <div class="space-y-6 p-16 xl:p-32 bg-war h-full text-white">
-                <h2>{{title_text}}</h2>
-                <div class="prose prose-sky text-white leading-snug xl:prose-xl">{{intro_text}}</div>
-                <div><a href="{{url}}"><button class="btn-primary btn-inverse">Explore</button></a></div>
+            <div id="first" class="h-full flex flex-col items-center">
+                {{taxonomy:challenges slug:contains="war"}}
+                <!-- <div class="space-y-6 p-16 xl:p-32 bg-war h-full text-white">
+                    <h2>{{title_text}}</h2>
+                    <div class="prose prose-sky text-white leading-snug xl:prose-xl">{{intro_text}}</div>
+                </div> -->
+                <div style="background-image: url({{main_image:image}});" class="h-[70vh] flex flex-col justify-end items-center bg-no-repeat bg-cover bg-bottom w-full">
+                    <div><a href="{{url}}"><button class="mb-12 btn-primary btn-inverse">Explore</button></a></div>
+                </div>
+                {{/taxonomy:challenges}}
             </div>
-            <div style="background-image: url({{main_image:image}});" class="bg-no-repeat bg-cover bg-center h-full w-full"></div>
-            {{/taxonomy:challenges}}
+            <div id="second" class="hidden h-full flex flex-col items-center">
+                {{taxonomy:challenges slug:contains="climate"}}
+                <!-- <div class="space-y-6 p-32 bg-climate h-full text-white">
+                    <h2>{{title_text}}</h2>
+                    <div class="prose prose-sky text-xl text-white">{{intro_text}}</div>
+                </div> -->
+                <div style="background-image: url({{main_image:image}});" class="h-[70vh] flex flex-col justify-end items-center bg-no-repeat bg-cover bg-bottom w-full">
+                    <div><a href="{{url}}"><button class="mb-12 btn-primary btn-inverse">Explore</button></a></div>
+                </div>
+                {{/taxonomy:challenges}}
             </div>
-            <div id="second" class="hidden grid grid-cols-2 h-full flex flex-col items-center">
-            {{taxonomy:challenges slug:contains="climate"}}
-            <div class="space-y-6 p-32 bg-climate h-full text-white">
-                <h2>{{title_text}}</h2>
-                <div class="prose prose-sky text-xl text-white">{{intro_text}}</div>
-                <div><a href="{{url}}"><button class="btn-primary btn-inverse">Explore</button></a></div>
-            </div>
-            <div style="background-image: url({{main_image:image}});" class="bg-no-repeat bg-cover bg-center h-full w-full"></div>
-            {{/taxonomy:challenges}}
-            </div>
-            <div id="third" class="hidden grid grid-cols-2 h-full flex flex-col items-center">
-            {{taxonomy:challenges slug:contains="democracy"}}
-            <div class="space-y-6 p-32 bg-democracy h-full">
-                <h2>{{title_text}}</h2>
-                <div class="prose prose-sky text-xl">{{intro_text}}</div>
-                <div><a href="{{url}}"><button class="btn-primary btn-inverse">Explore</button></a></div>
-            </div>
-            <div style="background-image: url({{main_image:image}});" class="bg-no-repeat bg-cover bg-center h-full w-full"></div>
-            {{/taxonomy:challenges}}
+            <div id="third" class="hidden h-full flex flex-col items-center">
+                {{taxonomy:challenges slug:contains="democracy"}}
+                <!-- <div class="space-y-6 p-32 bg-democracy h-full">
+                    <h2>{{title_text}}</h2>
+                    <div class="prose prose-sky text-xl">{{intro_text}}</div>
+                </div> -->
+                <div style="background-image: url({{main_image:image}});" class="h-[70vh] flex flex-col justify-end items-center bg-no-repeat bg-cover bg-bottom w-full">
+                    <div><a href="{{url}}"><button class="mb-12 btn-primary btn-inverse">Explore</button></a></div>
+                </div>
+                {{/taxonomy:challenges}}
             </div>
         </div>
     </div>
@@ -162,21 +177,7 @@ document.getElementById("heroButton").onclick = () => {
     </script>
 </section>
 
-<section class="relative">
-    <div class="background absolute top-0 right-0 w-2/3 h-full bg-neonblast z-0"></div>
-    <div class="container mx-auto h-screen grid grid-cols-2 relative z-30">
-        <div data-speed=".8" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat relative z-30"></div>
-        <div class="flex flex-col justify-center h-full pl-8 xl:pl-16 space-y-12">
-            <div class="hidden">
-                <h1 id="counting" class="text-white">2024 and counting...</h1>
-                <h1 id="itstime" class="text-white">it's time to rescue our humanity</h1>
-            </div>
-            <div class="prose prose-sky prose-lg leading-snug">
-                {{closing_text}}
-            </div>
-          </div>
-    </div>
-</section>
+
 <!-- <section class="py-48 space-y-8 relative z-10">
     <div data-speed=".9" class="font-thin text-7xl xl:text-8xl text-center leading-tight xl:px-36">
         "Don't look for hope.<br>Look for <span class="font-bold">action</span>."
