@@ -24,6 +24,3 @@ preferences:
           display: 'commencement speeches'
           query: 'Commencement speeches'
       after_save: continue_editing
-  assets:
-    assets:
-      mode: grid
