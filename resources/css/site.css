@@ -13,7 +13,7 @@
         @apply font-josephin font-extralight tracking-tight leading-tight text-9xl text-atomicTangerine;
     }
     h1 {
-        @apply font-posterfont text-cetaceanBlue leading-tight text-5xl xl:text-9xl;
+        @apply font-josephin text-cetaceanBlue leading-tight text-4xl xl:text-6xl;
     }
     h2 {
         @apply lg:text-2xl xl:text-3xl font-josephin font-semibold leading-tight antialiased;

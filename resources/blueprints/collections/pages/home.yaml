@@ -29,6 +29,14 @@ tabs:
               type: bard
               display: 'Welcome message'
           -
+            handle: lead_button_text
+            field:
+              character_limit: 50
+              type: text
+              display: 'Lead Button text'
+              validate:
+                - required
+          -
             handle: intro_to_sites_content_image
             field:
               max_files: 1
