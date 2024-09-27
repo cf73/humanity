@@ -96,17 +96,17 @@ document.getElementById("heroButton").onclick = () => {
     <div class="flex flex-col h-full">
         <!-- Tabs -->
         <ul id="tabs" class="flex flex-row justify-between pt-2 px-1 w-full px-32 mb-8 text-white">
-            <li class=""><a id="default-tab" href="#first" class="flex flex-col items-center underline">
-                <!-- <div class="rounded-full bg-war w-24 h-24 mb-4"></div> -->
-                <h3>Ending War</h3>
+            <li class=""><a id="default-tab" href="#first" class="flex flex-col items-center active-tab">
+                <h3 class="z-20">Ending War</h3>
+                <div id="divetElement1" class="divetElement w-12 h-12 bg-wetconcrete z-10 -mb-14 rotate-45"></div>
             </a></li>
             <li class=""><a href="#second" class="flex flex-col items-center">
-                <!-- <div class="rounded-full bg-climate w-24 h-24 mb-4"></div> -->
-                <h3>Solving Climate</h3>
+                <h3 class="z-20">Solving Climate</h3>
+                <div id="divetElement2" class="divetElement w-12 h-12 bg-wetconcrete z-10 -mb-14 rotate-45 hidden"></div>
             </a></li>
             <li class=""><a href="#third" class="flex flex-col items-center">
-                <!-- <div class="rounded-full bg-democracy w-24 h-24 mb-4"></div> -->
-                <h3>Preserving Democracy</h3>
+                <h3 class="z-20">Preserving Democracy</h3>
+                <div id="divetElement3" class="divetElement w-12 h-12 bg-wetconcrete z-10 -mb-14 rotate-45 hidden"></div>
             </a></li>
         </ul>
 
@@ -114,68 +114,70 @@ document.getElementById("heroButton").onclick = () => {
         <div id="tab-contents" class="h-full">
             <div id="first" class="h-full flex flex-col items-center">
                 {{taxonomy:challenges slug:contains="war"}}
-                <!-- <div class="space-y-6 p-16 xl:p-32 bg-war h-full text-white">
-                    <h2>{{title_text}}</h2>
-                    <div class="prose prose-sky text-white leading-snug xl:prose-xl">{{intro_text}}</div>
-                </div> -->
-                <div style="background-image: url({{main_image:image}});" class="h-[70vh] flex flex-col justify-end items-center bg-no-repeat bg-cover bg-bottom w-full">
+                <div style="background-image: url({{main_image:image}});" class="h-[70vh] flex flex-col justify-end items-center bg-no-repeat bg-cover bg-center w-full">
                     <div><a href="{{url}}"><button class="mb-12 btn-primary btn-inverse">Explore</button></a></div>
                 </div>
                 {{/taxonomy:challenges}}
             </div>
             <div id="second" class="hidden h-full flex flex-col items-center">
                 {{taxonomy:challenges slug:contains="climate"}}
-                <!-- <div class="space-y-6 p-32 bg-climate h-full text-white">
-                    <h2>{{title_text}}</h2>
-                    <div class="prose prose-sky text-xl text-white">{{intro_text}}</div>
-                </div> -->
-                <div style="background-image: url({{main_image:image}});" class="h-[70vh] flex flex-col justify-end items-center bg-no-repeat bg-cover bg-bottom w-full">
+                <div style="background-image: url({{main_image:image}});" class="h-[70vh] flex flex-col justify-end items-center bg-no-repeat bg-cover bg-center w-full">
                     <div><a href="{{url}}"><button class="mb-12 btn-primary btn-inverse">Explore</button></a></div>
                 </div>
                 {{/taxonomy:challenges}}
             </div>
             <div id="third" class="hidden h-full flex flex-col items-center">
                 {{taxonomy:challenges slug:contains="democracy"}}
-                <!-- <div class="space-y-6 p-32 bg-democracy h-full">
-                    <h2>{{title_text}}</h2>
-                    <div class="prose prose-sky text-xl">{{intro_text}}</div>
-                </div> -->
-                <div style="background-image: url({{main_image:image}});" class="h-[70vh] flex flex-col justify-end items-center bg-no-repeat bg-cover bg-bottom w-full">
+                <div style="background-image: url({{main_image:image}});" class="h-[70vh] flex flex-col justify-end items-center bg-no-repeat bg-cover bg-center w-full">
                     <div><a href="{{url}}"><button class="mb-12 btn-primary btn-inverse">Explore</button></a></div>
                 </div>
                 {{/taxonomy:challenges}}
             </div>
         </div>
     </div>
+    <style>
+        .active-tab {
+            color: #fa0505;
+            padding-bottom: 4px;
+            z-index: 20;
+        }
+        #tabs a {
+            text-decoration: none;
+        }
+        #tabs a:hover {
+            text-decoration: none;
+        }
+    </style>
     <script>
     let tabsContainer = document.querySelector("#tabs");
-
     let tabTogglers = tabsContainer.querySelectorAll("#tabs a");
+    let divetElements = document.querySelectorAll(".divetElement");
 
-    console.log(tabTogglers);
+    tabTogglers.forEach(function(toggler, index) {
+        toggler.addEventListener("click", function(e) {
+            e.preventDefault();
 
-    tabTogglers.forEach(function(toggler) {
-    toggler.addEventListener("click", function(e) {
-        e.preventDefault();
+            let tabName = this.getAttribute("href");
+            let tabContents = document.querySelector("#tab-contents");
 
-        let tabName = this.getAttribute("href");
+            for (let i = 0; i < tabContents.children.length; i++) {
+                tabTogglers[i].classList.remove("active-tab");
+                tabContents.children[i].classList.remove("hidden");
+                divetElements[i].classList.add("hidden");
 
-        let tabContents = document.querySelector("#tab-contents");
+                if ("#" + tabContents.children[i].id === tabName) {
+                    continue;
+                }
+                tabContents.children[i].classList.add("hidden");
+            }
 
-        for (let i = 0; i < tabContents.children.length; i++) {
-        
-        tabTogglers[i].classList.remove("underline");  tabContents.children[i].classList.remove("hidden");
-        if ("#" + tabContents.children[i].id === tabName) {
-            continue;
-        }
-        tabContents.children[i].classList.add("hidden");
-        
-        }
-        e.target.parentElement.classList.add("underline");
-    });
+            e.target.parentElement.classList.add("active-tab");
+            divetElements[index].classList.remove("hidden");
+        });
     });
     </script>
 </section>
+
 
 
 <!-- <section class="py-48 space-y-8 relative z-10">
