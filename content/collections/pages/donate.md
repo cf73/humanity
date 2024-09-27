@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727466808
+updated_at: 1727466906
 intro:
   -
     type: paragraph
@@ -46,7 +46,7 @@ intro:
     content:
       -
         type: text
-        text: 'Thank you!'
+        text: 'Thank you for your kind donations! They help expand our outreach in many ways.'
   -
     type: paragraph
     content:
