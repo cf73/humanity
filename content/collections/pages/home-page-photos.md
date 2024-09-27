@@ -3,8 +3,8 @@ id: home
 blueprint: home
 title: Home
 template: home
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1727377965
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1727446346
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -13,7 +13,6 @@ hero_images:
   - girl-w-dog.jpeg
   - three-sisters-1718586205.jpeg
   - bingwallpaper-copy-1718585898-1722801203.jpg
-  - image-1710115162-1727308837-1727311581.jpeg
 challenge:
   main_image: _132560870_nima-sarikhani.jpg-2.webp
 commencement_speeches_hero_images:
@@ -96,8 +95,8 @@ closing_text:
 featured_content:
   - 324c608c-3a56-493e-87f8-e986d6c6bc03
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
-  - af67e998-238b-4c86-a94a-777e1c00b23f
   - 263accbc-caa0-48eb-964e-dccc457c29cc
+  - a9172cd5-d9e3-428c-8339-a2f18a799b68
 featured_content_heading: 'Start your journey here'
 lead_button_text: 'Support us — get in touch!'
 ---
