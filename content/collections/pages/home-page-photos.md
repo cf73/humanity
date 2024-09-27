@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727447922
+updated_at: 1727448142
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -63,7 +63,7 @@ intro_to_sites_content:
     -
       id: m16p7o92
       item_title: 'Peace Gatherings'
-      item_content: "THI's initial blueprint for Peace Gatherings is designed to expand the understanding that ending war is not only necessary but also utterly possible."
+      item_content: "The Humanity Initiative's initial blueprint for Peace Gatherings is designed to expand the understanding that ending war is not only necessary but also utterly possible. Perhaps there is no greater clarity on this than John F. Kennedy's commencement speech at American University in 1963."
       type: accordion_item
       enabled: true
 intro_to_sites_content_image: man-staring-up-at-aurora-1718585869-1727311468.jpg
