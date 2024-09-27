@@ -4,14 +4,14 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727124119
+updated_at: 1727466776
 intro:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Humanity Initiative is dedicated to systemic and enduring positive change. As more than 300 voices from across the ages   --  writers, educators, artists, poets, musicians, and politicians  --  express here in so many compelling ways, '
+        text: 'The Humanity Initiative is dedicated to systemic and enduring positive change. As 335 voices from across the ages   --  writers, educators, artists, poets, musicians, actors and politicians  --  express here in so many compelling ways, '
       -
         type: text
         marks:
@@ -37,7 +37,10 @@ intro:
               rel: null
               target: _blank
               title: null
-        text: 'Please listen to Jacqueline Wigglesworth (who has been on Team Humanity for twenty years) make the case for redeeming our humanity, speaking from the heart chakra of the planet.'
+        text: 'Jacqueline Wigglesworth, our colleague for twenty years, states the case for redeeming our humanity, speaking from the heart chakra of the planet'
+      -
+        type: text
+        text: ', Glastonbury, England.'
   -
     type: paragraph
     content:
@@ -53,6 +56,5 @@ intro:
           -
             type: italic
         text: 'THI is a 501(c)(3), so all donations are tax deductible in the United States..'
-parent: home
 main_image: '-humanity-first-cover.jpeg'
 ---
