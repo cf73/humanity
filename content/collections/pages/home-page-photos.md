@@ -3,8 +3,8 @@ id: home
 blueprint: home
 title: Home
 template: home
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1727450901
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1727459140
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -51,19 +51,19 @@ intro_to_sites_content:
     -
       id: m16p6tmo
       item_title: 'Our Partners in Positive Change'
-      item_content: 'We shine a light on thirty of the world’s most respected non-profits and their compelling opportunities for each of us to participate immediately in positive change.'
+      item_content: 'We shine a light on thirty of this world’s most respected non-profits and their compelling opportunities for each of us to participate immediately in positive change.'
       type: accordion_item
       enabled: true
     -
       id: m16p74gi
       item_title: 'Empowering Commencement Speeches'
-      item_content: 'We began our popular archive of commencement speeches in 1989. now offering thirty of the most inspirational  --   from over the last hundred years and still keenly relevant today.'
+      item_content: 'We began our popular archive of commencement speeches in 1989. now offering thirty of the most inspirational  -- from over the last hundred years and still keenly relevant today.'
       type: accordion_item
       enabled: true
     -
       id: m16p7o92
       item_title: 'Peace Gatherings'
-      item_content: "The Humanity Initiative's blueprint for Peace Gatherings is designed to expand the understanding that ending war is not only necessary but also utterly possible. Perhaps there is no greater clarity on this than John F. Kennedy's commencement speech at American University in 1963."
+      item_content: "The Humanity Initiative's blueprint for Peace Gatherings is designed to expand the understanding that ending war is not only necessary but also utterly possible."
       type: accordion_item
       enabled: true
 intro_to_sites_content_image: man-staring-up-at-aurora-1718585869-1727311468.jpg
@@ -79,13 +79,7 @@ closing_text:
     content:
       -
         type: text
-        text: "Let us together orchestrate a future that works for\_all sentient beings, a future that empowers succeeding generations with increasing kindness, understanding, love, and, not least, deep respect for the enthralling and necessary variety of life on Earth. We can do this!"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '~ Team Humanity'
+        text: "Let us together orchestrate a future that works for\_all sentient beings, a future that empowers succeeding generations with increasing kindness, understanding, love, and, not least, deep respect for the enthralling and necessary variety of life on Earth. "
 featured_content:
   - 324c608c-3a56-493e-87f8-e986d6c6bc03
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
@@ -93,6 +87,6 @@ featured_content:
   - 71931be9-5c36-45b5-b201-f9295fd881ed
   - 263accbc-caa0-48eb-964e-dccc457c29cc
 featured_content_heading: 'Begin to explore'
-lead_button_text: 'Support us — get in touch!'
+lead_button_text: 'Join The Humanity Initiative'
 closing_photo: image-1710115162.jpeg
 ---
