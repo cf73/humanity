@@ -74,6 +74,7 @@ export default {
                 'banana': '#e1c35f',
                 'textBlue': '#111a79',
                 'darkpink': '#ff99d3',
+                'softblacknew': '#25252e',
 
                 'war': '#fa0505',
                 'climate': '#254212',
