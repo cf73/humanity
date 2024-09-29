@@ -36,12 +36,12 @@ document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
 // CHALLENGE SHOW TEMPLATE ----------------------------------------------------------------------------------------------
 
 // pin hero area
-ScrollTrigger.create({
-  trigger: '#invisibleScrollerTarget',
-  start: 'top top',
-  end: '+=900',
-  pin: '#hero-area',
-});
+// ScrollTrigger.create({
+//   trigger: '#invisibleScrollerTarget',
+//   start: 'top top',
+//   end: '+=900',
+//   pin: '#hero-area',
+// });
 
 ScrollTrigger.create({
   trigger: '#main',
@@ -51,22 +51,22 @@ ScrollTrigger.create({
 
 
 // fade away hero image on scroll
-gsap.fromTo(
-  "#heroImage",
-  {opacity: 1, // Initial opacity (from value)
-  },
-  {
-    immediateRender: false,
-    opacity: 0, // Target opacity (to value)
-    duration: 3,
-    scrollTrigger: {
-      trigger: "#invisibleScrollerTarget",
-      start: "top -400",
-      toggleActions: "play none none reverse",
-      scrub: false,
-    },
-  }
-);
+// gsap.fromTo(
+//   "#heroImage",
+//   {opacity: 1, // Initial opacity (from value)
+//   },
+//   {
+//     immediateRender: false,
+//     opacity: 0, // Target opacity (to value)
+//     duration: 3,
+//     scrollTrigger: {
+//       trigger: "#invisibleScrollerTarget",
+//       start: "top -400",
+//       toggleActions: "play none none reverse",
+//       scrub: false,
+//     },
+//   }
+// );
 
 // pin hero quote
 // ScrollTrigger.create({
