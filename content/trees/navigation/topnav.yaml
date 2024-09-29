@@ -2,6 +2,7 @@ tree:
   -
     id: 2d8ddbff-2c45-4e53-8e41-38a392723c2f
     entry: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
+    title: 'Our Priorities'
     children:
       -
         id: 69623624-c506-4901-b8cc-0ff257d70b88
@@ -13,9 +14,8 @@ tree:
         id: 90a99d91-ab7d-4cf1-923b-09872160b224
         entry: c64d19f2-e825-450b-9221-fa6fc1afcf7e
   -
-    id: b51a6fd2-2daa-473c-b364-93bb88596d67
-    title: 'Our Partners'
-    url: /partners
+    id: 12f8986f-8117-4656-926b-be6d4342569e
+    entry: 066a064c-0bfa-4a95-aaff-17dcb83c8b81
   -
     id: d65ae3c7-cf1c-49b9-983b-aceadd07eaf8
     entry: 407d6a0a-70cb-49a9-9a6b-86e0b0a39a5a
