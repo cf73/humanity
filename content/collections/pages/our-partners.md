@@ -42,6 +42,8 @@ intro:
         text: ', written in 2019:'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
@@ -85,6 +87,8 @@ intro:
       -
         type: text
         text: 'However, being a changemaker requires sophisticated skills that are almost the opposite of those required in the disappearing world of repetition. And an everything changing and therefore an “everyone a changemaker” world must everywhere be organized in fluid, open teams of teams.'
+  -
+    type: paragraph
   -
     type: paragraph
     content:
@@ -300,6 +304,8 @@ intro:
         text: '* Organizations must quickly change into fluid, open teams of teams — of changemakers.'
   -
     type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
@@ -364,41 +370,7 @@ intro:
       -
         type: text
         text: '* The CEJs, especially when Fellows are co-leading, hugely help the Fellows and their work.'
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://testing123.art/www.africafoundation.org.za'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Africa Foundation (1992)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_"
 main_image: 128588063_4643e62b46_k.jpg
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727731250
+updated_at: 1727731567
 ---
