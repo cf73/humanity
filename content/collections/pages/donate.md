@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727550034
+updated_at: 1727885771
 intro:
   -
     type: paragraph
@@ -57,7 +57,7 @@ intro:
             type: bold
           -
             type: italic
-        text: 'PLEASE NOTE WE ARE TRANSFERRING TO A PAYPAL DONATION SITE THIS WEEK. IT WILL BE UP AND ACTIVE SOON. THANKS FOR YOUR PATIENCE!'
+        text: 'PLEASE NOTE WE ARE REWIRING OUR DONATION PAGE. THANKS FOR YOUR PATIENCE!'
   -
     type: paragraph
     content:
