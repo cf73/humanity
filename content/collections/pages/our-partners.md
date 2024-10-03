@@ -9,7 +9,7 @@ intro:
     content:
       -
         type: text
-        text: "The Humanity Initiative has chosen thirty of the world's most respected positive change enterprises as prime destinations for volunteering and donating.\_"
+        text: "The Humanity Initiative has chosen thirty of the world's most respected positive change enterprises to be our prime destinations for volunteering and donating.\_"
   -
     type: paragraph
     content:
@@ -363,5 +363,5 @@ intro:
         text: '* The CEJs, especially when Fellows are co-leading, hugely help the Fellows and their work.'
 main_image: 128588063_4643e62b46_k.jpg
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727920149
+updated_at: 1727920196
 ---
