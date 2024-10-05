@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727459140
+updated_at: 1728058865
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -17,7 +17,6 @@ challenge:
   main_image: _132560870_nima-sarikhani.jpg-2.webp
 commencement_speeches_hero_images:
   - 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
-  - d70e59e2-caa6-4c93-8964-a4c699612b28
 commencement_speeches_brief_introduction: 'Explore our collection of transformative commencement addresses. They ignite dreams, empower change, and celebrate resilience.'
 featured_commencement_speeches:
   - a92555a1-da6e-4db9-9054-ca26749a9664
