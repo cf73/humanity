@@ -36,12 +36,12 @@ document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
 // CHALLENGE SHOW TEMPLATE ----------------------------------------------------------------------------------------------
 
 // pin hero area
-// ScrollTrigger.create({
-//   trigger: '#invisibleScrollerTarget',
-//   start: 'top top',
-//   end: '+=900',
-//   pin: '#hero-area',
-// });
+ScrollTrigger.create({
+  trigger: '#tabs',
+  start: 'top 88',
+  end: '+=20000',
+  pin: '#tabs',
+});
 
 ScrollTrigger.create({
   trigger: '#main',

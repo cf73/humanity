@@ -20,7 +20,7 @@
     </div>
 </section> -->
 
-<section id="introblock" class="mb-16">
+<section id="introblock" class="bg-white">
     <div class="grid grid-cols-1 w-full lg:grid-cols-12 px-4 lg:px-0 mx-auto relative">
 
         <!-- <div id="heroQuote" class="flex flex-col justify-center h-[calc(100vh-96px)] w-1/2 absolute top-[96px] right-0 z-0  p-16 bg-white/90 backdrop-blur">
@@ -51,10 +51,12 @@
         </div> -->
         <!-- theme intro title and text -->
         <div data-speed=".8" class="col-span-12 row-span-4 lg:col-span-3 lg:col-start-2 row-start-1 lg:row-start-2 my-24  flex flex-col justify-center space-y-8 lg:row-span-2 ">
-            <h1 class="">{{title_text}}</h1>
+            <h2 class="">{{title_text}}</h2>
             <!-- <div class="prose prose-sky prose-xl leading-snug font-medium">{{intro_text}}</div> -->
             <div class="flex flex-row space-x-4">
-                <a href="/take-action-now?categories%5B%5D={{slug}}"><button class="btn-primary">Support our partners</button></a>
+                <div><a href="{{url}}"><button class="mb-12 btn-primary">Explore</button></a></div>
+
+                <!-- <a href="/take-action-now?categories%5B%5D={{slug}}"><button class="btn-primary">Support our partners</button></a> -->
             </div>
             <!-- <div class="font-medium leading-snug text-lg">{{intro_text}}</div> -->
         </div>
