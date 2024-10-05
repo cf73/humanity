@@ -46,6 +46,7 @@ ScrollTrigger.create({
 ScrollTrigger.create({
   trigger: '#main',
   start: 'top top',
+  pinSpacing: false,
   pin: '#breadcrumbwithtags',
 });
 

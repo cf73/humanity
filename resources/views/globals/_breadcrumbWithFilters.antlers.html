@@ -1,5 +1,5 @@
 <div id="breadcrumb" class="w-full h-auto pt-2 pb-1 bg-white/90 backdrop-blur fixed -top-24 z-40 box-border drop-shadow">
-    <div class="container mx-auto h-full flex flex-row items-center justify-between">
+    <div class="px-16 h-full flex flex-row items-center justify-between">
         <div class="textMeta">Our Challenges / {{title}}</div>
         <div class="flex flex-row gap-6 items-center">
             {{ livewire:lf-tags blueprint="books.book" fields="collection_type" }}
@@ -11,7 +11,7 @@
 </div>
 
 <div id="filtersheet" class="w-full h-0 top-40 bg-white/90 backdrop-blur fixed left-0 z-50 overflow-hidden">
-    <div id="filters" class="container mx-auto flex flex-col relative h-[calc(100vh-200px)]">
+    <div id="filters" class="px-16 flex flex-col relative h-[calc(100vh-200px)]">
         {{ livewire:lf-checkbox-filter
             blueprint="books.book"
             field="collection_type"
