@@ -1,7 +1,7 @@
 ---
 id: 7bec5a58-a1b3-425a-b2c2-944fdf084b98
 blueprint: book
-title: 'The Solace of Open Spaces  (1976)'
+title: 'The Solace of Open Spaces   (1976)'
 image: image-1710625650.jpeg
 link: 'https://www.amazon.com/gp/product/0140081135/ref=as_li_tf_tl?ie=UTF8&tag=jainthwo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0140081135'
 description:
@@ -76,7 +76,7 @@ related_content:
   - b6024468-0b3f-4752-9de3-f5141560c0f6
   - a27d7f2c-bd60-4e6e-874c-5a971fb2d9e3
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724687140
+updated_at: 1729129407
 date_published: '1976-01-01'
 book_author: 'Gretel Ehrlich'
 challenges:
