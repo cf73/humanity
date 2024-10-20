@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Please Donate Now'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727885771
+updated_at: 1728665451
 intro:
   -
     type: paragraph
@@ -40,27 +40,13 @@ intro:
         text: 'Jacqueline Wigglesworth, our colleague for twenty years, states the case for redeeming our humanity, speaking from the heart chakra of the planet'
       -
         type: text
-        text: ', Glastonbury, England.'
+        text: ' in Glastonbury, England.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Thank you for your kind donations! They help expand our outreach in many ways.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-          -
-            type: italic
-        text: 'PLEASE NOTE WE ARE REWIRING OUR DONATION PAGE. THANKS FOR YOUR PATIENCE!'
-  -
-    type: paragraph
-    content:
+        text: 'Thank you for your kind donations! They help expand our outreach in many ways. '
       -
         type: text
         marks:

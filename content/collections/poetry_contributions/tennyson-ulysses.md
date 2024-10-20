@@ -3,15 +3,17 @@ id: 71931be9-5c36-45b5-b201-f9295fd881ed
 blueprint: poetry_contribution
 title: 'Ulysses  (1833)'
 poets_name: 'Alfred Lord Tennyson'
-poets_website: www.poetryfoundation.org/poets/alfred-tennyson
+poets_website: 'https://www.poetryfoundation.org/poets/alfred-tennyson'
 image: image-1707446038.jpeg
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724885174
+updated_at: 1728224572
 collection_type: poetry-contribution
 sections: inspiration
 published_date: '1833-06-15'
+related_content:
+  - cec12744-472f-4da0-b17a-41b303b4a29e
 content:
   -
     type: paragraph
