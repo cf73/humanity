@@ -75,6 +75,7 @@ export default {
                 'textBlue': '#111a79',
                 'darkpink': '#ff99d3',
                 'softblacknew': '#25252e',
+                'snow': '#f2f2f2',
 
                 'war': '#fa0505',
                 'climate': '#254212',

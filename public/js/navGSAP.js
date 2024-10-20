@@ -190,7 +190,7 @@ gsap.to("#breadcrumb", {
     start: "top top", // Adjust based on when you want the animation to start
     toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
   },
-  y: 192, // Example animation property
+  y: 126, // Example animation property
   duration: .75,
   ease: "power2.inOut"
 });
