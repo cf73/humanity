@@ -90,22 +90,7 @@ description:
     content:
       -
         type: text
-        text: 'The original letters were given to the Bodleian Library by Elspeth Grahame in 1943, and can be read below.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Elspeth Grahame persuaded her husband to use his letters to Alastair as the basis for a proper children’s story. The resulting book, '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Wind in the Willows'
-      -
-        type: text
-        text: ', tells the amusing, lively and morally instructive tale of a group of animals pursuing various adventures along the river, in the threatening Wild Wood and on the road.'
+        text: 'It tells the amusing, lively and morally instructive tale of a group of animals pursuing various adventures along the river, in the threatening Wild Wood and on the road.'
   -
     type: paragraph
     content:
@@ -125,7 +110,7 @@ description:
         type: text
         text: ' is a wonderfully entertaining and educating read for children. Yet its impressionistic rendering of the English landscape, subtle questioning of modernity and mythic exploration of grace lend it a sophistication that speaks to adults too.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1729554608
+updated_at: 1729554701
 collection_type: book
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
