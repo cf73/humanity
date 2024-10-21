@@ -68,9 +68,9 @@ description:
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1729554863
+updated_at: 1729554933
 related_partner_initiatives:
-  - 643b298b-448c-44d4-841f-cdbcd7b03dcd
+  - 8ba26bc5-eaa5-4364-9d6b-3f02ca3158f9
 related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
   - 9777b323-6a66-4bed-8cc7-c426aa524978
