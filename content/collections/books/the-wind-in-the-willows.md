@@ -78,7 +78,13 @@ description:
     content:
       -
         type: text
-        text: 'The letters were carefully preserved by Miss Stott and given to Elspeth, who persuaded her husband that they would make a wonderful book. Grahame followed her advice, developing his narrative and publishing it in 1908 as The Wind in the Willows.'
+        text: 'The letters were carefully preserved by Miss Stott and given to Elspeth, who persuaded her husband that they would make a wonderful book. Grahame followed her advice, developing his narrative and publishing it in 1908 as '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Wind in the Willows.'
   -
     type: paragraph
     content:
@@ -119,7 +125,7 @@ description:
         type: text
         text: ' is a wonderfully entertaining and educating read for children. Yet its impressionistic rendering of the English landscape, subtle questioning of modernity and mythic exploration of grace lend it a sophistication that speaks to adults too.'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723219751
+updated_at: 1729554608
 collection_type: book
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
