@@ -19,7 +19,7 @@ article_text:
     content:
       -
         type: text
-        text: 'The Humanity Initiative has been unable to download the original text, but you can read the full article directly at: '
+        text: 'The Humanity Initiative has been unable (so far!) to download the original text, but you can read the full article directly at: '
       -
         type: text
         marks:
@@ -45,7 +45,7 @@ related_content:
   - 741cddf8-5aaf-421c-849d-4093cfa50766
   - f9f4f112-845f-467c-900e-c064fb540f9b
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1721002678
+updated_at: 1729903898
 articleauthor: 'Shashi Tharoor'
 sections: peace-gatherings
 ---
