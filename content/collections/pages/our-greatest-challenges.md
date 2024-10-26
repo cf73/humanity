@@ -4,15 +4,8 @@ blueprint: ourGreatestChallenges
 template: ourGreatestChallenges
 title: 'Welcome to the site...'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723251641
-parent: home
+updated_at: 1729904107
 introduction:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Welcome!\_"
   -
     type: paragraph
     content:
