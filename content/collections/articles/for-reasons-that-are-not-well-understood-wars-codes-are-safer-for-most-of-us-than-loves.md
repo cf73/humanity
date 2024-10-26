@@ -46,24 +46,6 @@ article_text:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'By David Foster Wallace'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Aug. 20, 2006'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Almost anyone who loves tennis and follows the men’s tour on television has, over the last few years, had what might be termed Federer Moments. These are times, as you watch the young Swiss play, when the jaw drops and eyes protrude and sounds are made that bring spouses in from other rooms to see if you’re O.K.'
   -
     type: paragraph
@@ -650,5 +632,5 @@ related_content:
   - cec12744-472f-4da0-b17a-41b303b4a29e
   - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1725728750
+updated_at: 1729903495
 ---
