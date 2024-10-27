@@ -1,33 +1,33 @@
 {{partial:globals/smoothWrapStart}}
 <div id="invisibleScrollerTarget"></div>
 
-<section id="hero" class="min-h-screen pt-24 pb-12 relative flex flex-col justify-center">
-    <!-- <div class="background absolute top-0 left-0 w-2/3 h-full bg-softblack z-0"></div> -->
-        <video id="clouds" autoplay muted loop class="absolute top-0 left-0 z-0 w-full h-full object-cover opacity-70">
-          <source src="/assets/clouds3.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
-        <div class="flex flex-col justify-center h-full w-full items-center text-center relative z-30 pr-16 space-y-8">
-            <div>
-                <h1 id="counting" class="text-white">2024 and counting...</h1>
-                <h1 id="itstime" class="text-white">Time to rescue our humanity.</h1>
-            </div>
-            <div class="prose prose-sky xl:prose-xl leading-snug xl:leading-snug">
-                {{welcome_message}}
-            </div>
-            <button id="heroButton" class="btn-primary">{{lead_button_text}}</button>
-            </div>
-        <!-- <div data-speed=".6" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat"></div> -->
+<section data-speed=".9" id="hero" class="min-h-screen pt-24 pb-12 relative flex flex-col justify-center">
+    <div class="background absolute top-0 left-0 w-full h-full bg-softblack z-0"></div>
+    <video id="clouds" autoplay muted loop class="absolute top-0 left-0 z-0 w-full h-full object-cover opacity-80">
+        <source src="/assets/clouds3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <div id="itstime" class="flex flex-col justify-center h-full w-full pt-[10vh] items-center text-center relative z-30 pr-16 space-y-8">
+        <div>
+            <h1 id="counting" class="text-white">2024 and counting...</h1>
+            <h1 class="text-white">Time to rescue our humanity.</h1>
+        </div>
+        <h2 class="w-2/3 text-white leading-normal">
+            {{welcome_message}}
+        </h2>
+        <button id="heroButton" class="btn-primary">{{lead_button_text}}</button>
+        </div>
+    <!-- <div data-speed=".6" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat"></div> -->
 </section>
 
-<section id="secondary" class="grid grid-cols-2 gap-16 h-[calc(100vh-96px)]">
+<section id="secondary" class="grid grid-cols-2 gap-16 h-[calc(100vh-96px)] relative z-10">
     <div class="flex flex-col justify-center h-full">
         <div class="bg-blueblast prose prose-sky xl:prose-xl leading-snug xl:leading-snug lg:p-16">
             {{intro_to_sites_content:summary}}
         </div>
         <div style="background-image: url({{intro_to_sites_content_image}});" class="bg-center bg-cover bg-repeat-no-repeat bg-red-300 h-full"></div>
         </div>
-    <div class="h-full w-full flex flex-col justify-center lg:pr-16">
+    <div data-speed="1.2" class="h-full w-full flex flex-col justify-center lg:pr-16">
         <div class="accordion container mx-auto relative z-40">
             <style>
                 .accordion-item.active .accordion-icon {
@@ -37,11 +37,11 @@
             {{intro_to_sites_content:accordion}}
             <div class="accordion-item py-4 border-b border-textBlue">
                 <div class="accordion-header cursor-pointer flex items-center justify-between xl:py-2 font-inter font-medium duration-200 ease-out">
-                    <h2>{{item_title}}</h2>
+                    <h3>{{item_title}}</h3>
                     <span class="accordion-icon inline-block rotate-0 duration-200 ease-out"><i class="fa-solid fa-chevron-down accordion-icon"></i></span>
                 </div>
                 <div style="height: 0;" class="accordion-content overflow-hidden duration-200 ease-out">
-                    <div class="prose prose-sky xl:prose-lg leading-snug py-6">
+                    <div class="prose prose-sky leading-snug py-2">
                         <div class="mb-4">{{item_content}}</div>
                         <a href="{{url}}"><button class="btn-tirtiary">Explore</button></a>
                     </div>
@@ -100,7 +100,7 @@ document.getElementById("heroButton").onclick = () => {
         <div style="background-image: url({{main_image:image}});" class="h-[70vh] flex flex-col justify-end bg-no-repeat bg-cover bg-left w-2/3">
         </div>
         <div data-speed="1.2" class="col-span-12 lg:col-span-6 lg:row-start-2 lg:col-start-6 mb-24 z-10">
-            {{featured_content limit="1"}}
+            {{featured_content limit="3"}}
                 {{partial:cards/featuredCard}}
             {{/featured_content}}                    
         </div>
@@ -110,7 +110,7 @@ document.getElementById("heroButton").onclick = () => {
         <div style="background-image: url({{main_image:image}});" class="h-[100vh] flex flex-col justify-end items-center bg-no-repeat bg-cover bg-center w-full">
         </div>
         <div data-speed="1.2" class="col-span-12 lg:col-span-6 lg:row-start-2 lg:col-start-6 mb-24 z-10">
-            {{featured_content limit="1"}}
+            {{featured_content limit="3"}}
                 {{partial:cards/featuredCard}}
             {{/featured_content}}                    
         </div>
@@ -120,7 +120,7 @@ document.getElementById("heroButton").onclick = () => {
         <div style="background-image: url({{main_image:image}});" class="h-[100vh] flex flex-col justify-end items-center bg-no-repeat bg-cover bg-center w-full">
         </div>
         <div data-speed="1.2" class="col-span-12 lg:col-span-6 lg:row-start-2 lg:col-start-6 mb-24 z-10">
-            {{featured_content limit="1"}}
+            {{featured_content limit="3"}}
                 {{partial:cards/featuredCard}}
             {{/featured_content}}                    
         </div>
