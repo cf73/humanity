@@ -16,6 +16,7 @@
     },
     "dependencies": {
         "@tailwindcss/forms": "^0.5.9",
-        "gsap": "file:gsap-bonus.tgz"
+        "gsap": "file:gsap-bonus.tgz",
+        "tw-elements": "^2.0.0"
     }
 }

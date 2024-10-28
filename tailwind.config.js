@@ -10,6 +10,7 @@ export default {
     	'./resources/views/vendor/statamic-livewire-filters/**/*.antlers.html',
         "./vendor/livewire/flux-pro/stubs/**/*.blade.php",
         "./vendor/livewire/flux/stubs/**/*.blade.php",
+        "./node_modules/tw-elements/js/**/*.js",
     ],
 
     theme: {
@@ -128,5 +129,7 @@ export default {
         require("@tailwindcss/forms")({
             strategy: 'class'
           }),
+        [require("tw-elements/plugin.cjs")],
     ],
+    darkMode: "class"
 };
