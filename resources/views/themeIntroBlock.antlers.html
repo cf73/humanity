@@ -1,5 +1,5 @@
 {{session:set challengeslug="{challengeslugpassed}"}}
-
+{{taxonomy:challenges slug:contains="{challengeslug}"}}
     <!-- <div data-speed=".5" class="relative -z-50 bg-no-repeat bg-center bg-cover h-[90vh] py-60 w-full opacity-20" style="background-image: url('{{ collection:photography_contributions challenges:contains='{challengeslugpassed}' sort='random' limit='1' }}{{image}}{{ /collection:photography_contributions }}');"></div>
         <div data-speed="2" class="flex flex-col justify-center items-center h-full p-16">
             {{ collection:quotations challenges:contains="{{challengeslugpassed}}" sort="random" limit="1" }}
@@ -62,5 +62,6 @@
         
     </div>
 </section>
+{{/taxonomy:challenges}}
 
 {{/session:set}}
