@@ -50,6 +50,59 @@ ScrollTrigger.create({
   pin: '#breadcrumbwithtags',
 });
 
+// pin challengesareas
+ScrollTrigger.create({
+  trigger: '#challengesMenu1',
+  start: 'top 62px',
+  end: '+=500',
+  pin: '#challengesMenu1',
+});
+
+//fade inactive items1
+gsap.to(".inactive1", {
+  scrollTrigger: {
+    trigger: "#challengesMenu1",
+    start: "top 62px", // Adjust based on when you want the animation to start
+    toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
+  },
+  opacity: 0.2,
+  duration: 1,
+  ease: "power2.inOut"
+});
+
+//fade out introImage1
+gsap.to("#challengeIntroImage1", {
+  scrollTrigger: {
+    trigger: "#challengeIntroImage1",
+    start: "top -100", // Adjust based on when you want the animation to start
+    end: "bottom middle",
+    scrub: true,
+  },
+  opacity: 0,
+});
+
+//fade out introImage2
+gsap.to("#challengeIntroImage2", {
+  scrollTrigger: {
+    trigger: "#challengeIntroImage2",
+    start: "top -100", // Adjust based on when you want the animation to start
+    end: "bottom middle",
+    scrub: true,
+  },
+  opacity: 0,
+});
+
+//fade out introImage3
+gsap.to("#challengeIntroImage3", {
+  scrollTrigger: {
+    trigger: "#challengeIntroImage3",
+    start: "top -100", // Adjust based on when you want the animation to start
+    end: "bottom middle",
+    scrub: true,
+  },
+  opacity: 0,
+});
+
 
 // fade away hero image on scroll
 // gsap.fromTo(
@@ -194,6 +247,7 @@ gsap.to("#breadcrumb", {
   duration: .75,
   ease: "power2.inOut"
 });
+
 
 
 // // // Pin filterssheet

@@ -1,15 +1,15 @@
 {{session:set challengeslug="{{challengeslugpassed}}"}}
 {{taxonomy:challenges slug:contains="{challengeslug}"}}
 
-<div style="background-image: url({{main_image:image}});" class="w-full h-screen flex flex-col justify-end bg-no-repeat bg-cover bg-left">
+<div id="challengeIntroImage{{increment:introImage from='1'}}" style="background-image: url({{main_image:image}});" class="challengeIntroImage w-full h-screen flex flex-col justify-end bg-no-repeat bg-cover bg-left">
 </div>
-<div data-speed="1.2" class="container mx-auto grid grid-cols-12 z-10 relative -top-[20vh]">
-    <div class="col-span-12 mb-24">
+<div data-speed="1.2" class="container mx-auto grid grid-cols-12 z-10 relative -top-[25vh]">
+    <div class="col-span-12 mb-8">
         {{featured_content limit="1"}}
             {{partial:cards/featuredCard}}
         {{/featured_content}}
     </div>
-    <div class="featuredSwiper col-span-12 lg:col-span-6 lg:row-start-2 lg:col-start-6 w-full">
+    <div class="featuredSwiper col-span-12  lg:row-start-2  w-full">
         <div class="flex flex-row justify-between mb-8 items-center">
             <div class="textMeta">Featured</div>
             <div class="flex flex-row justify-end space-x-2 relative">
@@ -47,7 +47,7 @@
     </div>
     <div data-speed=".8" class="col-span-12 lg:col-span-5 flex flex-col lg:justify-center lg:pr-16 lg:pl-6 text-center items-center my-24 lg:my-0 lg:text-left lg:items-start">
         {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
-            <div class="text-5xl mb-4">{{quotation}}</div>
+            <div class="text-2xl mb-4">{{quotation}}</div>
             <div class="textMeta">{{attribution}}</div>
         {{/collection:quotations}}
     </div>

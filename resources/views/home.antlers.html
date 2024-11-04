@@ -20,6 +20,33 @@
     <!-- <div data-speed=".6" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat"></div> -->
 </section>
 
+<section id="challengesIntro" class="pt-32 space-y-16">
+    <div id="challengesMenu1" data-speed=".5" class="flex flex-col justify-center lg:flex-row justify-between lg:gap-16 p-48 text-lg text-center container mx-auto h-[calc(100vh-62px)]">
+        <div class="flex flex-col justify-center items-center text-center">Ending War</div>
+        <div class="flex flex-col justify-center items-center text-center inactive1">Solving Climate Change</div>
+        <div class="flex flex-col justify-center items-center text-center inactive1">Preserving Democracy</div>
+    </div>
+
+    {{partial:challengeIntro challengeslugpassed="war"}}
+
+    <div id="challengesMenu1" data-speed=".5" class="flex flex-col justify-center lg:flex-row justify-between lg:gap-16 p-48 text-lg text-center container mx-auto h-[calc(100vh-62px)]">
+        <div class="flex flex-col justify-center items-center text-center">Ending War</div>
+        <div class="flex flex-col justify-center items-center text-center inactive1">Solving Climate Change</div>
+        <div class="flex flex-col justify-center items-center text-center inactive1">Preserving Democracy</div>
+    </div>
+
+    {{partial:challengeIntro challengeslugpassed="climate"}}
+
+    <div id="challengesMenu1" data-speed=".5" class="flex flex-col justify-center lg:flex-row justify-between lg:gap-16 p-48 text-lg text-center container mx-auto h-[calc(100vh-62px)]">
+        <div class="flex flex-col justify-center items-center text-center">Ending War</div>
+        <div class="flex flex-col justify-center items-center text-center inactive1">Solving Climate Change</div>
+        <div class="flex flex-col justify-center items-center text-center inactive1">Preserving Democracy</div>
+    </div>
+
+    {{partial:challengeIntro challengeslugpassed="democracy"}}
+
+</section>
+
 <section id="secondary" class="grid grid-cols-2 gap-16 h-[calc(100vh-96px)] relative z-10">
     <div class="flex flex-col justify-center h-full">
         <div class="bg-blueblast prose prose-sky xl:prose-xl leading-snug xl:leading-snug lg:p-16">
@@ -59,29 +86,9 @@ document.getElementById("heroButton").onclick = () => {
 });
 </script>
 
-<section id="featuredCommencementSpeeches">
-    <div data-speed="1.2" class="pt-16 pb-24 mb-20 space-y-8 flex flex-col  mt-0">
-        <div class="swiper featuredCommencementSpeeches container">
-                <div class="flex flex-row items-center justify-between w-full mb-8">
-                    <h2>{{featured_content_heading}}</h2>
-                    <div class="flex flex-row justify-end space-x-2 relative -left-1 mt-[40px] mb-8 mr-8 swiper-pagination">
-                        <div class="image-swiper-button-prev"></div>
-                        <div class="image-swiper-button-next"></div>
-                    </div>
-                </div>
-    
-            <div class="swiper-wrapper">
-                {{featured_content | shuffle}}
-                    <div class="swiper-slide" style="height: auto !important;">
-                        {{partial:cards/card headingColor=""}}
-                    </div>
-                {{/featured_content}}
-            </div>
-        </div>
-    </div>
-</section>
 
-<section class="relative">
+
+<section data-speed="0.8" class="relative">
     <div class="background absolute top-0 right-0 w-2/3 h-full bg-softblack z-0"></div>
     <div class="container mx-auto h-screen grid grid-cols-2 relative z-30">
         <div data-speed=".8" style="background-image: url('{{closing_photo}}');" class="h-full w-full bg-center bg-contain bg-no-repeat relative z-30"></div>
@@ -92,35 +99,6 @@ document.getElementById("heroButton").onclick = () => {
           </div>
     </div>
 </section>
-
-<section id="challengesIntro" class="h-full w-full pt-32 space-y-16">
-    <div data-speed=".9" class="grid grid-cols-3 gap-16 text-center w-full container mx-auto h-screen">
-        {{taxonomy:challenges}}
-            <div class="flex flex-col justify-center items-center text-7xl">{{title}}</div>
-        {{/taxonomy:challenges}}
-    </div>
-
-    {{partial:challengeIntro challengeslugpassed="war"}}
-
-    <div class="grid grid-cols-3 gap-16 text-center w-full container mx-auto h-screen">
-        {{taxonomy:challenges}}
-            <div class="flex flex-col justify-center items-center text-7xl">{{title}}</div>
-        {{/taxonomy:challenges}}
-    </div>
-
-    {{partial:challengeIntro challengeslugpassed="climate"}}
-
-    <div class="grid grid-cols-3 gap-16 text-center w-full container mx-auto h-screen">
-        {{taxonomy:challenges}}
-            <div class="flex flex-col justify-center items-center text-7xl">{{title}}</div>
-        {{/taxonomy:challenges}}
-    </div>
-
-    {{partial:challengeIntro challengeslugpassed="democracy"}}
-
-</section>
-
-
 
 <!-- <section class="py-48 space-y-8 relative z-10">
     <div data-speed=".9" class="font-thin text-7xl xl:text-8xl text-center leading-tight xl:px-36">
