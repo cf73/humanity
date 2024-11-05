@@ -54,8 +54,32 @@ ScrollTrigger.create({
 ScrollTrigger.create({
   trigger: '#challengesMenu1',
   start: 'top 62px',
-  end: '+=500',
+  end: '+=900',
   pin: '#challengesMenu1',
+});
+
+//change body color
+gsap.to("body", {
+  scrollTrigger: {
+    trigger: "#challengesMenu1",
+    start: "top 62px", // Adjust based on when you want the animation to start
+    toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
+  },
+  backgroundColor: "#25252e",
+  duration: 3,
+  ease: "power2.inOut"
+});
+
+//change active challenge color
+gsap.to("#active1", {
+  scrollTrigger: {
+    trigger: "#challengesMenu1",
+    start: "top 62px", // Adjust based on when you want the animation to start
+    toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
+  },
+  color: "white",
+  duration: 3,
+  ease: "power2.inOut"
 });
 
 //fade inactive items1
@@ -79,6 +103,7 @@ gsap.to("#challengeIntroImage1", {
     scrub: true,
   },
   opacity: 0,
+  filter: "blur(10px)",
 });
 
 //fade out introImage2

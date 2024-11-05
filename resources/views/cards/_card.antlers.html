@@ -6,17 +6,17 @@
         </div>
 
         <div class="py-0 px-4 mt-5 flex flex-col items-center text-center">
-            {{partial:cards/tape passedValue="{{collection:title}}" passedColor="atomicTangerine"}}
+            {{partial:cards/tape passedValue="{{collection:title}}" headingColor="white" passedColor="atomicTangerine"}}
 
             <h3 class="text-{{headingColor}}">{{title}}</h3>
             {{if speaker}}
-                <span class="textSecondary">{{speaker}}</span>
+                <span class="textSecondary text-{{headingColor}}">{{speaker}}</span>
             {{/if}}
             {{if articleauthor}}
-                <span class="textSecondary">{{articleauthor}}</span>
+                <span class="textSecondary text-{{headingColor}}">{{articleauthor}}</span>
             {{/if}}
             {{if book_author}}
-                <span class="textSecondary">{{book_author}}</span>
+                <span class="textSecondary text-{{headingColor}}">{{book_author}}</span>
             {{/if}}
             <!-- <div class="font-serif leading-6 text-base">{{ description }}</div> -->
         </div>

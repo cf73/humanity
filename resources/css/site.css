@@ -80,7 +80,6 @@
   height: 36px;
 }
 .image-swiper-button-next {
-  background-image: url('/public/assets/icons/next.svg');
 
 }
 .image-swiper-button-next_white {
@@ -88,8 +87,7 @@
 
   }
 .image-swiper-button-prev {
-  background-image: url('/public/assets/icons/next.svg');
-  transform: rotate(180deg);
+
 }
 .swiper-button-disabled {
     opacity: .3;

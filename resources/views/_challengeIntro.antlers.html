@@ -1,7 +1,7 @@
 {{session:set challengeslug="{{challengeslugpassed}}"}}
 {{taxonomy:challenges slug:contains="{challengeslug}"}}
 
-<div id="challengeIntroImage{{increment:introImage from='1'}}" style="background-image: url({{main_image:image}});" class="challengeIntroImage w-full h-screen flex flex-col justify-end bg-no-repeat bg-cover bg-left">
+<div data-speed="0.7" id="challengeIntroImage{{increment:introImage from='1'}}" style="background-image: url({{main_image:image}});" class="challengeIntroImage w-full h-screen flex flex-col justify-end bg-no-repeat bg-cover bg-left">
 </div>
 <div data-speed="1.2" class="container mx-auto grid grid-cols-12 z-10 relative -top-[25vh]">
     <div class="col-span-12 mb-8">
@@ -9,23 +9,20 @@
             {{partial:cards/featuredCard}}
         {{/featured_content}}
     </div>
-    <div class="featuredSwiper col-span-12  lg:row-start-2  w-full">
+    <div class="featuredSwiper col-span-10 col-start-2 lg:row-start-2 w-full mb-24">
         <div class="flex flex-row justify-between mb-8 items-center">
-            <div class="textMeta">Featured</div>
-            <div class="flex flex-row justify-end space-x-2 relative">
-                <div class="image-swiper-button-prev"></div>
-                <div class="image-swiper-button-next"></div>
-            </div>
+            <div class="textMeta text-white">Featured</div>
+            {{partial:swiperButtons}}
         </div>
         <div class="swiper-wrapper">
             {{taxonomy:challenges slug:contains="{challengeslug}"}}
                 {{featured_content offset="1"}}
                     <div class="swiper-slide" style="height: auto !important;">
-                        {{partial:cards/card}}
+                        {{partial:cards/card headingColor="white"}}
                     </div>
                 {{/featured_content}}
                 
-                <div class="swiper-slide flex flex-col justify-center border-l-[1px] border-earth" style="height: auto !important;">
+                <!-- <div class="swiper-slide flex flex-col justify-center border-l-[1px] border-earth" style="height: auto !important;">
                     <div class="">
                         
                         <div class="flex flex-col h-full pl-8 space-x-6 space-y-2 font-medium text-2xl tracking-wide text-softblack mx-auto flex-wrap justify-center items-baseline">
@@ -40,19 +37,39 @@
                         <a href="/challenges/{{slug}}" class="pl-12"><button class="btn-primary">Explore</button></a>
 
                     </div>
-                </div>
+                </div> -->
                 
             {{/taxonomy:challenges}}
         </div>
     </div>
-    <div data-speed=".8" class="col-span-12 lg:col-span-5 flex flex-col lg:justify-center lg:pr-16 lg:pl-6 text-center items-center my-24 lg:my-0 lg:text-left lg:items-start">
-        {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
-            <div class="text-2xl mb-4">{{quotation}}</div>
-            <div class="textMeta">{{attribution}}</div>
-        {{/collection:quotations}}
+    <div data-speed="1.2" class="container mx-auto col-span-12 flex flex-col z-10 space-y-8 text-warmwhite text-center items-center">
+        <div class="text-7xl font-bold uppercase tracking-wider leading-tight">{{title}}</div>
+        <div class="col-span-12 flex flex-col text-center items-center my-24">
+            {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
+                <div class="text-2xl lg:px-60 mb-4 text-white">{{quotation}}</div>
+                <div class="textMeta lg:px-60 text-white">{{attribution}}</div>
+            {{/collection:quotations}}
+        </div>
+        <a href="{{url}}">
+            <button
+            type="button"
+            class="inline-block rounded bg-neutral-100 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-neutral-600 shadow-light-3 transition duration-150 ease-in-out hover:bg-neutral-200 hover:shadow-light-2 focus:bg-neutral-200 focus:shadow-light-2 focus:outline-none focus:ring-0 active:bg-neutral-200 active:shadow-light-2 motion-reduce:transition-none dark:shadow-black/30 dark:hover:shadow-dark-strong dark:focus:shadow-dark-strong dark:active:shadow-dark-strong">
+            Explore
+            </button>
+        </a>
+        <div class="flex flex-row space-x-6 space-y-2 font-bold text-sm tracking-widest uppercase w-2/3 mx-auto flex-wrap justify-center items-baseline">
+            <div><a class="text-warmwhite/70" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></div>
+            <div><a class="text-warmwhite/70" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></div>
+            <div><a class="text-warmwhite/70" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=commencement-speech">{{collection:commencement_speeches challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</a></div>
+            <div><a class="text-warmwhite/70" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=documentaries">{{collection:documentaries challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:documentaries}} Documentaries</a></div>
+            <div><a class="text-warmwhite/70" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=partner-initiative">{{collection:partner_initiatives challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Partner Initiatives</a></div>
+            <div><a class="text-warmwhite/70" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=partner-story">{{collection:partner_stories challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_stories}} Partner Stories</a></div>
+            <div><a class="text-warmwhite/70" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></div>
+            <div><a class="text-warmwhite/70" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
+        </div>
     </div>
+    
 </div>
-<div class="flex flex-col items-center"><a href="/challenges/{{slug}}" class=""><button class="btn-primary">Explore all content on {{title}}</button></a></div>
 {{/taxonomy:challenges}}
 
 {{/session:set}}
