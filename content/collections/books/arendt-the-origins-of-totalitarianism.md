@@ -10,17 +10,17 @@ description:
     content:
       -
         type: text
-        text: '".... Essential reading, not only because it reminds us of the monstrous crimes committed by Nazi Germany and Stalin Soviet Union in the 20th century, and also because it provides a chilling warning of the dynamics that could fuel totalitarian movements in the future. Book_how alienation, rootlessness, and economic uncertainty can make people susceptible to the lies and conspiracy theories dispensed by tyrants. It shows how the weaponization bigotry and racism by demagogues fuels populous movements build upon tribal hatred, while undermining the long-standing institutions meant to protect our freedoms and the rule of law, and shattering the very idea of a shared sense of humanity." '
+        text: '".... Essential reading, not only because it reminds us of the monstrous crimes committed by Nazi Germany and Stalin Soviet Union in the 20th century, and also because it provides a chilling warning of the dynamics that could fuel totalitarian movements in the future, how alienation, rootlessness, and economic uncertainty can make people susceptible to the lies and conspiracy theories dispensed by tyrants. It shows how the weaponization of bigotry and racism by demagogues fuels populous movements build upon tribal hatred, while undermining the long-standing institutions meant to protect our freedoms and the rule of law, and shattering the very idea of a shared sense of humanity." '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'by MICHIKO KAKUTANI'
+        text: '~  MICHIKO KAKUTANI'
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631256
+updated_at: 1730979067
 book_author: 'Hannah Arendt'
 date_published: '1951-01-01'
 link: 'https://www.amazon.com/Origins-Totalitarianism-Hannah-Arendt/dp/0156701537/ref=sr_1_1?adgrpid=1338106213843527&dib=eyJ2IjoiMSJ9.ldXS_QGKfBqcrf8Z1tQg3YsR_05_qZCCaC_AT6kpRyMnSPeANdeNrBnUmViiEDmEFth0N4kba8IGkBNOIFlNJ5wQezyixII1fZgqxoCvKtK_AhIBlDDhCHB3Qj80czLVgCSn0xwns6iCmPp7I3Ti02kUjRE8X7DZna-_Ia10SduY_jhohj9Z3WNaGkFyqBJH1v1skV51q61UjzewoCd-nXYiQCM2cNE8ZjdQcQILkY-zksC2tuJSF-Ltmjz5T9hn88FGAjCiuF17cCKXe-oIAG13ggGgoNj85BJu09_ihp4.DlbasdohIeqLnGdW_LGW5127JyqIWzmLBq5O0z3y_C8&dib_tag=se&hvadid=83631709174717&hvbmt=be&hvdev=c&hvlocphy=103662&hvnetw=o&hvqmt=e&hvtargid=kwd-83631978230290%3Aloc-190&hydadcr=9391_10793904&keywords=the+origins+of+totalitarianism&msclkid=3e04ff93196e159ca14499f6e5f827e6&qid=1717959835&sr=8-1'
