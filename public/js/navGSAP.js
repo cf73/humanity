@@ -77,7 +77,6 @@ gsap.to("#active1", {
     start: "top 62px", // Adjust based on when you want the animation to start
     toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
   },
-  color: "white",
   duration: 3,
   ease: "power2.inOut"
 });
@@ -89,7 +88,8 @@ gsap.to(".inactive1", {
     start: "top 62px", // Adjust based on when you want the animation to start
     toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
   },
-  opacity: 0.2,
+  opacity: 0.4,
+  filter: "blur(10px)",
   duration: 1,
   ease: "power2.inOut"
 });

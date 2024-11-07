@@ -78,6 +78,8 @@ export default {
                 'softblacknew': '#25252e',
                 'snow': '#f2f2f2',
 
+                'blast': '#ff2b7170',
+
                 'war': '#fa0505',
                 'climate': '#254212',
                 'democracy': '#ffbc1f'
