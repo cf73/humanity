@@ -1,13 +1,10 @@
 {{partial:globals/smoothWrapStart}}
 <div id="invisibleScrollerTarget"></div>
 
-<section data-speed=".9" id="hero" class="min-h-screen pt-24 pb-12 relative flex flex-col justify-center">
+<section  id="hero" class="min-h-screen pt-24 pb-12 relative flex flex-col justify-center">
     <div class="background absolute top-0 left-0 w-full h-full bg-softblack z-0"></div>
-    <video id="clouds" autoplay muted loop class="absolute top-0 left-0 z-0 w-full h-full object-cover opacity-80">
-        <source src="/assets/clouds3.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-    <div id="itstime" class="flex flex-col justify-center h-full w-full pt-[10vh] items-center text-center relative z-30 pr-16 space-y-8">
+    
+    <div id="itstime" class="flex flex-col justify-center h-full w-full pt-[10vh] relative z-30 pr-16 space-y-8">
         <div>
             <h1 id="counting" class="text-white">2024 and counting...</h1>
             <h1 class="text-white">Time to rescue our humanity.</h1>
@@ -20,30 +17,12 @@
     <!-- <div data-speed=".6" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat"></div> -->
 </section>
 
-<section id="challengesIntro" class="pt-32 space-y-16">
-    <div id="challengesMenu1" class="flex flex-col justify-center lg:text-5xl xl:text-7xl text-azure font-bold uppercase tracking-wider justify-between px-15 lg:px-48 py-[20vh] text-center h-[calc(100vh-62px)]">
-        <div class="textMeta mx-auto text-blast">our priorities</div>
-        <div id="active1" class="flex flex-col justify-center items-center text-center">Ending War</div>
-        <div class="flex flex-col justify-center items-center text-center inactive1">Solving Climate Change</div>
-        <div class="flex flex-col justify-center items-center text-center inactive1">Preserving Democracy</div>
-    </div>
+<section id="challengesIntro" class="pt-32 space-y-[90vh] mb-[30vh]">
 
     {{partial:challengeIntro challengeslugpassed="war"}}
 
-    <div id="challengesMenu1" data-speed=".5" class="flex flex-col justify-center lg:flex-row justify-between lg:gap-16 p-48 text-lg text-center container mx-auto h-[calc(100vh-62px)]">
-        <div class="flex flex-col justify-center items-center text-center">Ending War</div>
-        <div class="flex flex-col justify-center items-center text-center inactive1">Solving Climate Change</div>
-        <div class="flex flex-col justify-center items-center text-center inactive1">Preserving Democracy</div>
-    </div>
-
     {{partial:challengeIntro challengeslugpassed="climate"}}
-
-    <div id="challengesMenu1" data-speed=".5" class="flex flex-col justify-center lg:flex-row justify-between lg:gap-16 p-48 text-lg text-center container mx-auto h-[calc(100vh-62px)]">
-        <div class="flex flex-col justify-center items-center text-center">Ending War</div>
-        <div class="flex flex-col justify-center items-center text-center inactive1">Solving Climate Change</div>
-        <div class="flex flex-col justify-center items-center text-center inactive1">Preserving Democracy</div>
-    </div>
-
+   
     {{partial:challengeIntro challengeslugpassed="democracy"}}
 
 </section>

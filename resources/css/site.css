@@ -37,7 +37,7 @@
         @apply uppercase font-josephin text-xs font-medium antialiased text-spaceCadet tracking-widest w-fit mt-[.25em];
     }
     .textMain {
-        @apply font-serif prose prose-sky mx-auto lg:prose-xl;
+        @apply font-serif prose prose-sky lg:prose-xl;
     }
     .textMainSans {
         @apply font-josephin font-light subpixel-antialiased prose prose-sky mx-auto leading-normal text-xl;

@@ -59,16 +59,16 @@ ScrollTrigger.create({
 });
 
 //change body color
-gsap.to("body", {
-  scrollTrigger: {
-    trigger: "#challengesMenu1",
-    start: "top 62px", // Adjust based on when you want the animation to start
-    toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
-  },
-  backgroundColor: "#25252e",
-  duration: 3,
-  ease: "power2.inOut"
-});
+// gsap.to("body", {
+//   scrollTrigger: {
+//     trigger: "#challengesMenu1",
+//     start: "top 62px", // Adjust based on when you want the animation to start
+//     toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
+//   },
+//   backgroundColor: "#25252e",
+//   duration: 3,
+//   ease: "power2.inOut"
+// });
 
 //change active challenge color
 gsap.to("#active1", {
@@ -115,6 +115,7 @@ gsap.to("#challengeIntroImage2", {
     scrub: true,
   },
   opacity: 0,
+  filter: "blur(10px)",
 });
 
 //fade out introImage3
@@ -126,6 +127,7 @@ gsap.to("#challengeIntroImage3", {
     scrub: true,
   },
   opacity: 0,
+  filter: "blur(10px)",
 });
 
 
