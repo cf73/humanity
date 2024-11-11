@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1729386009
+updated_at: 1731273169
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -80,6 +80,6 @@ featured_content:
   - 71931be9-5c36-45b5-b201-f9295fd881ed
   - 263accbc-caa0-48eb-964e-dccc457c29cc
 featured_content_heading: 'Begin to explore'
-lead_button_text: 'Join The Humanity Initiative'
+lead_button_text: 'We focus on three main priorities'
 closing_photo: image-1710115162.jpeg
 ---

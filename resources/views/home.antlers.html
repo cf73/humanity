@@ -1,19 +1,19 @@
 {{partial:globals/smoothWrapStart}}
 <div id="invisibleScrollerTarget"></div>
 
-<section  id="hero" class="min-h-screen pt-24 pb-12 relative flex flex-col justify-center">
-    <div class="background absolute top-0 left-0 w-full h-full bg-softblack z-0"></div>
+<section  id="hero" class="min-h-[90vh] pt-24 pb-12 relative flex flex-col">
+    <div class="background absolute top-0 left-0 w-full h-full bg-lightSkyBlue z-0"></div>
     
-    <div id="itstime" class="flex flex-col justify-center h-full w-full pt-[10vh] relative z-30 pr-16 space-y-8">
+    <div class="container mx-auto flex flex-col justify-center h-full w-full pt-[10vh] relative z-30 pr-16 space-y-8">
         <div>
-            <h1 id="counting" class="text-white">2024 and counting...</h1>
-            <h1 class="text-white">Time to rescue our humanity.</h1>
+            <h1 id="counting" class="">2024 and counting...</h1>
+            <h1 class="">Time to rescue our humanity.</h1>
         </div>
-        <h2 class="w-2/3 text-white leading-normal">
+        <div class="textMain ">
             {{welcome_message}}
-        </h2>
-        <button id="heroButton" class="btn-primary">{{lead_button_text}}</button>
         </div>
+        <button id="heroButton" class="btn-primary">{{lead_button_text}}</button>
+    </div>
     <!-- <div data-speed=".6" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat"></div> -->
 </section>
 

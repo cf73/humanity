@@ -11,15 +11,22 @@
             {{/featured_content}}
         </div> -->
         <div class="textMeta col-span-10 col-start-0 mb-16">Priority #{{increment from="1"}}</div>
-        <div class="featuredSwiper col-span-10 col-start-2 lg:row-start-2 w-full">
+        <div class="featuredSwiper col-span-10 col-start-2 lg:row-start-2 w-full mb-16">
             <div class="flex flex-col">
                 <div class="flex flex-col mb-12">
                     <div class="text-7xl font-bold uppercase tracking-wider leading-tight">{{title}}</div>
                     <div class="textMain">
                         {{intro_text}}
                     </div>
+                    <a href="{{url}}">
+                        <button
+                        type="button"
+                        class="inline-block rounded bg-neutral-100 px-7 pb-2.5 pt-3 text-2xl leading-normal text-neutral-600 shadow-light-3 transition duration-150 ease-in-out hover:bg-neutral-200 hover:shadow-light-2 focus:bg-neutral-200 focus:shadow-light-2 focus:outline-none focus:ring-0 active:bg-neutral-200 active:shadow-light-2 motion-reduce:transition-none dark:shadow-black/30 dark:hover:shadow-dark-strong dark:focus:shadow-dark-strong dark:active:shadow-dark-strong">
+                        Explore {{title}}
+                        </button>
+                    </a>
                 </div>
-                <div class="flex flex-row justify-between mb-8">
+                <div class="flex flex-row justify-between items-center mb-8">
                     <div class="textMeta">
                         Featured
                     </div>
@@ -55,23 +62,17 @@
             </div>
         </div>
     
-        <div data-speed="1.2" class="container mx-auto col-span-12 lg:row-start-3 flex flex-col z-10 space-y-8 text-center items-center">
-            <div class="col-span-12 flex flex-col text-center items-center my-24">
+        <div class="container mx-auto col-span-12 lg:row-start-3 flex flex-col z-10 space-y-8 text-center items-center">
+            <!-- <div class="col-span-12 flex flex-col text-center items-center my-24">
                 {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
                     <div class="text-2xl lg:px-60 mb-4">{{quotation}}</div>
                     <div class="textMeta lg:px-60">{{attribution}}</div>
                 {{/collection:quotations}}
-            </div>
-            <a href="{{url}}">
-                <button
-                type="button"
-                class="inline-block rounded bg-neutral-100 px-7 pb-2.5 pt-3 text-2xl leading-normal text-neutral-600 shadow-light-3 transition duration-150 ease-in-out hover:bg-neutral-200 hover:shadow-light-2 focus:bg-neutral-200 focus:shadow-light-2 focus:outline-none focus:ring-0 active:bg-neutral-200 active:shadow-light-2 motion-reduce:transition-none dark:shadow-black/30 dark:hover:shadow-dark-strong dark:focus:shadow-dark-strong dark:active:shadow-dark-strong">
-                Explore {{title}}
-                </button>
-            </a>
+            </div> -->
+            
             
     
-            <div class="flex flex-row space-x-6 space-y-2 font-bold text-sm tracking-widest uppercase w-2/3 mx-auto flex-wrap justify-center items-baseline">
+            <!-- <div class="flex flex-row space-x-6 space-y-2 font-bold text-sm tracking-widest uppercase w-2/3 mx-auto flex-wrap justify-center items-baseline">
                 <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></div>
                 <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></div>
                 <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=commencement-speech">{{collection:commencement_speeches challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</a></div>
@@ -80,7 +81,7 @@
                 <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=partner-story">{{collection:partner_stories challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_stories}} Partner Stories</a></div>
                 <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></div>
                 <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
-            </div>
+            </div> -->
         </div>
     
     </div>
