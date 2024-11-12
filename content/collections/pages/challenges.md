@@ -11,7 +11,7 @@ introduction_to_challenges:
         type: text
         text: 'Intro to all the challenges we face here'
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1724092873
+updated_at: 1731016981
 filters:
   - articles
   - talks
@@ -36,5 +36,4 @@ introduction_to_themes:
       -
         type: text
         text: '#3    SAVING DEMOCRACY'
-parent: home
 ---

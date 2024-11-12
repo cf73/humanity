@@ -2,7 +2,11 @@
 // Initialization for ES Users
 import {
     Collapse,
+    Dropdown,
+    Ripple,
     initTWE,
   } from "tw-elements";
   
-  initTWE({ Collapse });
+  initTWE({ Dropdown, Ripple, Collapse });
+
+

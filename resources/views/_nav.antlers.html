@@ -1,17 +1,58 @@
-<div id="main-nav" style="border-bottom: solid #ff2b7170 2px;" class="w-full h-16 fixed top-0 left-0 z-50 backdrop-blur bg-snow">      
+<div id="main-nav" style="border-bottom: solid #ff2b7170 2px;" class="w-full h-16 fixed top-0 left-0 z-50 backdrop-blur bg-lightSkyBlue">      
     <div class="px-16 mx-auto w-full h-full flex flex-row justify-between items-center pt-2 absolute top-0 left-0 z-10">
         <div id="logo" class="">
-            <a href="/"><img src="/assets/humanity-logo.png" alt="Humanity Logo" width="180px"></a>
+            <a href="/"><img src="/assets/humanity-logo-blue.png" alt="Humanity Logo" width="180px"></a>
         </div>
         <nav class="flex flex-row">
             {{ nav:topnav }}
                 <a href="{{ url }}"{{ if is_current || is_parent }} class="current"{{ /if }} class="ml-12">
+                    {{if children}}
+                    <div class="relative" data-twe-dropdown-ref>
+                        <a
+                          class="flex items-center transition duration-150 ease-in-out hover:bg-primary-accent-300 hover:shadow-primary-2 focus:bg-primary-accent-300 focus:shadow-primary-2 focus:outline-none focus:ring-0 active:bg-primary-600 active:shadow-primary-2 motion-reduce:transition-none dark:shadow-black/30 dark:hover:shadow-dark-strong dark:focus:shadow-dark-strong dark:active:shadow-dark-strong"
+                          href="#"
+                          type="button"
+                          id="dropdownMenuButton2"
+                          data-twe-dropdown-toggle-ref
+                          aria-expanded="false"
+                          data-twe-ripple-init
+                          data-twe-ripple-color="light">
+                          {{title}}
+                          <span class="ms-2 w-2 [&>svg]:h-5 [&>svg]:w-5">
+                            <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              viewBox="0 0 20 20"
+                              fill="currentColor">
+                              <path
+                                fill-rule="evenodd"
+                                d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+                                clip-rule="evenodd" />
+                            </svg>
+                          </span>
+                        </a>
+                        <ul
+                          class="absolute z-[1000] float-left m-0 hidden min-w-max list-none overflow-hidden rounded-lg border-none bg-white bg-clip-padding text-base shadow-lg data-[twe-dropdown-show]:block dark:bg-surface-dark"
+                          aria-labelledby="dropdownMenuButton2"
+                          data-twe-dropdown-menu-ref>
+                          {{children}}
+                          <li>
+                            <a
+                              class="block w-full whitespace-nowrap bg-white px-4 py-2 text-sm font-normal text-neutral-700 hover:bg-zinc-200/60 focus:bg-zinc-200/60 focus:outline-none active:bg-zinc-200/60 active:no-underline dark:bg-surface-dark dark:text-white dark:hover:bg-neutral-800/25 dark:focus:bg-neutral-800/25 dark:active:bg-neutral-800/25"
+                              href="challenges/{{slug}}"
+                              data-twe-dropdown-item-ref
+                              >{{title}}</a
+                            >
+                          </li>
+                          {{/children}}
+                        </ul>
+                    </div>
+                    {{else}}
                     <div class="">{{title}}</div>
+                    {{/if}}
                 </a>
             {{/nav:topnav}}
         </nav>
     </div>
-    
 </div>
 
 <div id="hamburger" class="fixed top-8 left-8 z-30 hidden">

@@ -1,22 +1,22 @@
 {{session:set challengeslug="{{challengeslugpassed}}"}}
 {{taxonomy:challenges slug:contains="{challengeslug}"}}
 
-<div data-speed="0.7" id="challengeIntroImage{{increment:introImage from='1'}}" style="background-image: url({{main_image:image}});" class="challengeIntroImage w-full h-screen flex flex-col justify-end bg-no-repeat bg-cover bg-left">
-</div>
-<div data-speed="1.2" class="container mx-auto grid grid-cols-12 z-10 relative -top-[25vh]">
-    <div class="col-span-12 mb-8">
+<!-- <div data-speed="0.7" id="challengeIntroImage{{increment:introImage from='1'}}" style="background-image: url({{main_image:image}});" class="challengeIntroImage w-full h-screen flex flex-col justify-end bg-no-repeat bg-cover bg-left">
+</div> -->
+<div class="container mx-auto grid grid-cols-12 z-10 relative">
+    <!-- <div class="col-span-12 mb-8">
         {{featured_content limit="1"}}
             {{partial:cards/featuredCard}}
         {{/featured_content}}
-    </div>
-    <div class="featuredSwiper col-span-10 col-start-2 lg:row-start-2 w-full mb-24">
+    </div> -->
+    <div class="featuredSwiper col-span-10 col-start-2 lg:row-start-1 w-full mb-24">
         <div class="flex flex-row justify-between mb-8 items-center">
             <div class="textMeta text-white">Featured</div>
             {{partial:swiperButtons}}
         </div>
         <div class="swiper-wrapper">
             {{taxonomy:challenges slug:contains="{challengeslug}"}}
-                {{featured_content offset="1"}}
+                {{featured_content}}
                     <div class="swiper-slide" style="height: auto !important;">
                         {{partial:cards/card headingColor="white"}}
                     </div>
@@ -42,8 +42,8 @@
             {{/taxonomy:challenges}}
         </div>
     </div>
-    <div data-speed="1.2" class="container mx-auto col-span-12 flex flex-col z-10 space-y-8 text-warmwhite text-center items-center">
-        <div class="text-7xl font-bold uppercase tracking-wider leading-tight">{{title}}</div>
+    <div class="container mx-auto col-span-12 flex flex-col lg:row-start-2 z-10 space-y-8 text-warmwhite text-center items-center">
+        <!-- <div class="text-7xl font-bold uppercase tracking-wider leading-tight">{{title}}</div> -->
         <div class="col-span-12 flex flex-col text-center items-center my-24">
             {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
                 <div class="text-2xl lg:px-60 mb-4 text-white">{{quotation}}</div>

@@ -65,7 +65,7 @@ export default {
                 'azure': '#0082F0',
                 'veryLightAzure': '#6FB6F6',
                 'Regalia': '#483475',
-                'lightSkyBlue': '#a4d7f9',
+                'lightSkyBlue': '#b8daf0',
 
                 'energyblack': '#1a2228',
                 'blueblast': '#64d8ff',
