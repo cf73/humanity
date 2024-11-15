@@ -8,15 +8,15 @@
         <div class="py-0 px-4 mt-5 flex flex-col items-center text-center">
             {{partial:cards/tape passedValue="{{collection:title}}" passedColor="atomicTangerine"}}
 
-            <h3 class="text-{{headingColor}}">{{title}}</h3>
+            <div class="text-{{headingColor}} textMain leading-snug text-skyNeutral font-bold italic mb-2">{{title}}</div>
             {{if speaker}}
-                <span class="textSecondary text-{{headingColor}}">{{speaker}}</span>
+                <span class="text-sm tracking-wide text-textNeutral antialiased font-bold leading-tight">{{speaker}}</span>
             {{/if}}
             {{if articleauthor}}
-                <span class="textSecondary text-{{headingColor}}">{{articleauthor}}</span>
+                <span class="text-sm tracking-wide text-textNeutral antialiased font-bold leading-tight">{{articleauthor}}</span>
             {{/if}}
             {{if book_author}}
-                <span class="textSecondary text-{{headingColor}}">{{book_author}}</span>
+                <span class="text-sm tracking-wide text-textNeutral antialiased font-bold leading-tight">{{book_author}}</span>
             {{/if}}
             <!-- <div class="font-serif leading-6 text-base">{{ description }}</div> -->
         </div>

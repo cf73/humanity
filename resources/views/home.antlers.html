@@ -17,7 +17,7 @@
     <!-- <div data-speed=".6" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat"></div> -->
 </section>
 
-<section id="challengesIntro" class="pt-32 space-y-48 mb-[30vh]">
+<section id="challengesIntro" class="pt-32 space-y-48 -mb-12">
 
     {{partial:challengeIntro challengeslugpassed="war"}}
 
@@ -27,13 +27,13 @@
 
 </section>
 
-<section id="secondary" class="grid grid-cols-2 gap-16 h-[calc(100vh-96px)] relative z-10">
-    <div class="flex flex-col justify-center h-full">
-        <div class="bg-blueblast prose prose-sky xl:prose-xl leading-snug xl:leading-snug lg:p-16">
+<section data-speed="1.4" id="secondary" class="grid grid-cols-2 gap-16 relative z-10 bg-skyNeutral pb-24">
+    <div data-speed=".9" class="flex flex-col justify-center h-full py-24 space-y-8">
+        <div class="textMain text-center mx-auto leading-snug text-white p-16">
             {{intro_to_sites_content:summary}}
         </div>
-        <div style="background-image: url({{intro_to_sites_content_image}});" class="bg-center bg-cover bg-repeat-no-repeat bg-red-300 h-full"></div>
-        </div>
+        <img src="{{intro_to_sites_content_image}}" width="100%" alt="{{intro_to_sites_content_image:title}}">
+    </div>
     <div data-speed="1.2" class="h-full w-full flex flex-col justify-center lg:pr-16">
         <div class="accordion container mx-auto relative z-40">
             <style>
@@ -42,21 +42,36 @@
                 }
             </style>
             {{intro_to_sites_content:accordion}}
-            <div class="accordion-item py-4 border-b border-textBlue">
+            <div class="accordion-item py-4 border-b border-white/20 text-white">
                 <div class="accordion-header cursor-pointer flex items-center justify-between xl:py-2 font-inter font-medium duration-200 ease-out">
                     <h3>{{item_title}}</h3>
                     <span class="accordion-icon inline-block rotate-0 duration-200 ease-out"><i class="fa-solid fa-chevron-down accordion-icon"></i></span>
                 </div>
                 <div style="height: 0;" class="accordion-content overflow-hidden duration-200 ease-out">
-                    <div class="prose prose-sky leading-snug py-2">
+                    <div class="textMain text-sm text-white leading-normal py-2">
                         <div class="mb-4">{{item_content}}</div>
-                        <a href="{{url}}"><button class="btn-tirtiary">Explore</button></a>
+                        <a href="{{url}}">
+                            <button
+                                type="button"
+                                class="inline-flex items-center gap-8 rounded bg-skyNeutral border-2 border-white px-4 py-1 italic  leading-normal text-white shadow-light-3 transition duration-150 ease-in-out hover:bg-skyNeutral/80 hover:shadow-light-2 focus:bg-skyNeutral focus:shadow-light-2 focus:outline-none focus:ring-0 active:bg-skyNeutral active:shadow-light-2 motion-reduce:transition-none dark:shadow-black/30 dark:hover:shadow-dark-strong dark:focus:shadow-dark-strong dark:active:shadow-dark-strong">
+                                Explore <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+                                </svg>
+                            
+                            </button>
+                        </a>
                     </div>
                 </div>
             </div>
             {{/intro_to_sites_content:accordion}}
         </div>
     </div>
+    {{ collection:quotations sort="random" limit="1" }}
+        <div data-speed="1.4" class="col-span-2 px-16 -mt-48 z-20 flex flex-col items-center text-center">
+            <div class="text-5xl text-white leading-snug mb-4">{{quotation}}</div>
+            <div class="textMeta text-white w-2/3">{{attribution}}</div>
+        </div>
+    {{/collection:quotations}}
 </section>
 <script>
 document.addEventListener("DOMContentLoaded", () => {
@@ -66,17 +81,11 @@ document.getElementById("heroButton").onclick = () => {
 });
 </script>
 
+<img src="{{closing_photo}}" width="100%" class="-mt-24" alt="{{closing_photo:title}}">
 
-
-<section data-speed="0.8" class="relative">
-    <div class="background absolute top-0 right-0 w-2/3 h-full bg-softblack z-0"></div>
-    <div class="container mx-auto h-screen grid grid-cols-2 relative z-30">
-        <div data-speed=".8" style="background-image: url('{{closing_photo}}');" class="h-full w-full bg-center bg-contain bg-no-repeat relative z-30"></div>
-        <div class="flex flex-col justify-center h-full pl-8 xl:pl-16 space-y-12">
-            <div class="prose prose-sky prose-invert xl:prose-xl leading-snug xl:leading-snug">
-                {{closing_text}}
-            </div>
-          </div>
+<section data-speed="0.8" class="py-60">
+    <div class="textMain text-center mx-auto leading-snug">
+        {{closing_text}}
     </div>
 </section>
 

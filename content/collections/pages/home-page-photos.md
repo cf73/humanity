@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1731638308
+updated_at: 1731646624
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -43,7 +43,7 @@ intro_to_sites_content:
   accordion:
     -
       id: m16p675a
-      item_title: 'Our Crises'
+      item_title: 'Our Priorities'
       item_content: "We offer extensive insight on humankind's most crucial challenges: ending war, solving climate change, and saving democracy."
       type: accordion_item
       enabled: true
@@ -87,5 +87,5 @@ featured_content:
   - 263accbc-caa0-48eb-964e-dccc457c29cc
 featured_content_heading: 'Begin to explore'
 lead_button_text: 'We focus on three main priorities'
-closing_photo: image-1710115162.jpeg
+closing_photo: 0b5426c6-8756-4a75-b27f-281861d64d5a_338.jpeg.webp.jpeg.webp
 ---
