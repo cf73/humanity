@@ -7,13 +7,13 @@
 
 @layer base {
     body {
-        @apply text-textBlue font-josephin font-normal;
+        @apply text-textNeutral font-josephin font-normal;
     }
     .display {
         @apply font-josephin font-extralight tracking-tight leading-tight text-9xl text-atomicTangerine;
     }
     h1 {
-        @apply font-josephin font-semibold text-cetaceanBlue leading-tight text-4xl xl:text-5xl;
+        @apply font-josephin font-bold text-cetaceanBlue leading-tight uppercase text-4xl xl:text-5xl;
     }
     h2 {
         @apply lg:text-2xl font-josephin font-semibold leading-tight antialiased;
@@ -34,7 +34,7 @@
         @apply text-stPatrickBlue hover:underline underline-offset-4;
     }
     .textMeta {
-        @apply uppercase font-josephin text-xs font-medium antialiased text-spaceCadet tracking-widest w-fit mt-[.25em];
+        @apply uppercase font-josephin text-xs font-medium antialiased text-skyNeutral tracking-widest w-fit mt-[.25em];
     }
     .textMain {
         @apply font-serif prose prose-sky lg:prose-xl;

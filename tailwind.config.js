@@ -82,18 +82,22 @@ export default {
 
                 'war': '#fa0505',
                 'climate': '#254212',
-                'democracy': '#ffbc1f'
+                'democracy': '#ffbc1f',
+
+                //neutrals
+                'textNeutral': '#494949',
+                'skyNeutral': '#0a73cd',
             },
             typography: ({ theme }) => ({
                 sky: {
                   css: {
-                    '--tw-prose-body': theme('colors.textBlue'),
+                    '--tw-prose-body': theme('colors.textNeutral'),
                     '--tw-prose-headings': theme('colors.atomicTangerine'),
                     '--tw-prose-lead': theme('colors.cetaceanBlue'),
-                    '--tw-prose-links': theme('colors.textBlue'),
-                    '--tw-prose-bold': theme('colors.textBlue'),
-                    '--tw-prose-counters': theme('colors.textBlue'),
-                    '--tw-prose-bullets': theme('colors.textBlue'),
+                    '--tw-prose-links': theme('colors.textNeutral'),
+                    '--tw-prose-bold': theme('colors.textNeutral'),
+                    '--tw-prose-counters': theme('colors.textNeutral'),
+                    '--tw-prose-bullets': theme('colors.textNeutral'),
                     '--tw-prose-hr': theme('colors.buttonBlue'),
                     '--tw-prose-quotes': theme('colors.darkLavender'),
                     '--tw-prose-quote-borders': theme('colors.darkLavender'),

@@ -94,11 +94,23 @@ gsap.to(".inactive1", {
   ease: "power2.inOut"
 });
 
+//fade out hero
+gsap.to("#hero", {
+  scrollTrigger: {
+    trigger: "#hero",
+    start: "middle top", // Adjust based on when you want the animation to start
+    end: "bottom top",
+    scrub: true,
+  },
+  opacity: 0,
+  filter: "blur(10px)",
+});
+
 //fade out introImage1
 gsap.to("#challengeIntroImage1", {
   scrollTrigger: {
     trigger: "#challengeIntroImage1",
-    start: "top -100", // Adjust based on when you want the animation to start
+    start: "top top", // Adjust based on when you want the animation to start
     end: "bottom middle",
     scrub: true,
   },

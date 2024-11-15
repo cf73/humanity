@@ -1,23 +1,23 @@
 {{partial:globals/smoothWrapStart}}
 <div id="invisibleScrollerTarget"></div>
 
-<section  id="hero" class="min-h-[90vh] pt-24 pb-12 relative flex flex-col">
-    <div class="background absolute top-0 left-0 w-full h-full bg-lightSkyBlue z-0"></div>
+<section data-speed="0.5" id="hero" class="min-h-[90vh] pt-24 pb-12 relative flex flex-col">
+    <!-- <div class="background absolute top-0 left-0 w-full h-full bg-lightSkyBlue z-0"></div> -->
     
-    <div class="container mx-auto flex flex-col justify-center h-full w-full pt-[10vh] relative z-30 pr-16 space-y-8">
-        <div>
-            <h1 id="counting" class="">2024 and counting...</h1>
-            <h1 class="">Time to rescue our humanity.</h1>
+    <div class="px-16 flex flex-col justify-center h-full w-full pt-[10vh] relative z-30 pr-16">
+        <div class="text-center text-6xl font-bold uppercase tracking-wider leading-none text-skyNeutral">
+            <div id="counting">2024 and counting...</div>
+            <div>Time to rescue our humanity.</div>
         </div>
-        <div class="textMain ">
+        <div class="textMain text-center mx-auto leading-snug">
             {{welcome_message}}
         </div>
-        <button id="heroButton" class="btn-primary">{{lead_button_text}}</button>
+        <!-- <button id="heroButton" class="btn-primary">{{lead_button_text}}</button> -->
     </div>
     <!-- <div data-speed=".6" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat"></div> -->
 </section>
 
-<section id="challengesIntro" class="pt-32 space-y-[90vh] mb-[30vh]">
+<section id="challengesIntro" class="pt-32 space-y-48 mb-[30vh]">
 
     {{partial:challengeIntro challengeslugpassed="war"}}
 
