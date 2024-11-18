@@ -1,7 +1,7 @@
 <div class="px-16">
     <div>
 
-        {{ (entries | where('collection_type', '!=', 'quotation')) as="results" }}
+        {{ entries as="results" }}
         <div wire:key="{{ id }}">
             {{ if no_results }}
                 <div class="p-8 rounded-lg bg-gray-100 text-center">

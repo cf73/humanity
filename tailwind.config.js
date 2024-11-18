@@ -85,7 +85,7 @@ export default {
                 'democracy': '#ffbc1f',
 
                 //neutrals
-                'textNeutral': '#494949',
+                'textNeutral': '#3a3a3a',
                 'skyNeutral': '#0a73cd',
             },
             typography: ({ theme }) => ({
