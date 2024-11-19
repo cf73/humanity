@@ -9,7 +9,7 @@ intro:
     content:
       -
         type: text
-        text: "The Humanity Initiative has chosen thirty of the world's most respected positive change enterprises to be our prime destinations for volunteering and donating.\_"
+        text: "The Humanity Initiative has chosen thirty of the world's most respected positive change enterprises to be prime destinations for volunteering and donating.\_"
   -
     type: paragraph
     content:
@@ -21,7 +21,7 @@ intro:
     content:
       -
         type: text
-        text: 'One of the most enlightened is Ashoka. Bill Drayton is their Founder and Chair. Here is '
+        text: 'One of the most enlightened positive change enterprises is Ashoka. Bill Drayton, highly respected across the planet, is their Founder (1980) and Chair. '
       -
         type: text
         marks:
@@ -32,7 +32,7 @@ intro:
               rel: null
               target: _blank
               title: 'The New Reality'
-        text: "his introduction to\_"
+        text: "Here is his introduction to\_"
       -
         type: text
         marks:
@@ -45,11 +45,19 @@ intro:
               title: 'The New Reality'
           -
             type: bold
-        text: 'THE NEW REALITY'
+        text: 'The New Reality'
       -
         type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ashoka.org/en-us/story/new-reality'
+              rel: null
+              target: _blank
+              title: 'The New Reality'
         text: ', written in 2019.'
 main_image: 128588063_4643e62b46_k.jpg
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732025454
+updated_at: 1732025875
 ---
