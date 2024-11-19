@@ -3,7 +3,7 @@
     <button
         type="button"
         wire:key="{{ $tag['field'].$tag['value'] }}"
-        class="h-8 py-2.5 px-4 me-2 mb-2 text-sm font-medium inline-flex items-center text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 
+        class="h-8 py-2.5 px-4 me-2 text-sm font-medium inline-flex items-center text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 
             hover:bg-gray-100 focus:z-10 focus:ring-4 focus:ring-gray-100 cursor-default transition-opacity duration-500"
         wire:loading.class="opacity-40"
         >

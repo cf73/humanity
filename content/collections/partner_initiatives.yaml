@@ -1,5 +1,5 @@
 title: 'Partner Initiatives'
-template: partnerinitiative
+template: contentTemplates/partnerinitiative
 layout: layout
 taxonomies:
   - collection_type

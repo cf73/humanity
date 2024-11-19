@@ -1,5 +1,6 @@
-<div>
+<div class="px-16">
     <div>
+
         {{ entries as="results" }}
         <div wire:key="{{ id }}">
             {{ if no_results }}
@@ -8,7 +9,7 @@
                 </div>
             {{ else }}
                 <div class="grid grid-cols-3 gap-16">
-                    {{ results|shuffle }}
+                    {{ results | shuffle }}
                         {{ partial:cards/card }}
                     {{ /results }}
                 </div>

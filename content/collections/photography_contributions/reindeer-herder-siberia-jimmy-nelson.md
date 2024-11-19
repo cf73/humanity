@@ -3,7 +3,7 @@ id: c2dec201-471b-4025-b980-1f4d743b9c98
 blueprint: photography_contribution
 title: 'Nenet raindeer herder, Siberia'
 photographer_name: 'Jimmy Nelson'
-photographer_website: www.jimmynelson.com
+photographer_website: 'https://www.jimmynelson.com'
 image: oip.9dm7ltcj1b9a6scu45z6bwhae8.jpeg
 description:
   -
@@ -21,6 +21,6 @@ description:
 collection_type: photography-contribution
 challenges:
   - inspiration
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719233921
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1728166151
 ---
