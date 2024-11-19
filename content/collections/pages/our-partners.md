@@ -9,13 +9,7 @@ intro:
     content:
       -
         type: text
-        text: "The Humanity Initiative has chosen thirty of the world's most respected positive change enterprises to be prime destinations for volunteering and donating.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'We highlight some of their most compelling initiatives and stories as well.'
+        text: "The Humanity Initiative has chosen thirty of the world's most respected positive change enterprises to be prime destinations for volunteering and donating.\_We provide direct links to their sites. In addition, we highlight some of their most compelling initiatives and stories throughout these pages. "
   -
     type: paragraph
     content:
@@ -59,5 +53,5 @@ intro:
         text: ', written in 2019.'
 main_image: 128588063_4643e62b46_k.jpg
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732025875
+updated_at: 1732026094
 ---
