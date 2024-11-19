@@ -24,8 +24,8 @@ intro:
     content:
       -
         type: text
-        text: 'On this new site, we have cross-referenced all of our content, inviting you to re-imagine and re-engage your personal discovery of the best way to take action, to contribute towards ending war, solving climate change and saving democracy, be it working alone or in partnership. '
+        text: 'On this new site, we have cross-referenced all of our content, inviting you to re-imagine and re-engage your personal discovery of the best way to take action, to contribute towards ending war, solving climate change and saving democracy  --  or whatever cause you choose, be it working alone or in partnership. '
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732024870
+updated_at: 1732024971
 main_image: img_6707.jpeg
 ---
