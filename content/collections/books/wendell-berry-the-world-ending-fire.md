@@ -1,7 +1,7 @@
 ---
 id: 82e62d78-848e-49ee-bf84-bfdcc9af2150
 blueprint: book
-title: 'The World Ending Fire  (2019)'
+title: 'The World-Ending Fire  (2019)'
 image: image-1708995723.jpeg
 collection_type: book
 description:
@@ -46,13 +46,31 @@ description:
     content:
       -
         type: text
-        text: '(review above by Ereads; book rated 4.4 by Goodreads)'
+        text: '(Review above by '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Ereads
+      -
+        type: text
+        text: '; book is rated 4.4 by '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Goodreads
+      -
+        type: text
+        text: )
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631434
+updated_at: 1729554933
 related_partner_initiatives:
-  - 643b298b-448c-44d4-841f-cdbcd7b03dcd
+  - 8ba26bc5-eaa5-4364-9d6b-3f02ca3158f9
 related_content:
   - e52a479d-8ed0-42d9-8674-2c8f5a4d93eb
   - 9777b323-6a66-4bed-8cc7-c426aa524978

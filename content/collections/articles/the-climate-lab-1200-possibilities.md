@@ -253,7 +253,7 @@ article_text:
         text: 'THERE ARE TWO DIFFERENT KINDS OF SCENARIOS'
       -
         type: text
-        text: ' that leave the planet, in the year 2100, below 1.5C of warming. One involves a “high overshoot,” butspending decades above 1.5C in such a world is an unsettling prospect. Itraises the possibility, for instance, of the world experiencing '
+        text: ' that leave the planet, in the year 2100, below 1.5C of warming. One involves a “high overshoot,” but spending decades above 1.5C in such a world is an unsettling prospect. It raises the possibility, for instance, of the world experiencing '
       -
         type: text
         marks:
@@ -303,7 +303,7 @@ article_text:
     content:
       -
         type: text
-        text: 'These 26 paths rely on negative emissions technologies to reachnet zero around mid–century, and then go farther.'
+        text: 'These 26 paths rely on negative emissions technologies to reach net zero around mid–century, and then go farther.'
   -
     type: paragraph
     content:
@@ -317,7 +317,16 @@ article_text:
         text: 'TO ASSESS HOW REALISTIC THESE SCENARIOS ARE,'
       -
         type: text
-        text: ' The Post used a '
+        text: ' '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Post'
+      -
+        type: text
+        text: ' used a '
       -
         type: text
         marks:
@@ -987,7 +996,7 @@ related_content:
   - 0bc47757-97d7-4952-98de-6e99de003495
   - 8f01cbfc-48f8-4156-acd7-03bef3acce9f
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722617853
+updated_at: 1730587785
 publication: 'The Washington Post'
 articleauthor: 'Chris Mooney, Naema Ahmed and John Muyskens'
 sections: peace-gatherings
