@@ -9,13 +9,13 @@ intro:
     content:
       -
         type: text
-        text: "The Humanity Initiative has chosen thirty of the world's most respected positive change enterprises to be prime destinations for volunteering and donating.\_We provide direct links to their sites. In addition, we highlight some of their most compelling initiatives and stories throughout these pages. "
+        text: "The Humanity Initiative has chosen thirty of Earth's most respected positive change enterprises to be prime destinations for volunteering and donating.\_We provide direct links to their sites below, and highlight some of their most compelling initiatives and stories throughout these pages. "
   -
     type: paragraph
     content:
       -
         type: text
-        text: "One of the world's most enlightened positive change enterprises is Ashoka. Bill Drayton, highly respected across the planet, is their Founder (1980) and Chair. "
+        text: 'One of the most enlightened of these non-profits is Ashoka. Bill Drayton, highly respected across the planet, is their Founder and Chair. '
       -
         type: text
         marks:
@@ -53,5 +53,5 @@ intro:
         text: ', written in 2019.'
 main_image: 128588063_4643e62b46_k.jpg
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732026205
+updated_at: 1732026340
 ---
