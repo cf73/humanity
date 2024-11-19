@@ -36,17 +36,110 @@ document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
 // CHALLENGE SHOW TEMPLATE ----------------------------------------------------------------------------------------------
 
 // pin hero area
-// ScrollTrigger.create({
-//   trigger: '#invisibleScrollerTarget',
-//   start: 'top top',
-//   end: '+=900',
-//   pin: '#hero-area',
-// });
+ScrollTrigger.create({
+  trigger: '#tabs',
+  start: 'top 88',
+  end: '+=20000',
+  pin: '#tabs',
+});
 
 ScrollTrigger.create({
   trigger: '#main',
   start: 'top top',
+  pinSpacing: false,
   pin: '#breadcrumbwithtags',
+});
+
+// pin challengesareas
+ScrollTrigger.create({
+  trigger: '#challengesMenu1',
+  start: 'top 62px',
+  end: '+=900',
+  pin: '#challengesMenu1',
+});
+
+//change body color
+// gsap.to("body", {
+//   scrollTrigger: {
+//     trigger: "#challengesMenu1",
+//     start: "top 62px", // Adjust based on when you want the animation to start
+//     toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
+//   },
+//   backgroundColor: "#25252e",
+//   duration: 3,
+//   ease: "power2.inOut"
+// });
+
+//change active challenge color
+gsap.to("#active1", {
+  scrollTrigger: {
+    trigger: "#challengesMenu1",
+    start: "top 62px", // Adjust based on when you want the animation to start
+    toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
+  },
+  duration: 3,
+  ease: "power2.inOut"
+});
+
+//fade inactive items1
+gsap.to(".inactive1", {
+  scrollTrigger: {
+    trigger: "#challengesMenu1",
+    start: "top 62px", // Adjust based on when you want the animation to start
+    toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
+  },
+  opacity: 0.4,
+  filter: "blur(10px)",
+  duration: 1,
+  ease: "power2.inOut"
+});
+
+//fade out hero
+gsap.to("#hero", {
+  scrollTrigger: {
+    trigger: "#hero",
+    start: "middle top", // Adjust based on when you want the animation to start
+    end: "bottom top",
+    scrub: true,
+  },
+  opacity: 0,
+  filter: "blur(10px)",
+});
+
+//fade out introImage1
+gsap.to("#challengeIntroImage1", {
+  scrollTrigger: {
+    trigger: "#challengeIntroImage1",
+    start: "top top", // Adjust based on when you want the animation to start
+    end: "bottom middle",
+    scrub: true,
+  },
+  opacity: 0,
+  filter: "blur(10px)",
+});
+
+//fade out introImage2
+gsap.to("#challengeIntroImage2", {
+  scrollTrigger: {
+    trigger: "#challengeIntroImage2",
+    start: "top -100", // Adjust based on when you want the animation to start
+    end: "bottom middle",
+    scrub: true,
+  },
+  opacity: 0,
+  filter: "blur(10px)",
+});
+
+//fade out introImage3
+gsap.to("#challengeIntroImage3", {
+  scrollTrigger: {
+    trigger: "#challengeIntroImage3",
+    start: "top -100", // Adjust based on when you want the animation to start
+    end: "bottom middle",
+    scrub: true,
+  },
+  opacity: 0,
+  filter: "blur(10px)",
 });
 
 
@@ -189,10 +282,11 @@ gsap.to("#breadcrumb", {
     start: "top top", // Adjust based on when you want the animation to start
     toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
   },
-  y: 192, // Example animation property
+  y: 140, // Example animation property
   duration: .75,
   ease: "power2.inOut"
 });
+
 
 
 // // // Pin filterssheet

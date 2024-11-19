@@ -10,6 +10,7 @@ export default {
     	'./resources/views/vendor/statamic-livewire-filters/**/*.antlers.html',
         "./vendor/livewire/flux-pro/stubs/**/*.blade.php",
         "./vendor/livewire/flux/stubs/**/*.blade.php",
+        "./node_modules/tw-elements/js/**/*.js",
     ],
 
     theme: {
@@ -75,21 +76,29 @@ export default {
                 'textBlue': '#111a79',
                 'darkpink': '#ff99d3',
                 'softblacknew': '#25252e',
+                'snow': '#f2f2f2',
+
+                'blast': '#ff2b7170',
 
                 'war': '#fa0505',
                 'climate': '#254212',
-                'democracy': '#ffbc1f'
+                'democracy': '#ffbc1f',
+
+                //neutrals
+                'textNeutral': '#3a3a3a',
+                'skyNeutral': '#0a73cd',
+                'boldyellow': '#FFFF00',
             },
             typography: ({ theme }) => ({
                 sky: {
                   css: {
-                    '--tw-prose-body': theme('colors.textBlue'),
+                    '--tw-prose-body': theme('colors.textNeutral'),
                     '--tw-prose-headings': theme('colors.atomicTangerine'),
                     '--tw-prose-lead': theme('colors.cetaceanBlue'),
-                    '--tw-prose-links': theme('colors.textBlue'),
-                    '--tw-prose-bold': theme('colors.textBlue'),
-                    '--tw-prose-counters': theme('colors.textBlue'),
-                    '--tw-prose-bullets': theme('colors.textBlue'),
+                    '--tw-prose-links': theme('colors.textNeutral'),
+                    '--tw-prose-bold': theme('colors.textNeutral'),
+                    '--tw-prose-counters': theme('colors.textNeutral'),
+                    '--tw-prose-bullets': theme('colors.textNeutral'),
                     '--tw-prose-hr': theme('colors.buttonBlue'),
                     '--tw-prose-quotes': theme('colors.darkLavender'),
                     '--tw-prose-quote-borders': theme('colors.darkLavender'),
@@ -127,5 +136,7 @@ export default {
         require("@tailwindcss/forms")({
             strategy: 'class'
           }),
+        [require("tw-elements/plugin.cjs")],
     ],
+    darkMode: "class"
 };

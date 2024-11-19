@@ -1,0 +1,94 @@
+{{session:set challengeslug="{{challengeslugpassed}}"}}
+{{taxonomy:challenges slug:contains="{challengeslug}"}}
+
+<section id="{{title}}">
+    <div data-speed="0.77" id="challengeIntroImage{{increment:introImage from='1'}}" style="background-image: url({{main_image:image}});" class="challengeIntroImage w-full h-screen flex flex-col justify-end bg-no-repeat bg-center bg-contain">
+    </div>
+    <div class="px-16 grid grid-cols-12 z-10 relative">
+        <!-- <div class="col-span-12 mb-8">
+            {{featured_content limit="1"}}
+                {{partial:cards/featuredCard}}
+            {{/featured_content}}
+        </div> -->
+        <div class="textMeta col-span-10 col-start-0 mb-4 text-skyNeutral">Priority #{{increment from="1"}}</div>
+        <div class="featuredSwiper col-span-10 col-start-2 lg:row-start-2 w-full mb-16">
+            <div class="flex flex-col">
+                <div class="flex flex-col mb-12 text-skyNeutral">
+                    <div class="text-7xl font-bold tracking-tight leading-tight">{{title}}</div>
+                    <div class="textMain -mt-4">
+                        {{intro_text}}
+                    </div>
+                    <a href="{{url}}">
+                        <button
+                        type="button"
+                        class="inline-flex items-center gap-8 rounded bg-skyNeutral px-7 pb-2.5 pt-3 text-2xl leading-normal text-white shadow-light-3 transition duration-150 ease-in-out hover:bg-skyNeutral/80 hover:shadow-light-2 focus:bg-skyNeutral focus:shadow-light-2 focus:outline-none focus:ring-0 active:bg-skyNeutral active:shadow-light-2 motion-reduce:transition-none dark:shadow-black/30 dark:hover:shadow-dark-strong dark:focus:shadow-dark-strong dark:active:shadow-dark-strong">
+                        Explore {{title}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+                          </svg>
+                          
+                        </button>
+                    </a>
+                </div>
+                <div class="flex flex-row justify-between items-center mb-8">
+                    <div class="textMeta">
+                        Featured
+                    </div>
+                    {{partial:swiperButtons}}
+                </div>
+            </div>
+            <div class="swiper-wrapper">
+                {{taxonomy:challenges slug:contains="{challengeslug}"}}
+                    {{featured_content}}
+                        <div class="swiper-slide">
+                            {{partial:cards/card}}
+                        </div>
+                    {{/featured_content}}
+    
+                    <!-- <div class="swiper-slide flex flex-col justify-center border-l-[1px] border-earth" >
+                        <div class="">
+    
+                            <div class="flex flex-col h-full pl-8 space-x-6 space-y-2 font-medium text-2xl tracking-wide text-softblack mx-auto flex-wrap justify-center items-baseline">
+                                <div class="textMeta mb-4">There's more...</div>
+                                <h4>{{collection:articles challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</h4>
+                                <h4>{{collection:books challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</h4>
+                                <h4>{{collection:commencement_speeches challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</h4>
+                                <h4>{{collection:documentaries challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:documentaries}} Documentaries</h4>
+                                <h4>{{collection:photography_contributions challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</h4>
+                                <h4>{{collection:talks challenges:contains="{{challengeslug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</h4>
+                            </div>
+                            <a href="/challenges/{{slug}}" class="pl-12"><button class="btn-primary">Explore {{title}}</button></a>
+    
+                        </div>
+                    </div> -->
+    
+                {{/taxonomy:challenges}}
+            </div>
+        </div>
+    
+        <div class="container mx-auto col-span-12 lg:row-start-3 flex flex-col z-10 space-y-8 text-center items-center">
+            <!-- <div class="col-span-12 flex flex-col text-center items-center my-24">
+                {{ collection:quotations challenges:contains="{{slug}}" sort="random" limit="1" }}
+                    <div class="text-2xl lg:px-60 mb-4">{{quotation}}</div>
+                    <div class="textMeta lg:px-60">{{attribution}}</div>
+                {{/collection:quotations}}
+            </div> -->
+            
+            
+    
+            <!-- <div class="flex flex-row space-x-6 space-y-2 font-bold text-sm tracking-widest uppercase w-2/3 mx-auto flex-wrap justify-center items-baseline">
+                <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=article">{{collection:articles challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:articles}} Articles</a></div>
+                <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=book">{{collection:books challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:books}} Books</a></div>
+                <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=commencement-speech">{{collection:commencement_speeches challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:commencement_speeches}} Commencement Speeches</a></div>
+                <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=documentaries">{{collection:documentaries challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:documentaries}} Documentaries</a></div>
+                <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=partner-initiative">{{collection:partner_initiatives challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_initiatives}} Partner Initiatives</a></div>
+                <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=partner-story">{{collection:partner_stories challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:partner_stories}} Partner Stories</a></div>
+                <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></div>
+                <div><a class="text-softblack/40" href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
+            </div> -->
+        </div>
+    
+    </div>
+</section>
+{{/taxonomy:challenges}}
+
+{{/session:set}}
