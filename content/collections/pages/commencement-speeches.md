@@ -4,7 +4,7 @@ blueprint: simple_page
 template: commencements
 title: 'Commencement Speeches'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732027354
+updated_at: 1732027674
 intro:
   -
     type: paragraph
@@ -23,6 +23,6 @@ intro:
     content:
       -
         type: text
-        text: 'And they remain useful no matter what your age, for certainly all of us "graduate" into new  tomorrows, new challenges every year...'
+        text: 'And they remain useful no matter what your age, for certainly all of us "graduate" into new tomorrows, new challenges every year...especially as you wade into the exciting arena of positive change...'
 main_image: image-1720367315.jpeg
 ---
