@@ -3,10 +3,9 @@
 
 <div id="invisibleScrollerTarget"></div>
 
-<div id="hero-area" class="w-full h-[70vh] flex flex-row items-center justify-end pl-16 mt-24 space-x-16 bg-softblack">
-    <h1 class="z-10 absolute left-16 text-darkpink">{{title}}</h1>
-    <img src="{{main_image:image}}" class="max-h-[120%] max-w-full" alt="{{main_image:title}}">
-    <!-- <div id="heroImage" style="background-image: url({{main_image:image}});"
+<div id="hero-area" class="w-full h-[90vh] flex flex-row items-center justify-end mt-24 space-x-16">
+    <div data-speed="0.77" id="challengeIntroImage{{increment:introImage from='1'}}" style="background-image: url({{main_image:image}});" class="challengeIntroImage w-full h-screen flex flex-col justify-end bg-no-repeat bg-center bg-contain">
+    </div>    <!-- <div id="heroImage" style="background-image: url({{main_image:image}});"
                         class="bg-cover bg-center bg-no-repeat h-[90vh] -left-48 relative z-0 aspect-[16/9]">
     </div> -->
     
@@ -30,7 +29,6 @@
     </div>
 </div> -->
 
-{{partial:themeIntroBlock challengeslugpassed="{slug}"}}
 
 <section class="hidden">
     <hr>
