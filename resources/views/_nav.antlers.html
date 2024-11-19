@@ -11,26 +11,30 @@
                 }"
                 class="relative">
             
-                <button @click="dropdownOpen=true" class="text-white">
-                    {{title}}
-                </button>
-            
-                <div x-show="dropdownOpen" 
-                    @click.away="dropdownOpen=false"
-                    x-transition:enter="ease-out duration-200"
-                    x-transition:enter-start="-translate-y-2"
-                    x-transition:enter-end="translate-y-0"
-                    class="absolute top-0 z-50 w-56 mt-12 -translate-x-1/2 left-1/2"
-                    x-cloak>
-                    <div class="p-1 mt-1 bg-white border rounded-md shadow-md border-neutral-200/70 text-neutral-700">
+                    <button @click="dropdownOpen=true" class="text-white inline-flex items-top space-x-2">
+                        <span>{{title}} </span>
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                          </svg>
+                          
+                    </button>
+                
+                    <div x-show="dropdownOpen" 
+                        @click.away="dropdownOpen=false"
+                        x-transition:enter="ease-out duration-200"
+                        x-transition:enter-start="-translate-y-2"
+                        x-transition:enter-end="translate-y-0"
+                        class="absolute -top-4 z-50 w-56 mt-12 -translate-x-1/2 left-1/2"
+                        x-cloak>
+                        <div class="p-1 mt-1 bg-white border rounded-md shadow-md border-neutral-200/70 text-neutral-700">
 
-                    {{children}}
-                        <a href="/challenges/{{slug}}" class="relative flex cursor-pointer hover:no-underline select-none hover:bg-neutral-100 items-center rounded px-2 py-1.5 text-sm outline-none transition-colors data-[disabled]:pointer-events-none data-[disabled]:opacity-50">{{title}}</a>
-                    {{/children}}
-                        
+                        {{children}}
+                            <a href="/challenges/{{slug}}" class="relative flex cursor-pointer hover:no-underline select-none hover:bg-neutral-100 items-center rounded px-2 py-1.5 text-sm outline-none transition-colors data-[disabled]:pointer-events-none data-[disabled]:opacity-50">{{title}}</a>
+                        {{/children}}
+                            
+                        </div>
                     </div>
                 </div>
-            </div>
             
                 {{else}}
                 <a href="{{ url }}"{{ if is_current || is_parent }} class="current"{{ /if }} class="ml-6">
