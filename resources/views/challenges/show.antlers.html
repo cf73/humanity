@@ -3,12 +3,20 @@
 
 <div id="invisibleScrollerTarget"></div>
 
-<div id="hero-area" class="w-full h-[90vh] flex flex-row items-center justify-end mt-24 space-x-16">
+<div id="hero-area" class="w-full mt-40">
     <div data-speed="0.77" id="challengeIntroImage{{increment:introImage from='1'}}" style="background-image: url({{main_image:image}});" class="challengeIntroImage w-full h-screen flex flex-col justify-end bg-no-repeat bg-center bg-contain">
     </div>    <!-- <div id="heroImage" style="background-image: url({{main_image:image}});"
                         class="bg-cover bg-center bg-no-repeat h-[90vh] -left-48 relative z-0 aspect-[16/9]">
     </div> -->
-    
+    <div data-speed=".7" class="px-16 flex flex-col h-full w-full pt-36 relative z-30 pr-16 -mt-8 mb-36">
+        <div class="text-center text-6xl font-bold leading-none tracking-tight text-skyNeutral">
+            <div id="counting">{{title}}</div>
+        </div>
+        <div class="textMain leading-snug text-center mx-auto">
+            {{intro}}
+        </div>
+        <!-- <button id="heroButton" class="btn-primary">{{lead_button_text}}</button> -->
+    </div>
 </div>
 
 <!-- <div class="flex flex-col items-center justify-center w-full text-center mx-auto z-50">
