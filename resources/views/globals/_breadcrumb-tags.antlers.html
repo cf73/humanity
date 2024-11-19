@@ -4,12 +4,12 @@
             <span class="mr-4">Filed under:</span>
             {{if challenges}}
                 {{challenges}}
-                <a href="/challenges/{{slug}}"><span class="rounded-lg border border-solid px-4 py-2">{{title}}</span></a>
+                <a href="/challenges/{{slug}}" class="hover:no-underline"><span class="rounded-lg border border-solid px-4 pt-2 pb-1.5 hover:bg-skyNeutral/5 transition-all duration-300">{{title}}</span></a>
                 {{/challenges}}
             {{/if}}
             {{if sections}}
                 {{sections}}
-                <a href="/challenges/{{slug}}"><span class="rounded-lg border border-solid px-4 py-2">{{title}}</span></a>
+                <a href="/challenges/{{slug}}" class="hover:no-underline"><span class="rounded-lg border border-solid px-4 pt-2 pb-1.5 hover:bg-skyNeutral/5 transition-all duration-300">{{title}}</span></a>
                 {{/sections}}
             {{/if}}
         </div>
