@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732032176
+updated_at: 1732032209
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -43,7 +43,7 @@ welcome_message:
     content:
       -
         type: text
-        text: 'We focus on three main priorities.'
+        text: 'We focus on three priorities.'
 intro_to_sites_content:
   summary: "To plant our investigations in the fertile soil of open hearts and curious minds, we have chosen three hundred and thirty of humanity’s most inspiring voices  —  ancient and current  —  to guide and encourage us in re-imagining\_our roles as changemaker for community, country, or planet."
   accordion:
