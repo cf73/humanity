@@ -31,13 +31,19 @@ welcome_message:
     content:
       -
         type: text
-        text: 'Welcome! May we pour you a cup of tea? For this is an oasis with a mission, custom-made for we the people to consider, with neighbors old and new, how best to address our humanitarian and planetary alarms, how best to solve our increasingly wild and fractious rides around the sun.'
+        text: 'Welcome!  May we pour you a cup of tea? '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We focus on three main priorities.'
+        text: 'For this is an oasis with a mission, custom-made for we the people to consider, with neighbors old and new, how best to address our humanitarian and planetary crises, how best to solve our increasingly wild and fractious rides around the sun.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'We focus on three priorities.'
 intro_to_sites_content:
   summary: "To plant our investigations in the fertile soil of open hearts and curious minds, we have chosen three hundred and thirty of humanity’s most inspiring voices  —  ancient and current  —  to guide and encourage us in re-imagining\_our roles as changemaker for community, country, or planet."
   accordion:

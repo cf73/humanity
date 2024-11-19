@@ -18,15 +18,14 @@ intro:
         text: humanity
       -
         type: text
-        text: ', more than thirty years ago, The Humanity Initiative has been offering a wide range of content that sheds an intense and empathetic light on our world, encouraging all of us to become changemakers, to discover fulfilling ways to participate in the positive change that sentientkind so deeply needs. '
+        text: ', more than thirty years ago, The Humanity Initiative has continued to offer content that sheds intense and empathetic light on our world, encouraging all of us to become change-makers, to discover fulfilling ways to participate in the positive change that humankind so deeply needs. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'To that end, we have cross-referenced all of our content, inviting you to re-imagine and re-engage your personal discovery of the best way to take action, to contribute your necessary piece of the puzzle towards ending war, solving climate change and saving democracy, be it working alone or in partnership. '
+        text: 'On this new site, we have cross-referenced all of our content, inviting you to re-imagine and re-engage your personal discovery of the best way to take action, to contribute towards ending war, solving climate change and saving democracy  --  or whatever cause you choose, be it working alone or in partnership. '
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722444677
-parent: home
+updated_at: 1732024971
 main_image: img_6707.jpeg
 ---

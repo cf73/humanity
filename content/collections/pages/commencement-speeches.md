@@ -3,15 +3,26 @@ id: 407d6a0a-70cb-49a9-9a6b-86e0b0a39a5a
 blueprint: simple_page
 template: commencements
 title: 'Commencement Speeches'
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1724096405
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1732027674
 intro:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Ever since 1987, The Humanity Initiative has been intent on preserving the wisdom, inspiration, humor and raw humanity of the most empowering commencement speeches. So please enjoy adventuring into our archive, no matter how old you are, for most of us "graduate" into new tomorrows, new challenges every year  --  and the messages of these 27 speeches are indeed timeless.'
-parent: home
+        text: "Ever since 1987, THI has been dedicated to preserving the wisdom, inspiration, humor and uninhibited humanity of each year's most empowering commencement speeches. "
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Once you finish reading or listening to your first choice, we well suspect you will find yourself unable to end there, becoming quickly engaged with the rest of these amazingly thoughtful, fun and generous voices!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'And they remain useful no matter what your age, for certainly all of us "graduate" into new tomorrows, new challenges every year...especially as you wade into the exciting arena of positive change...'
 main_image: image-1720367315.jpeg
 ---
