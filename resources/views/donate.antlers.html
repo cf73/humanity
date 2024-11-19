@@ -1,24 +1,22 @@
-<div class="container mx-auto grid grid-cols-12 gap-16">
-    <div class="col-start-5 col-span-8 w-full h-[90vh] bg-no-repeat bg-contain bg-center" style="background-image: url({{main_image}});"></div>
+{{partial:globals/smoothWrapStart}}
 
-    <!-- <div data-speed="1.2" class="col-start-2 row-start-2 col-span-6 relative -top-[50vh]">
-        {{donate}}
-        {{if video_id}}
-            <div class="aspect-w-16 aspect-h-9 bg-green">
-                <iframe src="https://www.youtube.com/embed/{{video_id}}" class="w-full h-full" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
-            {{else}}
-            <img src="{{image}}" alt="{{title}}" class="w-full">
-        {{/if}}
-        {{/donate}}
-    </div> -->
-        <div class="row-start-2 col-start-3 col-span-5 relative -top-[30vh]">
-            <h1>{{title}}</h1>
-            <div class="prose prose-sky prose-xl mt-4 mx-auto">{{intro}}</div>
+<img data-speed="0.77" id="challengeIntroImage{{increment:introImage from='1'}}" class="mx-auto w-full" src="{{main_image}}" alt="{{main_image:title}}">
+<div class="grid grid-cols-2 gap-16 mb-[100vh] -mt-24">
+    <div data-speed="0.6" class="px-16 flex flex-col h-full w-full pt-[10vh] relative z-30 pr-16 mb-8">
+        <div class="text-center text-6xl font-bold leading-none tracking-tight text-skyNeutral">
+            <div id="counting">{{title}}</div>
         </div>
-        <div data-speed="1.6" class="row-start-2 col-start-8 col-span-4">
-            <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe class="mb-32" src="https://donorbox.org/embed/support-the-humanity-initiative?default_interval=m" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important" allow="payment"></iframe>        
-            <!-- <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe frameborder="0" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/support-the-humanity-initiative?donor_wall_color=%236b4984&amp;only_donor_wall=true" style="width: 100%; max-width:500px; min-width:310px; min-height: 345px;"></iframe> -->
+        <div class="textMain leading-snug text-center mx-auto">
+            {{intro}}
         </div>
+        <!-- <button id="heroButton" class="btn-primary">{{lead_button_text}}</button> -->
+    </div>
+    
+    <div class="w-full flex flex-col items-center relative z-30">
+        <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe class="mb-32" src="https://donorbox.org/embed/support-the-humanity-initiative?default_interval=m" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important" allow="payment"></iframe>
+        <!-- <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe frameborder="0" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/support-the-humanity-initiative?donor_wall_color=%236b4984&amp;only_donor_wall=true" style="width: 100%; max-width:500px; min-width:310px; min-height: 345px;"></iframe> -->
     </div>
 </div>
+ 
+
+{{partial:globals/smoothWrapEnd}}

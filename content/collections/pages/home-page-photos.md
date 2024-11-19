@@ -4,7 +4,7 @@ blueprint: home
 title: Home
 template: home
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1731646624
+updated_at: 1732031664
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -47,24 +47,28 @@ intro_to_sites_content:
       item_content: "We offer extensive insight on humankind's most crucial challenges: ending war, solving climate change, and saving democracy."
       type: accordion_item
       enabled: true
+      button_link: 4054c299-5d59-4a2a-b98c-597ebfaee2fc
     -
       id: m16p6tmo
       item_title: 'Our Partners in Positive Change'
       item_content: 'We shine a light on thirty of this world’s most respected non-profits and their compelling opportunities for each of us to participate immediately in positive change.'
       type: accordion_item
       enabled: true
+      button_link: 066a064c-0bfa-4a95-aaff-17dcb83c8b81
     -
       id: m16p74gi
       item_title: 'Empowering Commencement Speeches'
       item_content: 'We began our popular archive of commencement speeches in 1989. now offering thirty of the most inspirational  -- from over the last hundred years and still keenly relevant today.'
       type: accordion_item
       enabled: true
+      button_link: 407d6a0a-70cb-49a9-9a6b-86e0b0a39a5a
     -
       id: m16p7o92
       item_title: 'Peace Gatherings'
       item_content: "The Humanity Initiative's blueprint for Peace Gatherings is designed to expand the understanding that ending war is not only necessary but also utterly possible."
       type: accordion_item
       enabled: true
+      button_link: e1912d5b-c259-42ca-aa14-01faa3424173
 intro_to_sites_content_image: man-staring-up-at-aurora-1718585869-1727311468.jpg
 closing_text:
   -
