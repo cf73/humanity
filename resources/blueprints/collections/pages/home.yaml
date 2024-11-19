@@ -82,6 +82,14 @@ tabs:
                                   display: 'Item content'
                                   validate:
                                     - required
+                              -
+                                handle: button_link
+                                field:
+                                  max_items: 1
+                                  mode: select
+                                  create: false
+                                  type: entries
+                                  display: 'Button link'
           -
             handle: featured_content_heading
             field:

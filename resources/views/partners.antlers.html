@@ -1,10 +1,13 @@
 {{partial:globals/smoothWrapStart}}
 
-<div class="px-16 mt-60 mb-12 space-y-4">
-    <h1>Our Partners</h1>
-    <div class="prose prose-sky xl:prose-xl leading-snug xl:leading-snug">
+<div data-speed=".7" id="challengeIntroImage{{increment:introImage from='1'}}" class="px-16 flex flex-col h-full w-full pt-36 relative z-30 pr-16 mb-8">
+    <div class="text-center text-6xl font-bold leading-none tracking-tight text-skyNeutral">
+        <div id="counting">{{title}}</div>
+    </div>
+    <div class="textMain leading-snug text-center mx-auto">
         {{intro}}
     </div>
+    <!-- <button id="heroButton" class="btn-primary">{{lead_button_text}}</button> -->
 </div>
 <div class="px-16 py-24 grid gap-16 grid-cols-4 bg-white">
     {{taxonomy:partners}}
