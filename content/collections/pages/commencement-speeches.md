@@ -4,7 +4,7 @@ blueprint: simple_page
 template: commencements
 title: 'Commencement Speeches'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732123383
+updated_at: 1732123529
 intro:
   -
     type: paragraph
@@ -17,7 +17,7 @@ intro:
     content:
       -
         type: text
-        text: 'Once you finish reading or listening to your first speaker, we well suspect you will not end there but become quickly engaged with the rest of these enduringly thoughtful, fun and generous voices.'
+        text: 'Once you finish reading or listening to your first speaker, we well suspect you will become quickly engaged with the rest of these enduringly thoughtful, fun and generous voices.'
   -
     type: paragraph
     content:
