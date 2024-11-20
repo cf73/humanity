@@ -20,16 +20,45 @@ description:
         text: 'The Washington Post'
       -
         type: text
-        text: " presents 1,200 possible scenarios. This is one of the more sophisticated examinations of Earth's future; it has a strong scientific grounding and is wonderfully precise and clear in its presentations. (n.b. It is worth reading the original article in "
+        text: " presents 1,200 possible scenarios. This is one of the more sophisticated examinations of Earth's future; it has a strong scientific grounding and is wonderfully precise and clear in its presentations. (n.b. It is worth reading the "
       -
         type: text
         marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.washingtonpost.com/climate-environment/interactive/2022/global-warming-1-5-celsius-scenarios/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most&carta-url=https%3A%2F%2Fs2.washingtonpost.com'
+              rel: null
+              target: _blank
+              title: null
+        text: 'original article in '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.washingtonpost.com/climate-environment/interactive/2022/global-warming-1-5-celsius-scenarios/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most&carta-url=https%3A%2F%2Fs2.washingtonpost.com'
+              rel: null
+              target: _blank
+              title: null
           -
             type: italic
         text: 'The Post'
       -
         type: text
-        text: ' to benefit by the easy-to-grasp charts.)'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.washingtonpost.com/climate-environment/interactive/2022/global-warming-1-5-celsius-scenarios/?utm_campaign=wp_post_most&utm_medium=email&utm_source=newsletter&wpisrc=nl_most&carta-url=https%3A%2F%2Fs2.washingtonpost.com'
+              rel: null
+              target: _blank
+              title: null
+        text: ' '
+      -
+        type: text
+        text: 'to benefit by the easy-to-grasp charts.)'
 article_text:
   -
     type: paragraph
@@ -996,7 +1025,7 @@ related_content:
   - 0bc47757-97d7-4952-98de-6e99de003495
   - 8f01cbfc-48f8-4156-acd7-03bef3acce9f
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1730587785
+updated_at: 1732141102
 publication: 'The Washington Post'
 articleauthor: 'Chris Mooney, Naema Ahmed and John Muyskens'
 sections: peace-gatherings
