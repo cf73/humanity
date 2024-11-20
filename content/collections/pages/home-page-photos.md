@@ -4,7 +4,7 @@ blueprint: home
 title: 'Home page'
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732046225
+updated_at: 1732067056
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -82,13 +82,13 @@ closing_text:
     content:
       -
         type: text
-        text: "May the insights and\_inspirations\_throughout this town meeting for the planet\_—\_presented on the wings of essays, images, speeches, artwork, film, literature, poetry, and music\_—\_move you to help fan the aspirational breezes of our shared humanity into winds of change we so urgently need."
+        text: "May the insights and\_inspirations\_throughout this planetary assembly  --  presented on the wings of essays, images, speeches, artwork, film, literature, poetry, and music  --  move you to help fan the aspirational breezes of our shared humanity into the winds of change we so urgently need."
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Let us together orchestrate a future that works for\_all sentient beings, a future that empowers succeeding generations with increasing kindness, understanding, love, and, not least, deep respect for the enthralling and necessary variety of life on Earth. "
+        text: "Let us together orchestrate a future that works for\_all sentient beings, a future that empowers succeeding generations with unrestrained kindness, understanding, love, and, not least, deep respect for the enthralling and necessary variety of life on Earth. "
 featured_content:
   - 324c608c-3a56-493e-87f8-e986d6c6bc03
   - b4176ab7-67b2-40c2-b5e0-37c995d46176
