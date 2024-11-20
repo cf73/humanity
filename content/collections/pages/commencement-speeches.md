@@ -4,7 +4,7 @@ blueprint: simple_page
 template: commencements
 title: 'Commencement Speeches'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732123303
+updated_at: 1732123383
 intro:
   -
     type: paragraph
@@ -23,6 +23,6 @@ intro:
     content:
       -
         type: text
-        text: 'For they remain inspiring no matter what your age, as every year all of us "graduate" into new tomorrows, new challenges...especially as we consider personal pathways through along the exciting horizons of positive change.'
+        text: 'For they remain inspiring no matter what your age, as every year all of us "graduate" into new tomorrows, new challenges...especially as we consider personal pathways along the exciting horizons of positive change.'
 main_image: image-1720367315.jpeg
 ---
