@@ -4,8 +4,8 @@ blueprint: page
 title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1731903262
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1732218661
 section_builder:
   -
     id: ludi5o3a
@@ -14,7 +14,7 @@ section_builder:
     article: e1912d5b-c259-42ca-aa14-01faa3424173
   -
     id: lsgtt24w
-    talks: 9e01cac3-8708-4f6e-b25f-52f499a2e4fc
+    talks: ba850df4-c102-43cf-a7f7-0c66ed1f60d7
     type: talks
     enabled: true
   -
