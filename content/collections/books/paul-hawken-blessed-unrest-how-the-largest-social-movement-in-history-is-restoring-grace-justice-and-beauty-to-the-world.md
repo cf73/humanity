@@ -3,7 +3,7 @@ id: 9f09c216-ae44-4a47-badf-16a8ab75a311
 blueprint: book
 title: 'Blessed Unrest: Restoring Grace, Justice, and Beauty to the World  (2007)'
 image: 71lrdkzsuzl._sl1200_.jpg
-link: 'https://www.amazon.com/gp/product/0143113658/ref=as_li_tf_tl?ie=UTF8&tag=jainthwo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0143113658'
+link: 'https://www.goodreads.com/book/show/89998.Blessed_Unrest?ac=1&from_search=true&qid=33X0c7AM9w&rank=1'
 description:
   -
     type: paragraph
@@ -50,7 +50,7 @@ related_content:
   - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
   - e1912d5b-c259-42ca-aa14-01faa3424173
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724687319
+updated_at: 1732288846
 date_published: '2007-01-01'
 book_author: 'Paul Hawken'
 sections: inspiration
