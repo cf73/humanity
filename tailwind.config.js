@@ -87,6 +87,7 @@ export default {
                 //neutrals
                 'textNeutral': '#3a3a3a',
                 'skyNeutral': '#05142C',
+                'denim': '#2e374c',
                 'boldyellow': '#D0BDCF',
             },
             typography: ({ theme }) => ({

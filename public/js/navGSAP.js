@@ -106,6 +106,17 @@ gsap.to("#hero", {
   filter: "blur(10px)",
 });
 
+//fade in introImage1
+// gsap.to("#challengeIntroImage2", {
+//   scrollTrigger: {
+//     trigger: "#challengeIntroImage2",
+//     start: "top bottom", // Adjust based on when you want the animation to start
+//     end: "top middle",
+//     scrub: true,
+//   },
+//   opacity: 1,
+// });
+
 //fade out introImage1
 gsap.to("#challengeIntroImage1", {
   scrollTrigger: {
