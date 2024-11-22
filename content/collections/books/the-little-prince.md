@@ -50,13 +50,13 @@ description:
         type: text
         text: .
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1723218557
+updated_at: 1732299193
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
 related_content:
   - 6d28b288-2ed8-4983-a206-c1a19b3c1219
   - 9daf30e1-7588-4427-bc37-28fd0527f566
 date_published: '1943-03-04'
-link: 'https://www.goodreads.com/book/show/157993.The_Little_Prince?from_search=true&from_srp=true&qid=EkFkzxlnxS&rank=1'
+link: 'https://bookshop.org/p/books/the-little-prince-antoine-de-saint-exupery/19071973?ean=9780156012195'
 book_author: 'Antoine de Saint-Exupéry'
 ---
