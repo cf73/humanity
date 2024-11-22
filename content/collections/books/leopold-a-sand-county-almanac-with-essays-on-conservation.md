@@ -3,7 +3,7 @@ id: 094f509c-6dba-4c63-a475-22cbd0c2f879
 blueprint: book
 title: 'A Sand County Almanac: With Essays on Conservation (1949)'
 image: 71aybinodpl._sl1024_.jpg
-link: 'https://www.amazon.com/County-Almanac-Outdoor-Essays-Reflections/dp/0345345053/ref=sr_1_1?adgrpid=1331509151015665&dib=eyJ2IjoiMSJ9.tIqeqFERp17Y22rL7ODCyBi70H7MplsBpg7xuYi8IxMQnTuB_OL627Ytd4BEuXZStaQf-zDbTWZzKVbB46UQVg.201X_Ip93qSJCPHBiqZT_27hSA7ga4rN1PhjdHCA1OE&dib_tag=se&hvadid=83219393874437&hvbmt=be&hvdev=c&hvlocphy=103662&hvnetw=o&hvqmt=e&hvtargid=kwd-83219677578478%3Aloc-190&hydadcr=3328_10810794&keywords=sand+county+almanac+with+essays+on+conservation+from+round+river&qid=1712505322&sr=8-1'
+link: 'https://www.goodreads.com/book/show/210404.A_Sand_County_Almanac_and_Sketches_Here_and_There?from_search=true&from_srp=true&qid=rQq5bz3EvS&rank=1'
 description:
   -
     type: paragraph
@@ -80,7 +80,7 @@ related_content:
   - 239a38c6-1348-452c-b8d1-8136b4dd3c89
   - ac220561-aa8b-48ce-a11d-d0ee99b3cab4
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722630209
+updated_at: 1732289070
 date_published: '1986-12-12'
 book_author: 'Aldo Leopold'
 file_under: inspiration
