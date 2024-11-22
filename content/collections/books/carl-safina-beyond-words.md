@@ -47,11 +47,11 @@ description:
             type: italic
         text: "Learning to Be Wild (a Young Reader's Adaptation): How Animals Achieve Peace, Create Beauty, and Raise Families"
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724695301
+updated_at: 1732289004
 collection_type: book
 book_author: 'Carl Safina'
 date_published: '2015-05-31'
-link: 'https://www.amazon.com/Beyond-Words-What-Animals-Think/dp/1250094593/ref=sr_1_1?adgrpid=1332608657087154&dib=eyJ2IjoiMSJ9.MTQTCL1Myona3jkM2BH9ZATFWS4H5aN_en0TnpWq6ycS28PJFqAUvrestxlzzoyj4KYqC8Ee52Ply_I4WSkohdhi8Ie1InbZBh7Xfv-CfEg6prpdkRYp6IC_OKIPAKijX2a5f8Dlq2iCZWdL8z-ARI-4X-zhJ9nxkDs4_vAz0hrJk3RA9fl-RGTFuk7XJN5Ik3NYu7e91SfjQ9X8DhvKgv5Q6Dg8pP-B2lnweLvA0u4.Ao35SK5QfqMrlhWzkzYxAprvwHcqc6OyByRWM64OEqc&dib_tag=se&hvadid=83288111964376&hvbmt=be&hvdev=c&hvlocphy=103662&hvnetw=o&hvqmt=e&hvtargid=kwd-83288383012347%3Aloc-190&hydadcr=3264_10746784&keywords=beyond+words+-+what+animals+think+and+feel&msclkid=fb707a098e5b1635669f1c6c782b7577&qid=1717958258&sr=8-1'
+link: 'https://www.goodreads.com/book/show/22320456-beyond-words?from_search=true&from_srp=true&qid=6pZYTnNK8y&rank=1'
 related_partner_initiatives:
   - dfae34a8-30a5-4e7c-89d7-a33917e780d8
   - 6f9195fc-1c72-4935-be44-e6b912bbba06
