@@ -88,6 +88,7 @@ export default {
                 'textNeutral': '#3a3a3a',
                 'skyNeutral': '#05142C',
                 'boldyellow': '#D0BDCF',
+                'dusk': '#5275ae',
             },
             typography: ({ theme }) => ({
                 sky: {

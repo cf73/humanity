@@ -16,10 +16,12 @@
 <article class="mt-8 flex flex-col items-center">
     <!-- article metadata  -->
     <div class="space-y-2 mb-16 flex flex-col prose prose-sky text-center mx-auto">
+        {{if author}}
         <div id="author">
             <span class="textMeta">Author: </span>
             <span class="textSecondary">{{author}}</span>
         </div>
+        {{/if}}
         <div id="date">
             <span class="textMeta">Date Published: </span>
             <span class="textSecondary">{{date_published}}</span>
