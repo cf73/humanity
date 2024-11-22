@@ -50,7 +50,7 @@ description:
         type: text
         text: .
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732299193
+updated_at: 1732299307
 related_partner_initiatives:
   - bd1d0db4-a43f-4e72-a31d-664b5cce943f
 related_content:
@@ -59,4 +59,5 @@ related_content:
 date_published: '1943-03-04'
 link: 'https://bookshop.org/p/books/the-little-prince-antoine-de-saint-exupery/19071973?ean=9780156012195'
 book_author: 'Antoine de Saint-Exupéry'
+sections: childrens-literature
 ---
