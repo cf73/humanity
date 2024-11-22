@@ -39,7 +39,7 @@ related_partner_initiatives:
 related_content:
   - 9f09c216-ae44-4a47-badf-16a8ab75a311
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724695067
+updated_at: 1732289093
 book_author: 'Pierre Teilhard De Chardin'
 sections: inspiration
 challenges:
