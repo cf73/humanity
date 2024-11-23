@@ -295,21 +295,7 @@ article_text:
     content:
       -
         type: text
-        text: 'The metaphysical explanation is that Roger Federer is one of those rare, preternatural athletes who appear to be exempt, at least in part, from certain physical laws. Good analogues here include Michael Jordan,('
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'http://www.nytimes.com/2006/08/20/sports/playmagazine/20federer-footnotes.html?pagewanted=all#footnote7'
-              rel: null
-              target: null
-              title: null
-        text: '7'
-      -
-        type: text
-        text: ') who could not only jump inhumanly high but actually hang there a beat or two longer than gravity allows, and Muhammad Ali, who really could “float” across the canvas and land two or three jabs in the clock-time required for one. There are probably a half-dozen other examples since 1960. And Federer is of this type — a type that one could call genius, or mutant, or avatar. He is never hurried or off-balance. The approaching ball hangs, for him, a split-second longer than it ought to. His movements are lithe rather than athletic. Like Ali, Jordan, Maradona, and Gretzky, he seems both less and more substantial than the men he faces. Particularly in the all-white that Wimbledon enjoys getting away with still requiring, he looks like what he may well (I think) be: a creature whose body is both flesh and, somehow, light.'
+        text: 'The metaphysical explanation is that Roger Federer is one of those rare, preternatural athletes who appear to be exempt, at least in part, from certain physical laws. Good analogues here include Michael Jordan, who could not only jump inhumanly high but actually hang there a beat or two longer than gravity allows, and Muhammad Ali, who really could “float” across the canvas and land two or three jabs in the clock-time required for one. There are probably a half-dozen other examples since 1960. And Federer is of this type — a type that one could call genius, or mutant, or avatar. He is never hurried or off-balance. The approaching ball hangs, for him, a split-second longer than it ought to. His movements are lithe rather than athletic. Like Ali, Jordan, Maradona, and Gretzky, he seems both less and more substantial than the men he faces. Particularly in the all-white that Wimbledon enjoys getting away with still requiring, he looks like what he may well (I think) be: a creature whose body is both flesh and, somehow, light.'
   -
     type: paragraph
     content:
@@ -614,6 +600,12 @@ article_text:
     content:
       -
         type: text
+        text: '-----'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         marks:
           -
             type: bold
@@ -638,5 +630,5 @@ related_content:
   - cec12744-472f-4da0-b17a-41b303b4a29e
   - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1730587163
+updated_at: 1732371005
 ---
