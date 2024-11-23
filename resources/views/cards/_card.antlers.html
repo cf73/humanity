@@ -1,6 +1,6 @@
 
-<div class="resultCard h-full overflow-hidden text-center">
-    <a href="{{url}}">        
+<div class="resultCard overflow-hidden text-center">
+    <a href="{{url}}" class="hover:no-underline">        
         <div class="aspect-[16/9] w-full flex flex-col justify-end overflow-hidden">
             <img src="{{image}}" class="max-h-full max-w-full object-contain" alt="{{title}}">
         </div>
@@ -8,15 +8,15 @@
         <div class="py-0 px-4 mt-5 flex flex-col items-center text-center">
             {{partial:cards/tape passedValue="{{collection:title}}" passedColor="atomicTangerine"}}
 
-            <div class="text-{{headingColor}} textMain leading-snug text-skyNeutral font-bold italic mb-2">{{title}}</div>
+            <div class="text-{{headingColor}} textMain text-2xl leading-snug text-denim font-bold italic mb-2">{{title}}</div>
             {{if speaker}}
-                <span class="text-sm tracking-wide text-textNeutral antialiased font-bold leading-tight">{{speaker}}</span>
+                <span class="text-sm tracking-wide text-{{headingColor}} text-textNeutral antialiased font-bold leading-tight">{{speaker}}</span>
             {{/if}}
             {{if articleauthor}}
-                <span class="text-sm tracking-wide text-textNeutral antialiased font-bold leading-tight">{{articleauthor}}</span>
+                <span class="text-sm tracking-wide text-{{headingColor}} text-textNeutral antialiased font-bold leading-tight">{{articleauthor}}</span>
             {{/if}}
             {{if book_author}}
-                <span class="text-sm tracking-wide text-textNeutral antialiased font-bold leading-tight">{{book_author}}</span>
+                <span class="text-sm tracking-wide text-{{headingColor}} text-textNeutral antialiased font-bold leading-tight">{{book_author}}</span>
             {{/if}}
             <!-- <div class="font-serif leading-6 text-base">{{ description }}</div> -->
         </div>

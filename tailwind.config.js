@@ -87,18 +87,22 @@ export default {
                 //neutrals
                 'textNeutral': '#3a3a3a',
                 'skyNeutral': '#05142C',
+                'denim': '#2e374c',
                 'boldyellow': '#D0BDCF',
+                'dusk': '#5275ae',
+                'whitetrans': 'rgb(255 255 255 / 0.7)',
+                'water': '#eff5ff',
             },
             typography: ({ theme }) => ({
                 sky: {
                   css: {
-                    '--tw-prose-body': theme('colors.textNeutral'),
+                    '--tw-prose-body': theme('colors.whitetrans'),
                     '--tw-prose-headings': theme('colors.atomicTangerine'),
                     '--tw-prose-lead': theme('colors.cetaceanBlue'),
-                    '--tw-prose-links': theme('colors.textNeutral'),
-                    '--tw-prose-bold': theme('colors.textNeutral'),
-                    '--tw-prose-counters': theme('colors.textNeutral'),
-                    '--tw-prose-bullets': theme('colors.textNeutral'),
+                    '--tw-prose-links': theme('colors.whitetrans'),
+                    '--tw-prose-bold': theme('colors.whitetrans'),
+                    '--tw-prose-counters': theme('colors.whitetrans'),
+                    '--tw-prose-bullets': theme('colors.whitetrans'),
                     '--tw-prose-hr': theme('colors.buttonBlue'),
                     '--tw-prose-quotes': theme('colors.darkLavender'),
                     '--tw-prose-quote-borders': theme('colors.darkLavender'),

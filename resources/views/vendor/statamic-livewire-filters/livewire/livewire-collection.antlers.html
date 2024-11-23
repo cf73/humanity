@@ -2,13 +2,13 @@
     <div>
 
         {{ entries as="results" }}
-        <div wire:key="{{ id }}">
+        <div id="challengeContent" wire:key="{{ id }}">
             {{ if no_results }}
                 <div class="p-8 rounded-lg bg-gray-100 text-center">
                     Sorry, no results.
                 </div>
             {{ else }}
-                <div class="grid grid-cols-3 gap-16">
+                <div class="grid grid-cols-2 gap-16">
                     {{ results | shuffle }}
                         {{ partial:cards/card }}
                     {{ /results }}

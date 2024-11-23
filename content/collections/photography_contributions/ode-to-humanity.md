@@ -28,8 +28,7 @@ description:
         type: text
         text: 'The Humanity Initiative used this image of three Indonesian sisters on the home page of our web site for fifteen years. His now famous record of vanishing tribes across the planet is called Homage to Humanity (https://www.youtube.com/watch?v=_4kvHRNQ1Zg). He even has invented a Humanity Game:  https://jimmynelsonfoundation.com/news/the-humanity-game/.'
 collection_type: photography-contribution
-challenges:
-  - inspiration
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719232705
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1732297875
+sections: inspiration
 ---

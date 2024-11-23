@@ -27,7 +27,6 @@ description:
         type: text
         text: '"During my time in Buddhist villages and communities, one of the many things I’ve come to admire is the respect, attentiveness and care younger people have for elders living among them. This ranges from children to middle-aged folks and means this woman who told me she had never married and had no family members to rely on in her final years, nonetheless, was worry-free about her wellbeing. The community, the beads  --  her faith  --  and wisdom etched into her profoundly lined face were the bedrocks of her assuredness."'
 challenges:
-  - inspiration
   - war
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172

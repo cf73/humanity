@@ -31,10 +31,10 @@
         @apply font-josephin font-light text-2xl leading-normal;
     }
     a {
-        @apply text-skyNeutral hover:underline underline-offset-4;
+        @apply text-whitetrans hover:underline underline-offset-4;
     }
     .textMeta {
-        @apply uppercase font-josephin text-xs font-medium antialiased text-skyNeutral tracking-widest w-fit mt-[.25em];
+        @apply uppercase font-josephin text-xs font-medium antialiased text-whitetrans tracking-widest w-fit mt-[.25em];
     }
     .textMain {
         @apply font-serif prose prose-sky lg:prose-xl;
@@ -46,7 +46,7 @@
         @apply font-josephin font-light text-yellow-600 subpixel-antialiased prose prose-sky mx-auto leading-normal text-xl;
     }
     .textSecondary {
-        @apply font-serif text-spaceCadet antialiased tracking-tight;
+        @apply font-serif text-whitetrans antialiased tracking-tight;
     }
 }
 

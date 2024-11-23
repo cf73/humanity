@@ -6,8 +6,6 @@ quotation: 'It is not the critic who counts; not the man who points out how the 
 attribution: 'Theodore Roosevelt'
 image: image-1715871819.jpeg
 collection_type: quotation
-challenges:
-  - inspiration
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1727125773
 ---

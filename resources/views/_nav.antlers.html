@@ -8,8 +8,8 @@
                 }"
                 class="relative">
             
-                    <button @click="dropdownOpen=true" class="text-white inline-flex items-center space-x-2">
-                        <span class="hover:text-boldyellow text-sm">{{title}} </span>
+                    <button @click="dropdownOpen=true" class="text-whitetrans transition inline-flex items-center space-x-2">
+                        <span class="hover:text-white tracking-wide">{{title}} </span>
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
                             <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
                           </svg>
@@ -26,7 +26,7 @@
                         <div class="p-1 mt-1 bg-white border rounded-md shadow-md border-neutral-200/70 text-neutral-700">
 
                         {{children}}
-                            <a href="/challenges/{{slug}}" class="relative flex cursor-pointer hover:no-underline select-none hover:bg-boldyellow items-center rounded px-2 py-1.5 text-sm outline-none transition-colors data-[disabled]:pointer-events-none data-[disabled]:opacity-50 text-sm">{{title}}</a>
+                            <a href="/challenges/{{slug}}" class="relative flex cursor-pointer text-skyNeutral hover:no-underline select-none hover:bg-boldyellow items-center rounded px-2 py-1.5 tracking-wide outline-none transition-colors data-[disabled]:pointer-events-none data-[disabled]:opacity-50 text-sm">{{title}}</a>
                         {{/children}}
                             
                         </div>
@@ -35,7 +35,7 @@
             
                 {{else}}
                 <a href="{{ url }}"{{ if is_current || is_parent }} class="text-boldyellow"{{ /if }} class="hover:no-underline">
-                    <div class="text-white hover:text-boldyellow text-sm">{{title}}</div>
+                    <div class="text-whitetrans hover:text-white transition tracking-wide">{{title}}</div>
                 </a>
                 {{/if}}
             {{/nav:topnav}}
@@ -46,13 +46,13 @@
         <nav class="flex flex-row gap-8 items-center">
             {{nav:right_nav}}
                 <a href="{{ url }}"{{ if is_current || is_parent }} class="text-boldyellow"{{ /if }} class="hover:no-underline">
-                    <div class="text-white text-sm hover:text-boldyellow">{{title}}</div>
+                    <div class="text-whitetrans hover:text-white transition tracking-wide">{{title}}</div>
                 </a>
             {{/nav:right_nav}}
             <a href="/donate">
                 <button
                     type="button"
-                    class="inline-flex items-center rounded bg-boldyellow px-4 py-1 text-sm leading-normal shadow-light-3 transition duration-150 ease-in-out hover:bg-boldyellow/80 hover:shadow-light-2 focus:bg-white focus:shadow-light-2 focus:outline-none focus:ring-0 active:bg-white active:shadow-light-2 motion-reduce:transition-none ">
+                    class="inline-flex items-center rounded bg-boldyellow px-4 py-1 tracking-wide text-skyNeutral leading-normal shadow-light-3 transition duration-150 ease-in-out hover:bg-white hover:shadow-light-2 focus:bg-white focus:shadow-light-2 focus:outline-none focus:ring-0 active:bg-white active:shadow-light-2 motion-reduce:transition-none ">
                     Donate
                 </button>
             </a>
