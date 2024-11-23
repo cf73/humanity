@@ -3,11 +3,14 @@
 {{partial:globals/breadcrumb-tags}}
 
 
-<div class="px-16 pt-20 w-2/3 mx-auto mt-20 space-y-8 text-center">
-    <div class="text-center flex flex-col items-center">
-        <h1>{{title}}</h1>
-        <div class="prose prose-sky prose-xl mt-4 mx-auto">{{description}}</div>
+<div data-speed=".7" class="px-16 flex flex-col h-full w-full pt-36 relative z-30 pr-16 -mt-8 mb-36">
+    <div class="text-center text-6xl font-bold leading-none tracking-tight text-white/70">
+        <div id="counting">{{title}}</div>
     </div>
+    <div class="textMain leading-snug text-center mx-auto">
+        {{description}}
+    </div>
+    <!-- <button id="heroButton" class="btn-primary">{{lead_button_text}}</button> -->
 </div>
 
 <!-- image -->
