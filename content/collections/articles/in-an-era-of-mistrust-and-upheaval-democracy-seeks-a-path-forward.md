@@ -79,6 +79,44 @@ article_text:
     content:
       -
         type: text
+        text: 'The Athens Democracy Forum, a gathering of global leaders last week in association with The New York Times, was inhabited by a particular sense of unease. Inevitably there was talk of the stubborn war in Ukraine and the spreading war in the Middle East. Their terrible toll cast a pall. As after 9/11 two decades ago, the world has changed since the Oct. 7 Hamas terrorist attack and Israel’s devastating retaliation against Palestinians in Gaza.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Across the world, the gathering acknowledged, mistrust advances in the cacophony of social media. Compromise, without which democracy struggles, has been one victim of this clamor. We live increasingly in an all-or-nothing culture. The uncertainty surrounding a close-run American election, and the fracture in many Western societies between the connected living in the “somewhere” of the knowledge economy and the forgotten living “nowhere” in industrial wastelands and rural areas, undermine the West. It finds itself in a moment of relative weakness as other powers, including Russia and China with their authoritarian systems, push anti-American agendas.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Certainly, in the face of war, whether in Europe or the Middle East, the capacity of major powers to come together and impose a peaceful resolution seems near nonexistent.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Anger and anxiety feed extremist parties and questioning of democratic systems. “Democracy is fragile,” Corinne Momal-Vanian, the executive director of the Kofi Annan Foundation, told the forum. “It has many enemies.” But, she insisted, there is no substitute for “representative, inclusive and accountable” governance if people are to be free and empowered. As she noted, democracy “is also resilient.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'One moment of hope in this regard came when Ginny Badanes, the general manager of Microsoft’s Democracy Forward, a division of the company that works to advance and protect democracy by safeguarding open and secure exchange, related how her preteen son battled to get a bill through Congress. Of course, this was not in real life but in an iCivics online game. Still, he was passionate about his political efforts, as were many of the young democracy advocates from across the world who attended the forum.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'When it came to passion, the speech of Omar van Reenen, the founder of Equal Namibia, an organization that has fought for L.G.B.T.Q. rights in Namibia against retrograde laws and state-sanctioned homophobia, was conspicuous. He was introduced by Ms. Momal-Vanian as the winner of the Kofi Annan NextGen Democracy Prize, which recognizes exceptional leadership among people 18 to 30 in the advancement of democracy.'
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: '(continued in link)'
 collection_type: article
 challenges:
@@ -93,5 +131,5 @@ related_content:
   - 92a684c9-ec52-4217-812f-186112d01ac0
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732370068
+updated_at: 1732370324
 ---
