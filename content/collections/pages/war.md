@@ -5,7 +5,7 @@ title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732218761
+updated_at: 1732395968
 section_builder:
   -
     id: ludi5o3a
@@ -58,7 +58,6 @@ section_builder:
     enabled: true
   -
     id: luvzsd2i
-    talks: ba850df4-c102-43cf-a7f7-0c66ed1f60d7
     type: talks
     enabled: true
 challenge_intro:
