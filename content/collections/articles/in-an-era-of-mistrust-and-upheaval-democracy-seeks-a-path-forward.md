@@ -6,7 +6,7 @@ articleauthor: 'Roger Cohen'
 date_published: '2024-10-09'
 link: 'https://www.nytimes.com/2024/10/09/world/athens-democracy-forum-analysis.html'
 publication: 'The New York Times'
-image: 10sp-democracy-roger-inyt-01-qgbz-superjumbo.jpg.webp
+image: 10sp-democracy-roger-inyt-02-qgbz-superjumbo.jpg.webp
 description:
   -
     type: paragraph
@@ -235,5 +235,5 @@ related_content:
   - 92a684c9-ec52-4217-812f-186112d01ac0
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732370525
+updated_at: 1732370671
 ---
