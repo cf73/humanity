@@ -4,12 +4,12 @@
 <div id="invisibleScrollerTarget"></div>
 
 <div id="hero-area" class="w-full mt-24">
-    <div data-speed="0.77" id="challengeIntroImage{{increment:introImage from='1'}}" style="background-image: url({{main_image:image}});" class="challengeIntroImage w-2/3 h-screen mx-auto flex flex-col justify-end bg-no-repeat bg-center bg-contain">
+    <div data-speed="0.3" id="challengeIntroImage{{increment:introImage from='1'}}" style="background-image: url({{main_image:image}});" class="challengeIntroImage w-2/3 h-screen mx-auto flex flex-col justify-end bg-no-repeat bg-center bg-contain">
     </div>    <!-- <div id="heroImage" style="background-image: url({{main_image:image}});"
                         class="bg-cover bg-center bg-no-repeat h-[90vh] -left-48 relative z-0 aspect-[16/9]">
     </div> -->
     <div data-speed=".7" class="px-16 flex flex-col h-full w-full pt-36 relative z-30 pr-16 -mt-8 mb-36">
-        <div class="text-center text-6xl font-bold leading-none tracking-tight text-skyNeutral">
+        <div class="text-center text-6xl font-bold leading-none tracking-tight text-white/70">
             <div id="counting">{{title}}</div>
         </div>
         <div class="textMain leading-snug text-center mx-auto">
@@ -52,13 +52,17 @@
     <h3>See more</h3>
 </section>
 
-<section class="relative bg-white py-24" id="allContent">
-    <div class="textSecondary mb-24 text-center w-1/3 mx-auto prose prose-sky">May the insights and inspirations throughout this town meeting for the planet — presented on the wings of essays, images, speeches, artwork, film, literature, poetry, and music — move you to help fan the aspirational breezes of our shared humanity into winds of change we so urgently need.</div>
-
-    <div id="challengeContent" class="container mx-auto grid grid-cols-12 gap-16">
-        <div class="col-start-1 col-span-12">
-            {{ livewire-collection:* }}
-        </div>
+<section class="relative bg-water py-24 z-30" id="allContent">
+    <div class="textSecondary mb-24 text-center w-1/3 mx-auto prose text-skyNeutral">May the insights and inspirations throughout this town meeting for the planet — presented on the wings of essays, images, speeches, artwork, film, literature, poetry, and music — move you to help fan the aspirational breezes of our shared humanity into winds of change we so urgently need.</div>
+    <div id="MainFilters" class="float-left pl-16 w-1/3">
+        {{ livewire:lf-checkbox-filter
+            blueprint="books.book"
+            field="collection_type"
+            condition="taxonomy"
+        }}
+    </div>        
+    <div class="w-full pl-1/3">
+        {{ livewire-collection:* }}
     </div>
 </section>
 

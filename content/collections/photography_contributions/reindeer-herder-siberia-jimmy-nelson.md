@@ -20,7 +20,6 @@ description:
         text: 'This portrait is from Siberia. The Nenets are completely isolated reindeer herders, living with temperatures from minus 50°C in winter to 35°C in summer. '
 collection_type: photography-contribution
 challenges:
-  - inspiration
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1728166151
 ---

@@ -2,34 +2,39 @@
 
 {{partial:globals/breadcrumb-tags}}
 
-<div class="container mx-auto flex flex-col items-center space-y-8 pt-48 relative">
-    <div class="text-center flex flex-col items-center">
-        <h1>{{title}}</h1>
-        <div class="prose prose-sky prose-xl mt-4 mx-auto">{{description}}</div>
+<div class="container mx-auto flex flex-col items-center space-y-8 pt-4 relative">
+    <div data-speed=".7" id="challengeIntroImage{{increment:introImage from='1'}}" class="px-16 flex flex-col h-full w-full pt-36 relative z-30 pr-16 mb-8">
+        <div class="text-center text-6xl font-bold leading-none tracking-tight text-white/70">
+            <div id="counting">{{title}}</div>
+        </div>
+        <div class="textMain text-white/70 leading-snug text-center mx-auto">
+            {{description}}
+        </div>
+        <!-- <button id="heroButton" class="btn-primary">{{lead_button_text}}</button> -->
     </div>
 
-    {{if video_id}}
-    <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    {{else}}
-    <img src="{{image}}" alt="{{title}}" class="w-full">
-    {{/if}}
-
-    <div class="space-y-2 flex flex-col items-center">
-        <div>
-            <span class="textMeta">Speaker: </span>
-            <span class="textSecondary">{{speaker}}</span>
+    <div class="z-30 space-y-8">
+        {{if video_id}}
+        <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        {{else}}
+        <img src="{{image}}" alt="{{title}}" class="w-full">
+        {{/if}}
+        <div class="space-y-2 flex flex-col items-center">
+            <div>
+                <span class="textMeta">Speaker: </span>
+                <span class="textSecondary">{{speaker}}</span>
+            </div>
+            <div>
+                <span class="textMeta">Date: </span>
+                <span class="textSecondary">{{date_of_speech}}</span>
+            </div>
+            <div>
+                <span class="textMeta">Location: </span>
+                <span class="textSecondary">{{location}}</span>
+            </div>
         </div>
-        <div>
-            <span class="textMeta">Date: </span>
-            <span class="textSecondary">{{date_of_speech}}</span>
-        </div>
-        <div>
-            <span class="textMeta">Location: </span>
-            <span class="textSecondary">{{location}}</span>
-        </div>  
+        <div class="textMain pt-8 mx-auto">{{transcript}}</div>
     </div>
-
-    <div class="textMain pt-8">{{transcript}}</div>
 </div>
 
 {{partial:contentTemplates/relatedContent}}

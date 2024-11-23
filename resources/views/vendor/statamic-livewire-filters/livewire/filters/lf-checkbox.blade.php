@@ -4,14 +4,14 @@
         <div class="flex items-center labelcontainer relative">
             <input 
                 type="checkbox" 
-                class="form-checkbox w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-full focus:ring-blue-500 focus:ring-2"
+                class="form-checkbox w-4 h-4 text-dusk bg-white border-dusk cursor-pointer rounded-full focus:ring-dusk focus:ring-2"
                 id="{{ $field }}-{{ $value }}"
                 wire:model.live="selected"
                 value="{{ $value }}"
             >
             <label 
                 for="{{ $field }}-{{ $value }}" 
-                class="ml-2 text-gray-900"
+                class="ml-2 text-skyNeutral"
             >
                 {{ $label }}
                 @if ($this->counts[$value] !== null)
@@ -22,7 +22,7 @@
         @endforeach
     </div>
     
-    <div id="filterButtons" class="flex flex-row gap-4">
+    <div id="filterButtons" class="flex flex-row gap-4 hidden">
         <button id="closeFilters" class="btn-primary">View results</button>
         @unless ($selected == [])
             @include('statamic-livewire-filters::livewire.ui.clear-filters-button')

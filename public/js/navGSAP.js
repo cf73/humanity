@@ -142,6 +142,14 @@ gsap.to("#challengeIntroImage3", {
   filter: "blur(10px)",
 });
 
+// pin MainFilters
+ScrollTrigger.create({
+  trigger: '#challengeContent',
+  start: 'top 160',
+  endTrigger: 'footer',
+  end: 'top bottom',
+  pin: '#MainFilters',
+});
 
 // fade away hero image on scroll
 // gsap.fromTo(
@@ -357,10 +365,15 @@ var revealFilters = gsap.timeline({paused: true})
       ;
 
 document.getElementById("filterButton").onclick = () => revealFilters.play();
-document.getElementById("closeFilters").onclick = () => {
-  gsap.to(window, { duration: 2, scrollTo: { y: "#challengeContent", offsetY: 200 } });
-  revealFilters.reverse();
-};
+const filterButtons = document.getElementsByClassName("form-checkbox");
+for (let i = 0; i < filterButtons.length; i++) {
+  filterButtons[i].onclick = () => {
+    gsap.to(window, { duration: 2, scrollTo: { y: "#challengeContent", offsetY: 150 } });
+    // revealFilters.reverse();
+  };
+}
+
+
 
 
   

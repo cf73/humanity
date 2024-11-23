@@ -6,8 +6,6 @@ quotation: 'When I was 5 years old, my mother always told me that happiness was 
 attribution: 'John Lennon'
 image: image-1715871540.jpeg
 collection_type: quotation
-challenges:
-  - inspiration
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_at: 1727125813
 ---

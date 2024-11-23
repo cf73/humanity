@@ -1,0 +1,166 @@
+title: Music
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              required: true
+              validate:
+                - required
+          -
+            handle: speaker
+            field:
+              type: text
+              display: Speaker
+              validate:
+                - required
+          -
+            handle: location_or_event
+            field:
+              type: text
+              display: 'Location or Event'
+              validate:
+                - required
+          -
+            handle: date_of_performance
+            field:
+              type: date
+              display: 'Date of Performance'
+          -
+            handle: description
+            field:
+              buttons:
+                - bold
+                - italic
+                - removeformat
+              smart_typography: true
+              word_count: true
+              remove_empty_nodes: false
+              type: bard
+              display: 'Short Description'
+              validate:
+                - required
+              character_limit: 500
+          -
+            handle: image
+            field:
+              max_files: 1
+              container: assets
+              type: assets
+              display: Image
+              validate:
+                - required
+          -
+            handle: video_id
+            field:
+              type: textarea
+              display: 'Video ID'
+              instructions: 'Grab the long string of random letters and numbers after this in the YouTube embed code: src="https://www.youtube.com/embed/[grab this bit and paste it here]"'
+          -
+            handle: link
+            field:
+              type: textarea
+              display: Link
+              validate:
+                - required
+          -
+            handle: additional_text
+            field:
+              buttons:
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - removeformat
+                - anchor
+                - image
+              smart_typography: true
+              remove_empty_nodes: false
+              type: bard
+              display: 'Additional text'
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
+          -
+            handle: collection_type
+            field:
+              type: terms
+              taxonomies:
+                - collection_type
+              display: 'Collection Type'
+              mode: select
+              max_items: 1
+              create: false
+              validate:
+                - required
+          -
+            handle: challenges
+            field:
+              mode: select
+              create: false
+              taxonomies:
+                - challenges
+              type: terms
+              display: Challenges
+          -
+            handle: sections
+            field:
+              max_items: 1
+              mode: select
+              create: false
+              taxonomies:
+                - section
+              type: terms
+              display: Sections
+          -
+            handle: related_partner_initiatives
+            field:
+              max_items: 4
+              mode: select
+              create: false
+              collections:
+                - partner_initiatives
+              type: entries
+              display: 'Related Partner Initiatives'
+              instructions: "Help site visitors discover how to take action related to the content they've just seen here."
+              validate:
+                - required
+          -
+            handle: related_content
+            field:
+              max_items: 5
+              mode: select
+              create: false
+              collections:
+                - articles
+                - books
+                - commencement_speeches
+                - partner_stories
+                - talks
+                - poetry_contributions
+              type: entries
+              display: 'Related Content'
+              instructions: 'Other content from THI that relates to this piece, allowing visitors to follow their own path.'
+              validate:
+                - required
+          -
+            handle: date
+            field:
+              type: date
+              required: true
+              default: now
+              validate:
+                - required
