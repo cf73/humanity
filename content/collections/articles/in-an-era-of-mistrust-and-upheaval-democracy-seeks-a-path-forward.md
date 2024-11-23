@@ -74,6 +74,12 @@ article_text:
       -
         type: text
         text: 'But even after catastrophe, the night sky, the light from distant stars and the vast universe were still there; and so were the awe, the uplift, the quest for universal understanding and the sense of humility they summon from the human spirit.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '(continued in link)'
 collection_type: article
 challenges:
   - democracy
@@ -87,5 +93,5 @@ related_content:
   - 92a684c9-ec52-4217-812f-186112d01ac0
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732369983
+updated_at: 1732370068
 ---
