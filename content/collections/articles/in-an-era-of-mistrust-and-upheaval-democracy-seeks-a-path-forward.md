@@ -112,12 +112,116 @@ article_text:
         text: 'When it came to passion, the speech of Omar van Reenen, the founder of Equal Namibia, an organization that has fought for L.G.B.T.Q. rights in Namibia against retrograde laws and state-sanctioned homophobia, was conspicuous. He was introduced by Ms. Momal-Vanian as the winner of the Kofi Annan NextGen Democracy Prize, which recognizes exceptional leadership among people 18 to 30 in the advancement of democracy.'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: '“If democracy means anything, it must mean freedom for all — freedom to love, to live, to exist without fear,” Mr. van Reenen said, adding that the success of his movement showed “the power of democracy, the power of the people when they believe in democracy and fight for what is right — and fighting for what’s right is always worth it.”'
   -
     type: paragraph
     content:
       -
         type: text
-        text: '(continued in link)'
+        text: 'Mr. van Reenen broadened the significance and scope of his struggle. “Our fight is intertwined with that of the Palestinian people,” he said, because their quest for self-determination echoes “our own histories of colonialism and struggle.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This was a revelatory moment indicating a fundamental shift in the world today. The French have a saying, “l’air du temps,” literally the air of the time, that expresses the change in the atmosphere that accompanies a movement in people’s minds.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Such is this moment. The Age of the West, of Pax Americana, is ending. The Global South, now more often named the Global Majority, is rising. Its hour has come without it being clear what new order will give shape to the world and safeguard as much freedom and openness as possible. For now, there is disorder, and an à la carte world is unpredictable and dangerous.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Moments of transition are always dangerous, and the current moment is no exception. Immigration flows — refugees from war, victims of climate change, people seeking a better life — stoke anxieties from which far-right parties, with their anti-immigrant message, benefit. “I do not want my country to disappear,” Jordan Bardella, the 29-year-old leader of France’s National Rally party and protégé of Marine Le Pen, told the forum. “I want France to be proud of itself.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Among the overarching questions was whether technology can help preserve democracy in a world where politicians talk seriously of the “disappearance” of France.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Technology has always been double-edged, liberating through connectedness and openness, imprisoning through the new means of control and surveillance it affords. Now A.I. can write and speak for us, sift untold volumes of data, surpass human capacity in certain fields. At the same time deepfakes stalk us, truth wobbles still further, and fears of A.I. wresting control of the planet from human beings are not easily assuaged.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The message from the forum was generally that A.I. fears are exaggerated and its capacity to benefit humanity is enormous. In a fascinating presentation, Nils Gilman, the executive vice president of the Berggruen Institute, explained that human avatars might eventually provide more “liquid participation” in democracy through their capacity to vote in real time on any issue.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'He even suggested that one day democracies might get beyond their “anthropocentric” bias by including such sentient creatures as whales in the voting. This would give new meaning to Aristotle’s “political animals.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'I confess that I prefer myself to my avatar, whatever its democratic flexibility, and believe still, in this increasingly transactional world, that there is no substitute in building community for looking your fellow human being in the eye.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'A polling place in Athens during the European elections on June 9.Credit...Aris Messinis/Agence France-Presse — Getty Images'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Without community, democracy is weakened. Democratic institutions are imperfect, but no better vehicle for the expression of the stubborn human quest for dignity, freedom and security has been found. The forum this year celebrated a half-century since Greece overcame the rule of the Colonels and Portugal emerged from dictatorship, both in 1974, followed by Spain with the death of Franco in 1975.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'All three nations, poor then, are now stable democracies and prosperous societies. If anyone questions the genius of the European Union, the great peace magnet and stabilizer of the second half of the 20th century, the democratic stories of Greece, Spain and Portugal these past 50 years should be enough to lay those doubts to rest.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Yes, democracy is resilient, innovative and vulnerable at once. Fritz Stern, the distinguished historian of Germany, once called “the fragility of freedom the great lesson of my life.” Those words should resonate today, for threats to liberty abound. Wandering around the archaeological ruins of Greece, I’ve sometimes wondered: Does the caryatid in her stoic grace even know the burden she carries? We might ask the same of democracy, the miracles it undergirds, and the violence it keeps at bay.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '----'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.nytimes.com/by/roger-cohen'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: 'Roger Cohen'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' is the Paris Bureau chief for The Times, covering France and beyond. He has reported on wars in Lebanon, Bosnia and Ukraine, and between Israel and Gaza, in more than four decades as a journalist. At The Times, he has been a correspondent, foreign editor and columnist. '
 collection_type: article
 challenges:
   - democracy
@@ -131,5 +235,5 @@ related_content:
   - 92a684c9-ec52-4217-812f-186112d01ac0
   - 6a360ee3-019d-4dee-b075-4e5aeacce306
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732370324
+updated_at: 1732370525
 ---
