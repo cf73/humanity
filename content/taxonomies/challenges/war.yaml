@@ -1,7 +1,7 @@
 title: 'Ending War'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1732482247
+updated_by: 5fbf8fa7-799d-4cf1-b2b2-b9737d8f63d5
+updated_at: 1732483166
 blueprint: challenge
 main_image: 0442974c-ced8-4ade-b8e9-7f390e1bdfdd
 intro_text:
@@ -12,7 +12,6 @@ intro_text:
         type: text
         text: 'War has shaped our history, but what if we could rewrite that narrative? We invite you to step beyond battlefields and explore the intricate threads of peacebuilding.'
 featured_content:
-  - f9f4f112-845f-467c-900e-c064fb540f9b
   - 12d25b96-227c-4eb6-9b38-f298b55533be
   - bd8e76be-8769-4deb-94d4-3345b5477b38
   - e1912d5b-c259-42ca-aa14-01faa3424173
