@@ -5,7 +5,7 @@ title: 'Ending War'
 template: challenge
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732395968
+updated_at: 1732486405
 section_builder:
   -
     id: ludi5o3a
@@ -94,7 +94,5 @@ intro_movie: image-1727454854.jpeg
 challenge_intro_text: |-
   So how exactly can humanity at last end the scourge of war? How do we meet such a seemingly impossible challenge, particularly in the face of the cynic, the terrorist and the fascist, who will always be among us? 
 
-  In the words of Nobel Peace Prize recipient, ​​Dag Hammarskjöld, “Our work for peace must begin within the private world of each one of us.” 
-
-  And from there...may it flow into dramatic enlightenment across the continents...fueled by the natural and deep dedication of the vast majority of humankind towards living in peace.
+  In the words of Nobel Peace Prize recipient, ​​Dag Hammarskjöld, “Our work for peace must begin within the private world of each one of us.”
 ---
