@@ -2,7 +2,8 @@
 {{taxonomy:challenges slug:contains="{challengeslug}"}}
 
 <section id="{{title}}" class="pb-[40vh]">
-    <div data-speed="0.77" id="challengeIntroImage{{increment:introImage from='1'}}" style="background-image: url({{main_image:image}});" class="challengeIntroImage w-2/3 mx-auto h-screen flex flex-col justify-end bg-no-repeat bg-center bg-contain">
+    <div data-speed="0.77" id="challengeIntroImage{{increment:introImage from='1'}}" style="background-image: url({{main_image:image}});" class="challengeIntroImage w-2/3 mx-auto h-screen flex flex-col justify-end bg-no-repeat bg-center bg-contain relative">
+        <div class="text-whitetrans -rotate-90 origin-center absolute top-1/2 -left-24">{{main_image:photographer_name}}</div>
     </div>
     <div class="px-16 grid grid-cols-12 z-10 relative">
         <!-- <div class="col-span-12 mb-8">

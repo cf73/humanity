@@ -2,7 +2,7 @@
 id: 04d26642-9471-434a-acd3-1b9979b4ecdf
 blueprint: photography_contribution
 title: 'Sleeping polar bear'
-photographer_name: 'Nima Sarikhani,  British amateur photographer award, 2023'
+photographer_name: 'Nima Sarikhani'
 collection_type: photography-contribution
 image: _132560870_nima-sarikhani.jpg-2.webp
 description:
