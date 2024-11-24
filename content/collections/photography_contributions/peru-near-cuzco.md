@@ -29,7 +29,6 @@ description:
         text: 'It was perfectly suited for our watch words of youth, travel, optimism, and independence. It holds an innately positive feeling about the journey and the moment, with the bonus of music. We happily chose to print it as a fully bled cover, without the usual magazine overlay of text, not wanting to compromise its eloquence.   TB'
 challenges:
   - climate
-  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1719235281
 ---

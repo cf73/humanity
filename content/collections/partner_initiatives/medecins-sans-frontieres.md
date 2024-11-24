@@ -36,7 +36,6 @@ image: image-1710861827.jpeg
 collection_type: partner-initiative
 challenges:
   - war
-  - inspiration
 partner: doctors-without-borders
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1724282909

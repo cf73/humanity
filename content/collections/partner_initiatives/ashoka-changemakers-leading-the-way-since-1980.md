@@ -195,7 +195,6 @@ collection_type: partner-initiative
 challenges:
   - democracy
   - war
-  - inspiration
   - climate
 partner: ashoka-https-www-ashoka-org-en-us
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
