@@ -8,7 +8,6 @@ image: oip.4at6lzuc8-vyd3f0tlutcwhagl.jpeg
 collection_type: quotation
 challenges:
   - climate
-  - inspiration
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
 updated_at: 1727383124
 ---
