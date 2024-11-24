@@ -1,11 +1,25 @@
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732484471
+updated_at: 1732486647
 blueprint: challenge
 main_image: 462fe68a-320f-4d99-97e8-1293f0a169cd
 featured_content:
   - e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
   - bd8e76be-8769-4deb-94d4-3345b5477b38
   - 628a23b7-fe57-4f55-93ae-11bdabccff59
+  - c4e39c58-982d-4ffa-8cd0-16689135f9c7
 title_text: 'Democracy awakened: navigating challenges, igniting change'
+intro_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'So how exactly can humanity at last end the scourge of war? How do we meet such a seemingly impossible challenge, particularly in the face of the cynic, the terrorist and the fascist, who will always be among us? '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In the words of Nobel Peace Prize recipient, ​​Dag Hammarskjöld, “Our work for peace must begin within the private world of each one of us.”'
