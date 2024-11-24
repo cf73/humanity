@@ -1,7 +1,7 @@
 title: 'Ending War'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732486051
+updated_at: 1732486499
 blueprint: challenge
 main_image: 0442974c-ced8-4ade-b8e9-7f390e1bdfdd
 intro_text:
@@ -17,12 +17,6 @@ intro_text:
       -
         type: text
         text: 'In the words of Nobel Peace Prize recipient, ​​Dag Hammarskjöld, “Our work for peace must begin within the private world of each one of us.” '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'And from there...may it flow into dramatic enlightenment across the continents...fueled by the natural and deep dedication of the vast majority of humankind towards living in peace.'
 featured_content:
   - 12d25b96-227c-4eb6-9b38-f298b55533be
   - bd8e76be-8769-4deb-94d4-3345b5477b38
