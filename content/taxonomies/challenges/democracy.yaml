@@ -1,20 +1,11 @@
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1716654928
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1732484471
 blueprint: challenge
 main_image: 462fe68a-320f-4d99-97e8-1293f0a169cd
-intro_text:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'In a world where democratic norms face unprecedented trials, we invite you to peel back the layers, revealing the intricate tapestry of governance, participation, and accountability. '
 featured_content:
   - e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
-  - 237d2365-a6de-41ee-8687-58f80dad4586
   - bd8e76be-8769-4deb-94d4-3345b5477b38
   - 628a23b7-fe57-4f55-93ae-11bdabccff59
-  - 95201ba0-5657-4f50-a730-29f779b608bb
 title_text: 'Democracy awakened: navigating challenges, igniting change'
