@@ -1,7 +1,7 @@
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732496586
+updated_at: 1732536678
 blueprint: challenge
 main_image: 462fe68a-320f-4d99-97e8-1293f0a169cd
 featured_content:
@@ -10,3 +10,16 @@ featured_content:
   - 628a23b7-fe57-4f55-93ae-11bdabccff59
   - c4e39c58-982d-4ffa-8cd0-16689135f9c7
 title_text: 'Democracy awakened: navigating challenges, igniting change'
+intro_text:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Democracy is more of a customizing process than a specific package; there is no secret sauce that is best for every country. It  has its faults but, yes, as the saying goes, it is far better than whatever system is second best. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'So THI is gathering on this site dozens of voices from across the continents, men and women keenly tuned to what each of us can do to keep the promise of peaceful and successful government by the people, of the people and for the people  --  no matter how it is customized for each of our countries  --   alive and well on Earth.  '
