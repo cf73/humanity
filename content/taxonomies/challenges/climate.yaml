@@ -1,7 +1,7 @@
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732484269
+updated_at: 1732562296
 blueprint: challenge
 main_image: 04d26642-9471-434a-acd3-1b9979b4ecdf
 intro_text:
@@ -10,11 +10,12 @@ intro_text:
     content:
       -
         type: text
-        text: 'Earth’s climate is in flux. As global temperatures rise, weather patterns shift, and ecosystems respond, we find ourselves at a pivotal moment. We invite you to explore the science, impact, and urgency of climate change.'
+        text: 'Earth’s climate is in flux. As global temperatures rise, weather patterns shift, and ecosystems respond, we find ourselves at a pivotal moment. THI invites you to explore the science, impact, and urgency of climate change.'
 featured_content:
   - bf9f3139-9543-45e3-a174-e1910cff4e4f
   - 7a826137-26f5-4603-b372-092516aed2ab
   - 263accbc-caa0-48eb-964e-dccc457c29cc
   - 20f17fae-af70-4c0a-b474-b9a75f95c1b8
   - 239a38c6-1348-452c-b8d1-8136b4dd3c89
+  - 9432e426-3382-4116-bcbe-27d3f29aad20
 title_text: 'Climate-change insights from science, the arts, and policy'
