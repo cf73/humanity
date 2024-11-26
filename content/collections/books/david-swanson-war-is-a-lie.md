@@ -2,7 +2,7 @@
 id: 8f635dab-0a70-4f1f-99ac-0f4fe4ab9440
 blueprint: book
 title: 'War is a Lie  (2010)'
-image: image-1719970796.jpeg
+image: 51tukr1w9bl._ac_uy436_ql65_.jpg
 link: 'https://www.amazon.com/s?k=War+is+a+Lie&i=digital-text&crid=26SCI2VRS53Z3&sprefix=war+is+a+lie%2Cdigital-text%2C115&ref=nb_sb_noss_2'
 description:
   -
@@ -66,7 +66,7 @@ related_content:
   - 9439b4e3-6212-403d-8003-fcd1b7d0e291
   - ba850df4-c102-43cf-a7f7-0c66ed1f60d7
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631563
+updated_at: 1732653931
 date_published: '2010-01-01'
 book_author: 'David Swanson'
 sections: peace-gatherings
