@@ -1,7 +1,7 @@
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732565187
+updated_at: 1732635424
 blueprint: challenge
 main_image: 04d26642-9471-434a-acd3-1b9979b4ecdf
 intro_text:
@@ -16,13 +16,13 @@ intro_text:
     content:
       -
         type: text
-        text: "Most of us are working hard at doing just that  --  trying to understand the reasons for Earth's extreme temperatures, massive floods and cataclysmic storms, taking constructive action that might help save the place. "
+        text: "Most of us are working hard at doing just that  --  trying to understand the reasons for Earth's extreme temperatures, massive floods and cataclysmic storms, taking constructive actions to towards saving the place. "
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'THI has collected dozens of editorial pieces  --  essays, videos, poetry, music, speeches  --  to help enlighten us on the most compelling and effective solutions. '
+        text: 'To help enlighten us on solutions, THI has collected a hundred precise, inspiring, and accessible editorial pieces from across the continents and the last two centuries   --  essays, videos, poetry, music, speeches. We promise to compliment them, as our resources expand, with the most current comment and insight.'
 featured_content:
   - bf9f3139-9543-45e3-a174-e1910cff4e4f
   - 7a826137-26f5-4603-b372-092516aed2ab
