@@ -46,6 +46,12 @@ tabs:
               validate:
                 - required
           -
+            handle: video_id
+            field:
+              type: textarea
+              display: 'Video ID'
+              instructions: 'Grab the long string of random letters and numbers after this in the YouTube embed code: src="https://www.youtube.com/embed/[grab this bit and paste it here]"'
+          -
             handle: url_to_watch
             field:
               type: link
