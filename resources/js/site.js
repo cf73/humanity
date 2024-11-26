@@ -6,3 +6,6 @@ import {
   } from "tw-elements";
   
   initTWE({ Collapse });
+
+  import Swup from 'swup';
+const swup = new Swup();

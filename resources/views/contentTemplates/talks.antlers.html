@@ -2,11 +2,9 @@
 
 {{partial:globals/breadcrumb-tags}}
 
-<div class="container mx-auto flex flex-col items-center space-y-8 pt-48 relative">
-    <div class="text-center flex flex-col items-center">
-        <h1>{{title}}</h1>
-        <div class="textMainSans">{{description}}</div>
-    </div>
+<div class="container mx-auto flex flex-col items-center space-y-8 relative">
+    {{partial:contentTemplates/contentHeader}}
+
 
     {{if video_id}}
     <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
