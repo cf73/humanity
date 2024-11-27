@@ -229,37 +229,6 @@ article_text:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: NEWSLETTER
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://subscribe.yale.edu/browse?search=yse%203'
-              rel: null
-              target: null
-              title: null
-          -
-            type: bold
-        text: 'Subscribe to “YSE 3”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Biweekly, we highlight three news and research stories about the work we’re doing at Yale School of the Environment.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'During a session on building trusted partnerships, Denae King, associate director of the '
       -
         type: text
@@ -322,5 +291,5 @@ related_content:
   - 74933fc9-1205-456b-b9c3-562b941d6a46
   - 263accbc-caa0-48eb-964e-dccc457c29cc
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732727071
+updated_at: 1732727211
 ---
