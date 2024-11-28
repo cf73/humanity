@@ -1,7 +1,7 @@
 title: 'Ending War'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732805280
+updated_at: 1732810304
 blueprint: challenge
 main_image: 0442974c-ced8-4ade-b8e9-7f390e1bdfdd
 intro_text:
@@ -10,7 +10,7 @@ intro_text:
     content:
       -
         type: text
-        text: 'So how exactly can humanity at last end the scourge of war? How do we meet such a seemingly impossible challenge, particularly in the face of the cynic, the terrorist and the fascist, who will always be among us? '
+        text: 'So how exactly can humanity end the scourge of war? How do we meet such a seemingly impossible challenge, particularly when the cynic, the terrorist and the fascist will be always among us? '
   -
     type: paragraph
     content:
@@ -22,13 +22,25 @@ intro_text:
     content:
       -
         type: text
-        text: 'THI has collected a plethora of material from across the continents and the ages to help us become the generations that ended war. '
+        text: 'So THI has collected a century of voices from across the continents, offering insight and inspiration to help us become '
       -
         type: text
         marks:
           -
             type: italic
-        text: ' Imagine!'
+        text: 'the generations that ended war.'
+      -
+        type: text
+        text: ' '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: ' '
+      -
+        type: text
+        text: Imagine!
 featured_content:
   - 12d25b96-227c-4eb6-9b38-f298b55533be
   - 8f635dab-0a70-4f1f-99ac-0f4fe4ab9440
