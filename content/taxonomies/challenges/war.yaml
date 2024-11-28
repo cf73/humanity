@@ -1,7 +1,7 @@
 title: 'Ending War'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732810304
+updated_at: 1732811431
 blueprint: challenge
 main_image: 0442974c-ced8-4ade-b8e9-7f390e1bdfdd
 intro_text:
@@ -28,7 +28,7 @@ intro_text:
         marks:
           -
             type: italic
-        text: 'the generations that ended war.'
+        text: 'the generation that ended war.'
       -
         type: text
         text: ' '
@@ -38,9 +38,6 @@ intro_text:
           -
             type: italic
         text: ' '
-      -
-        type: text
-        text: Imagine!
 featured_content:
   - 12d25b96-227c-4eb6-9b38-f298b55533be
   - 8f635dab-0a70-4f1f-99ac-0f4fe4ab9440
