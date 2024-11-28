@@ -18,7 +18,7 @@ description:
         text: '"Linus Pauling'
       -
         type: text
-        text: ' (born February 28, 1901, '
+        text: ' (born February 1901, '
       -
         type: text
         marks:
@@ -46,7 +46,7 @@ description:
         text: Oregon
       -
         type: text
-        text: ', U.S.—died August 19, 1994, '
+        text: ', U.S.—died August 1994, '
       -
         type: text
         marks:
@@ -108,7 +108,7 @@ description:
     content:
       -
         type: text
-        text: "Official biographies offer facts and anecdotes, rarely touching someone's soul  --  in the case of Linus Pauling, his incredible contributions to humanity. But you can discover much of his magnificent life and attitude in this video..."
+        text: 'Official biographies offer facts and anecdotes, rarely touching someone''s soul  --  in the case of Linus Pauling, his incredible contributions to humanity. But you can discover much of his world-changing life and attitude in this video..At 3:00 minutes, he states:   "...and I realized that the time has come to give up war."'
 collection_type: documentaries
 challenges:
   - war
@@ -123,5 +123,5 @@ related_content:
   - 82e62d78-848e-49ee-bf84-bfdcc9af2150
   - a9ca8569-a449-4a97-a52a-836daa2327b5
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722518744
+updated_at: 1732818918
 ---
