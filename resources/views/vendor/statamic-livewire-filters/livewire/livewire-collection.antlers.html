@@ -1,7 +1,8 @@
 <div class="px-16">
     <div>
 
-        {{ entries as="results" }}
+        {{taxonomy:challenges}}
+        {{ entries collection_type:not="quotation" as="results" }}
         <div id="challengeContent" wire:key="{{ id }}">
             {{ if no_results }}
                 <div class="p-8 rounded-lg bg-gray-100 text-center">
@@ -16,6 +17,7 @@
             {{ /if }}
         </div>
         {{ /entries }}
+        {{/taxonomy:challenges}}
     </div>
    
     <div class="mt-8 flex justify-center">
