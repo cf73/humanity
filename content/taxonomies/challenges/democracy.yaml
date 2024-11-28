@@ -1,9 +1,9 @@
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732811642
+updated_at: 1732819219
 blueprint: challenge
-main_image: 462fe68a-320f-4d99-97e8-1293f0a169cd
+main_image: a00717ba-5120-46eb-b2eb-8f374aee92ed
 featured_content:
   - e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
   - bd8e76be-8769-4deb-94d4-3345b5477b38
@@ -25,7 +25,7 @@ intro_text:
     content:
       -
         type: text
-        text: 'THI is gathering dozens of compelling voices from across the continents, men and women keenly tuned to how each of us might help keep alive the promise and reality of peaceful and successful governance '
+        text: 'THI is gathering dozens of compelling voices from across the continents, men and women keenly tuned to how each of us might help keep alive the promise and reality of governance '
       -
         type: text
         marks:
