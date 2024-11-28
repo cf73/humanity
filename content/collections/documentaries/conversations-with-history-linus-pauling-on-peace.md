@@ -108,7 +108,7 @@ description:
     content:
       -
         type: text
-        text: 'Official biographies offer facts and anecdotes, rarely touching someone''s soul  --  in the case of Linus Pauling, his incredible contributions to humanity. But you can discover much of his world-changing life and attitude in this video..At 3:00 minutes, he states:   "...and I realized that the time has come to give up war."'
+        text: 'Official biographies offer facts and anecdotes, rarely touching someone''s soul  --  in the case of Linus Pauling, his incredible contributions to humanity. But you can discover much of his world-changing life and attitude in this video..At 3:00 minutes, he states his agreement with Albert Einstein:  "...and I realized then that the time has come to give up war."'
 collection_type: documentaries
 challenges:
   - war
@@ -123,5 +123,5 @@ related_content:
   - 82e62d78-848e-49ee-bf84-bfdcc9af2150
   - a9ca8569-a449-4a97-a52a-836daa2327b5
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732818918
+updated_at: 1732819471
 ---
