@@ -3,15 +3,15 @@ id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
 template: donate
 title: 'Donate to support our work'
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1732034960
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1732896467
 intro:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Humanity Initiative is dedicated to systemic and enduring positive change. As 335 voices from across the ages   --  writers, educators, artists, poets, musicians, actors and politicians  --  express here in so many compelling ways, '
+        text: 'The Humanity Initiative is dedicated to systemic and enduring positive change. As 334 voices from across the ages   --  writers, educators, artists, poets, musicians, actors and politicians  --  express here in so many compelling ways, '
       -
         type: text
         marks:
@@ -52,6 +52,6 @@ intro:
         marks:
           -
             type: italic
-        text: 'THI is a 501(c)(3), so all donations are tax deductible in the United States..'
+        text: 'The Humanity Initiative is a 501(c)(3), so all donations are tax deductible in the United States..'
 main_image: '-humanity-first-cover.jpeg'
 ---
