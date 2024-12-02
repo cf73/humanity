@@ -1,7 +1,7 @@
 title: 'Solving Climate Change'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1733158016
+updated_at: 1733158131
 blueprint: challenge
 main_image: 04d26642-9471-434a-acd3-1b9979b4ecdf
 intro_text:
@@ -10,13 +10,13 @@ intro_text:
     content:
       -
         type: text
-        text: "One of the most powerful introductions to climate change is David Attenborough's video below. It is as clear about the challenges of Earth's extreme temperatures, massive floods and cataclysmic storms as it is about the many solutions humanity can implement, working together in full cognition of the science, "
+        text: "One of the most powerful introductions to climate change is David Attenborough's video, linked below. It is as clear about the challenges of Earth's extreme temperatures, massive floods and cataclysmic storms as it is about the many solutions humanity can implement, working together in full cognition of the science, "
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'To help enlighten us on those solutions, THI has collected dozens of inspiring editorial pieces from across the continents  --  essays, videos, poetry, music, speeches. We will continue to complement them, as our resources expand, with the most current science and wisest and most comprehensive plans of action, such as Project Drawdown.'
+        text: 'To help enlighten us on those solutions, THI has collected dozens of inspiring editorial pieces from across the continents  --  essays, videos, poetry, music, speeches. We will continue to complement them, as our resources expand, with the most current science and the most persuasive plans of action, such as Project Drawdown.'
 featured_content:
   - bf9f3139-9543-45e3-a174-e1910cff4e4f
   - 7a826137-26f5-4603-b372-092516aed2ab
