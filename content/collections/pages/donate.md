@@ -4,29 +4,20 @@ blueprint: simple_page
 template: donate
 title: 'Donate to support our work'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1733590122
+updated_at: 1733590545
 intro:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Humanity Initiative is dedicated to systemic and enduring positive change. As over 300 writers, educators, artists, poets, musicians, actors and politicians express here in so many compelling ways'
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: ', '
-      -
-        type: text
-        text: "each of us must act and we must do so\_now."
+        text: 'The Humanity Initiative is dedicated to systemic and enduring positive change. Over 300 writers, educators, artists, poets, musicians, actors and politicians within this site urge us to act now.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Our goal is to bring this message to every community and village across the continents, not only with this site, but also through peace gatherings, partnerships, and social media, engendering a planet-wide enlightenment of understanding and action.'
+        text: "THI's goal is to bring this message to every community and village across the continents, through this site as well as peace gatherings, partnerships, and social media, engendering a planet-wide enlightenment of understanding and action."
   -
     type: paragraph
     content:
