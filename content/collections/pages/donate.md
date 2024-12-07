@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Donate to support our work'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1733590006
+updated_at: 1733590122
 intro:
   -
     type: paragraph
@@ -49,7 +49,10 @@ intro:
     content:
       -
         type: text
-        text: 'Thank you for your kind donations! They help expand our outreach in many ways. '
+        text: 'Your generosity is deeply appreciated. It helps to expand our outreach in many ways. '
+  -
+    type: paragraph
+    content:
       -
         type: text
         marks:
