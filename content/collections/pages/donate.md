@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Donate to support our work'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1733590594
+updated_at: 1733590760
 intro:
   -
     type: paragraph
@@ -17,7 +17,7 @@ intro:
     content:
       -
         type: text
-        text: "THI's goal is to bring this message to every community and village across the continents, through this site as well as peace gatherings, partnerships, and social media, engendering a planet-wide enlightenment of understanding and action."
+        text: "THI's goal is to bring this message to every community and village across the continents, through these pages as well as peace gatherings, partnerships, and social media, engendering a planet-wide enlightenment of understanding and action."
   -
     type: paragraph
     content:
