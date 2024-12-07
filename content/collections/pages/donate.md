@@ -4,7 +4,7 @@ blueprint: simple_page
 template: donate
 title: 'Donate to support our work'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1733589961
+updated_at: 1733590006
 intro:
   -
     type: paragraph
