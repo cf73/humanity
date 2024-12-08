@@ -2,7 +2,7 @@
 id: c5ffbbf5-0949-437d-a936-bb3e9540bf9a
 blueprint: photography_contribution
 title: "Peruvian boy, near Cuzco, 1970's"
-photographer_name: 'Werner Bischof, Magnum Photos   (premiere issue of our journal, humanity)'
+photographer_name: 'Werner Bischof, Magnum Photos   (premier issue of our journal, humanity)'
 image: h91_01-1709685784.jpeg
 collection_type: photography-contribution
 description:
@@ -30,5 +30,5 @@ description:
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1733685080
+updated_at: 1733685176
 ---
