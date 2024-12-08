@@ -57,30 +57,19 @@ article_text:
     content:
       -
         type: text
-        text: '“Day by day I am approaching the goal which I apprehend but cannot describe,” '
-      -
-        type: text
         marks:
           -
-            type: bold
-        text: 'Ludwig van Beethoven'
+            type: italic
+        text: '“Day by day I am approaching the goal which I apprehend but cannot describe,”'
       -
         type: text
-        text: ' (December 16, 1770–March 26, 1827) wrote to his boyhood friend, '
+        text: ' Ludwig van Beethoven (December 16, 1770–March 26, 1827) wrote to his boyhood friend, rallying his own resilience as he began losing his hearing. '
+  -
+    type: paragraph
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.themarginalian.org/2017/09/19/beethoven-take-fate-by-the-throat/'
-              rel: null
-              target: null
-              title: null
-        text: 'rallying his own resilience'
-      -
-        type: text
-        text: ' as he began losing his hearing. A year later, shortly after completing his '
+        text: 'A year later, shortly after completing his '
       -
         type: text
         marks:
@@ -89,71 +78,106 @@ article_text:
         text: 'Second Symphony'
       -
         type: text
-        text: ', he sent his brothers a stunning letter about '
+        text: ', he sent his brothers a stunning letter about the joy of suffering overcome, in which he resolved: "'
       -
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'https://www.themarginalian.org/2017/02/08/beethoven-romain-rolland-letters/'
-              rel: null
-              target: null
-              title: null
-        text: 'the joy of suffering overcome'
-      -
-        type: text
-        text: ', in which he resolved:'
+            type: italic
+        text: 'Ah! how could I possibly quit the world before bringing forth all that I felt it was my vocation to produce?"'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Ah! how could I possibly quit the world before bringing forth all that I felt it was my vocation to produce?'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'That year, he began — though he did not yet know it, as we never do — the long gestation of what would become not only his greatest creative and spiritual triumph, not only a turning point in the history of music that revolutionized the symphony and planted the seed of the pop song, but an eternal masterwork of the supreme human art: making meaning out of chaos, beauty out of sorrow.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Across the epochs, “Ode to Joy” rises vast and eternal, transcending all of spacetime and at the same time compacting it into something so intimate, so immediate, that nothing seems to exist outside this singularity of all-pervading possibility. Inside its total drama, a total tranquility; inside its revolt, an oasis of refuge. The story of its making is as vitalizing as the masterpiece itself — or, rather, its story is the very reason for its vitality.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'As a teenager, while auditing Kant’s lectures at the University of Bonn, Beethoven had fallen under the spell of transcendental idealism and the ideas of the Enlightenment — ideas permeating the poetry of Friedrich Schiller. A volume of it became the young Beethoven’s most cherished book and so began the dream of setting it to music. (There is singular magic in '
+        text: 'That year, he began  -  though he did not yet know it, as we never do  -  the long gestation of what would become not only his greatest creative and spiritual triumph, not only a turning point in the history of music that revolutionized the symphony and planted the seed of the pop song, but '
       -
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'https://vimeo.com/673019873'
-              rel: noopener
-              target: _blank
-              title: null
-        text: 'a timeless poem set to music'
+            type: bold
+        text: 'an eternal masterwork of the supreme human art: making meaning out of chaos, beauty out of sorrow'
       -
         type: text
-        text: .)
+        text: .
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'One particular poem especially entranced him: Written when Beethoven was fifteen and the electric spirit of revolution saturated Europe’s atmosphere, Schiller’s “Ode to Joy” was at heart an ode to freedom — a blazing manifesto for the Enlightenment ethos that if freedom, justice, and human happiness are placed at the center of life and made its primary devotion, politically and personally, then peace and kindness would envelop humankind as an inevitable consequence. A “kiss for the whole world,” Schiller had written, and the teenage Beethoven longed to be lips of the possible.'
+        text: 'Across the epochs, “'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Ode to Joy'
+      -
+        type: text
+        text: '” rises vast and eternal, transcending all of spacetime and at the same time compacting it into something so intimate, so immediate, that nothing seems to exist outside this singularity of all-pervading possibility. Inside its total drama, a total tranquility; inside its revolt, an oasis of refuge. The story of its making is as vitalizing as the masterpiece itself  -  or, rather, its story is the very reason for its vitality.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This Elysian dream ended not even a decade later as the Reign of Terror dropped the blade of the guillotine upon Marie Antoinette, then upon ten thousand other heads and the dreams they carried. Schiller died considering his “Ode to Joy” a failure — an idealist’s fantasy unmoored from reality, a work of art that might have been of service perhaps for him, perhaps for a handful of others, “but not for the world.”'
+        text: 'As a teenager, while auditing Kant’s lectures at the University of Bonn, Beethoven had fallen under the spell of transcendental idealism and the ideas of the Enlightenment  -  ideas permeating the poetry of Friedrich Schiller. A volume of it became the young Beethoven’s most cherished book and so began the dream of setting it to music. (There is singular magic in a timeless poem set to music.)'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'One particular poem especially entranced him: Written when Beethoven was fifteen and the electric spirit of revolution saturated Europe’s atmosphere, Schiller’s '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '“Ode to Joy”'
+      -
+        type: text
+        text: ' was at heart an ode to freedom  -  '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'a blazing manifesto for the Enlightenment ethos that if freedom, justice, and human happiness are placed at the center of life and made its primary devotion, politically and personally, then peace and kindness would envelop humankind as an inevitable consequence'
+      -
+        type: text
+        text: '. A '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '“kiss for the whole world,”'
+      -
+        type: text
+        text: ' Schiller had written, and the teenage Beethoven longed to be lips of the possible.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This Elysian dream ended not even a decade later as the Reign of Terror dropped the blade of the guillotine upon Marie Antoinette, then upon ten thousand other heads and the dreams they carried. Schiller died considering his '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '“Ode to Joy'
+      -
+        type: text
+        text: '” a failure  -  an idealist’s fantasy unmoored from reality, a work of art that might have been of service perhaps for him, perhaps for a handful of others, “'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'but not for the world.'
+      -
+        type: text
+        text: ”
   -
     type: paragraph
     content:
@@ -574,7 +598,7 @@ related_content:
   - f0946d8d-1bf3-476d-8b40-f1f2b7db91c3
   - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1733685632
+updated_at: 1733686196
 articleauthor: 'Maria Popova'
 sections: music
 ---
