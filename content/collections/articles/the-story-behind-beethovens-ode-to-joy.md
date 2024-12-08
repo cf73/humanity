@@ -559,7 +559,7 @@ article_text:
       -
         type: text
         text: 'I ride into the spring night, singing. This, in the end, might be the truest translation of “joy” — this ecstatic fusion of presence and possibility.'
-collection_type: article
+collection_type: music
 challenges:
   - war
 related_partner_initiatives:
@@ -574,7 +574,7 @@ related_content:
   - f0946d8d-1bf3-476d-8b40-f1f2b7db91c3
   - 10ee1f27-171d-4e41-8dbb-16f4c788d07a
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1733685563
+updated_at: 1733685632
 articleauthor: 'Maria Popova'
 sections: music
 ---
