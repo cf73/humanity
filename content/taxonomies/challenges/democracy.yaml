@@ -1,7 +1,7 @@
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1733881822
+updated_at: 1733882561
 blueprint: challenge
 main_image: 2801ba53-6bd8-43ea-97c0-6d8dbdee6a94
 featured_content:
@@ -19,16 +19,16 @@ intro_text:
     content:
       -
         type: text
-        text: 'Democracy is a customizing process, not a standard package. There is no secret sauce best for every country. As Churchill observed, "Democracy is the worst form of government, except for all the others that have been tried from time to time."  '
+        text: 'Democracy is a customizing process, not the adoption of a standard package. There is no secret sauce best for every country. As Churchill observed, "Democracy is the worst form of government, except for all the others that have been tried from time to time."  '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'THI is gathering dozens of compelling voices from across the continents, men and women keenly tuned to how each of us might help keep alive the promise and reality of governance '
+        text: 'THI is gathering dozens of compelling voices from across the continents, people keenly tuned to how each of us can help preserve the promise and reality of government '
       -
         type: text
         marks:
           -
             type: italic
-        text: 'by the people, of the people and for the people. '
+        text: 'by the people, of the people, and for the people. '
