@@ -1,7 +1,7 @@
 title: 'Ending War'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1733883350
+updated_at: 1733883445
 blueprint: challenge
 main_image: 0442974c-ced8-4ade-b8e9-7f390e1bdfdd
 intro_text:
@@ -40,10 +40,10 @@ intro_text:
         text: ' '
 featured_content:
   - b8615317-8618-4593-a928-9bc0c2a2a7bf
-  - 8f635dab-0a70-4f1f-99ac-0f4fe4ab9440
   - ad05cf44-29ca-4bbc-9a48-550290308af5
   - 12d25b96-227c-4eb6-9b38-f298b55533be
   - 91d3f85d-1560-4132-940f-029c9e3fabfe
-  - c394b258-cc13-4d26-bf20-cee3ce1436a3
+  - 8f635dab-0a70-4f1f-99ac-0f4fe4ab9440
   - e1912d5b-c259-42ca-aa14-01faa3424173
+  - c394b258-cc13-4d26-bf20-cee3ce1436a3
 title_text: 'Exploring humanity’s quest for lasting peace'
