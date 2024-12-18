@@ -4,7 +4,7 @@ blueprint: page
 title: 'About The Humanity Initiative'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1734533066
+updated_at: 1734533077
 intro_movie: first-h-cover-jpeg-1711920339.jpeg
 challenge_intro_text: |-
   The Humanity Initiative was founded in 1984 by Tony Balis, with the mission of "...encouraging people to understand this planet as our common home." 
