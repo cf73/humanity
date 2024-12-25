@@ -1,9 +1,11 @@
 ---
-id: 815f9ddb-8fb2-425d-a7a8-15ec33a0d861
-blueprint: articles
-title: '198 non-violent methods for ending war'
-image: image-1713472601.png
-link: 'https://www.aeinstein.org/198-methods-of-nonviolent-action'
+id: c394b258-cc13-4d26-bf20-cee3ce1436a3
+blueprint: book
+title: '198 Methods of Nonviolent Protest and Persuasion'
+book_author: 'From this book by Dr. Gene Sharp:  The Politics of Nonviolent Action (3 volumes)'
+date_published: '1973-05-15'
+link: 'https://www.amazon.com/Politics-Nonviolent-Action-power-Struggle/dp/B000GRJNN2/ref=sr_1_1?crid=24ZVC04J5D20Q&dib=eyJ2IjoiMSJ9.8ZF5Zbc2nHPeRhAoW9DZYnNZjM6dmnvQIUgopg7D3FJhvimgvy0xHRAV0to3N5cUAh2CZLqEkYZbra-bl7DUKYMdIeDhCsE1N7hCbemB8WNNlNEAYRi7MPEJ0ro0oFpwPQVJmJNVlE93LWlfVixsr-kcJnPVhcxNT_c6_QHPLQbIYMBAmxbOm837bhVOP5zX821n7YyY4Y4QvEaNwUEON5cdqmnE-Micf79xf3yN1Og.pXhcn8hlPIz_6c6aattLFdnqFkPQp_xwwEGCEsB4BZ4&dib_tag=se&keywords=The+Politics+of+Non-violent+action&qid=1732641058&sprefix=the+politics+of+non-violent+action%2Caps%2C123&sr=8-1'
+image: 415614aue0l.jpg
 description:
   -
     type: paragraph
@@ -34,13 +36,6 @@ description:
       -
         type: text
         text: .
-  -
-    type: paragraph
-challenges:
-  - war
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719862232
-article_text:
   -
     type: paragraph
     content:
@@ -1366,69 +1361,57 @@ article_text:
         type: text
         text: 'Access Resource'
   -
-    type: bulletList
+    type: paragraph
     content:
       -
-        type: listItem
-        content:
+        type: text
+        marks:
           -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.aeinstein.org/198-methods-of-nonviolent-action'
-                      rel: null
-                      target: null
-                      title: null
-                text: '198 Methods of Nonviolent Action, Albert Einstein Institute (Online)'
+            type: link
+            attrs:
+              href: 'https://www.aeinstein.org/198-methods-of-nonviolent-action'
+              rel: null
+              target: null
+              title: null
+        text: '198 Methods of Nonviolent Action, Albert Einstein Institute (Online)'
+  -
+    type: paragraph
+    content:
       -
-        type: listItem
-        content:
+        type: text
+        marks:
           -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.brandeis.edu/peace-conflict/pdfs/198-methods-non-violent-action.pdf'
-                      rel: null
-                      target: null
-                      title: null
-                text: '198 Methods of Nonviolent Action, Albert Einstein Institute (PDF)'
+            type: link
+            attrs:
+              href: 'https://www.brandeis.edu/peace-conflict/pdfs/198-methods-non-violent-action.pdf'
+              rel: null
+              target: null
+              title: null
+        text: '198 Methods of Nonviolent Action, Albert Einstein Institute (PDF)'
+  -
+    type: paragraph
+    content:
       -
-        type: listItem
-        content:
+        type: text
+        marks:
           -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.facebook.com/watch/live/?ref=watch_permalink&v=440807120131784'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'A teach in reading of 198 Methods of Nonviolent Action, Albert Einstein Institute by Learn as Protest in the Trump Tower, New York (Video – 18:03 mins)'
-              -
-                type: hardBreak
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://www.facebook.com/watch/live/?ref=watch_permalink&v=440807120131784'
-                      rel: null
-                      target: null
-                      title: null
+            type: link
+            attrs:
+              href: 'https://www.facebook.com/watch/live/?ref=watch_permalink&v=440807120131784'
+              rel: null
+              target: null
+              title: null
+        text: 'A teach in reading of 198 Methods of Nonviolent Action, Albert Einstein Institute by Learn as Protest in the Trump Tower, New York (Video – 18:03 mins)'
+      -
+        type: hardBreak
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.facebook.com/watch/live/?ref=watch_permalink&v=440807120131784'
+              rel: null
+              target: null
+              title: null
   -
     type: paragraph
     content:
@@ -1436,35 +1419,29 @@ article_text:
         type: text
         text: 'Training Resource'
   -
-    type: bulletList
+    type: paragraph
     content:
       -
-        type: listItem
-        content:
+        type: text
+        marks:
           -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://gandhiinstitute.org/wp-content/uploads/2019/11/198-Methods-Activity.pdf'
-                      rel: null
-                      target: null
-                      title: null
-                text: "198 Methods of Nonviolent Action (Handout), K Gandhi Institute for Nonviolence and Albert Einstein Institute (PDF – 66 pgs)\_"
-              -
-                type: hardBreak
-              -
-                type: text
-                text: 'Inspired by Gene Sharp’s 198 Methods of Nonviolent Action, this dynamic resource provides the framework for facilitators, educators, and community members to lead an experiential activity that helps participants get to know one another, learn about different nonviolent strategies, and connect nonviolence theory to real world examples.'
-              -
-                type: hardBreak
-              -
-                type: text
-                text: 'Duration: 20-120 minutes Group Size: 2-200'
+            type: link
+            attrs:
+              href: 'https://gandhiinstitute.org/wp-content/uploads/2019/11/198-Methods-Activity.pdf'
+              rel: null
+              target: null
+              title: null
+        text: "198 Methods of Nonviolent Action (Handout), K Gandhi Institute for Nonviolence and Albert Einstein Institute (PDF – 66 pgs)\_"
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Inspired by Gene Sharp’s 198 Methods of Nonviolent Action, this dynamic resource provides the framework for facilitators, educators, and community members to lead an experiential activity that helps participants get to know one another, learn about different nonviolent strategies, and connect nonviolence theory to real world examples.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Duration: 20-120 minutes Group Size: 2-200'
   -
     type: paragraph
     content:
@@ -1472,111 +1449,47 @@ article_text:
         type: text
         text: 'Examples of the 198 Methods'
   -
-    type: bulletList
+    type: paragraph
     content:
       -
-        type: listItem
-        content:
+        type: text
+        marks:
           -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://nvdatabase.swarthmore.edu/browse-methods'
-                      rel: null
-                      target: null
-                      title: null
-                text: 'Global Nonviolent Action Database, Swarthmore College'
+            type: link
+            attrs:
+              href: 'https://nvdatabase.swarthmore.edu/browse-methods'
+              rel: null
+              target: null
+              title: null
+        text: 'Global Nonviolent Action Database, Swarthmore College'
+  -
+    type: paragraph
+    content:
       -
-        type: listItem
-        content:
+        type: text
+        marks:
           -
-            type: paragraph
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://gandhiinstitute.org/wp-content/uploads/2019/11/198-Methods-Activity.pdf'
-                      rel: null
-                      target: null
-                      title: null
-                text: "198 Methods of Nonviolent Action (Handout), K Gandhi Institute for Nonviolence and Albert Einstein Institute (PDF – 66 pgs)\_"
-collection_type: article
-related_partner_initiatives:
-  - 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
-related_content:
-  - e4885985-3569-4f65-9d13-50b4a8d0f22b
-  - fab94cb3-0c49-48a3-af62-e8ea16f88bc3
-  - 1e7b9b6e-6850-475c-8434-713db2bcd9e0
-  - 8f01cbfc-48f8-4156-acd7-03bef3acce9f
-  - 271f56f5-33fe-49fb-ac7c-dd6826b65bd7
-date_published: '1973-05-15'
-publication: 'The Politics of Nonviolent Action (3 volumes)'
-articleauthor: 'Dr. Gene Sharp'
+            type: link
+            attrs:
+              href: 'https://gandhiinstitute.org/wp-content/uploads/2019/11/198-Methods-Activity.pdf'
+              rel: null
+              target: null
+              title: null
+        text: "198 Methods of Nonviolent Action (Handout), K Gandhi Institute for Nonviolence and Albert Einstein Institute (PDF – 66 pgs)\_"
+collection_type: book
+challenges:
+  - war
 sections: peace-gatherings
-content:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'As you will see below, they are classified into three broad categories: nonviolent protest and persuasion, noncooperation (social, economic and political), and nonviolent intervention. A description and historical examples of each can be found in volume two of '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action'
-              rel: null
-              target: null
-              title: null
-          -
-            type: italic
-        text: 'The Politics of Nonviolent Action'
-      -
-        type: text
-        text: " by Dr. Sharp. In 2012, he was a recipient of the\_"
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://en.wikipedia.org/wiki/Right_Livelihood_Award'
-              rel: null
-              target: null
-              title: null
-        text: 'Right Livelihood Award'
-      -
-        type: text
-        text: "\_for "
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: '“developing and articulating the core principles and strategies of nonviolent resistance and supporting their practical implementation in conflict areas around the world”'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Undoubtedly, a large number of additional methods have already been used but have not been classified. Not least, a multitude of methods will be invented in the future that arise from new technologies and the determined creativity of younger generations. Over to '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: you
-      -
-        type: text
-        text: '!'
+related_partner_initiatives:
+  - bd1d0db4-a43f-4e72-a31d-664b5cce943f
+  - 55dbf414-ca45-4a7e-88d9-f9ab83fd2c76
+  - 391fbd26-51ec-4caf-ab95-358cfa395d0b
+  - 8ba26bc5-eaa5-4364-9d6b-3f02ca3158f9
+related_content:
+  - db0847a6-e419-402e-870f-2c2523cffef6
+  - 5b23ff39-cc44-49fa-9ced-97b78abc74b8
+  - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
+  - 8333672c-5b64-42e7-8a5d-6e59fdfd80a8
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1732641124
 ---

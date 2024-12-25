@@ -1,7 +1,7 @@
 title: 'Ending War'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 5fbf8fa7-799d-4cf1-b2b2-b9737d8f63d5
-updated_at: 1732483166
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1732657047
 blueprint: challenge
 main_image: 0442974c-ced8-4ade-b8e9-7f390e1bdfdd
 intro_text:
@@ -10,9 +10,31 @@ intro_text:
     content:
       -
         type: text
-        text: 'War has shaped our history, but what if we could rewrite that narrative? We invite you to step beyond battlefields and explore the intricate threads of peacebuilding.'
+        text: 'So how exactly can humanity at last end the scourge of war? How do we meet such a seemingly impossible challenge, particularly in the face of the cynic, the terrorist and the fascist, who will always be among us? '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In the words of Nobel Peace Prize recipient, ​​Dag Hammarskjöld, “Our work for peace must begin within the private world of each one of us.” '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'THI has collected a plethora of material from across the continents and the ages to help us become the generations that ended war. '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: ' Imagine!'
 featured_content:
   - 12d25b96-227c-4eb6-9b38-f298b55533be
-  - bd8e76be-8769-4deb-94d4-3345b5477b38
+  - 8f635dab-0a70-4f1f-99ac-0f4fe4ab9440
+  - c394b258-cc13-4d26-bf20-cee3ce1436a3
+  - ad05cf44-29ca-4bbc-9a48-550290308af5
+  - 809dbff7-1b95-49f3-891d-3dccf405181a
+  - 91d3f85d-1560-4132-940f-029c9e3fabfe
   - e1912d5b-c259-42ca-aa14-01faa3424173
 title_text: 'Exploring humanity’s quest for lasting peace'
