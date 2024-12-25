@@ -6,9 +6,10 @@ quotation: 'I get up every morning determined to both change the world and have 
 attribution: 'E. B. White  (1988 - 1985)  American writer'
 image: image-1709325723.jpeg
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1727383181
+updated_at: 1732804267
 collection_type: quotation
 challenges:
   - climate
   - democracy
+sections: inspiration
 ---

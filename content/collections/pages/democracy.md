@@ -4,8 +4,8 @@ blueprint: page
 template: challenge
 title: 'Saving Democracy'
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1731903299
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1734534852
 challenge_intro:
   -
     type: paragraph
@@ -13,9 +13,13 @@ challenge_intro:
       -
         type: text
         text: 'Intro to this challenge here'
-intro_movie: athens-at-night.jpg
 challenge_intro_text: 'On the final day of the American Constitutional Convention of 1787, as people gathered in colonial Philadelphia to await news of what exactly the founders had crafted, Elizabeth Willing Powel, a well known salonaire of that era and close confidant of George Washington, inquired of Ben Franklin, “What have we created, Dr. Franklin, a republic or a monarchy?” His famous reply: “A republic…if you can keep it.”'
 section_builder:
+  -
+    id: m4tzrw7q
+    inspiring_image: 10sp-democracy-roger-inyt-02-qgbz-superjumbo.jpg.webp
+    type: inspiring_image
+    enabled: true
   -
     id: lua4vqlr
     talks: e62cabd3-6585-4ced-9dd1-90ccf1f8cac2
@@ -38,7 +42,7 @@ section_builder:
     enabled: true
   -
     id: luu3vtjy
-    inspiring_image: luke-1712771527.jpg
+    inspiring_image: 10sp-democracy-roger-inyt-02-qgbz-superjumbo.jpg.webp
     type: inspiring_image
     enabled: true
   -
@@ -115,7 +119,8 @@ section_builder:
     enabled: true
   -
     id: luu7x02p
-    book: 95201ba0-5657-4f50-a730-29f779b608bb
+    book: 9daf30e1-7588-4427-bc37-28fd0527f566
     type: book
     enabled: true
+intro_movie: 10sp-democracy-roger-inyt-02-qgbz-superjumbo.jpg.webp
 ---

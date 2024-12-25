@@ -3,27 +3,21 @@ id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
 template: donate
 title: 'Donate to support our work'
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1732034960
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1733590760
 intro:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Humanity Initiative is dedicated to systemic and enduring positive change. As 335 voices from across the ages   --  writers, educators, artists, poets, musicians, actors and politicians  --  express here in so many compelling ways, '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: "each of us must act and we must do so\_now."
+        text: 'The Humanity Initiative is dedicated to systemic and enduring positive change. Over 300 writers, educators, artists, poets, musicians, actors and politicians within this site urge us to act now.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Our goal is to bring this message to every community and village across the continents, not only through this unique web site, but also through our peace gatherings, partnerships, and both traditional and social media, engendering a planet-wide enlightenment of understanding and action.'
+        text: "THI's goal is to bring this message to every community and village across the continents, through these pages as well as peace gatherings, partnerships, and social media, engendering a planet-wide enlightenment of understanding and action."
   -
     type: paragraph
     content:
@@ -46,12 +40,15 @@ intro:
     content:
       -
         type: text
-        text: 'Thank you for your kind donations! They help expand our outreach in many ways. '
+        text: 'Your generosity is deeply appreciated. It helps expand our outreach in many ways. '
+  -
+    type: paragraph
+    content:
       -
         type: text
         marks:
           -
             type: italic
-        text: 'THI is a 501(c)(3), so all donations are tax deductible in the United States..'
+        text: 'The Humanity Initiative is a 501(c)(3), so all donations are tax deductible in the United States..'
 main_image: '-humanity-first-cover.jpeg'
 ---

@@ -62,7 +62,13 @@ article_text:
         type: hardBreak
       -
         type: text
-        text: 'Today, the world has over 43.4 million refugees, and with conflicts raging in different parts of the world, this number is only increasing. But as it rises, we also run the risk of treating these people as figures in a statistical compilation, and not human beings with needs, fears, hopes and wants. Yet this, precisely, is what they are. And World Refugee Day (June 20) is a sombre occasion to think of all those human beings — a ceaseless succession of families with dreams and desires, laughter and joy — whose lives have been uprooted, all those homes that have been destroyed, and all those futures that have been jeopardised. But this is also an occasion to think of safe havens granted, asylum ensured, refugees protected, and solutions found.'
+        text: 'Today, the world has over 43.4 million refugees, and with conflicts raging in different parts of the world, this number is only increasing. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'But as it rises, we also run the risk of treating these people as figures in a statistical compilation, and not human beings with needs, fears, hopes and wants. Yet this, precisely, is what they are. And World Refugee Day (June 20) is a sombre occasion to think of all those human beings — a ceaseless succession of families with dreams and desires, laughter and joy — whose lives have been uprooted, all those homes that have been destroyed, and all those futures that have been jeopardised. But this is also an occasion to think of safe havens granted, asylum ensured, refugees protected, and solutions found.'
       -
         type: hardBreak
       -
@@ -80,9 +86,6 @@ article_text:
           -
             type: bold
         text: 'The pitch for suitable legislation'
-  -
-    type: paragraph
-    content:
       -
         type: hardBreak
       -
@@ -119,9 +122,6 @@ article_text:
           -
             type: bold
         text: 'In a state of suspense'
-  -
-    type: paragraph
-    content:
       -
         type: hardBreak
       -
@@ -144,9 +144,6 @@ article_text:
           -
             type: bold
         text: 'Taking up the judiciary’s baton'
-  -
-    type: paragraph
-    content:
       -
         type: hardBreak
       -
@@ -194,6 +191,6 @@ related_content:
   - 799bae7a-763a-4bb1-b9ec-8c4dacdb75f4
   - 2de64619-3645-4baf-b709-3a496e3a1553
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724783976
+updated_at: 1733685368
 link: 'https://www.thehindu.com/opinion/lead/blueprints-beyond-borders-for-solace-and-shelter/article68308819.ece'
 ---

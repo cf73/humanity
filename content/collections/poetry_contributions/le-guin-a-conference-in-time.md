@@ -9,9 +9,15 @@ challenges:
   - war
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631646
+updated_at: 1733589470
 poets_website: 'https://www.poetryfoundation.org/poets/ursula-k-le-guin'
 sections: peace-gatherings
+related_content:
+  - 9f09c216-ae44-4a47-badf-16a8ab75a311
+  - edff29da-96b0-4f4a-a60b-2d774fe2103f
+  - bf8addbc-a116-452b-bf93-9e4270f8de95
+  - 8e3ae9aa-bb00-4e9c-b131-0caa0a23b2b8
+  - f74e61ed-bc0b-412d-8cbf-8d635097efe8
 content:
   -
     type: paragraph
@@ -41,7 +47,7 @@ content:
         marks:
           -
             type: italic
-        text: 'Ursula K. Le Guin’s poetic essay “A Conference in Time“ does exactly that, offering us an evocative take on the necessity of Earthly rescue  --  and on our relationship with the mighty powers that have manuvered us forever.'
+        text: 'Ursula K. Le Guin’s poetic essay “A Conference in Time“ does exactly that, offering us an evocative take on the necessity of Earthly rescue  --  and on our relationship with almighty powers that have maneuvered us forever.'
   -
     type: paragraph
     content:

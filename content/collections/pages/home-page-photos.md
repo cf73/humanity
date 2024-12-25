@@ -4,7 +4,7 @@ blueprint: home
 title: 'Home page'
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732067056
+updated_at: 1732896693
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
