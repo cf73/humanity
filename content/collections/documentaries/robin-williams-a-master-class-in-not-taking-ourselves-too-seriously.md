@@ -37,6 +37,6 @@ related_content:
   - 628a23b7-fe57-4f55-93ae-11bdabccff59
   - f0946d8d-1bf3-476d-8b40-f1f2b7db91c3
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722616215
+updated_at: 1735225361
 sections: inspiration
 ---
