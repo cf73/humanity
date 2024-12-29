@@ -56,7 +56,7 @@ related_content:
   - 12d25b96-227c-4eb6-9b38-f298b55533be
   - 78f9ff1b-ba15-43d0-bc9b-cbd69e7d2776
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732636282
+updated_at: 1735498068
 sections: inspiration
 video_id: '-FAhL-lNLY0?si=CTO1HI1h0WAbTBj2'
 ---
