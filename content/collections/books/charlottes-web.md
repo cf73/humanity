@@ -9,7 +9,25 @@ description:
     content:
       -
         type: text
-        text: "Here's the Goodreads description:"
+        marks:
+          -
+            type: italic
+        text: 'Charlotte’s Web'
+      -
+        type: text
+        text: ' is an iconic children’s novel, popular since its first publication in 1952. It follows Wilbur the pig as he is taken away from his home on the farm and thrust into the harsh world of the county fair. His only friend is Charlotte, a wise old spider who befriends Wilbur and helps him out of his many sticky situations. Together, they make a formidable duo, and it is Charlotte’s selfless sacrifice that eventually saves Wilbur from being slaughtered.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Throughout the novel, White highlights important messages about friendship, loyalty, and respect. He also touches upon themes of mortality, destiny, and finding one’s place in the world. '
+      -
+        type: text
+        text: 'White’s writing style is simple yet beautiful, and his characters are easy to relate to. He uses vivid descriptions to bring the rural setting to life, and this contributes to the overall charm of the novel.'
   -
     type: paragraph
     content:
@@ -21,27 +39,15 @@ description:
         text: 'Charlotte’s Web'
       -
         type: text
-        text: ' by E.B. White is an iconic children’s novel that has remained popular since its first publication in 1952. The novel follows Wilbur the pig as he is taken away from his home on the farm and thrust into the harsh world of the county fair. His only friend is Charlotte, a wise old spider who befriends Wilbur and helps him out of his many sticky situations. Together, they make a formidable duo, and it is Charlotte’s selfless sacrifice that eventually saves Wilbur from being slaughtered.'
+        text: ' is a story that can be enjoyed by children and adults alike and continues to captivate even after almost 70 years.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Throughout the novel, White highlights important messages about friendship, loyalty, and respect. He also touches upon themes of mortality, destiny, and finding one’s place in the world. White’s writing style is simple yet beautiful, and his characters are easy to relate to. He uses vivid descriptions to bring the rural setting to life, and this contributes to the overall charm of the novel.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Charlotte’s Web'
-      -
-        type: text
-        text: ' is important for its lessons and messages, as well as its vivid descriptions and memorable characters. It is a story that can be enjoyed by children and adults alike and continues to captivate even after almost 70 years.'
+        text: '(Goodreads description)'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732289147
+updated_at: 1736093254
 collection_type: book
 date_published: '1952-01-20'
 link: 'https://www.goodreads.com/book/show/24178.Charlotte_s_Web?from_search=true&from_srp=true&qid=nuNaCm5N4C&rank=1'
