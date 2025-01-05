@@ -24,7 +24,7 @@ description:
         marks:
           -
             type: bold
-        text: 'Throughout the novel, White highlights important messages about friendship, loyalty, and respect. He also touches upon themes of mortality, destiny, and finding one’s place in the world. '
+        text: 'Throughout the novel, E. B. White highlights important messages about friendship, loyalty, and respect. He also touches upon themes of mortality, destiny, and finding one’s place in the world. '
       -
         type: text
         text: 'White’s writing style is simple yet beautiful, and his characters are easy to relate to. He uses vivid descriptions to bring the rural setting to life, and this contributes to the overall charm of the novel.'
@@ -47,7 +47,7 @@ description:
         type: text
         text: '(Goodreads description)'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1736093254
+updated_at: 1736093290
 collection_type: book
 date_published: '1952-01-20'
 link: 'https://www.goodreads.com/book/show/24178.Charlotte_s_Web?from_search=true&from_srp=true&qid=nuNaCm5N4C&rank=1'
