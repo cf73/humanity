@@ -4,7 +4,7 @@ blueprint: home
 title: 'Home page'
 template: home
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1732896693
+updated_at: 1736647450
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -37,13 +37,13 @@ welcome_message:
     content:
       -
         type: text
-        text: 'For this is an oasis with a mission, custom-made for we the people to consider, with neighbors old and new, how best to address our humanitarian and planetary crises, how best to solve our increasingly wild and fractious rides around the sun.'
+        text: 'For this is an oasis with a mission, custom-made for we the people to consider, with neighbors near and far, how best to address our humanitarian and planetary crises, how best to solve our increasingly wild and fractious rides around the sun.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We focus on three priorities.'
+        text: 'We begin with three priorities.'
 intro_to_sites_content:
   summary: "To plant our investigations in the fertile soil of open hearts and curious minds, we have chosen three hundred and thirty of humanity’s most inspiring voices  —  ancient and current  —  to guide and encourage us in re-imagining\_our roles as changemaker for community, country, or planet."
   accordion:
