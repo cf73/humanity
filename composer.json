@@ -16,6 +16,7 @@
         "laravel/tinker": "^2.8",
         "livewire/flux": "^1.0@beta",
         "livewire/livewire": "^3.5",
+        "mohammedshuaau/enhanced-analytics": "^1.0",
         "reachweb/statamic-livewire-filters": "^2.0",
         "statamic/cms": "^5.0"
     },
