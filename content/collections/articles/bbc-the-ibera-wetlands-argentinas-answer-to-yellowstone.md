@@ -15,7 +15,7 @@ description:
 challenges:
   - climate
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719862060
+updated_at: 1736949239
 related_partner_initiatives:
   - c7f4951c-3a1d-4fd9-a01d-f0b73975b069
 related_content:
