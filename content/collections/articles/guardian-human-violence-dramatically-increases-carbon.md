@@ -589,7 +589,7 @@ related_content:
   - b6267639-94e6-40a5-8471-d1dc63559112
   - f74e61ed-bc0b-412d-8cbf-8d635097efe8
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1724009282
+updated_at: 1736949194
 articleauthor: 'Nina Lakhani, climate justice reporter'
 sections: peace-gatherings
 ---
