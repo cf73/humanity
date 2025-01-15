@@ -47,7 +47,7 @@ description:
         type: text
         text: '(Goodreads description)'
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1736093290
+updated_at: 1736949967
 collection_type: book
 date_published: '1952-01-20'
 link: 'https://www.goodreads.com/book/show/24178.Charlotte_s_Web?from_search=true&from_srp=true&qid=nuNaCm5N4C&rank=1'
