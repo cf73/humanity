@@ -64,7 +64,7 @@ related_content:
   - b23bf55a-1fb6-440e-8a5a-2d7be6eacbae
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722630655
+updated_at: 1736950045
 book_author: 'Timothy Snyder'
 sections: inspiration
 ---
