@@ -33,12 +33,17 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1736951050
+updated_at: 1736951265
 collection_type: book
 related_partner_initiatives:
   - 86161e36-7285-41a6-ba67-5a5f928fb1d1
+  - bd1d0db4-a43f-4e72-a31d-664b5cce943f
 related_content:
   - 3cc8f4c1-bcca-4142-8664-e0572beb84ea
+  - 46a5ba9a-cc31-41de-ac32-31d0789edadf
+  - cc16a060-6b0e-4fb8-86e6-82941952e7eb
+  - db0847a6-e419-402e-870f-2c2523cffef6
+  - 006560e9-5d62-44bc-9879-17c33f55a864
 book_author: 'Michael Bond'
 date_published: '1958-10-13'
 link: 'https://www.amazon.com/Bear-Called-Paddington-Michael-Bond/dp/0062312189'
