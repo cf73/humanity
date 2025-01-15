@@ -267,7 +267,7 @@ related_content:
   - 2753f7d0-c3ff-4c54-b5aa-acaca5fa69e0
   - 12d25b96-227c-4eb6-9b38-f298b55533be
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1719862214
+updated_at: 1736949069
 articleauthor: 'Heather Cox Richardson'
 sections: peace-gatherings
 ---
