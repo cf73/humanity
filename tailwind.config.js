@@ -15,13 +15,12 @@ export default {
 
     theme: {
         fontFamily: {
-            'serif': ['Spectral', 'serif'],
-            'josephin': ['Josefin Sans', 'sans-serif'],
-        },
+            ApercuRegular: ['ApercuRegular', 'sans-serif'],
+            ApercuBold: ['ApercuBold', 'sans-serif'],
+          },
         extend: {
-            fontFamily: {
-                posterfont: ['Poster', 'sans-serif'],
-                displayfont: ['Display', 'sans-serif'],
+            gradientColorStops: {
+                'to-64%': '64%',
               },
             colors: {
                 'highlighter': 'rgb(255 254 0 / 88%)',
