@@ -8,7 +8,7 @@
                 }"
                 class="relative">
             
-                    <button @click="dropdownOpen=true" class="text-whitetrans transition inline-flex items-center space-x-2">
+                    <button @click="dropdownOpen=true" class="text-offwhite transition inline-flex items-center space-x-2">
                         <span class="hover:text-white tracking-wide">{{title}} </span>
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
                             <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
@@ -35,7 +35,7 @@
             
                 {{else}}
                 <a href="{{ url }}"{{ if is_current || is_parent }} class="text-boldyellow"{{ /if }} class="hover:no-underline">
-                    <div class="text-whitetrans hover:text-white transition tracking-wide">{{title}}</div>
+                    <div class="text-offwhite hover:text-white transition tracking-wide">{{title}}</div>
                 </a>
                 {{/if}}
             {{/nav:topnav}}
@@ -46,7 +46,7 @@
         <nav class="flex flex-row gap-8 items-center">
             {{nav:right_nav}}
                 <a href="{{ url }}"{{ if is_current || is_parent }} class="text-boldyellow"{{ /if }} class="hover:no-underline">
-                    <div class="text-whitetrans hover:text-white transition tracking-wide">{{title}}</div>
+                    <div class="text-offwhite hover:text-white transition tracking-wide">{{title}}</div>
                 </a>
             {{/nav:right_nav}}
             <a href="/donate">

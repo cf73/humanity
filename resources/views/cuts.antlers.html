@@ -25,7 +25,7 @@
                     <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></div>
                     <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
                 </div>
-                <a href="{{url}}"><button class="border-white font-semibold text-lg tracking-widest p-2 px-8 text-warmwhite backdrop-blur-lg">Explore</button></a>
+                <a href="{{url}}"><button class="border-white  text-lg tracking-widest p-2 px-8 text-warmwhite backdrop-blur-lg">Explore</button></a>
 
             </div>
         </div>
@@ -119,7 +119,7 @@
     
 
 
-    <div class="tracking-wide mb-16 text-softblack text-3xl font-semibold text-center">Related Partner Initiatives</div>
+    <div class="tracking-wide mb-16 text-offwhite text-3xl  text-center">Related Partner Initiatives</div>
         <div class="grid grid-cols-2 gap-16 mb-32">
             {{if related_partner_initiatives}}
                 {{related_partner_initiatives}}
