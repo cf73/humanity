@@ -17,6 +17,7 @@ export default {
         fontFamily: {
             ApercuRegular: ['ApercuRegular', 'sans-serif'],
             ApercuBold: ['ApercuBold', 'sans-serif'],
+            ApercuMono: ['ApercuMono', 'sans-serif'],
           },
         extend: {
             gradientColorStops: {

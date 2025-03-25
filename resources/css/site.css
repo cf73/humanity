@@ -16,6 +16,12 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'ApercuMono';
+    src: url('/public/fonts/apercu_mono.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 @layer base {
     body {
@@ -25,40 +31,22 @@
         @apply font-ApercuRegular font-extralight tracking-tight leading-tight text-9xl text-atomicTangerine;
     }
     h1 {
-        @apply font-ApercuRegular font-bold text-cetaceanBlue leading-tight uppercase text-4xl xl:text-5xl;
+        @apply font-ApercuBold leading-none text-6xl xl:text-8xl antialiased;
     }
     h2 {
-        @apply lg:text-2xl font-ApercuRegular font-semibold leading-tight antialiased;
+        @apply font-ApercuBold leading-tight text-xl xl:text-2xl antialiased;
     }
     h3 {
-        @apply text-lg xl:text-xl font-ApercuRegular font-semibold leading-tight antialiased;
+        @apply font-ApercuMono leading-normal text-lg antialiased;
     }
     h4 {
-        @apply xl:text-xl font-ApercuRegular font-semibold antialiased w-fit;
-    }
-    h6 {
-        @apply text-2xl tracking-wide text-yellow-600 font-ApercuRegular leading-normal prose prose-sky subpixel-antialiased;
-    }
-    h5 {
-        @apply font-ApercuRegular font-light text-2xl leading-normal;
+        @apply font-ApercuMono leading-normal text-xs antialiased;
     }
     a {
         @apply text-whitetrans hover:underline underline-offset-4;
     }
-    .textMeta {
-        @apply uppercase font-ApercuRegular text-xs font-medium antialiased text-whitetrans tracking-widest w-fit mt-[.25em];
-    }
-    .textMain {
-        @apply font-ApercuRegular prose prose-sky lg:prose-xl;
-    }
-    .textMainSans {
-        @apply font-ApercuRegular font-light subpixel-antialiased prose prose-sky mx-auto leading-normal text-xl;
-    }
-    .textMainSans2 {
-        @apply font-ApercuRegular font-light text-yellow-600 subpixel-antialiased prose prose-sky mx-auto leading-normal text-xl;
-    }
-    .textSecondary {
-        @apply font-ApercuRegular text-whitetrans antialiased tracking-tight;
+    p {
+        @apply font-ApercuRegular leading-normal text-base antialiased;
     }
 }
 
