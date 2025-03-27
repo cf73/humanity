@@ -1,5 +1,6 @@
-title: Music
+title: Film
 author: 0800036e-1638-4d6e-822a-26aefe2f9e99
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1719787949
-blueprint: section
+updated_at: 1743084190
+blueprint: collection_type
+template: contentTemplates/film

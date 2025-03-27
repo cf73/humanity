@@ -1,4 +1,3 @@
-
 <div class="resultCard overflow-hidden bg-darkBlue rounded-2xl pb-[15px] mb-[6px]">
     <a href="{{url}}" class="hover:no-underline">        
         <div class="w-full flex flex-col justify-end overflow-hidden">
@@ -8,15 +7,12 @@
         <div class="py-0 px-4 mt-[12px] flex flex-col">
 
             <h3>{{title}}</h3>
-            {{if speaker}}
-                <p class=" antialiased">{{speaker}}</p>
-            {{/if}}
-            {{if articleauthor}}
-                <p class=" antialiased">{{articleauthor}}</p>
-            {{/if}}
-            {{if book_author}}
-                <p class=" antialiased">{{book_author}}</span>
-            {{/if}}
+            <p>{{carddetail:speaker}}</p>
+            <p>{{carddetail:articleauthor}}</p>
+            <p>{{carddetail:book_author}}</span>
+            <p>{{carddetail:poets_name}}</p>
+            <p>{{carddetail:director}}</p>
+            <p>{{carddetail:photographer_name}}</p>
             <h5 class="mt-[9px]">{{collection:title}}</h5>
             <!-- <div class="font-serif leading-6 text-base">{{ description }}</div> -->
         </div>

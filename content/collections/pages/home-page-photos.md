@@ -3,8 +3,8 @@ id: home
 blueprint: home
 title: 'Home page'
 template: home
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1736647709
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1742931246
 hero_images:
   - lisa_kristine_com-prayer-beads-western-tibet.jpg-1718585725.webp
   - earth-photo-for-mission-page-1718585929.jpg
@@ -31,19 +31,13 @@ welcome_message:
     content:
       -
         type: text
-        text: 'Welcome!  May we pour you a cup of tea? '
+        text: 'Welcome!  May we pour you a cup of tea? For this is an oasis with a mission, custom-made for we the people to consider, with neighbors near and far, how best to address our humanitarian and planetary crises, how best to solve our increasingly wild and fractious rides around the sun.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'For this is an oasis with a mission, custom-made for we the people to consider, with neighbors near and far, how best to address our humanitarian and planetary crises, how best to solve our increasingly wild and fractious rides around the sun.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'We begin with three priorities.'
+        text: 'May the insights and inspirations throughout this town meeting for the planet — presented on the wings of essays, images, speeches, artwork, film, literature, poetry, and music — move you to help fan the aspirational breezes of our shared humanity into winds of change we so urgently need.'
 intro_to_sites_content:
   summary: "To plant our investigations in the fertile soil of open hearts and curious minds, we have chosen three hundred and thirty of humanity’s most inspiring voices  —  ancient and current  —  to guide and encourage us in re-imagining\_our roles as changemaker for community, country, or planet."
   accordion:

@@ -5,20 +5,26 @@
 /* This is all you. */
 
 @font-face {
-    font-family: 'ApercuBold';
-    src: url('/public/fonts/apercu_bold.otf') format('opentype');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
     font-family: 'ApercuRegular';
     src: url('/public/fonts/apercu_regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
+    font-family: 'ApercuBold';
+    src: url('/public/fonts/apercu_bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
     font-family: 'ApercuMono';
     src: url('/public/fonts/apercu_mono.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ApercuBoldItalic';
+    src: url('/public/fonts/apercu_bold_italic.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
@@ -31,31 +37,40 @@
         @apply font-ApercuRegular font-extralight tracking-tight leading-tight text-9xl text-offwhite;
     }
     h1 {
-        @apply font-ApercuBold leading-none text-6xl xl:text-8xl antialiased;
+        @apply font-ApercuBold leading-snug text-6xl lg:text-8xl text-offwhite antialiased;
     }
     h2 {
-        @apply font-ApercuBold leading-tight text-xl xl:text-2xl antialiased;
+        @apply font-ApercuBold leading-tight text-xl xl:text-2xl text-offwhite antialiased;
     }
     h3 {
-        @apply font-ApercuBold leading-tight text-lg antialiased;
+        @apply font-ApercuBold leading-tight text-lg text-offwhite antialiased;
     }
     h4 {
-        @apply font-ApercuMono leading-normal text-lg antialiased;
+        @apply font-ApercuMono leading-normal tracking-tight text-offwhite antialiased;
     }
     h5 {
-        @apply font-ApercuMono uppercase leading-normal tracking-wider text-xs antialiased;
+        @apply font-ApercuMono uppercase leading-normal tracking-wider text-xs text-offwhite antialiased;
     }
     a {
-        @apply text-offwhite hover:underline underline-offset-4;
+        @apply text-offwhite hover:underline underline-offset-4 text-offwhite;
     }
     p {
-        @apply font-ApercuRegular leading-normal text-base antialiased;
+        @apply font-ApercuRegular antialiased text-offwhite;
+    }
+    .quote {
+        @apply font-ApercuRegular leading-normal text-4xl lg:text-5xl text-offwhite antialiased;
+    }
+    strong {
+        @apply font-ApercuBold font-normal text-offwhite antialiased;
+    }
+    em {
+        @apply font-ApercuBoldItalic not-italic text-offwhite antialiased;
     }
 }
 
 @layer components {
     .btn-primary {
-        @apply font-ApercuRegular text-offwhite tracking-wider rounded px-6 py-4 hover:bg-offwhite transition-all w-fit;
+        @apply font-ApercuMono text-offwhite bg-darkBlue rounded-2xl px-6 py-4 w-full;
     }
     .btn-inverse {
         @apply bg-white hover:bg-white text-offwhite;

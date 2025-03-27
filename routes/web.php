@@ -13,4 +13,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::statamic('challenges/democracy/results', 'results');
+Route::statamic('results', 'results');

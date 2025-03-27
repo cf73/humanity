@@ -10,26 +10,36 @@
             <div>Time to rescue our humanity.</div>
         </div>
         <div class="textMain leading-snug text-center text-white mx-auto">
-            {{welcome_message}}
         </div>
         <!-- <button id="heroButton" class="btn-primary">{{lead_button_text}}</button> -->
     </div>
     <!-- <div data-speed=".6" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat"></div> -->
 </section>
 
-<div id="challengeContent" class="container mx-auto grid grid-cols-5 gap-16 mt-16 mb-32 px-8 relative">
+<div id="challengeContent" class=" mx-auto grid grid-cols-12 gap-[24px] mt-16 mb-32 px-[30px] relative">
     <!-- <style>
         /* Hide inactive checkboxes */
         input[type="checkbox"]:not(:checked) {
             display: none;
         }
     </style> -->
-    <div id="filters" class="col-span-1">
-        <form action="{{url}}" method="get">
-            <div class="textMeta mb-2">Filters</div>
-            <div class="uppercase tracking-wider mt-4">Challenges</div>
+    <div id="filters" class="col-span-4 xl:col-span-3 mt-[400px] pr-[24px] border-r border-lightpurple/70">
+        <form action="/results" method="get">
+            <h5 class="pb-[6px] text-lightpurple border-b border-lightpurple/70 mb-[6px]">Format</h5>
+            {{taxonomy:collection_type}}
+                <label class="font-ApercuMono leading-normal        antialiased">
+                    <input class="rounded"
+                        type="checkbox"
+                        name="collectiontype[]"
+                        value="{{ slug }}"
+                        {{ (get:collectiontype | contains(slug)) ?= 'checked' }}>
+                    {{ title }}<br>
+                </label>
+            {{/taxonomy:collection_type}}
+            
+            <h5 class="mt-[18px] pb-[6px] text-lightpurple border-b border-lightpurple/70 mb-[6px]">Our Priorities</h5>
             {{taxonomy:challenges :categories:contains="{{(get:categories | contains(slug))}}"}}
-                <label class="textMainSans">
+                <label class="font-ApercuMono leading-normal        antialiased">
                     <input class="rounded"
                         type="checkbox"
                         name="categories[]"
@@ -39,9 +49,9 @@
                 </label>
             {{/taxonomy:challenges}}
 
-            <div class="uppercase tracking-wider mt-4">Sections</div>
+            <h5 class="mt-[18px] pb-[6px] text-lightpurple border-b border-lightpurple/70 mb-[6px]">Collections</h5>
             {{taxonomy:section :categories:contains="{{(get:categories | contains(slug))}}"}}
-                <label class="textMainSans">
+                <label class="font-ApercuMono leading-normal        antialiased">
                     <input class="rounded"
                         type="checkbox"
                         name="categories[]"
@@ -51,21 +61,17 @@
                 </label>
             {{/taxonomy:section}}
             
-            <div class="uppercase tracking-wider mt-4">Format</div>
-            {{taxonomy:collection_type}}
-                <label class="textMainSans">
-                    <input class="rounded"
-                        type="checkbox"
-                        name="collectiontype[]"
-                        value="{{ slug }}"
-                        {{ (get:collectiontype | contains(slug)) ?= 'checked' }}>
-                    {{ title }}<br>
-                </label>
-            {{/taxonomy:collection_type}}
-            <button type="submit" class="btn-secondary mt-4">Apply</button>
+            <button type="submit" class="btn-primary mt-4">Apply</button>
         </form>
     </div>
-    <div class="col-start-2 col-span-4">
+    <div class="col-start-5 xl:col-start-4 col-span-8 xl:col-span-9">
+        <div class="border-b space-y-[12px] border-lightpurple/70 pb-[12px] mb-[12px]">
+            <div class="font-ApercuBoldItalic text-[300px] xl:text-[387px] tracking-tighter leading-[220px] xl:leading-[280px]">2025</div>
+            <h1>and counting...</h1>
+            <h2>It’s time to save our humanity.</h2>
+            {{welcome_message}}
+        </div>
+
         {{ collection from="*" not_from="pages" as="results"
         :taxonomy:challenges:all="get:categories"
         :taxonomy:collection_type="get:collectiontype"
@@ -75,7 +81,7 @@
                     Sorry, no results.
                 </div>
             {{ else }}
-                <div class="columns-3 gap-[6px]">
+                <div class="columns-3 xl:columns-3 gap-[6px]">
                     {{ results | shuffle }}
                         {{ partial:cards/card }}
                     {{ /results }}

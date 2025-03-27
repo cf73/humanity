@@ -1,0 +1,16 @@
+<div id="filtersMenu" class="col-span-4 xl:col-span-3 pr-[24px] border-r border-lightpurple/70 self-start h-screen">
+    <h5 class="pb-[6px] text-lightpurple border-b border-lightpurple/70 mb-[6px]">Format</h5>
+    {{taxonomy:collection_type}}
+        <a href="/results?collectiontype%5B%5D={{slug}}" class="font-ApercuMono leading-normal hover:no-underline hover:text-highlight antialiased">{{ title }}</a><br>
+    {{/taxonomy:collection_type}}
+    
+    <h5 class="mt-[18px] pb-[6px] text-lightpurple border-b border-lightpurple/70 mb-[6px]">Our Priorities</h5>
+    {{taxonomy:challenges :categories:contains="{{(get:categories | contains(slug))}}"}}
+        <a href="{{url}}" class="font-ApercuMono leading-normal hover:no-underline hover:text-highlight antialiased">{{ title }}</a><br>
+    {{/taxonomy:challenges}}
+
+    <h5 class="mt-[18px] pb-[6px] text-lightpurple border-b border-lightpurple/70 mb-[6px]">Collections</h5>
+    {{taxonomy:section :categories:contains="{{(get:categories | contains(slug))}}"}}
+        <a href="{{url}}" class="font-ApercuMono leading-normal hover:no-underline hover:text-highlight antialiased">{{ title }}</a><br>
+    {{/taxonomy:section}}
+</div>

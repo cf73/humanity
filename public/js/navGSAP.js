@@ -19,6 +19,25 @@ var navianimation = gsap.timeline({paused: true})
 
 document.getElementById("openNav").onclick = ()=> navianimation.play();
 document.getElementById("closeNav").onclick = ()=> navianimation.reverse();
+
+
+ScrollTrigger.create({
+  trigger: '#cardsGrid',
+  start: 'top 114',
+  end: 'bottom bottom',
+  pin: '#filters',
+  pinSpacing: false 
+});
+
+ScrollTrigger.create({
+  trigger: '#contentColumn',
+  start: 'top 114',
+  end: 'bottom bottom',
+  pin: '#filtersMenu',
+  pinSpacing: false 
+});
+
+
 // GLOABLS
 // slide down nav bar
 
