@@ -1,14 +1,14 @@
 {{partial:globals/smoothWrapStart}}
 
-<div class="grid grid-cols-12 gap-[24px] mt-[114px] mb-32 px-[30px]">
+<div class="flex flex-row gap-[24px] mt-[114px] mb-32 px-[30px]">
 
   {{partial:filtersMenu}}
   {{partial:contentTemplates/contentColumnHeader}}
       <div id="contentHeader" class="space-y-3">
           <div class="flex flex-row justify-between pb-3">
               <h2>{{book_author}}</h2>
-              <div>social icons</div>
-          </div>
+              {{partial:globals/socialIcons}}
+            </div>
           <h1 class="border-b border-lightpurple/70 pb-6">{{title}}</h1>
           <div class="flex flex-row justify-between border-b border-lightpurple/70 pb-3">
               <h2>{{date_published}}</h2>

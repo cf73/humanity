@@ -1,7 +1,7 @@
-<div id="filters" class="col-span-4 xl:col-span-3 pr-[24px] border-r border-lightpurple/70 self-start h-screen">
+<div id="filters" class="hidden md:block w-[280px] pr-[24px] border-r border-lightpurple/70 self-start h-screen">
     <form action="results" method="get">
         <h5 class="pb-[6px] text-lightpurple border-b border-lightpurple/70 mb-[6px]">Format</h5>
-        {{taxonomy:collection_type}}
+        {{taxonomy:collection_type slug:isnt="quotation"}}
             <label class="font-ApercuMono leading-normal cursor-pointer hover:text-white antialiased">
                 <input class="rounded"
                     type="checkbox"
@@ -25,13 +25,13 @@
         {{/taxonomy:challenges}}
 
         <h5 class="mt-[18px] pb-[6px] text-lightpurple border-b border-lightpurple/70 mb-[6px]">Collections</h5>
-        {{taxonomy:section :categories:contains="{{(get:categories | contains(slug))}}"}}
+        {{taxonomy:section :section:contains="{{(get:section | contains(slug))}}"}}
             <label class="font-ApercuMono leading-normal cursor-pointer hover:text-white antialiased">
                 <input class="rounded"
                     type="checkbox"
-                    name="categories[]"
+                    name="sections[]"
                     value="{{ slug }}"
-                    {{ (get:categories | contains(slug)) ?= 'checked' }}>
+                    {{ (get:sections | contains(slug)) ?= 'checked' }}>
                 {{ title }}<br>
             </label>
         {{/taxonomy:section}}

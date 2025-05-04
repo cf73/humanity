@@ -15,46 +15,22 @@ tabs:
           -
             handle: poets_name
             field:
-              input_type: text
-              antlers: false
               type: text
               display: "Poet's Name"
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
             handle: poets_website
             field:
-              input_type: text
-              antlers: false
               type: text
               display: "Poet's Website"
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
           -
-            handle: published_date
+            handle: published_date_or_year
             field:
-              mode: single
-              inline: false
-              full_width: false
-              columns: 1
-              rows: 1
-              time_enabled: false
-              time_seconds_enabled: false
-              type: date
-              display: 'Published Date'
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
+              character_limit: 90
+              type: text
+              display: 'Published Date or Year'
+              sortable: false
           -
             handle: content
             field:
@@ -62,50 +38,18 @@ tabs:
                 - bold
                 - italic
                 - removeformat
-              smart_typography: false
-              save_html: false
-              inline: false
-              toolbar_mode: fixed
-              reading_time: false
-              word_count: false
-              fullscreen: true
-              allow_source: true
-              enable_input_rules: true
-              enable_paste_rules: true
               remove_empty_nodes: false
-              antlers: false
-              link_noopener: false
-              link_noreferrer: false
-              target_blank: false
-              always_show_set_button: false
-              collapse: false
-              previews: true
               type: bard
               display: Poem
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
           -
             handle: image
             field:
               max_files: 1
-              mode: list
               container: assets
-              restrict: false
-              allow_uploads: true
-              show_filename: true
-              show_set_alt: true
               type: assets
               display: Image
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
               validate:
                 - required
   sidebar:
@@ -127,13 +71,8 @@ tabs:
                 - collection_type
               display: 'Collection Type'
               mode: select
-              instructions_position: above
-              listable: hidden
-              visibility: visible
-              replicator_preview: true
               max_items: 1
               create: false
-              hide_display: false
               validate:
                 - required
           -
@@ -145,11 +84,6 @@ tabs:
                 - challenges
               type: terms
               display: Challenges
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
           -
             handle: sections
             field:
@@ -160,11 +94,6 @@ tabs:
                 - section
               type: terms
               display: Sections
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
           -
             handle: related_content
             field:

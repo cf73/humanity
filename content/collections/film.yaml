@@ -1,6 +1,8 @@
 title: Film
 template: contentTemplates/film
 layout: layout
+taxonomies:
+  - section
 revisions: false
 route: '/index/{slug}'
 sort_dir: asc

@@ -1,0 +1,39 @@
+{{partial:globals/smoothWrapStart}}
+
+<div class="flex flex-row gap-[24px] mt-[114px] mb-32 px-[30px]">
+
+  {{partial:filtersMenu}}
+  {{partial:contentTemplates/contentColumnHeader}}
+      <div id="contentHeader" class="space-y-3">
+          <div class="flex flex-row justify-between pb-3">
+              <h2>Welcome!</h2>
+              {{partial:globals/socialIcons}}
+            </div>
+          <h1 class="border-b border-lightpurple/70 pb-6">{{title}}</h1>
+      </div>
+      <div class="flex flex-row gap-6">
+        <div class="prose prose-sky prose-lg leading-6">{{challenge_intro_text}}</div>
+        <div><img src="{{intro_movie}}" width="100%" height="auto" alt="{{title}}" class="w-full"></div>
+      </div>
+  </div>
+
+</div>
+
+{{partial:contentTemplates/relatedContent}}
+
+{{partial:globals/smoothWrapEnd}}
+
+  
+<script>
+    gsap.to('.fadeup', {
+    scrollTrigger: {
+        trigger: ".fadeup",
+        start: "top bottom",
+        end: "bottom bottom",
+        toggleActions: "restart none reverse reset",
+        scrub: true,
+    },
+    opacity: 1,
+    translateY: -40,
+    });
+</script>

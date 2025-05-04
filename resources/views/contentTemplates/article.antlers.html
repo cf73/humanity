@@ -1,13 +1,13 @@
 {{partial:globals/smoothWrapStart}}
 
-<div class="grid grid-cols-12 gap-[24px] mt-[114px] mb-32 px-[30px]">
+<div class="flex flex-row gap-[24px] mt-[114px] mb-32 px-[30px]">
 
     {{partial:filtersMenu}}
     {{partial:contentTemplates/contentColumnHeader}}
         <div id="contentHeader" class="space-y-3">
             <div class="flex flex-row justify-between pb-3">
                 <h2>{{articleauthor}}</h2>
-                <div>social icons</div>
+                {{partial:globals/socialIcons}}
             </div>
             <h1>{{title}}</h1>
             <h2 class="border-b border-lightpurple/70 pb-6">{{description}}</h2>
@@ -18,15 +18,15 @@
             </div>
             <div class="flex flex-row items-baseline space-x-2 border-b border-lightpurple/70 pb-3">
                 <h5 class="text-lightpurple">filed under:</h5>
-                <div class="space-x-4 flex flex-row">
+                <div class="flex flex-row flex-wrap">
                     {{if challenges}}
                         {{challenges}}
-                        <a href="/challenges/{{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                        <a href="/challenges/{{slug}}" class="mr-4 border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
                         {{/challenges}}
                     {{/if}}
                     {{if sections}}
                         {{sections}}
-                        <a href="/sections/{{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                        <a href="/sections/{{slug}}" class="mr-4 border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
                         {{/sections}}
                     {{/if}}
                     <a href="/results?collectiontype%5B%5D={{collection_type:slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{collection_type:title}}</h4></a>

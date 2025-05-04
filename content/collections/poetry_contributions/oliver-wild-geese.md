@@ -1,13 +1,13 @@
 ---
 id: 8a6167d1-d897-4c80-a069-cb77667b2353
 blueprint: poetry_contribution
-title: 'Wild Geese  (1986)'
+title: 'Wild Geese'
 poets_name: 'Mary Oliver (1935-2019) was a Pulitzer Prize winning poet.'
 image: image-1718800841.jpeg
 challenges:
   - war
 updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1726763415
+updated_at: 1743176408
 collection_type: poetry-contribution
 poets_website: 'https://www.poetryfoundation.org/articles/69656/mary-oliver-and-the-nature-esque'
 sections: inspiration
@@ -17,6 +17,7 @@ related_content:
   - 67a3611f-21d4-47dd-9a87-89be7db4df11
   - cadec32d-dfcb-49f6-b5c8-cf60068eb464
   - e956626e-5095-4572-ba16-35a5918e8a54
+published_date_or_year: '1986'
 content:
   -
     type: paragraph

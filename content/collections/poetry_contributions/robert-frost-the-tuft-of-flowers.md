@@ -3,15 +3,20 @@ id: f1dc3707-7078-4558-9a9b-a5c7451490d9
 blueprint: poetry_contribution
 title: 'The Tuft of Flowers'
 poets_name: 'Robert Frost'
-published_date: '1913-06-15'
+published_date: 1913
 image: unknown-1726520016.jpeg
 collection_type: poetry-contribution
 challenges:
   - war
 sections: inspiration
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1726589616
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1743176719
 poets_website: 'https://www.poetryfoundation.org/poets/robert-frost'
+published_date_or_year: '1915'
+related_content:
+  - 88759a51-a4d2-4521-bb58-457a631cf773
+  - fab94cb3-0c49-48a3-af62-e8ea16f88bc3
+  - 09efbf0d-ae32-4c23-9a4f-70088a5d12e5
 content:
   -
     type: paragraph

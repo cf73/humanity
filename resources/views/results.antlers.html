@@ -1,6 +1,6 @@
 {{partial:globals/smoothWrapStart}}
 
-<div id="challengeContent" class="mx-auto mt-[114px] grid grid-cols-12 gap-[24px] mt-16 mb-32 px-[30px] relative">
+<div id="challengeContent" class="mx-auto mt-[114px] flex flex-row gap-[24px] mt-16 mb-32 px-[30px] relative">
     <!-- <style>
         /* Hide inactive checkboxes */
         input[type="checkbox"]:not(:checked) {
@@ -9,20 +9,22 @@
     </style> -->
     {{partial:filters}}
 
-    <div id="cardsGrid" class="col-start-5 xl:col-start-4 col-span-8 xl:col-span-9 h-auto">
-        {{ collection from="*" not_from="pages" as="results"
+    <div id="cardsGrid" class="md:w-[calc(100%-280px)]">
+        {{ collection from="*" not_from="pages|quotations" as="results"
         :taxonomy:challenges:all="get:categories"
         :taxonomy:collection_type="get:collectiontype"
+        :taxonomy:section="get:sections"
          }}
             {{ if no_results }}
-                <div class="p-8 rounded-lg bg-gray-100 text-center">
-                    Sorry, no results.
+                <div class="flex flex-col items-center justify-center h-[calc(100vh-114px)] text-center">
+                    Nothing here yet... <br>
+                    Maybe try different filters?
                 </div>
             {{ else }}
-                <div class="columns-3 gap-[6px]">
+                <div class="columns-1 md:columns-2 lg:columns-3 gap-3 md:gap-1.5">
                     {{ results | shuffle }}
-                    {{scope:carddetail}}
-                        {{ partial:cards/card }}
+                        {{scope:carddetail}}
+                            {{ partial:cards/card }}
                         {{/scope:carddetail}}
                     {{ /results }}
                 </div>

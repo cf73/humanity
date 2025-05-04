@@ -1,78 +1,25 @@
 {{partial:globals/smoothWrapStart}}
 
-
-<section data-speed="0.5" id="hero" class="min-h-screen pt-24 relative flex flex-col justify-center">
-    <!-- <div class="background absolute top-0 left-0 w-full h-full bg-lightSkyBlue z-0"></div> -->
-    
-    <div class="px-16 flex flex-col h-full w-full pt-[10vh] relative z-30 pr-16">
-        <div class="text-center text-6xl font-regular uppercase leading-none tracking-tight text-white">
-            <div id="counting">2025 and counting...</div>
-            <div>Time to rescue our humanity.</div>
-        </div>
-        <div class="textMain leading-snug text-center text-white mx-auto">
-        </div>
-        <!-- <button id="heroButton" class="btn-primary">{{lead_button_text}}</button> -->
-    </div>
-    <!-- <div data-speed=".6" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat"></div> -->
-</section>
-
-<div id="challengeContent" class=" mx-auto grid grid-cols-12 gap-[24px] mt-16 mb-32 px-[30px] relative">
+<div class="grid grid-cols-12 gap-[24px] mt-[114px] mb-32 px-[30px]">
     <!-- <style>
         /* Hide inactive checkboxes */
         input[type="checkbox"]:not(:checked) {
             display: none;
         }
     </style> -->
-    <div id="filters" class="col-span-4 xl:col-span-3 mt-[400px] pr-[24px] border-r border-lightpurple/70">
-        <form action="/results" method="get">
-            <h5 class="pb-[6px] text-lightpurple border-b border-lightpurple/70 mb-[6px]">Format</h5>
-            {{taxonomy:collection_type}}
-                <label class="font-ApercuMono leading-normal        antialiased">
-                    <input class="rounded"
-                        type="checkbox"
-                        name="collectiontype[]"
-                        value="{{ slug }}"
-                        {{ (get:collectiontype | contains(slug)) ?= 'checked' }}>
-                    {{ title }}<br>
-                </label>
-            {{/taxonomy:collection_type}}
-            
-            <h5 class="mt-[18px] pb-[6px] text-lightpurple border-b border-lightpurple/70 mb-[6px]">Our Priorities</h5>
-            {{taxonomy:challenges :categories:contains="{{(get:categories | contains(slug))}}"}}
-                <label class="font-ApercuMono leading-normal        antialiased">
-                    <input class="rounded"
-                        type="checkbox"
-                        name="categories[]"
-                        value="{{ slug }}"
-                        {{ (get:categories | contains(slug)) ?= 'checked' }}>
-                    {{ title }}<br>
-                </label>
-            {{/taxonomy:challenges}}
 
-            <h5 class="mt-[18px] pb-[6px] text-lightpurple border-b border-lightpurple/70 mb-[6px]">Collections</h5>
-            {{taxonomy:section :categories:contains="{{(get:categories | contains(slug))}}"}}
-                <label class="font-ApercuMono leading-normal        antialiased">
-                    <input class="rounded"
-                        type="checkbox"
-                        name="categories[]"
-                        value="{{ slug }}"
-                        {{ (get:categories | contains(slug)) ?= 'checked' }}>
-                    {{ title }}<br>
-                </label>
-            {{/taxonomy:section}}
-            
-            <button type="submit" class="btn-primary mt-4">Apply</button>
-        </form>
-    </div>
-    <div class="col-start-5 xl:col-start-4 col-span-8 xl:col-span-9">
+    <div id="homeimage" class="h-[438px] w-[639px] bg-black absolute"></div>
+
+    {{partial:filtersMenu}}
+    
+    <div id="cardsGrid" class="col-start-5 xl:col-start-4 col-span-8 xl:col-span-9 mt-[160px]">
         <div class="border-b space-y-[12px] border-lightpurple/70 pb-[12px] mb-[12px]">
             <div class="font-ApercuBoldItalic text-[300px] xl:text-[387px] tracking-tighter leading-[220px] xl:leading-[280px]">2025</div>
             <h1>and counting...</h1>
             <h2>It’s time to save our humanity.</h2>
             {{welcome_message}}
         </div>
-
-        {{ collection from="*" not_from="pages" as="results"
+        {{ collection from="*" not_from="pages|quotations" as="results"
         :taxonomy:challenges:all="get:categories"
         :taxonomy:collection_type="get:collectiontype"
          }}
@@ -81,9 +28,11 @@
                     Sorry, no results.
                 </div>
             {{ else }}
-                <div class="columns-3 xl:columns-3 gap-[6px]">
+                <div class="columns-3 gap-[6px]">
                     {{ results | shuffle }}
-                        {{ partial:cards/card }}
+                        {{scope:carddetail}}
+                            {{ partial:cards/card }}
+                        {{/scope:carddetail}}
                     {{ /results }}
                 </div>
             {{ /if }}
@@ -118,36 +67,7 @@
 </section> -->
 
     <script src="/js/heroGSAP.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const accordionItems = document.querySelectorAll(".accordion-item");
-
-            accordionItems.forEach((item) => {
-            const header = item.querySelector(".accordion-header");
-            const content = item.querySelector(".accordion-content");
-
-            header.addEventListener("click", () => {
-
-                // close other items
-                accordionItems.forEach((otherItem) => {
-                if (otherItem !== item && otherItem.classList.contains("active")) {
-                    otherItem.classList.remove("active");
-                    otherItem.querySelector(".accordion-content").style.height = 0;
-                }
-                });
-
-                item.classList.toggle("active");
-
-                if (item.classList.contains("active")) {
-                content.style.height = `${content.scrollHeight}px`;
-                } else {
-                content.style.height = 0;
-                }
-            });
-            });
-        });        
-    </script>
-
+   
     <script>
         gsap.fromTo("#main-nav", 
         { y: -96 }, // Starting value
