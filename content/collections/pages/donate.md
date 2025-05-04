@@ -2,9 +2,9 @@
 id: b6969b97-3873-4df0-a9f7-9dc47876ce7a
 blueprint: simple_page
 template: donate
-title: 'Donate to support our work'
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1733590760
+title: 'Please donate to support our work'
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1746321752
 intro:
   -
     type: paragraph

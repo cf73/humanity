@@ -5,10 +5,17 @@ title: Desiderata
 poets_name: 'Max Ehrmann'
 image: image-1713244218.jpeg
 collection_type: poetry-contribution
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1722631724
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1743177728
 poets_website: 'https://www.poetryfoundation.org/articles/70274/in-search-of-desiderata'
 sections: inspiration
+published_date_or_year: '1927'
+related_content:
+  - 6d28b288-2ed8-4983-a206-c1a19b3c1219
+  - b4176ab7-67b2-40c2-b5e0-37c995d46176
+  - cc16a060-6b0e-4fb8-86e6-82941952e7eb
+  - cadec32d-dfcb-49f6-b5c8-cf60068eb464
+  - a01f7e10-c6ea-496b-ac1d-ef939cdf3425
 content:
   -
     type: paragraph

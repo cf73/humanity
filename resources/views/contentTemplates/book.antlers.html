@@ -1,49 +1,44 @@
 {{partial:globals/smoothWrapStart}}
 
-{{partial:globals/breadcrumb-tags}}
+<div class="flex flex-row gap-[24px] mt-[114px] mb-32 px-[30px]">
 
-<div class="mt-40 pr-4 grid grid-cols-5 gap-8">
-  <div class="col-span-3 px-16 flex flex-col">
-    <div class="text-6xl font-bold leading-none tracking-tight text-white/70 mb-8">
-        <div id="counting">{{title}}</div>
-    </div>
-    <div class="mt-8 space-y-8 fadeup">
-      <!-- metadata -->
-      <div class="space-y-8 flex flex-col">
-        <div class="space-y-2">
-          <div>
-            <span class="textMeta">Author: </span>
-            <span class="textSecondary">{{book_author}}</span>
+  {{partial:filtersMenu}}
+  {{partial:contentTemplates/contentColumnHeader}}
+      <div id="contentHeader" class="space-y-3">
+          <div class="flex flex-row justify-between pb-3">
+              <h2>{{book_author}}</h2>
+              {{partial:globals/socialIcons}}
+            </div>
+          <h1 class="border-b border-lightpurple/70 pb-6">{{title}}</h1>
+          <div class="flex flex-row justify-between border-b border-lightpurple/70 pb-3">
+              <h2>{{date_published}}</h2>
+              <a href="{{link}}" target="_blank"><h2 class="inline-flex items-center gap-2">Buy Online <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" /></svg></h2></a>
           </div>
-          <div>
-            <span class="textMeta">Published: </span>
-            <span class="textSecondary">{{date_published}}</span>
+          <div class="flex flex-row items-baseline space-x-2 border-b border-lightpurple/70 pb-3">
+              <h5 class="text-lightpurple">filed under:</h5>
+              <div class="space-x-4 flex flex-row">
+                  {{if challenges}}
+                      {{challenges}}
+                      <a href="/challenges/{{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                      {{/challenges}}
+                  {{/if}}
+                  {{if sections}}
+                      {{sections}}
+                      <a href="/sections/{{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                      {{/sections}}
+                  {{/if}}
+                  <a href="/results?collectiontype%5B%5D={{collection_type:slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{collection_type:title}}</h4></a>
+              </div>
           </div>
-        </div>
-        <a href="{{link}}" target="_blank">
-          <button
-              type="button"
-              class="inline-flex items-center gap-8 rounded bg-none border-2 border-white px-4 py-1 italic  leading-normal text-white shadow-light-3 transition duration-150 ease-in-out hover:bg-skyNeutral/20 hover:shadow-light-2 focus:bg-skyNeutral focus:shadow-light-2 focus:outline-none focus:ring-0 active:bg-skyNeutral active:shadow-light-2 motion-reduce:transition-none dark:shadow-black/30 dark:hover:shadow-dark-strong dark:focus:shadow-dark-strong dark:active:shadow-dark-strong">
-              Buy online <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
-              </svg>
-          
-          </button>
-      </a>
       </div>
-    </div>
-    <div class="textMain leading-snug mx-auto">
-        {{description}}
-    </div>
+      <div class="flex flex-row gap-6">
+        <div class="prose prose-sky prose-lg leading-6">{{description}}</div>
+        <div><img src="{{image}}" width="100%" height="auto" alt="{{title}}" class="w-full"></div>
+      </div>
   </div>
-  
-  <div class="col-span-2">
-    <img src="{{image}}" alt="{{title}}" width="100%">
-  </div>
+
 </div>
-
-
-
 
 {{partial:contentTemplates/relatedContent}}
 

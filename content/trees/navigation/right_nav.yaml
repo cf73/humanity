@@ -1,4 +1,17 @@
 tree:
   -
-    id: 44f2c004-cce1-4e8b-9d77-6eaf38554c57
-    entry: 066a064c-0bfa-4a95-aaff-17dcb83c8b81
+    id: f86314ab-bba4-441f-a551-b086671856d9
+    title: 'Commencement Speeches'
+    url: '/results?collectiontype%5B%5D=commencement-speech'
+  -
+    id: 12ee43e7-8f31-4467-9de1-2c485a947d5b
+    title: Index
+    url: /results
+  -
+    id: b166b263-2354-4bb0-9edc-74a0f9dcd6eb
+    entry: e2c682f5-04cb-4b69-83f6-50cdbc6f2fa7
+    title: About
+  -
+    id: 8e3e90a7-5686-4684-bbd5-3fae4ac3f44f
+    entry: b6969b97-3873-4df0-a9f7-9dc47876ce7a
+    title: 'Support Us'

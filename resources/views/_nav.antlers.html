@@ -1,6 +1,9 @@
-<div id="main-nav" class="w-full h-20 fixed top-0 left-0 z-50 backdrop-blur-lg bg-skyNeutral/75">      
-    <div class="px-8 mx-auto w-full h-full flex flex-row justify-between items-center relative z-10">
-        <nav class="flex flex-row gap-8 items-center">
+<div id="main-nav" class="w-full h-[90px] fixed top-0 left-0 z-50 backdrop-blur-xl bg-simpleBlue/70">      
+    <div class="px-[30px] mx-auto grid grid-cols-12 gap-6 w-full h-full flex flex-row justify-between items-center relative z-10">
+        <div id="logo" class="col-span-4 xl:col-span-3">
+            <a href="/"><img src="/assets/logoTHI.png" alt="Humanity Logo" width="186px"></a>
+        </div>
+        <!-- <nav class="flex flex-row gap-8 items-center">
             {{ nav:topnav }}
                 {{if children}}
                 <div x-data="{
@@ -8,7 +11,7 @@
                 }"
                 class="relative">
             
-                    <button @click="dropdownOpen=true" class="text-whitetrans transition inline-flex items-center space-x-2">
+                    <button @click="dropdownOpen=true" class="text-offwhite transition inline-flex items-center space-x-2">
                         <span class="hover:text-white tracking-wide">{{title}} </span>
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
                             <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
@@ -35,27 +38,18 @@
             
                 {{else}}
                 <a href="{{ url }}"{{ if is_current || is_parent }} class="text-boldyellow"{{ /if }} class="hover:no-underline">
-                    <div class="text-whitetrans hover:text-white transition tracking-wide">{{title}}</div>
+                    <div class="text-offwhite hover:text-white transition tracking-wide">{{title}}</div>
                 </a>
                 {{/if}}
             {{/nav:topnav}}
-        </nav>
-        <div id="logo" class="absolute ml-[50%] -left-[90px]">
-            <a href="/"><img src="/assets/humanity-logo.png" alt="Humanity Logo" width="180px"></a>
-        </div>
-        <nav class="flex flex-row gap-8 items-center">
+        </nav> -->
+        
+        <nav class="flex flex-row col-start-5 xl:col-start-4 col-span-8 xl:col-span-9 justify-between w-full gap-8 border-b border-lightpurple/70 pb-3">
             {{nav:right_nav}}
                 <a href="{{ url }}"{{ if is_current || is_parent }} class="text-boldyellow"{{ /if }} class="hover:no-underline">
-                    <div class="text-whitetrans hover:text-white transition tracking-wide">{{title}}</div>
+                    <h5 class="text-lightpurple hover:text-white transition tracking-wide">{{title}}</h5>
                 </a>
             {{/nav:right_nav}}
-            <a href="/donate">
-                <button
-                    type="button"
-                    class="inline-flex items-center rounded bg-boldyellow px-4 py-1 tracking-wide text-skyNeutral leading-normal shadow-light-3 transition duration-150 ease-in-out hover:bg-white hover:shadow-light-2 focus:bg-white focus:shadow-light-2 focus:outline-none focus:ring-0 active:bg-white active:shadow-light-2 motion-reduce:transition-none ">
-                    Donate
-                </button>
-            </a>
         </nav>
     </div>
     

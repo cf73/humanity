@@ -4,64 +4,82 @@
 
 /* This is all you. */
 
+@font-face {
+    font-family: 'ApercuRegular';
+    src: url('/public/fonts/apercu_regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ApercuBold';
+    src: url('/public/fonts/apercu_bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ApercuMono';
+    src: url('/public/fonts/apercu_mono.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ApercuBoldItalic';
+    src: url('/public/fonts/apercu_bold_italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 @layer base {
     body {
-        @apply text-textNeutral font-josephin font-normal;
+        @apply text-offwhite font-ApercuRegular font-normal;
     }
     .display {
-        @apply font-josephin font-extralight tracking-tight leading-tight text-9xl text-atomicTangerine;
+        @apply font-ApercuRegular font-extralight tracking-tight leading-tight text-9xl text-offwhite;
     }
     h1 {
-        @apply font-josephin font-bold text-cetaceanBlue leading-tight uppercase text-4xl xl:text-5xl;
+        @apply font-ApercuBold leading-snug text-6xl lg:text-8xl text-offwhite antialiased;
     }
     h2 {
-        @apply lg:text-2xl font-josephin font-semibold leading-tight antialiased;
+        @apply font-ApercuBold leading-tight text-xl xl:text-2xl text-offwhite antialiased;
     }
     h3 {
-        @apply text-lg xl:text-xl font-josephin font-semibold leading-tight antialiased;
+        @apply font-ApercuBold leading-tight text-lg text-offwhite antialiased;
     }
     h4 {
-        @apply xl:text-xl font-josephin font-semibold antialiased w-fit;
-    }
-    h6 {
-        @apply text-2xl tracking-wide text-yellow-600 font-serif leading-normal prose prose-sky subpixel-antialiased;
+        @apply font-ApercuMono leading-normal tracking-tight text-offwhite antialiased;
     }
     h5 {
-        @apply font-josephin font-light text-2xl leading-normal;
+        @apply font-ApercuMono uppercase leading-normal tracking-wider text-xs text-offwhite antialiased;
     }
     a {
-        @apply text-whitetrans hover:underline underline-offset-4;
+        @apply text-offwhite hover:underline underline-offset-4 text-offwhite;
     }
-    .textMeta {
-        @apply uppercase font-josephin text-xs font-medium antialiased text-whitetrans tracking-widest w-fit mt-[.25em];
+    p {
+        @apply font-ApercuRegular antialiased text-offwhite;
     }
-    .textMain {
-        @apply font-serif prose prose-sky lg:prose-xl;
+    .quote {
+        @apply font-ApercuRegular leading-normal text-4xl lg:text-5xl text-offwhite antialiased;
     }
-    .textMainSans {
-        @apply font-josephin font-light subpixel-antialiased prose prose-sky mx-auto leading-normal text-xl;
+    strong {
+        @apply font-ApercuBold font-normal text-offwhite antialiased;
     }
-    .textMainSans2 {
-        @apply font-josephin font-light text-yellow-600 subpixel-antialiased prose prose-sky mx-auto leading-normal text-xl;
-    }
-    .textSecondary {
-        @apply font-serif text-whitetrans antialiased tracking-tight;
+    em {
+        @apply font-ApercuBoldItalic not-italic text-offwhite antialiased;
     }
 }
 
 @layer components {
     .btn-primary {
-        @apply font-josephin font-semibold text-softblack tracking-wider rounded px-6 py-4 bg-snow/80 hover:bg-snow transition-all w-fit;
+        @apply font-ApercuMono text-offwhite bg-darkBlue rounded-2xl px-6 py-4 w-full;
     }
     .btn-inverse {
-        @apply bg-white hover:bg-white text-softblack;
+        @apply bg-white hover:bg-white text-offwhite;
     }
     .btn-secondary {
-        @apply font-josephin font-semibold text-xl text-white tracking-wider bg-atomicTangerine rounded px-8 py-2 hover:bg-atomicTangerine/80 transition-all w-fit;
+        @apply font-ApercuRegular  text-xl text-white tracking-wider bg-offwhite rounded px-8 py-2 hover:bg-offwhite/80 transition-all w-fit;
     }
     .btn-tirtiary {
-        @apply font-josephin font-semibold text-softblack tracking-wider bg-none border border-solid border-textBlue rounded px-8 py-2 w-fit;
+        @apply font-ApercuRegular  text-offwhite tracking-wider bg-none border border-solid border-offwhite rounded px-8 py-2 w-fit;
     }
 }
 

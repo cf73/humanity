@@ -1,5 +1,5 @@
 <section id="intro" class="w-full py-[25vh] bg-warmwhite relative z-10 flex flex-col items-center justify-center space-y-8">
-    <div id="introprose" class="w-2/3 text-xl font-sans prose mx-auto text-softblack" data-speed="1.25">{{introduction}}</div>
+    <div id="introprose" class="w-2/3 text-xl font-sans prose mx-auto text-offwhite" data-speed="1.25">{{introduction}}</div>
     <div data-speed="1.25"><a href="/about"><button>About The Humanity Initiative</button></a></div>
 </section>  
 
@@ -29,7 +29,7 @@
                     <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=photography-contribution">{{collection:photography_contributions challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:photography_contributions}} Photography Contributions</a></div>
                     <div><a href="/index?categories%5B%5D={{slug}}&collectiontype%5B%5D=talk">{{collection:talks challenges:contains="{{slug}}" as="entries"}} {{entries | count}} {{/collection:talks}} Talks</a></div>
                 </div>
-                <a href="{{url}}"><button class="border-white font-semibold text-lg tracking-widest p-2 px-8 text-warmwhite backdrop-blur-lg">Explore</button></a>
+                <a href="{{url}}"><button class="border-white  text-lg tracking-widest p-2 px-8 text-warmwhite backdrop-blur-lg">Explore</button></a>
     
             </div>
         </div>

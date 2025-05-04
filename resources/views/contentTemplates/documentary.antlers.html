@@ -1,51 +1,56 @@
 {{partial:globals/smoothWrapStart}}
 
-{{partial:globals/breadcrumb-tags}}
+<div class="flex flex-row gap-[24px] mt-[114px] mb-32 px-[30px]">
 
-<div class="container mx-auto flex flex-col items-center space-y-8 pb-24 relative">
-    {{partial:contentTemplates/contentHeader}}
-
-
-    {{if video_id}}
-    <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    {{else}}
-    <img src="{{image}}" alt="{{title}}" class="w-1/2">
-    {{/if}}
-
-    <div class="space-y-2 flex flex-col items-center">
-        <div>
-            <span class="textMeta">Directed by: </span>
-            <span class="textSecondary">{{director}}</span>
+    {{partial:filtersMenu}}
+    {{partial:contentTemplates/contentColumnHeader}}
+        <div id="contentHeader" class="space-y-3">
+            <div class="flex flex-row justify-between pb-3">
+                <h2>{{director}}</h2>
+                {{partial:globals/socialIcons}}
+            </div>
+            <h1>{{title}}</h1>
+            <h2 class="border-b border-lightpurple/70 pb-6">{{description}}</h2>
+            <div class="flex flex-row justify-between border-b border-lightpurple/70 pb-3">
+                <h2>{{date_released}}</h2>
+                <div class="flex flex-col items-end">
+                    <a href="{{url_to_buy}}" target="_blank">
+                        <h2 class="inline-flex items-center gap-2 hover:text-highlight">Buy it here <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" /></svg></h2>
+                    </a>
+                    <a href="{{url_to_watch}}" target="_blank">
+                        <h2 class="inline-flex items-center gap-2 hover:text-highlight">Watch it here <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" /></svg></h2>
+                    </a>
+                </div>
+            </div>
+            <div class="flex flex-row items-baseline space-x-2 border-b border-lightpurple/70 pb-3">
+                <h5 class="text-lightpurple">filed under:</h5>
+                <div class="space-x-4 flex flex-row">
+                    {{if challenges}}
+                        {{challenges}}
+                        <a href="/challenges/{{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                        {{/challenges}}
+                    {{/if}}
+                    {{if sections}}
+                        {{sections}}
+                        <a href="/sections/{{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                        {{/sections}}
+                    {{/if}}
+                    <a href="/results?collectiontype%5B%5D={{collection_type:slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{collection_type:title}}</h4></a>
+                </div>
+            </div>
         </div>
-        <div>
-            <span class="textMeta">Date released: </span>
-            <span class="textSecondary">{{date_released}}</span>
-        </div>
-    </div>
-
-
-    <div class="flex flex-row space-x-4">
-        <a href="{{url_to_watch}}" target="_blank">
-            <button
-            type="button"
-            class="inline-flex items-center gap-8 rounded bg-skyNeutral/70 px-7 pb-2.5 pt-3 text-2xl leading-normal text-white shadow-light-3 transition duration-150 ease-in-out hover:bg-skyNeutral/80 hover:shadow-light-2 focus:bg-skyNeutral focus:shadow-light-2 focus:outline-none focus:ring-0 active:bg-skyNeutral active:shadow-light-2 motion-reduce:transition-none dark:shadow-black/30 dark:hover:shadow-dark-strong dark:focus:shadow-dark-strong dark:active:shadow-dark-strong">
-            Watch it here <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
-              </svg>
-            </button>
-        </a>
-        <a href="{{url_to_buy}}" target="_blank">
-            <button
-            type="button"
-            class="inline-flex items-center gap-8 rounded bg-skyNeutral/70 px-7 pb-2.5 pt-3 text-2xl leading-normal text-white shadow-light-3 transition duration-150 ease-in-out hover:bg-skyNeutral/80 hover:shadow-light-2 focus:bg-skyNeutral focus:shadow-light-2 focus:outline-none focus:ring-0 active:bg-skyNeutral active:shadow-light-2 motion-reduce:transition-none dark:shadow-black/30 dark:hover:shadow-dark-strong dark:focus:shadow-dark-strong dark:active:shadow-dark-strong">
-            Buy it here <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
-              </svg>
-            </button>
-        </a>
+            {{if video_id}}
+            <iframe width="100%" height="auto" class="aspect-[16/9] " src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            {{else}}
+            <img src="{{image}}" alt="{{title}}" class="w-full">
+            {{/if}}
+            <div class="prose prose-sky prose-lg leading-6">{{transcript}}</div>
     </div>
 
 </div>
+
 {{partial:contentTemplates/relatedContent}}
 
 {{partial:globals/smoothWrapEnd}}

@@ -36,7 +36,8 @@ related_content:
   - 2a810fef-a95b-487e-a681-9e2d3e9e3e60
   - 628a23b7-fe57-4f55-93ae-11bdabccff59
   - f0946d8d-1bf3-476d-8b40-f1f2b7db91c3
-updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1735225392
+updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
+updated_at: 1746322869
 sections: inspiration
+video_id: 'FnrVk2InT3Y?si=0RdzsA8PcjjZv3fo'
 ---

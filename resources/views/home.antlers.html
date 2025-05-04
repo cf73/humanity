@@ -1,71 +1,45 @@
 {{partial:globals/smoothWrapStart}}
-<div id="invisibleScrollerTarget"></div>
 
-<section data-speed="0.5" id="hero" class="min-h-screen pt-24 relative flex flex-col justify-center">
-    <!-- <div class="background absolute top-0 left-0 w-full h-full bg-lightSkyBlue z-0"></div> -->
+<div class="mx-auto mt-[114px] flex flex-row gap-[24px] mt-16 mb-32 px-[30px] relative">
+    <!-- <style>
+        /* Hide inactive checkboxes */
+        input[type="checkbox"]:not(:checked) {
+            display: none;
+        }
+    </style> -->
+
+    <img id="homeimage" class="h-[auto] w-1/2 bg-black absolute" src="{{hero_images | random}}"></img>
+
+    {{partial:filtersMenu}}
     
-    <div class="px-16 flex flex-col h-full w-full pt-[10vh] relative z-30 pr-16">
-        <div class="text-center text-6xl font-regular uppercase leading-none tracking-tight text-white">
-            <div id="counting">2025 and counting...</div>
-            <div>Time to rescue our humanity.</div>
+    <div id="cardsGrid" class="md:w-[calc(100%-280px)] mt-[28vh]">
+        <div class="border-b space-y-[12px] border-lightpurple/70 pb-[12px] mb-[12px]">
+            <div class="font-ApercuBoldItalic text-[300px] xl:text-[387px] tracking-tighter leading-[220px] xl:leading-[280px]">2025</div>
+            <h1>and counting...</h1>
+            <h2>It’s time to save our humanity.</h2>
+            <div class="prose prose-sky prose-lg !max-w-none pb-8">{{welcome_message}}</div>
         </div>
-        <div class="textMain leading-snug text-center text-white mx-auto">
-            {{welcome_message}}
-        </div>
-        <!-- <button id="heroButton" class="btn-primary">{{lead_button_text}}</button> -->
-    </div>
-    <!-- <div data-speed=".6" style="background-image: url('{{hero_images | random}}');" class="h-full w-full bg-center bg-contain bg-no-repeat"></div> -->
-</section>
-
-<section id="challengesIntro" class="pt-32 space-y-48 -mb-12">
-
-    {{partial:challengeIntro challengeslugpassed="war"}}
-
-    {{partial:challengeIntro challengeslugpassed="climate"}}
-   
-    {{partial:challengeIntro challengeslugpassed="democracy"}}
-
-</section>
-
-<section data-speed="1.4" id="secondary" class="grid grid-cols-2 gap-16 relative z-10 bg-skyNeutral pb-48">
-    <div data-speed=".9" class="flex flex-col justify-center h-full py-24 space-y-8">
-        <div class="textMain text-center mx-auto leading-snug text-white p-16">
-            {{intro_to_sites_content:summary}}
-        </div>
-        <img src="{{intro_to_sites_content_image}}" width="100%" alt="{{intro_to_sites_content_image:title}}">
-    </div>
-    <div data-speed="1.2" class="h-full w-full flex flex-col justify-center lg:pr-16">
-        <div class="accordion container mx-auto relative z-40">
-            <style>
-                .accordion-item.active .accordion-icon {
-                transform: rotate(90deg);
-                }
-            </style>
-            {{intro_to_sites_content:accordion}}
-            <div class="accordion-item py-4 border-b border-white/20 text-white">
-                <div class="accordion-header cursor-pointer flex items-center justify-between xl:py-2 font-inter font-medium duration-200 ease-out">
-                    <h3>{{item_title}}</h3>
-                    <span class="accordion-icon inline-block rotate-0 duration-200 ease-out"><i class="fa-solid fa-chevron-down accordion-icon"></i></span>
+        {{ collection from="*" not_from="pages|quotations" as="results"
+        :taxonomy:challenges:all="get:categories"
+        :taxonomy:collection_type="get:collectiontype"
+         }}
+            {{ if no_results }}
+                <div class="p-8 rounded-lg bg-gray-100 text-center">
+                    Sorry, no results.
                 </div>
-                <div style="height: 0;" class="accordion-content overflow-hidden duration-200 ease-out">
-                    <div class="textMain text-sm text-white leading-normal py-2">
-                        <div class="mb-4">{{item_content}}</div>
-                        <a href="{{button_link:url}}">
-                            <button
-                                type="button"
-                                class="inline-flex items-center gap-8 rounded bg-skyNeutral border-2 border-white px-4 py-1 italic  leading-normal text-white shadow-light-3 transition duration-150 ease-in-out hover:bg-skyNeutral/80 hover:shadow-light-2 focus:bg-skyNeutral focus:shadow-light-2 focus:outline-none focus:ring-0 active:bg-skyNeutral active:shadow-light-2 motion-reduce:transition-none dark:shadow-black/30 dark:hover:shadow-dark-strong dark:focus:shadow-dark-strong dark:active:shadow-dark-strong">
-                                Explore <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
-                                    <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
-                                </svg>
-                            
-                            </button>
-                        </a>
-                    </div>
+            {{ else }}
+                <div class="columns-3 gap-[6px]">
+                    {{ results | shuffle }}
+                        {{scope:carddetail}}
+                            {{ partial:cards/card }}
+                        {{/scope:carddetail}}
+                    {{ /results }}
                 </div>
-            </div>
-            {{/intro_to_sites_content:accordion}}
-        </div>
+            {{ /if }}
+        {{ /collection }}
     </div>
+</div>
+
     {{ collection:quotations sort="random" limit="1" }}
         <div data-speed="1.4" class="col-span-2 px-16 -mt-48 z-20 flex flex-col items-center text-center">
             <div class="text-5xl text-white leading-snug mb-4">{{quotation}}</div>
@@ -73,15 +47,9 @@
         </div>
     {{/collection:quotations}}
 </section>
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-document.getElementById("heroButton").onclick = () => {
-    gsap.to(window, { duration: 2, scrollTo: { y: "#challengesIntro", offsetY:24 } });
-};
-});
-</script>
 
-<img src="{{closing_photo}}" width="66%" class="-mt-24 mx-auto" alt="{{closing_photo:title}}">
+
+<img src="{{closing_photo}}" width="66%" class="mx-auto" alt="{{closing_photo:title}}">
 
 <section data-speed="0.8" class="py-60">
     <div class="textMain text-center text-white/70 mx-auto leading-snug">
@@ -99,36 +67,7 @@ document.getElementById("heroButton").onclick = () => {
 </section> -->
 
     <script src="/js/heroGSAP.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const accordionItems = document.querySelectorAll(".accordion-item");
-
-            accordionItems.forEach((item) => {
-            const header = item.querySelector(".accordion-header");
-            const content = item.querySelector(".accordion-content");
-
-            header.addEventListener("click", () => {
-
-                // close other items
-                accordionItems.forEach((otherItem) => {
-                if (otherItem !== item && otherItem.classList.contains("active")) {
-                    otherItem.classList.remove("active");
-                    otherItem.querySelector(".accordion-content").style.height = 0;
-                }
-                });
-
-                item.classList.toggle("active");
-
-                if (item.classList.contains("active")) {
-                content.style.height = `${content.scrollHeight}px`;
-                } else {
-                content.style.height = 0;
-                }
-            });
-            });
-        });        
-    </script>
-
+   
     <script>
         gsap.fromTo("#main-nav", 
         { y: -96 }, // Starting value

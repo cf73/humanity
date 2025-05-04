@@ -1,20 +1,15 @@
 {{partial:globals/smoothWrapStart}}
 
-<img data-speed="0.77" id="challengeIntroImage{{increment:introImage from='1'}}" class="mx-auto w-full" src="{{main_image}}" alt="{{main_image:title}}">
-<div class="grid grid-cols-2 gap-16 mb-[100vh] -mt-24">
-    <div data-speed="0.6" class="px-16 flex flex-col h-full w-full pt-[10vh] relative z-30 pr-16 mb-8">
-        <div class="text-center text-6xl font-bold leading-none tracking-tight text-skyNeutral">
-            <div id="counting">{{title}}</div>
-        </div>
-        <div class="textMain leading-snug text-center mx-auto">
-            {{intro}}
-        </div>
-        <!-- <button id="heroButton" class="btn-primary">{{lead_button_text}}</button> -->
-    </div>
-    
+<div class="grid grid-cols-2 gap-16 mt-36 px-6">
     <div class="w-full flex flex-col items-center relative z-30">
         <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe class="mb-32" src="https://donorbox.org/embed/support-the-humanity-initiative?default_interval=m" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 500px; min-width: 250px; max-height:none!important" allow="payment"></iframe>
         <!-- <script src="https://donorbox.org/widget.js" paypalExpress="false"></script><iframe frameborder="0" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/support-the-humanity-initiative?donor_wall_color=%236b4984&amp;only_donor_wall=true" style="width: 100%; max-width:500px; min-width:310px; min-height: 345px;"></iframe> -->
+    </div>
+    <div class="flex flex-col space-y-8 h-screen justify-center">
+        <h2>{{title}}</h2>
+        <div class="prose prose-sky leading-snug">
+            {{intro}}
+        </div>
     </div>
 </div>
  

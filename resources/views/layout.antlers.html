@@ -2,42 +2,31 @@
 <html lang="{{ site:short_locale }}">
     <head>
        <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-X19VT875MD"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-X19VT875MD"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-  gtag('config', 'G-X19VT875MD');
-</script>
+        gtag('config', 'G-X19VT875MD');
+        </script>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
                 
         <title>{{ title ?? site:name }}</title>
         
-        <link
-        rel="stylesheet"
-        href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
-      />
-     
-      <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
-         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/Flip.min.js"></script>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
 
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         
          {{ vite src="resources/js/site.js|resources/css/site.css" }}
 
-         
-
          <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
-
+         
          <link rel= "stylesheet" href= "https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css" >
     </head>
     <!-- <script>
@@ -47,9 +36,10 @@
             ignoreMobileResize: true, // Disable ScrollSmoother on touch devices
         });
     </script> -->
-    <body class="bg-dusk overflow-x-hidden ">
-        
-        
+    <body>
+
+        <div class="bg-[linear-gradient(to_bottom,_#3226D9_0%,_#5E53F2_64%)] fixed top-0 left-0 h-screen w-full"></div>
+
         {{partial:nav}}
         {{ template_content }}
 
@@ -65,110 +55,7 @@
         <!-- <script src="/js/heroGSAP.js"></script> -->
         <script src="/js/navGSAP.js"></script>
 
-        
-
-        <!-- Initialize Swiper -->
-        <!-- <script>
-            const swiper = new Swiper('.takeActionSwiper', {
-                pagination: {
-                    el: '.swiper-pagination',
-                    clickable: true,
-                },
-                navigation: {
-                    nextEl: '.image-swiper-button-next',
-                    prevEl: '.image-swiper-button-prev',
-                    disabledClass: "swiper-button-disabled",
-                },
-                slidesPerView: 1,
-                spaceBetween: 30,
-                effect: 'fade',
-                speed: '1600',
-            });
-        </script> -->
-        <script>
-            const swiper1 = new Swiper('.featuredSwiper', {
-                pagination: {
-                    el: '.swiper-pagination',
-                    clickable: true,
-                },
-                navigation: {
-                    nextEl: '.image-swiper-button-next',
-                    prevEl: '.image-swiper-button-prev',
-                    disabledClass: "swiper-button-disabled",
-                },
-                breakpoints: {
-                    320: {
-                       slidesPerView: 1.2,
-                    },
-                    1024: {
-                       slidesPerView: 3.2,
-                    }
-                },
-                spaceBetween: 30,
-                effect: 'slide',
-                speed: '1600',
-            });
-        </script>
-        
-        <script>
-            const swiper2 = new Swiper('.commencementsHeroSwiper', {
-                slidesPerView: 1,
-                effect: 'fade',
-                speed: '4000',
-                autoplay: {
-                    delay: 2500,
-                    disableOnInteraction: false,
-                },
-            });
-        </script>
-
-        <script>
-            const swiper3 = new Swiper('.commencementsSwiper', {
-                pagination: {
-                    el: '.swiper-pagination',
-                    clickable: true,
-                },
-                navigation: {
-                    nextEl: '.image-swiper-button-next',
-                    prevEl: '.image-swiper-button-prev',
-                    disabledClass: "swiper-button-disabled",
-                },
-                slidesPerView: 2,
-                spaceBetween: 190,
-                effect: 'slide',
-                speed: '1600',
-            });
-        </script> 
-        <script>
-            const swiper4 = new Swiper('.featuredCommencementSpeeches', {
-                navigation: {
-                    nextEl: '.image-swiper-button-next',
-                    prevEl: '.image-swiper-button-prev',
-                    disabledClass: "swiper-button-disabled",
-                },
-                slidesPerView: 3,
-                spaceBetween: 30,
-                effect: 'slide',
-                speed: '1600',
-            });
-        </script>
-        <script>
-            const swiper5 = new Swiper('.relatedContentSwiper', {
-                navigation: {
-                    nextEl: '.image-swiper-button-next',
-                    prevEl: '.image-swiper-button-prev',
-                    disabledClass: "swiper-button-disabled",
-                },
-                slidesPerView: 3,
-                spaceBetween: 30,
-                effect: 'slide',
-                speed: '1600',
-            });
-        </script>
-
-        <!-- Fathom - beautiful, simple website analytics -->
-        <script src="https://cdn.usefathom.com/script.js" data-site="AQAGCWSU" defer></script>
-        <!-- / Fathom -->
+    
 
         <!-- Default Statcounter code for Humanity
         http://ourhumanity.org -->
@@ -187,5 +74,7 @@
             alt="Web Analytics Made Easy - Statcounter"
             referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
             <!-- End of Statcounter Code -->
+
+           
     </body>
 </html>

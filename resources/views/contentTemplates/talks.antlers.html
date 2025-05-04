@@ -1,34 +1,50 @@
 {{partial:globals/smoothWrapStart}}
 
-{{partial:globals/breadcrumb-tags}}
+<div class="flex flex-row gap-[24px] mt-[114px] mb-32 px-[30px]">
 
-<div class="container mx-auto flex flex-col items-center space-y-8 relative">
-    {{partial:contentTemplates/contentHeader}}
-
-
-    {{if video_id}}
-    <iframe width="812" height="480" src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    {{else}}
-    <img src="{{image}}" alt="{{title}}" class="w-full">
-    {{/if}}
-
-    <div class="space-y-2 flex flex-col items-center">
-        <div>
-            <span class="textMeta">Speaker: </span>
-            <span class="textSecondary">{{speaker}}</span>
+    {{partial:filtersMenu}}
+    {{partial:contentTemplates/contentColumnHeader}}
+        <div id="contentHeader" class="space-y-3">
+            <div class="flex flex-row justify-between pb-3">
+                <h2>{{speaker}}</h2>
+                {{partial:globals/socialIcons}}
+            </div>
+            <h1 class="border-b border-lightpurple/70 pb-6">{{title}}</h1>
+            <div class="flex flex-row justify-between border-b border-lightpurple/70 pb-3">
+                <h2>{{date_of_talk}}</h2>
+                {{if link}}
+                <a href="{{link}}" target="_blank"><h2>{{location_or_event}}</h2></a>
+                {{else}}
+                <h2>{{location_or_event}}</h2>
+                {{/if}}
+            </div>
+            <div class="flex flex-row items-baseline space-x-2 border-b border-lightpurple/70 pb-3">
+                <h5 class="text-lightpurple">filed under:</h5>
+                <div class="space-x-4 flex flex-row">
+                    {{if challenges}}
+                        {{challenges}}
+                        <a href="/challenges/{{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                        {{/challenges}}
+                    {{/if}}
+                    {{if sections}}
+                        {{sections}}
+                        <a href="/sections/{{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                        {{/sections}}
+                    {{/if}}
+                    <a href="/results?collectiontype%5B%5D={{collection_type:slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{collection_type:title}}</h4></a>
+                </div>
+            </div>
         </div>
-        <div>
-            <span class="textMeta">Date: </span>
-            <span class="textSecondary">{{date_of_talk}}</span>
-        </div>
-        <div>
-            <span class="textMeta">Location: </span>
-            <span class="textSecondary">{{location_or_event}}</span>
-        </div>  
+            {{if video_id}}
+            <iframe width="100%" height="auto" class="aspect-[16/9] " src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            {{else}}
+            <img src="{{image}}" alt="{{title}}" class="w-full">
+            {{/if}}
+            <div class="prose prose-sky prose-lg leading-6">{{additional_text}}</div>
     </div>
-    <div class="textMain">{{additional_text}}</div>  
 
 </div>
+
 
 {{partial:contentTemplates/relatedContent}}
 

@@ -1,0 +1,229 @@
+title: Film
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              required: true
+              validate:
+                - required
+          -
+            handle: date_released
+            field:
+              mode: single
+              inline: false
+              full_width: false
+              columns: 1
+              rows: 1
+              time_enabled: false
+              time_seconds_enabled: false
+              type: date
+              display: 'Date Released'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: director
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Director
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: video_id
+            field:
+              type: textarea
+              display: 'Video ID'
+              instructions: 'Grab the long string of random letters and numbers after this in the YouTube embed code: src="https://www.youtube.com/embed/[grab this bit and paste it here]"'
+          -
+            handle: url_to_watch
+            field:
+              type: link
+              display: 'URL to Watch'
+              instructions: 'This is the link to where to watch the documentary online'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: url_to_buy
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'URL to Buy'
+              instructions: 'This is the link to buy a copy of the documentary'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: image
+            field:
+              mode: list
+              container: assets
+              restrict: false
+              allow_uploads: true
+              show_filename: true
+              show_set_alt: true
+              type: assets
+              display: Image
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+              max_files: 1
+          -
+            handle: description
+            field:
+              buttons:
+                - bold
+                - removeformat
+                - anchor
+              smart_typography: false
+              save_html: false
+              inline: false
+              toolbar_mode: fixed
+              reading_time: false
+              word_count: false
+              fullscreen: true
+              allow_source: true
+              enable_input_rules: true
+              enable_paste_rules: true
+              remove_empty_nodes: false
+              antlers: false
+              link_noopener: false
+              link_noreferrer: false
+              target_blank: false
+              always_show_set_button: false
+              collapse: false
+              previews: true
+              type: bard
+              display: Description
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
+          -
+            handle: collection_type
+            field:
+              mode: select
+              create: false
+              taxonomies:
+                - collection_type
+              type: terms
+              display: 'Collection Type'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              max_items: 1
+              validate:
+                - required
+          -
+            handle: challenges
+            field:
+              mode: select
+              create: false
+              taxonomies:
+                - challenges
+              type: terms
+              display: Challenges
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: sections
+            field:
+              max_items: 1
+              mode: select
+              create: false
+              taxonomies:
+                - section
+              type: terms
+              display: Sections
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: related_partner_initiatives
+            field:
+              max_items: 4
+              mode: select
+              create: false
+              collections:
+                - partner_initiatives
+              type: entries
+              display: 'Related Partner Initiatives'
+              instructions: "Help site visitors discover how to take action related to the content they've just seen here."
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+          -
+            handle: related_content
+            field:
+              max_items: 5
+              mode: select
+              create: false
+              collections:
+                - articles
+                - books
+                - commencement_speeches
+                - partner_stories
+                - talks
+                - poetry_contributions
+              type: entries
+              display: 'Related Content'
+              instructions: 'Other content from THI that relates to this piece, allowing visitors to follow their own path.'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+              validate:
+                - required
+

@@ -17,13 +17,13 @@
 
         {{ elseif type == "interstitial_text" }}
           <div class="container mx-auto">
-            <div class="prose font-sans text-softblack text-xl mx-auto my-32">{{interstitial_text}}</div>
+            <div class="prose font-sans text-offwhite text-xl mx-auto my-32">{{interstitial_text}}</div>
           </div>
 
         {{ elseif type == "quotation" }}
           <div class="container mx-auto font-serif text-5xl text-center leading-normal my-32 space-y-4">
-            <div class="text-softblack">{{ quotation:quotation }}</div>
-            <div class="text-sm font-medium uppercase text-center tracking-widest text-softblack">— {{ quotation:attribution }}</div>
+            <div class="text-offwhite">{{ quotation:quotation }}</div>
+            <div class="text-sm font-medium uppercase text-center tracking-widest text-offwhite">— {{ quotation:attribution }}</div>
           </div>
 
         {{ elseif type == "inspiring_image" }}

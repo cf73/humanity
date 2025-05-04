@@ -1,43 +1,43 @@
 {{partial:globals/smoothWrapStart}}
 
-{{partial:globals/breadcrumb-tags}}
+<div class="flex flex-row gap-[24px] mt-[114px] mb-32 px-[30px]">
 
+    {{partial:filtersMenu}}
+    {{partial:contentTemplates/contentColumnHeader}}
+        <div id="contentHeader" class="space-y-3">
+            <div class="flex flex-row justify-between pb-3">
+                <h2>{{articleauthor}}</h2>
+                {{partial:globals/socialIcons}}
+            </div>
+            <h1>{{title}}</h1>
+            <h2 class="border-b border-lightpurple/70 pb-6">{{description}}</h2>
+            <div class="flex flex-row justify-between border-b border-lightpurple/70 pb-3">
+                <h2>{{date_published}}</h2>
+                <a href="{{link}}" target="_blank"><h2 class="inline-flex items-center gap-2">{{publication}} <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" /></svg></h2></a>
+            </div>
+            <div class="flex flex-row items-baseline space-x-2 border-b border-lightpurple/70 pb-3">
+                <h5 class="text-lightpurple">filed under:</h5>
+                <div class="flex flex-row flex-wrap">
+                    {{if challenges}}
+                        {{challenges}}
+                        <a href="/challenges/{{slug}}" class="mr-4 border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                        {{/challenges}}
+                    {{/if}}
+                    {{if sections}}
+                        {{sections}}
+                        <a href="/sections/{{slug}}" class="mr-4 border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                        {{/sections}}
+                    {{/if}}
+                    <a href="/results?collectiontype%5B%5D={{collection_type:slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{collection_type:title}}</h4></a>
+                </div>
+            </div>
+        </div>
+        <img src="{{image}}" alt="{{title}}" class="w-full">
+        <div class="prose prose-sky prose-lg leading-6">{{article_text}}</div>
+    </div>
 
-<div data-speed=".7" class="px-16 flex flex-col h-full w-full pt-36 relative z-30 pr-16 -mt-8 mb-36">
-    <div class="text-center text-6xl font-bold leading-none tracking-tight text-white/70">
-        <div id="counting">{{title}}</div>
-    </div>
-    <div class="textMain leading-snug text-center mx-auto">
-        {{description}}
-    </div>
-    <!-- <button id="heroButton" class="btn-primary">{{lead_button_text}}</button> -->
 </div>
-
-<!-- image -->
-<div class="w-full h-[80vh] bg-no-repeat bg-cover bg-center mt-8" style="background-image: url({{image}});"></div>
-
-<article class="mt-8 flex flex-col items-center">
-    <!-- article metadata  -->
-    <div class="space-y-2 mb-16 flex flex-col prose prose-sky text-center mx-auto">
-        {{if author}}
-        <div id="author">
-            <span class="textMeta">Author: </span>
-            <span class="textSecondary">{{author}}</span>
-        </div>
-        {{/if}}
-        <div id="date">
-            <span class="textMeta">Date Published: </span>
-            <span class="textSecondary">{{date_published}}</span>
-        </div>
-
-        <div id="location">
-            <span class="textMeta">Originally published on: </span>
-            <span class="textSecondary"><a href="{{link}}" target="_blank">{{publication}}</a></span>
-        </div>
-    </div>
-
-    <div class="textMain">{{article_text}}</div>  
-</article>
 
 {{partial:contentTemplates/relatedContent}}
 
