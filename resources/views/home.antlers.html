@@ -1,6 +1,6 @@
 {{partial:globals/smoothWrapStart}}
 
-<div class="grid grid-cols-12 gap-[24px] mt-[114px] mb-32 px-[30px]">
+<div class="mx-auto mt-[114px] flex flex-row gap-[24px] mt-16 mb-32 px-[30px] relative">
     <!-- <style>
         /* Hide inactive checkboxes */
         input[type="checkbox"]:not(:checked) {
@@ -8,16 +8,16 @@
         }
     </style> -->
 
-    <div id="homeimage" class="h-[438px] w-[639px] bg-black absolute"></div>
+    <img id="homeimage" class="h-[auto] w-1/2 bg-black absolute" src="{{hero_images | random}}"></img>
 
     {{partial:filtersMenu}}
     
-    <div id="cardsGrid" class="col-start-5 xl:col-start-4 col-span-8 xl:col-span-9 mt-[160px]">
+    <div id="cardsGrid" class="md:w-[calc(100%-280px)] mt-[28vh]">
         <div class="border-b space-y-[12px] border-lightpurple/70 pb-[12px] mb-[12px]">
             <div class="font-ApercuBoldItalic text-[300px] xl:text-[387px] tracking-tighter leading-[220px] xl:leading-[280px]">2025</div>
             <h1>and counting...</h1>
             <h2>It’s time to save our humanity.</h2>
-            {{welcome_message}}
+            <div class="prose prose-sky prose-lg !max-w-none pb-8">{{welcome_message}}</div>
         </div>
         {{ collection from="*" not_from="pages|quotations" as="results"
         :taxonomy:challenges:all="get:categories"
