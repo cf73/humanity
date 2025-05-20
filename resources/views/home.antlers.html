@@ -27,12 +27,12 @@
                     <div class="space-x-4 flex flex-row">
                         {{if challenges}}
                             {{challenges}}
-                            <a href="/challenges/{{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                            <a href="/results?categories%5B%5D={{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
                             {{/challenges}}
                         {{/if}}
                         {{if sections}}
                             {{sections}}
-                            <a href="/sections/{{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                            <a href="/results?sections%5B%5D={{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
                             {{/sections}}
                         {{/if}}
                         <a href="/results?collectiontype%5B%5D={{collection_type:slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{collection_type:title}}</h4></a>
