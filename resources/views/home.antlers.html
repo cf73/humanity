@@ -1,6 +1,53 @@
 {{partial:globals/smoothWrapStart}}
 
-<div class="mx-auto mt-[114px] flex flex-row gap-[24px] mt-16 mb-32 px-[30px] relative">
+<div id="featureditem" class="mt-[134px] grid grid-cols-3 gap-12 mt-16 mb-12 px-[30px]">
+    {{ collection:commencement_speeches sort="random" limit="1" }}
+    <div class="col-span-1">
+            <div id="contentHeader" class="space-y-3">
+                <a href="{{url}}">
+                    <h1 class="text-5xl">{{title}}</h1>
+                </a>
+                <div class="text-lg leading-snug">{{description}}</div>
+                <div class="py-4">{{partial:globals/socialIcons}}</div>
+                <div class="font-ApercuMono border-b border-lightpurple/70 pb-2"><h5 class="text-lightpurple">speaker:</h5>{{speaker}}</div>
+                <div class="font-ApercuMono border-b border-lightpurple/70 pb-2"><h5 class="text-lightpurple">date:</h5>{{date_of_speech}}</div>
+                <div class="font-ApercuMono border-b border-lightpurple/70 pb-2"><h5 class="text-lightpurple">location:</h5>{{location}}</div>
+            </div>
+        </div>
+        <div class="col-span-2">
+            <div class="space-y-2">
+                {{if video_id}}
+                <iframe width="100%" height="auto" class="aspect-[16/9] " src="https://www.youtube.com/embed/{{video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                {{else}}
+                <img src="{{image}}" alt="{{title}}" class="w-full">
+                {{/if}}
+                
+                <div class="flex flex-row flex-wrap items-baseline space-x-2">
+                    <h5 class="text-lightpurple">filed under:</h5>
+                    <div class="space-x-4 flex flex-row">
+                        {{if challenges}}
+                            {{challenges}}
+                            <a href="/challenges/{{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                            {{/challenges}}
+                        {{/if}}
+                        {{if sections}}
+                            {{sections}}
+                            <a href="/sections/{{slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{title}}</h4></a>
+                            {{/sections}}
+                        {{/if}}
+                        <a href="/results?collectiontype%5B%5D={{collection_type:slug}}" class="border-b hover:border-highlight border-lightpurple/70 hover:no-underline"><h4>{{collection_type:title}}</h4></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{/collection:commencement_speeches}}
+</div>
+
+<section class="py-6 px-[90px] text-center bg-darkBlue h-[50vh] flex flex-col justify-center items-center">
+    <div class="prose prose-sky prose-2xl !max-w-none">{{welcome_message}}</div>
+</section>
+
+<div class="mx-auto  flex flex-row gap-[24px] mt-16 mb-32 px-[30px] relative">
     <!-- <style>
         /* Hide inactive checkboxes */
         input[type="checkbox"]:not(:checked) {
@@ -8,17 +55,20 @@
         }
     </style> -->
 
-    <img id="homeimage" class="h-[auto] w-1/2 bg-black absolute" src="{{hero_images | random}}"></img>
+    <!-- <img id="homeimage" class="h-[auto] w-1/2 bg-black absolute" src="{{hero_images | random}}"></img> -->
+
+
+
 
     {{partial:filtersMenu}}
     
-    <div id="cardsGrid" class="md:w-[calc(100%-280px)] mt-[28vh]">
-        <div class="border-b space-y-[12px] border-lightpurple/70 pb-[12px] mb-[12px]">
+    <div id="contentColumn" class="md:w-[calc(100%-280px)]">
+        <!-- <div class="border-b space-y-[12px] border-lightpurple/70 pb-[12px] mb-[12px]">
             <div class="font-ApercuBoldItalic text-[300px] xl:text-[387px] tracking-tighter leading-[220px] xl:leading-[280px]">2025</div>
             <h1>and counting...</h1>
             <h2>It’s time to save our humanity.</h2>
             <div class="prose prose-sky prose-lg !max-w-none pb-8">{{welcome_message}}</div>
-        </div>
+        </div> -->
         {{ collection from="*" not_from="pages|quotations" as="results"
         :taxonomy:challenges:all="get:categories"
         :taxonomy:collection_type="get:collectiontype"

@@ -37,7 +37,7 @@
         @apply font-ApercuRegular font-extralight tracking-tight leading-tight text-9xl text-offwhite;
     }
     h1 {
-        @apply font-ApercuBold leading-snug text-6xl lg:text-8xl text-offwhite antialiased;
+        @apply font-ApercuBold leading-snug text-5xl lg:text-8xl text-offwhite antialiased;
     }
     h2 {
         @apply font-ApercuBold leading-tight text-xl xl:text-2xl text-offwhite antialiased;

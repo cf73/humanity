@@ -1,6 +1,6 @@
 <div id="main-nav" class="w-full h-[90px] fixed top-0 left-0 z-50 backdrop-blur-xl bg-simpleBlue/70">      
-    <div class="px-[30px] mx-auto grid grid-cols-12 gap-6 w-full h-full flex flex-row justify-between items-center relative z-10">
-        <div id="logo" class="col-span-4 xl:col-span-3">
+    <div class="px-[30px] mx-auto w-full h-full flex flex-row justify-between items-center relative z-10">
+        <div id="logo" class="w-[388px]">
             <a href="/"><img src="/assets/logoTHI.png" alt="Humanity Logo" width="186px"></a>
         </div>
         <!-- <nav class="flex flex-row gap-8 items-center">
@@ -44,7 +44,7 @@
             {{/nav:topnav}}
         </nav> -->
         
-        <nav class="flex flex-row col-start-5 xl:col-start-4 col-span-8 xl:col-span-9 justify-between w-full gap-8 border-b border-lightpurple/70 pb-3">
+        <nav class="flex flex-row justify-between w-full gap-8 border-b border-lightpurple/70 pb-3">
             {{nav:right_nav}}
                 <a href="{{ url }}"{{ if is_current || is_parent }} class="text-boldyellow"{{ /if }} class="hover:no-underline">
                     <h5 class="text-lightpurple hover:text-white transition tracking-wide">{{title}}</h5>
