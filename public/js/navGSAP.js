@@ -35,6 +35,18 @@ ScrollTrigger.create({
   pin: '#filtersMenu',
   pinSpacing: false 
 });
+// gsap.to("#welcometext", {
+//   scrollTrigger: {
+//     trigger: "#welcomearea",
+//     start: "top 90%", // Adjust based on when you want the animation to start
+//     toggleActions: "play none none reverse", // Play animation on enter, reverse on leave
+//   },
+//   opacity: 1,
+//   filter: "blur(0px)",
+//   duration: 2,
+//   ease: "power2.inOut"
+// });
+
 
 
 // GLOABLS

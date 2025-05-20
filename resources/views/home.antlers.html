@@ -21,8 +21,11 @@
                 {{else}}
                 <img src="{{image}}" alt="{{title}}" class="w-full">
                 {{/if}}
-                
-                <div class="flex flex-row flex-wrap items-baseline space-x-2">
+                <a href="{{url}}">
+                    <h2 class="inline-flex items-center gap-2 border-b hover:border-highlight border-lightpurple/70 w-full py-2">Read the transcript <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" /></svg></h2>
+                </a>
+                <div class="flex flex-col flex-wrap items-baseline">
                     <h5 class="text-lightpurple">filed under:</h5>
                     <div class="space-x-4 flex flex-row">
                         {{if challenges}}
@@ -43,11 +46,16 @@
         {{/collection:commencement_speeches}}
 </div>
 
-<section class="py-6 px-[90px] text-center bg-darkBlue h-[50vh] flex flex-col justify-center items-center">
-    <div class="prose prose-sky prose-2xl !max-w-none">{{welcome_message}}</div>
+<section id="welcomearea" class="py-24 px-[90px] text-center bg-darkBlue min-h-[50vh] flex flex-col justify-center items-center">
+    <div id="welcometext" class="space-y-[12px] pb-[12px] mb-[12px]">
+            <!-- <div class="font-ApercuBoldItalic text-[300px] xl:text-[387px] tracking-tighter leading-[220px] xl:leading-[280px]">2025</div> -->
+            <h1>2025 and counting...</h1>
+            <h1>time to rescue our <em>humanity</em>.</h1>
+            <div class="prose prose-sky prose-lg !max-w-none py-8">{{welcome_message}}</div>
+        </div>
 </section>
 
-<div class="mx-auto  flex flex-row gap-[24px] mt-16 mb-32 px-[30px] relative">
+<div class="mx-auto flex flex-row gap-[24px] mt-16 mb-32 px-[30px] relative">
     <!-- <style>
         /* Hide inactive checkboxes */
         input[type="checkbox"]:not(:checked) {
@@ -63,12 +71,6 @@
     {{partial:filtersMenu}}
     
     <div id="contentColumn" class="md:w-[calc(100%-280px)]">
-        <!-- <div class="border-b space-y-[12px] border-lightpurple/70 pb-[12px] mb-[12px]">
-            <div class="font-ApercuBoldItalic text-[300px] xl:text-[387px] tracking-tighter leading-[220px] xl:leading-[280px]">2025</div>
-            <h1>and counting...</h1>
-            <h2>It’s time to save our humanity.</h2>
-            <div class="prose prose-sky prose-lg !max-w-none pb-8">{{welcome_message}}</div>
-        </div> -->
         {{ collection from="*" not_from="pages|quotations" as="results"
         :taxonomy:challenges:all="get:categories"
         :taxonomy:collection_type="get:collectiontype"
