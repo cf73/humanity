@@ -1,7 +1,7 @@
 ---
 id: d04d86ab-57cf-48ff-b23d-7136a25fec97
 blueprint: photography_contribution
-title: "Afghanistan 1980's"
+title: "Afghanistan 1980's. Ancient road markers."
 photographer_name: 'Luke Powell'
 image: luke-powell-afghan....jpeg.webp
 description:
@@ -14,6 +14,6 @@ description:
 challenges:
   - war
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1748450530
+updated_at: 1748450664
 collection_type: photography-contribution
 ---
