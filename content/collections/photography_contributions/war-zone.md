@@ -17,11 +17,11 @@ description:
     content:
       -
         type: text
-        text: 'Traveling to dangerous and remote places to document crucial moments  --   Afghanistan under the Taliban immediately before and after the 9/11 attacks; Iraq following the US-led invasion and the dismantlement of Saddam Hussein’s government, and western Sudan in the aftermath of the genocide in Darfur  --  Linsey creates sensitive visual testimony not only of war and injustice but also of humanity, dignity, and resilience.'
+        text: 'Traveling to dangerous and remote places to document crucial moments  --   Afghanistan under the Taliban immediately before and after the 9/11 attacks; Iraq following the US-led invasion and the dismantlement of Saddam Hussein’s government; western Sudan in the aftermath of the genocide in Darfur  --  Linsey creates sensitive visual testimony not only of war and injustice but also of humanity, dignity, and resilience.'
 collection_type: photography-contribution
 challenges:
   - war
 sections: peace-gatherings
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1748453104
+updated_at: 1748453153
 ---
