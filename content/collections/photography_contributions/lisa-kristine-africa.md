@@ -26,7 +26,7 @@ description:
         text: '"The Hamar women are renowned for their beauty; the strength and elegance in each gesture is unforgettable. Living so closely with the earth, it seems only fitting that ocher clay is used as a cosmetic for both skin and hair. The spirit of these individuals is intense and grounded. To witness pride with true purity still intact is a sight which is not only a wonder but also an inspiration."'
 challenges:
   - democracy
-updated_by: 0800036e-1638-4d6e-822a-26aefe2f9e99
-updated_at: 1743271622
+updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
+updated_at: 1748452643
 collection_type: photography-contribution
 ---
