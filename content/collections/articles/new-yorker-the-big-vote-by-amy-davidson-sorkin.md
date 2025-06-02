@@ -15,7 +15,7 @@ description:
 challenges:
   - democracy
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1736949435
+updated_at: 1748882080
 article_text:
   -
     type: paragraph
@@ -61,11 +61,19 @@ article_text:
         type: text
         marks:
           -
+            type: bold
+          -
             type: italic
         text: 'The Economist'
       -
         type: text
-        text: ' has tallied seventy-six countries where the whole eligible population has the chance to vote, even if, as in Brazil, it’s only for local offices. (That election, in October, should serve as a midterm assessment of President '
+        marks:
+          -
+            type: bold
+        text: ' has tallied seventy-six countries where the whole eligible population has the chance to vote'
+      -
+        type: text
+        text: ', even if, as in Brazil, it’s only for local offices. (That election, in October, should serve as a midterm assessment of President '
       -
         type: text
         marks:
@@ -185,7 +193,13 @@ article_text:
     content:
       -
         type: text
-        text: 'The second-largest election will be for the parliament of a polity that is still, in many ways, being formed: the European Union. That election will be held in June, across twenty-seven countries. Members of the European Parliament caucus not by country but by transnational meta-party—both France’s Renaissance and Germany’s Free Democrats are part of the Renew Europe group, for example. The election will help to set Europe’s priorities, notably with regard to Ukraine. It will also be a barometer of the political moods of European nations, many of which are regarded as restless; right-wing populists won a surprise victory in the Netherlands last year. (In the United Kingdom, which left the E.U., Prime Minister Rishi Sunak has until January, 2025, to call new elections.)'
+        marks:
+          -
+            type: bold
+        text: 'The second-largest election will be for the parliament of a polity that is still, in many ways, being formed: the European Union.'
+      -
+        type: text
+        text: ' That election will be held in June, across twenty-seven countries. Members of the European Parliament caucus not by country but by transnational meta-party—both France’s Renaissance and Germany’s Free Democrats are part of the Renew Europe group, for example. The election will help to set Europe’s priorities, notably with regard to Ukraine. It will also be a barometer of the political moods of European nations, many of which are regarded as restless; right-wing populists won a surprise victory in the Netherlands last year. (In the United Kingdom, which left the E.U., Prime Minister Rishi Sunak has until January, 2025, to call new elections.)'
   -
     type: paragraph
     content:
@@ -249,14 +263,24 @@ article_text:
               target: null
               title: null
           -
+            type: bold
+          -
             type: italic
         text: 'January 15, 2024'
       -
         type: text
         marks:
           -
+            type: bold
+          -
             type: italic
-        text: ', with the headline “The Big Vote.”'
+        text: ', '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'with the headline “The Big Vote.”'
 related_partner_initiatives:
   - 61653f39-a1f2-4949-9a50-e72537bfc211
   - e418c09e-390d-4f38-987d-3a3731bb70b5
