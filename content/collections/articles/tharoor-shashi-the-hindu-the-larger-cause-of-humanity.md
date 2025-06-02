@@ -12,7 +12,13 @@ description:
     content:
       -
         type: text
-        text: '"India must play its own part…in this noble task, devising solutions for refugees that offer blueprints beyond borders. In so doing, we would uphold our own finest traditions and the highest standards of our democracy, alongside demonstrating that we truly are what we have forever claimed to be: a vishwaguru, striving inexorably to serve, in the words of Jawaharlal Nehru, ''the still larger cause of humanity''."'
+        text: '"India must play its own part…in this noble task, devising solutions for refugees that offer blueprints beyond borders. In so doing, we would uphold our own finest traditions and the highest standards of our democracy, alongside demonstrating that we truly are what we have forever claimed to be: '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "a vishwaguru, striving inexorably to serve, in the words of Jawaharlal Nehru, 'the still larger cause of humanity'.\""
 article_text:
   -
     type: paragraph
@@ -191,6 +197,6 @@ related_content:
   - 799bae7a-763a-4bb1-b9ec-8c4dacdb75f4
   - 2de64619-3645-4baf-b709-3a496e3a1553
 updated_by: 46c097c5-771c-49e2-b8c6-ba6009ae7172
-updated_at: 1736949517
+updated_at: 1748882169
 link: 'https://www.thehindu.com/opinion/lead/blueprints-beyond-borders-for-solace-and-shelter/article68308819.ece'
 ---
