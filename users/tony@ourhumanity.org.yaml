@@ -16,6 +16,7 @@ preferences:
         - slug
         - status
         - challenges
+      per_page: 100
     partner_initiatives:
       per_page: 25
     pages:
